@@ -7,48 +7,49 @@ CHANNELS = {
     "超級夜總會": "https://www.youtube.com/@SuperNightClubCH29/streams"
 }
 
-def get_live_urls_ytdlp(name, url):
-    # yt-dlp 配置：只抓取標題和 ID，不下載，過濾直播
+def get_live_urls_ytdlp():
     ydl_opts = {
         'quiet': True,
-        'extract_flat': 'in_playlist',  # 快速提取列表資訊
+        'extract_flat': True,
         'skip_download': True,
-        'playlist_items': '1-5',        # 只檢查前 5 個影片，節省時間
+        'playlist_items': '1-10',  # 增加檢查數量以確保抓到多個直播
+        'ignoreerrors': True,
+        'no_warnings': True,
     }
     
     found_urls = []
-    try:
-        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            # 獲取頻道 streams 頁面的影片列表
-            info = ydl.extract_info(url, download=False)
-            if 'entries' in info:
-                for entry in info['entries']:
-                    # 關鍵：yt-dlp 會標記影片狀態
-                    # live_status 可能為 'is_live', 'is_upcoming', 'was_live'
-                    if entry.get('live_status') == 'is_live':
-                        video_id = entry.get('id')
-                        found_urls.append(f"{name},https://www.youtube.com/watch?v={video_id}")
-    except Exception as e:
-        print(f"檢查 {name} 時出錯: {e}")
+    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+        for name, url in CHANNELS.items():
+            print(f"正在檢查: {name}...")
+            try:
+                info = ydl.extract_info(url, download=False)
+                if info and 'entries' in info:
+                    for entry in info['entries']:
+                        # 改良判斷邏輯：檢查 live_status 或 標題關鍵字
+                        title = entry.get('title', '')
+                        is_live_status = entry.get('live_status') == 'is_live'
+                        
+                        if is_live_status or "直播" in title:
+                            video_id = entry.get('id')
+                            if video_id:
+                                full_url = f"https://www.youtube.com/watch?v={video_id}"
+                                found_urls.append(f"{name},{full_url}")
+                                print(f"  [!] 找到直播：{name} - {title}")
+            except Exception as e:
+                print(f"  [x] 檢查 {name} 時出錯: {e}")
     
     return found_urls
 
 def main():
-    final_results = []
-    for name, url in CHANNELS.items():
-        print(f"正在檢查: {name}...")
-        lives = get_live_urls_ytdlp(name, url)
-        if lives:
-            print(f"  [!] 找到直播：{lives}")
-            final_results.extend(lives)
-        else:
-            print(f"  [x] 目前無直播")
+    final_results = get_live_urls_ytdlp()
+    # 去除重複項
+    final_results = list(dict.fromkeys(final_results))
 
-    # 寫入檔案
     with open("live_list.txt", "w", encoding="utf-8") as f:
-        f.write("\n".join(final_results))
         if final_results:
-            f.write("\n")
+            f.write("\n".join(final_results) + "\n")
+        else:
+            f.write("")
             
     print(f"\n任務完成，共找到 {len(final_results)} 個直播。")
 
