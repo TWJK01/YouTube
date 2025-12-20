@@ -319,42 +319,40 @@ CATEGORIES = {
 
 def extract_chinese_landmark(v_title, nickname):
     """
-    強化中文地標提取邏輯
+    強化版提取邏輯：強制搜尋標題內所有中文字符，並與品牌組合
     """
-    # 1. 提取括號內的品牌 (e.g., Taipei Live Cam)
-    brand_match = re.search(r'[【\[](.*?)[】\]]', v_title)
-    if brand_match:
-        brand = brand_match.group(1)
-        brand = re.sub(r'(?i)4K|Live|Cam|Stream', '', brand).strip()
-    else:
-        brand = nickname
-
-    # 2. 專門提取標題中的「中文字」地標
-    # 移除噪音詞與頻道名
-    clean_text = v_title.replace("即時影像", "").replace("直播", "").replace(nickname, "")
-    
-    # 使用正則表達式只抓取中文字 [ \u4e00-\u9fa5 ]
-    chinese_parts = re.findall(r'[\u4e00-\u9fa5]+', clean_text)
-    landmark = "".join(chinese_parts)
-
-    # 3. 如果沒抓到中文字，退而求其次抓取括號外的文字
-    if not landmark:
-        # 移除中括號部分
-        simple_title = re.sub(r'[【\[].*?[】\]]', '', v_title).strip()
-        landmark = simple_title.split('|')[0].split('-')[0].strip() # 抓取第一個分割區段
-
-    # 4. 格式化前綴
-    if "Taipei" in brand or "台北" in nickname:
-        display_brand = "Taipei Live Cam"
+    # 1. 處理品牌前綴
+    if "台北" in nickname or "Taipei" in v_title:
+        brand = "Taipei Live Cam"
     elif "新北" in nickname:
-        display_brand = "新北旅客"
+        brand = "新北旅客"
     else:
-        display_brand = brand
+        # 提取括號內容
+        bracket_match = re.search(r'[【\[](.*?)[】\]]', v_title)
+        brand = bracket_match.group(1) if bracket_match else nickname
+        brand = re.sub(r'(?i)4K|Live|Cam|Stream', '', brand).strip()
 
-    # 5. 輸出格式：【品牌】中文地標
+    # 2. 提取中文字地標 (關鍵優化)
+    # 移除標題中已知的干擾字眼
+    noise = ['即時影像', '直播', '4K', 'HD', '頻道', '官方', nickname]
+    clean_text = v_title
+    for n in noise:
+        clean_text = clean_text.replace(n, "")
+
+    # 使用 Regex 提取所有中文：這會跳過英文 Maokong Zhinan，直接抓到後面的『貓空指南宮』
+    chinese_found = re.findall(r'[\u4e00-\u9fa5]+', clean_text)
+    landmark = "".join(chinese_found)
+
+    # 3. 組合輸出
+    # 如果抓到具體中文地標 (如：貓空指南宮)
     if landmark:
-        return f"【{display_brand}】{landmark}"
-    return f"【{display_brand}】"
+        return f"【{brand}】{landmark}"
+    
+    # 如果沒抓到中文，嘗試從括號外的英文名稱中提取
+    fallback = re.sub(r'[【\[].*?[】\]]', '', v_title).strip()
+    fallback = fallback.split('|')[0].split('-')[0].strip() # 抓取第一個區段
+    
+    return f"【{brand}】{fallback}"
 
 def get_live_info():
     ydl_opts = {
@@ -364,7 +362,11 @@ def get_live_info():
         'playlist_items': '1-15',
         'ignoreerrors': True,
         'no_warnings': True,
-        'extra_headers': {'Accept-Language': 'zh-TW'} # 強制請求繁體中文
+        # 關鍵設定：強制以繁體中文語系請求資料
+        'extra_headers': {
+            'Accept-Language': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
     }
     
     final_output = []
@@ -373,7 +375,7 @@ def get_live_info():
         for genre, channels in CATEGORIES.items():
             genre_list = []
             seen_urls = set()
-            print(f">>> 正在掃描並修正中文地標: {genre}")
+            print(f">>> 正在掃描 {genre} ...")
             
             for nickname, url in channels.items():
                 try:
@@ -385,21 +387,18 @@ def get_live_info():
                         entries = [info]
 
                     for entry in entries:
-                        if not entry or not (entry.get('live_status') == 'is_live' or entry.get('is_live')):
-                            continue
+                        if not entry: continue
+                        if entry.get('live_status') == 'is_live' or entry.get('is_live'):
+                            v_id = entry.get('id')
+                            v_url = f"https://www.youtube.com/watch?v={v_id}"
                             
-                        v_id = entry.get('id')
-                        v_url = f"https://www.youtube.com/watch?v={v_id}"
-                        
-                        if v_id and v_url not in seen_urls:
-                            # 使用修正後的中文地標提取
-                            v_raw_title = entry.get('title', '')
-                            final_title = extract_chinese_landmark(v_raw_title, nickname)
-                            
-                            genre_list.append(f"{final_title},{v_url}")
-                            seen_urls.add(v_url)
-                            print(f"  [成功提取] {final_title}")
-                except:
+                            if v_id and v_url not in seen_urls:
+                                # 執行標題優化
+                                optimized_title = extract_chinese_landmark(entry.get('title', ''), nickname)
+                                genre_list.append(f"{optimized_title},{v_url}")
+                                seen_urls.add(v_url)
+                                print(f"  [成功] {optimized_title}")
+                except Exception:
                     continue
             
             if genre_list:
@@ -413,4 +412,4 @@ if __name__ == "__main__":
     results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(results).strip() + "\n")
-    print("\n✅ 中文地標修正完成！請查看 live_list.txt")
+    print("\n✅ 中文地標強制提取完成！")
