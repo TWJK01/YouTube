@@ -2,11 +2,11 @@ name: YouTube Live Monitor
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # 每兩小時執行
-  workflow_dispatch:      # 允許手動觸發
+    - cron: '0 */2 * * *' # 每兩小時自動執行一次
+  workflow_dispatch:      # 允許手動執行
 
 permissions:
-  contents: write
+  contents: write         # 必須有此權限才能更新檔案
 
 jobs:
   scrape:
@@ -18,14 +18,14 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install --upgrade yt-dlp
 
-      - name: Run Fetch Script
+      - name: Run Scraper
         run: python fetch_lives.py
 
       - name: Commit and Push
@@ -34,7 +34,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git add live_list.txt
           if git diff --staged --quiet; then
-            echo "目前無新直播內容，不進行更新。"
+            echo "無變動內容。"
           else
             git commit -m "自動更新直播清單: $(date +'%Y-%m-%d %H:%M:%S')"
             git push
