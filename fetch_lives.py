@@ -350,7 +350,7 @@ def get_live_info():
         'quiet': True,
         'extract_flat': True,
         'skip_download': True,
-        'playlist_items': '1-6', # 每個頻道掃描前6個項目
+        'playlist_items': '1-10', # 每個頻道掃描前10個項目
         'ignoreerrors': True,
         'no_warnings': True,
         'extra_headers': {'Accept-Language': 'zh-TW'}
