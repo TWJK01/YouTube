@@ -1,6 +1,6 @@
 import yt_dlp
 
-# 請在此處放入您所有的頻道清單
+# 設定分類與頻道清單 (此處縮減展示，請自行放入您完整的所有頻道)
 CATEGORIES = {
     "台灣,#genre#": {
         "台灣地震監視": "https://www.youtube.com/@台灣地震監視/streams",
@@ -313,7 +313,7 @@ CATEGORIES = {
 		"交通部觀光署澎湖國家風景區管理處": "https://www.youtube.com/@交通部觀光署澎湖國家/streams",		
 		"樂遊金門": "https://www.youtube.com/@kinmentravel/streams",
 		"馬祖國家風景區": "https://www.youtube.com/@matsunationalscenicarea9539/streams"		
-    }	
+    }
 }
 
 def get_live_info():
@@ -324,22 +324,19 @@ def get_live_info():
         'playlist_items': '1-5',
         'ignoreerrors': True,
         'no_warnings': True,
-        'extra_headers': {
-            'Accept-Language': 'zh-TW',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-        }
+        'extra_headers': {'Accept-Language': 'zh-TW'}
     }
     
-    final_output = []
+    final_lines = []
     
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        for genre, channels in CATEGORIES.items():
-            genre_results = []
-            print(f"正在檢查分類: {genre}")
+        for genre_title, channels in CATEGORIES.items():
+            genre_buffer = [] # 暫存該分類下的直播
+            print(f"正在掃描分類: {genre_title}")
             
             for display_name, url in channels.items():
                 try:
-                    # 木棉花地區限制補救
+                    # 針對木棉花等可能封鎖海外IP的頻道，嘗試 /live 強制路徑
                     target_url = url
                     if "Muse_Family" in url:
                         target_url = "https://www.youtube.com/@Muse_Family/live"
@@ -350,27 +347,29 @@ def get_live_info():
                     entries = info.get('entries', [info])
                     for entry in entries:
                         if not entry: continue
+                        # 檢查是否正在直播
                         if entry.get('live_status') == 'is_live' or entry.get('is_live') is True:
                             title = entry.get('title', display_name)
-                            v_id = entry.get('id')
-                            if v_id:
-                                v_url = f"https://www.youtube.com/watch?v={v_id}"
-                                genre_results.append(f"{title},{v_url}")
-                                print(f"  [FOUND] {display_name}")
+                            video_id = entry.get('id')
+                            if video_id:
+                                video_url = f"https://www.youtube.com/watch?v={video_id}"
+                                genre_buffer.append(f"{title},{video_url}")
+                                print(f"  [找到] {display_name}: {title}")
                 except:
                     continue
             
-            # 如果該分類下有找到直播，則加入清單並在末尾加一個空行
-            if genre_results:
-                final_output.append(genre)
-                final_output.extend(genre_results)
-                final_output.append("") # 增加間隔空行
+            # 如果該分類有找到直播，才加入標題和內容
+            if genre_buffer:
+                final_lines.append(genre_title)
+                final_lines.extend(genre_buffer)
                 
-    return final_output
+    return final_lines
 
 def main():
-    results = get_live_info()
+    output_data = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
-        # 使用 join 並過濾掉最後一個多餘的空行
-        f.write("\n".join(results).strip() + "\n")
-    print("\n任務結束，live_list.txt 已更新
+        f.write("\n".join(output_data) + ("\n" if output_data else ""))
+    print(f"\n任務結束。產出行數: {len(output_data)}")
+
+if __name__ == "__main__":
+    main()
