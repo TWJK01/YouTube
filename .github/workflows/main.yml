@@ -2,7 +2,7 @@ name: YouTube Live Scraper
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # 每 2 小時跑一次
+    - cron: '0 */1 * * *' # 每 1 小時跑一次
   workflow_dispatch:      # 允許按鈕手動跑
 
 permissions:
