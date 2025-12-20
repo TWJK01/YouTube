@@ -2,11 +2,11 @@ name: Update YouTube Live List
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # 每 2 小時執行一次 (UTC 時間)
-  workflow_dispatch:      # 允許在 GitHub 頁面手動點擊執行
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write         # 賦予 Action 寫入檔案並推送回 Repo 的權限
+  contents: write
 
 jobs:
   build:
@@ -18,7 +18,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.10' # 更新為 3.10 以上版本
 
       - name: Install Dependencies
         run: |
@@ -33,10 +33,9 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add live_list.txt
-          # 只有在內容有變動時才執行 commit 和 push
           if git diff --staged --quiet; then
-            echo "No changes in live_list.txt"
+            echo "沒有變動，跳過更新。"
           else
-            git commit -m "Update live list: $(date)"
+            git commit -m "自動更新直播清單: $(date +'%Y-%m-%d %H:%M:%S')"
             git push
           fi
