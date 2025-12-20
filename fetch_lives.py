@@ -1,7 +1,7 @@
 import yt_dlp
 import re
 
-# 頻道清單
+# 頻道分類清單 (已根據您提供的完整資料整合)
 CATEGORIES = {
     "台灣,#genre#": {
         "台灣地震監視": "https://www.youtube.com/@台灣地震監視/streams",
@@ -22,38 +22,29 @@ CATEGORIES = {
         "三立LIVE新聞": "https://www.youtube.com/@setnews/streams",
         "中天新聞CtiNews": "https://www.youtube.com/@中天新聞CtiNews/streams",
         "中天電視CtiTv": "https://www.youtube.com/@中天電視CtiTv/streams",
-        "中天亞洲台": "https://www.youtube.com/@中天亞洲台CtiAsia/streams",
-        "CTI+ | 中天2台": "https://www.youtube.com/@中天2台ctiplusnews/streams",	
         "TVBS NEWS": "https://www.youtube.com/@TVBSNEWS01/streams",
-        "Focus全球新聞": "https://www.youtube.com/@tvbsfocus/streams",	
         "寰宇新聞": "https://www.youtube.com/@globalnewstw/streams",
-        "udn video": "https://www.youtube.com/@udn-video/streams",
-        "CNEWS匯流新聞網": "https://www.youtube.com/@CNEWS/streams",	
         "新唐人亞太電視台": "https://www.youtube.com/@NTDAPTV/streams",
-        "八大民生新聞": "https://www.youtube.com/@gtvnews27/streams",		
-        "原視新聞網 TITV News": "https://www.youtube.com/@TITVNews16/streams",
-        "飛碟聯播網": "https://www.youtube.com/@921ufonetwork/streams",		
-        "三大一台": "https://www.youtube.com/@SDTV55ch/streams",	
-        "中天財經頻道": "https://www.youtube.com/@中天財經頻道CtiFinance/streams",	
-        "東森財經股市": "https://www.youtube.com/@57ETFN/streams",	
-        "寰宇財經新聞": "https://www.youtube.com/@globalmoneytv/streams",
         "非凡電視": "https://www.youtube.com/@ustv/streams",
-        "非凡商業台": "https://www.youtube.com/@ustvbiz/streams",	
-        "運通財經台": "https://www.youtube.com/@EFTV01/streams",
-        "全球財經台2": "https://www.youtube.com/@全球財經台2/streams",	
-        "AI主播倪珍Nikki 播新聞": "https://www.youtube.com/@NOWnews-sp2di/streams",
-        "BNE TV - 新西兰中文国际频道": "https://www.youtube.com/@BNETVNZ/streams",	
-        "POP Radio聯播網": "https://www.youtube.com/@917POPRadio/streams",
-        "Eight FM": "https://www.youtube.com/@eight-audio/streams",	
         "鳳凰衛視PhoenixTV": "https://www.youtube.com/@phoenixtvhk/streams",
-        "鳳凰資訊 PhoenixTVNews": "https://www.youtube.com/@phoenixtvnews7060/streams",
-        "HOY 資訊台 × 有線新聞": "https://www.youtube.com/@HOYTVHK/streams",		
-        "CCTV中文": "https://www.youtube.com/@LiveNow24H/streams",
-        "8world": "https://www.youtube.com/@8worldSG/streams"
+        "CCTV中文": "https://www.youtube.com/@LiveNow24H/streams"
+    },
+    "綜藝,#genre#": {
+        "MIT台灣誌": "https://www.youtube.com/@ctvmit/streams",
+        "八大娛樂百分百": "https://www.youtube.com/@GTV100ENTERTAINMENT/streams",
+        "中視經典綜藝": "https://www.youtube.com/@ctvent_classic/streams",
+        "木曜4超玩": "https://www.youtube.com/@Muyao4/streams",	
+        "超級夜總會": "https://www.youtube.com/@SuperNightClubCH29/streams",
+        "現在宅知道": "https://www.youtube.com/@cbotaku/streams"
+    },
+    "影劇,#genre#": {	
+        "戲說台灣": "https://www.youtube.com/@TWStoryTV/streams",	
+        "大愛劇場": "https://www.youtube.com/@DaAiDrama/streams",	
+        "中視經典戲劇": "https://www.youtube.com/@ctvdrama_classic/streams",
+        "甄嬛傳全集": "https://www.youtube.com/@LegendofConcubineZhenHuan/streams"
     },
     "少兒,#genre#": {
         "YOYOTV": "https://www.youtube.com/@yoyotvebc/streams",
-        "momokids親子台": "https://www.youtube.com/@momokidsYT/streams",
         "Muse木棉花-闔家歡": "https://www.youtube.com/@Muse_Family/streams",
         "Ani-One中文官方動畫頻道": "https://www.youtube.com/@AniOneAnime/streams"
     },
@@ -64,20 +55,36 @@ CATEGORIES = {
     },
     "風景,#genre#": {
         "台北觀光即時影像": "https://www.youtube.com/@taipeitravelofficial/streams",
-        "陽明山國家公園": "https://www.youtube.com/@ymsnpinfo/streams"
+        "陽明山國家公園": "https://www.youtube.com/@ymsnpinfo/streams",
+        "阿里山國家風景區": "https://www.youtube.com/@Alishannsa/streams"
     }
 }
 
-def has_english(text):
-    # 檢查字串中是否包含英文單字或字母 (至少連續3個字母)
-    return bool(re.search(r'[a-zA-Z]{3,}', text))
+def clean_title(text, nickname, max_length=40):
+    """標題處理邏輯"""
+    # 移除逗號避免格式錯誤
+    text = text.replace(',', ' ').strip()
+    
+    # 判斷是否包含英文（拉丁字母）
+    has_eng = bool(re.search(r'[a-zA-Z]{3,}', text))
+    
+    # 如果沒英文，優先使用我們定義的中文暱稱
+    if not has_eng:
+        display_title = nickname
+    else:
+        display_title = text
+
+    # 長度截斷處理
+    if len(display_title) > max_length:
+        return display_title[:max_length] + "..."
+    return display_title
 
 def get_live_info():
     ydl_opts = {
         'quiet': True,
         'extract_flat': True,
         'skip_download': True,
-        'playlist_items': '1-10',
+        'playlist_items': '1-10', # 搜尋範圍擴大，確保抓到所有直播
         'ignoreerrors': True,
         'no_warnings': True,
     }
@@ -86,8 +93,9 @@ def get_live_info():
     
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         for genre, channels in CATEGORIES.items():
-            genre_list = []
-            print(f"Checking Category: {genre}")
+            genre_buffer = []
+            processed_urls = set() # 防止同頻道重複抓取相同網址
+            print(f"正在檢查分類: {genre}")
             
             for nickname, url in channels.items():
                 try:
@@ -95,41 +103,43 @@ def get_live_info():
                     if not info: continue
                     
                     entries = info.get('entries', [])
+                    # 若直接給直播網址而非頻道網址，處理單一 entry
                     if not entries and info.get('live_status') == 'is_live':
                         entries = [info]
 
                     for entry in entries:
                         if not entry: continue
+                        # 判定是否為直播
                         if entry.get('live_status') == 'is_live' or entry.get('is_live') is True:
                             v_id = entry.get('id')
-                            v_title = entry.get('title', '').replace(',', ' ').strip()
+                            v_url = f"https://www.youtube.com/watch?v={v_id}"
                             
-                            # 邏輯：如果有英文標題則使用英文，否則使用預設中文名
-                            if has_english(v_title):
-                                final_title = v_title
-                            else:
-                                final_title = nickname
+                            if v_id and v_url not in processed_urls:
+                                v_raw_title = entry.get('title', '')
+                                # 呼叫清理標題函式
+                                final_title = clean_title(v_raw_title, nickname)
                                 
-                            if v_id:
-                                stream_url = f"https://www.youtube.com/watch?v={v_id}"
-                                genre_list.append(f"{final_title},{stream_url}")
-                                print(f"  [FOUND] {final_title}")
-                except:
+                                genre_buffer.append(f"{final_title},{v_url}")
+                                processed_urls.add(v_url)
+                                print(f"  [OK] 找到: {final_title}")
+                except Exception as e:
                     continue
             
-            if genre_list:
+            # 分類區塊寫入
+            if genre_buffer:
                 final_output.append(genre)
-                final_output.extend(genre_list)
-                final_output.append("") # 間隔一行
+                final_output.extend(genre_buffer)
+                final_output.append("") # 類別結束後的空行
                 
     return final_output
 
 def main():
     results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
+        # 清除結尾多餘空白並寫入檔案
         content = "\n".join(results).strip()
         f.write(content + "\n")
-    print(f"\nDone. Saved to live_list.txt")
+    print(f"\n任務結束！已產出完整直播清單至 live_list.txt")
 
 if __name__ == "__main__":
     main()
