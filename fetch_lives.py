@@ -10,10 +10,10 @@ CHANNELS = {
 
 # 木棉花常駐直播 ID 清單，用於繞過海外 IP 找不到分頁的問題
 MUSE_STREAMS = [
-    "https://www.youtube.com/watch?v=S-tS_e9Wl3E", # 蠟筆小新
-    "https://www.youtube.com/watch?v=2m687TIn_04", # 我們這一家
+    "https://www.youtube.com/watch?v=ENnjj7jQ23g", # 蠟筆小新
+    "https://www.youtube.com/watch?v=e1gbvCkwxFE", # 我們這一家
     "https://www.youtube.com/watch?v=S37f_9mO9uY", # 中華一番
-    "https://www.youtube.com/watch?v=G6X8UAnV_O8"  # 哆啦A夢
+    "https://www.youtube.com/watch?v=jbZCyIhL4WQ"  # 哆啦A夢
 ]
 
 def get_live_info():
