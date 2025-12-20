@@ -1,6 +1,6 @@
 import yt_dlp
 
-# 頻道清單
+# 頻道清單 (已整合您提供的所有資訊)
 CATEGORIES = {
     "台灣,#genre#": {
         "台灣地震監視": "https://www.youtube.com/@台灣地震監視/streams",
@@ -53,7 +53,7 @@ CATEGORIES = {
     "綜藝,#genre#": {
         "MIT台灣誌": "https://www.youtube.com/@ctvmit/streams",
         "大陸尋奇": "https://www.youtube.com/@ctvchinatv/streams",	
-        "八大電視娛樂百分百": "https://www.youtube.com/@GTV100ENTERTAINMENT/streams",
+        "八大娛樂百分百": "https://www.youtube.com/@GTV100ENTERTAINMENT/streams",
         "三立娛樂星聞": "https://www.youtube.com/@star_setn/streams",	
         "中視經典綜藝": "https://www.youtube.com/@ctvent_classic/streams",
         "綜藝一級棒": "https://www.youtube.com/@NO1TVSHOW/streams",
@@ -69,7 +69,7 @@ CATEGORIES = {
         "豬哥會社": "https://www.youtube.com/@FTV_ZhuGeClub/streams",
         "百變智多星": "https://www.youtube.com/@百變智多星/streams",	
         "東森綜合台": "https://www.youtube.com/@ettv32/streams",
-        "中天娛樂頻道": "https://www.youtube.com/@ctitalkshow/streams",		
+        "中天娛樂頻道": "https://www.youtube.com/@ctventertainment/streams",		
         "57怪奇物語": "https://www.youtube.com/@57StrangerThings/streams",
         "命運好好玩": "https://www.youtube.com/@eravideo004/streams",	
         "TVBS娛樂頭條": "https://www.youtube.com/@tvbsenews/streams",	
@@ -168,33 +168,6 @@ CATEGORIES = {
         "CPBL 中華職棒": "https://www.youtube.com/@CPBL/streams",
         "WWE": "https://www.youtube.com/@WWE/streams"
     },
-    "音樂,#genre#": {
-        "Eight FM": "https://www.youtube.com/@eight-audio/streams",
-        "Sony Music HK": "https://www.youtube.com/@sonymusichk/streams",		
-        "Douyin Chill": "https://www.youtube.com/@DouyinChill-xr2yk/streams",
-        "抖音音樂台": "https://www.youtube.com/@douyinyinyuetai/streams",
-        "Radio Hits Music": "https://www.youtube.com/@LiveMusicRadio/streams"		
-    },
-    "政論,#genre#": {
-        "壹電視NEXT TV": "https://www.youtube.com/@壹電視NEXTTV/streams",
-        "庶民大頭家": "https://www.youtube.com/@庶民大頭家/streams",
-        "TVBS 優選頻道": "https://www.youtube.com/@tvbschannel/streams",
-        "全球大視野": "https://www.youtube.com/@全球大視野Global_Vision/streams",
-        "民視讚夯": "https://www.youtube.com/@FTV_Forum/streams",
-        "新聞大白話": "https://www.youtube.com/@tvbstalk/streams",
-        "關鍵時刻": "https://www.youtube.com/@ebcCTime/streams",
-        "少康戰情室": "https://www.youtube.com/@tvbssituationroom/streams",
-        "萬事通事務所": "https://www.youtube.com/@sciencewillwin/streams"
-    },
-    "購物,#genre#": {
-        "momo購物一台": "https://www.youtube.com/@momoch4812/streams",
-        "momo購物二台": "https://www.youtube.com/@momoch3571/streams",
-        "ViVa TV美好家庭購物": "https://www.youtube.com/@ViVaTVtw/streams",
-        "Live東森購物台": "https://www.youtube.com/@HotsaleTV/streams"		
-    },
-    "國會,#genre#": {
-        "國會頻道": "https://www.youtube.com/@parliamentarytv/streams"
-    },	
     "風景,#genre#": {
         "台北觀光即時影像": "https://www.youtube.com/@taipeitravelofficial/streams",
         "陽明山國家公園": "https://www.youtube.com/@ymsnpinfo/streams",
@@ -211,57 +184,64 @@ def get_live_info():
         'quiet': True,
         'extract_flat': True,
         'skip_download': True,
-        'playlist_items': '1-3',
+        'playlist_items': '1-10',  # 增加搜尋數量以確保列出該頻道所有直播
         'ignoreerrors': True,
         'no_warnings': True,
         'extra_headers': {'Accept-Language': 'zh-TW'}
     }
     
-    final_lines = []
+    final_output = []
     
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        for genre_title, channels in CATEGORIES.items():
-            genre_buffer = []
-            print(f">>> 掃描分類: {genre_title}")
+        for genre, channels in CATEGORIES.items():
+            genre_list = []
+            print(f"正在檢查分類: {genre}")
             
-            for display_name, url in channels.items():
+            for nickname, url in channels.items():
                 try:
-                    # 強制處理特殊頻道或一般頻道
-                    target_url = url
-                    if "Muse_Family" in url:
-                        target_url = "https://www.youtube.com/@Muse_Family/live"
-                    
-                    info = ydl.extract_info(target_url, download=False)
+                    # 抓取頻道資料
+                    info = ydl.extract_info(url, download=False)
                     if not info: continue
                     
-                    entries = info.get('entries', [info])
+                    entries = info.get('entries', [])
+                    # 有些頻道 info 直接就是影片（例如強制 /live 的連結）
+                    if not entries and info.get('live_status') == 'is_live':
+                        entries = [info]
+
+                    found_in_channel = 0
                     for entry in entries:
                         if not entry: continue
+                        # 判定是否為直播
                         if entry.get('live_status') == 'is_live' or entry.get('is_live') is True:
-                            # 關鍵修正：標題取我們定義的中文名稱，並移除名稱中的逗號
-                            safe_name = display_name.replace(",", " ")
-                            video_id = entry.get('id')
-                            if video_id:
-                                video_url = f"https://www.youtube.com/watch?v={video_id}"
-                                genre_buffer.append(f"{safe_name},{video_url}")
-                                print(f"  [找到] {safe_name}")
-                                break # 每個頻道通常只取一個直播，避免重複
+                            v_id = entry.get('id')
+                            v_title = entry.get('title', '').replace(',', ' ')
+                            if v_id:
+                                # 格式：中文名-直播影片標題,網址
+                                stream_title = f"{nickname}-{v_title}"
+                                stream_url = f"https://www.youtube.com/watch?v={v_id}"
+                                genre_list.append(f"{stream_title},{stream_url}")
+                                found_in_channel += 1
+                    
+                    if found_in_channel > 0:
+                        print(f"  [OK] {nickname} 找到 {found_in_channel} 個直播")
                 except:
                     continue
             
-            if genre_buffer:
-                final_lines.append(genre_title)
-                final_lines.extend(genre_buffer)
-                final_lines.append("") # 分類結束後插入一個空行
+            # 如果該分類有直播，則加入總表
+            if genre_list:
+                final_output.append(genre)
+                final_output.extend(genre_list)
+                final_output.append("") # 分類結束後空一行
                 
-    return final_lines
+    return final_output
 
 def main():
-    output_data = get_live_info()
+    results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
-        # 去掉最後一個多餘的空行並寫入
-        f.write("\n".join(output_data).strip() + "\n")
-    print(f"\n[完成] 檔案 live_list.txt 已產生。")
+        # 去掉結尾多餘空行
+        content = "\n".join(results).strip()
+        f.write(content + "\n")
+    print(f"\n[完成] 共有 {len(results)} 行資料已寫入 live_list.txt")
 
 if __name__ == "__main__":
     main()
