@@ -1,3 +1,4 @@
+台灣,#genre#
 台灣地震監視(地震速報、強震即時警報),https://www.youtube.com/watch?v=KyT4qSK8lJo
 【Live】台灣天氣即時監測 Taiwan Weather Real-time monitoring (氣溫、雨量、風力、雷達、颱風)  Typhoon,https://www.youtube.com/watch?v=HwBN5IwZwMQ
 【Live】花蓮吉安 即時天氣影像 Taiwan Hualien Ji'an Live Camera & Weather | 台湾花蓮県吉安駅付近,https://www.youtube.com/watch?v=kzBW-wA-U1A
@@ -43,6 +44,7 @@ SBN全球財經台,https://www.youtube.com/watch?v=UHSNRY7Ikco
 【正在直播：CCTV中文国际（亚洲）】全球新闻热点、时事点评、深度报道、纪录片、电视剧等 | LIVE NOW,https://www.youtube.com/watch?v=7j92Myu2wzg
 【正在直播：CCTV中文国际（美洲）】全球新闻热点、时事点评、深度报道、纪录片、电视剧等 | LIVE NOW,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 资讯不停播！《8视界》 24/7 直播,https://www.youtube.com/watch?v=RvSOIM620bA
+綜藝,#genre#
 【LIVE】《大陸尋奇》跨越五千年的歷史遺跡📸尋遍大陸各地奇風異俗、人文軼事🌏｜24小時不斷電直播｜Wonders of China 24 Hours Live,https://www.youtube.com/watch?v=KgcJZ_Is_h4
 【LIVE】《萬秀豬王》24小時直播馬拉松不間斷 |TaiwanCTV variety show HD24h live|台湾CTVバラエティ番組 HD24h ライブ@ctvent_classic​,https://www.youtube.com/watch?v=ADDSmXoPDY8
 【綜藝一級棒】24小時歡樂不停播✨,https://www.youtube.com/watch?v=9gx5EIyHmsw
@@ -63,6 +65,7 @@ SBN全球財經台,https://www.youtube.com/watch?v=UHSNRY7Ikco
 《掌声响起》24小时不间断 马拉松直播｜BIF相信未来,https://www.youtube.com/watch?v=EVATvtQHjyg
 【24H冒險馬拉松】印尼 征戰印度洋海鮮/ 獵捕大章魚藍螃蟹/ 長途臥鋪巴士／眼鏡蛇沙嗲/補陽蛤蚧／面具舞 Reog/峇里島梯田｜李懿& 張景嵐《世界第一等》,https://www.youtube.com/watch?v=ViP-hKP2t78
 檀健次×秦霄賢×王鶴棣！三傻大鬧好六街爆笑圖鑑！#檀健次 #你好星期六 #綜藝 #娛樂 #cdrama #搞笑 #王鶴棣 #秦霄賢,https://www.youtube.com/watch?v=MAB36BzAXCU
+影劇,#genre#
 🔴戲說台灣妖精大集合！動物都能變成精？！｜戲說台灣｜24小時不間斷直播｜24 hours Non-Stop,https://www.youtube.com/watch?v=rfSblpvy_rY
 🔴《神機妙算劉伯溫》全集馬拉松！再現神威！| TTV Time Machine (Live Streaming ),https://www.youtube.com/watch?v=fH2POwXR-xw
 🔴【光陰的故事24H】現在開始看光陰的故事｜24小時不斷電直播｜ Ctvdrama Classic 24 Hours Live｜,https://www.youtube.com/watch?v=Me6zMjJdzhk
@@ -103,6 +106,7 @@ SBN全球財經台,https://www.youtube.com/watch?v=UHSNRY7Ikco
 【24H LIVE✨】赵丽颖冯绍峰上演古代宅门爱恋大戏《知否知否应是绿肥红瘦 The Story of Ming Lan》【正午阳光官方频道】,https://www.youtube.com/watch?v=j18U2kylB34
 【LIVE全集】巷亲相爱💡感受邻里温情✨家好月圆🏠承载两代人的成长《小巷人家 Romance In The Alley》【正午阳光官方频道】,https://www.youtube.com/watch?v=lKwt7zdAqaQ
 勤深深神级合唱盘点！李克勤周深封神和音演绎华语金曲,音综最传奇搭档！#宝藏音乐特辑 #周深 #李克勤,https://www.youtube.com/watch?v=eUL3_9OoIw4
+少兒,#genre#
 YOYO金曲✕熱門卡通✨24HR不間斷｜LIVE｜唱跳｜金曲｜兒歌｜MV｜Kids Songs,https://www.youtube.com/watch?v=ZjMe5u-I3PM
 #歡樂谷【專輯1-13】 ► 132首MV合輯｜歡樂歌曲不間斷｜帶小孩、塞車神曲｜小朋友跳舞｜兒歌童｜兒童律動｜幼兒舞蹈｜momo愛唱歌｜#momokids,https://www.youtube.com/watch?v=oPntQYFGwgY
 #MOMO這一家 S4 ►【全集數 馬拉松直播】歡樂不間斷｜第四季｜家庭校園喜劇｜趣味短劇｜官方HD｜#momokids,https://www.youtube.com/watch?v=tKcvVpq7sgE
@@ -129,9 +133,11 @@ Live! | 神奇鸡仔 - 兒歌童謠 - 卡通動畫,https://www.youtube.com/watch
 🔴JunyTony LIVE🔴 朱妮托尼圣诞节快乐！ | 💅美甲师 | 你长大后想做什么 | 朱妮托尼童話故事 | JunyTony,https://www.youtube.com/watch?v=hCpriLTzoZA
 🔴JunyTony LIVE🔴 尝尝彩虹色零食 | 五颜六色的零食 | 颜色儿歌 | 美食儿歌 | 史莱姆果冻 | Kids Song | 兒歌童謠 | 朱妮托尼童話故事 | JunyTony,https://www.youtube.com/watch?v=pEVOpr49Wys
 【Live | ENGSUB】"Immortality S1-S4" 《永生》S1-S4 🔥第五季开播在即！一起回顾方寒的永生之路~ | Made By Bilibili,https://www.youtube.com/watch?v=1qXvBILP4EE
+體育,#genre#
 LIVE: WCW Watch Party | Full PPVs, Classic episodes of Nitro & Thunder, Full Matches and MORE,https://www.youtube.com/watch?v=UZYwoKfrgJQ
 🔴 LIVE All BattleBots Vegas Events Fights! | BATTLEBOTS LIVESTREAM,https://www.youtube.com/watch?v=5CHCbBj-Vjg
 Best of 2025 WWE PLEs: Full Match Marathon,https://www.youtube.com/watch?v=B_mBxtE20mw
+音樂,#genre#
 🔥🎵 #KJJadiDJ 🎧 Layan Strim Hot FM Terbaik Sentiasa Hangat. Hot FM #1. 🔥🔥🔥,https://www.youtube.com/watch?v=augOnkJkrHY
 🔴[Live] 最美中國古風音樂現場演唱會🔥精選中國古風歌曲🎧古裝音樂現場直播🌸浪漫古風情懷🌟中國古風音樂愛好者必聽🎵｜#古風歌曲 #水月琴音,https://www.youtube.com/watch?v=cvFfHPv6O6Y
 Nightcore Radio 24/7 | Top Nightcore Songs Of All Time ♪,https://www.youtube.com/watch?v=tjne3WWB3kA
@@ -152,6 +158,7 @@ Best Radio 1 POP Hits [ 24/7 Live ] Best of POP 2025 Songs | 2025 Pop Playlist |
 Radio POP Mix 2025 [ 24/7 Live ] Best POP Hits Radio | English Popular Songs - Pop Playlist 2025,https://www.youtube.com/watch?v=x-JC7sJJUW8
 Hits Radio 1 Live Pop Radio' Top Hits 2025 - Pop Music 2025 - New Songs 2025 Best English Songs 2026,https://www.youtube.com/watch?v=3MOrgUjiigE
 Pop Radio - Hits 2025 Music - Top Songs 2025 New Popular Songs 2025 - Pop Music Playlist 2024,https://www.youtube.com/watch?v=UWc_vMRGxDs
+政論,#genre#
 🔴【LIVE】TVBS 強檔優選節目24小時不斷線直播｜TVBS 24-Hour Non-Stop Live｜24時間連続ライブ配信中｜24시간 논스톱 라이브 #新聞大白話#少康戰情,https://www.youtube.com/watch?v=f9P_slj4KvU
 🔴【LIVE】政論節目直播｜Political talk show in Taiwan 24-Hour Non-Stop Live｜24時間連続ライブ配信中｜  24시간 논스톱 라이브 #新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
 【#前進戰略高地】普丁戀愛 震歐洲 怒嗆北約 別再編俄攻歐!泰柬停火 川普勸不動 北京定乾坤!沙特升船機抬航母 中國製造 美韓傻眼!20251220完整版@全球大視野Global_Vision,https://www.youtube.com/watch?v=SyIA7Xo56AU
@@ -166,6 +173,7 @@ Pop Radio - Hits 2025 Music - Top Songs 2025 New Popular Songs 2025 - Pop Music 
 【中天直播#LIVE】北捷無差別恐攻釀4死 警破解張文平版揭露殺人計畫  20251220 @新聞龍捲風NewsTornado,https://www.youtube.com/watch?v=-2gRFJ_NqAk
 🔴【#完整版24小時不間斷】TVBS 少康戰情室精選特輯 ｜24-Hour Non-Stop Live｜24時間ライブ配信｜시리즈가 왔어요 #趙少康 #戰鬥藍,https://www.youtube.com/watch?v=_LVTMyXBTTI
 🔴【金臨天下 x 財經鈔能力】財經新聞 看盤不中斷直播Live｜Taiwan TVBS Financial News Live｜24時間オンラインライブ #黃斐瑜 #趙慶翔,https://www.youtube.com/watch?v=gBcED3mKCMU
+購物,#genre#
 momo購物一台 48頻道 24小時線上直播,https://www.youtube.com/watch?v=_pZQ1Lk0xMA
 momo購物二台 35頻道 24小時線上直播,https://www.youtube.com/watch?v=xbNWkUyxQGM
 美好購物2台線上看,https://www.youtube.com/watch?v=lEXITHxcagI
@@ -174,11 +182,13 @@ CH47,https://www.youtube.com/watch?v=ViJ3XiN6Q3M
 CH46,https://www.youtube.com/watch?v=Z50JFuNgvB0
 CH34,https://www.youtube.com/watch?v=_Vlzn9qAHD4
 CH60,https://www.youtube.com/watch?v=u0NYyH3ZesE
+國會,#genre#
 國會頻道２ | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=Lj8OWF6nzcg
 程序委員會 | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=IvAXtzx5cUI
 黨團協商 | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=yUx5lB4mhZk
 社會福利及衛生環境委員會 | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=DdUWlWZVOi8
 經費稽核委員會 | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=nkejc54RyDU
+風景,#genre#
 「和平島公園即時影像」直播,https://www.youtube.com/watch?v=TRswIqMXKz8
 【Taipei 4k Live Cam】Maokong Zhinan Temple | Taipei | Taiwan | Taipei Webcam,https://www.youtube.com/watch?v=215ahZ_0rTg
 【Taipei 4k Live Cam】Jiantanshan Weifeng Observatory | Taipei | Taiwan | Taipei Webcam,https://www.youtube.com/watch?v=34h_Cy_n0Ok
