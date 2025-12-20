@@ -1,41 +1,41 @@
-name: Update YouTube Live List
+name: Auto Update Live Stream List
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
-  workflow_dispatch:
+    - cron: '0 */2 * * *' # 每 2 小時自動執行
+  workflow_dispatch:      # 允許手動執行
 
 permissions:
-  contents: write
+  contents: write         # 允許 Action 修改並推送檔案
 
 jobs:
-  build:
+  update_live:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10' # 更新為 3.10 以上版本
+          python-version: '3.10'
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install yt-dlp
+          pip install --upgrade yt-dlp
 
-      - name: Run Fetch Script
+      - name: Execute scraper
         run: python fetch_lives.py
 
-      - name: Commit and Push Changes
+      - name: Commit and Push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add live_list.txt
           if git diff --staged --quiet; then
-            echo "沒有變動，跳過更新。"
+            echo "No changes to live_list.txt"
           else
-            git commit -m "自動更新直播清單: $(date +'%Y-%m-%d %H:%M:%S')"
+            git commit -m "Update live list: $(date +'%Y-%m-%d %H:%M:%S')"
             git push
           fi
