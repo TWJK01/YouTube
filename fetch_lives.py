@@ -314,49 +314,44 @@ CATEGORIES = {
 		"交通部觀光署澎湖國家風景區管理處": "https://www.youtube.com/@交通部觀光署澎湖國家/streams",		
 		"樂遊金門": "https://www.youtube.com/@kinmentravel/streams",
 		"馬祖國家風景區": "https://www.youtube.com/@matsunationalscenicarea9539/streams"		
-    }
+    }	
 }
 
-def clean_chinese_title(v_title, nickname):
+def clean_and_unify_title(v_title, nickname):
     """
-    優化邏輯：優先取中文內容，並保持 【來源】地點/描述 的格式
+    統一輸出格式：【來源/品牌】中文地點或描述
     """
-    # 1. 檢查是否有中括號內容 (如 【Taipei Live Cam】)
+    # 1. 嘗試提取原始標題中的括號內容 (例如 Taipei Live Cam)
     bracket_match = re.search(r'[【\[](.*?)[】\]]', v_title)
     
-    # 2. 提取純中文部分（過濾掉 4K, Live 等字眼）
-    # 移除括號內容後再找中文
-    remaining_text = re.sub(r'[【\[].*?[】\]]', '', v_title)
-    
-    # 移除常見噪音詞
-    noise_words = ['4K', 'HD', 'LIVE', 'Live Cam', '即時影像', '直播', '24H', '馬拉松']
+    # 2. 清理主標題：移除括號內容、4K、即時影像等噪音
+    main_text = re.sub(r'[【\[].*?[】\]]', '', v_title)
+    noise_words = ['4K', 'HD', 'LIVE', 'Live Cam', '即時影像', '直播', '24H', '馬拉松', 'Streaming']
     for word in noise_words:
-        remaining_text = re.compile(re.escape(word), re.IGNORECASE).sub('', remaining_text)
+        main_text = re.compile(re.escape(word), re.IGNORECASE).sub('', main_text)
     
-    # 提取中文地點或標題主體 (排除掉只有標點符號的狀況)
-    chinese_parts = re.findall(r'[\u4e00-\u9fa5]+', remaining_text)
-    main_chinese = "".join(chinese_parts)
+    # 3. 提取標題中的關鍵中文字 (地點名稱)
+    chinese_parts = re.findall(r'[\u4e00-\u9fa5]+', main_text)
+    location_name = "".join(chinese_parts)
 
-    # 3. 組合標題
-    # 如果有抓到原始括號關鍵字，就用它當前綴；否則用我們定義的 nickname
-    prefix = f"【{bracket_match.group(1)}】" if bracket_match else f"【{nickname}】"
+    # 4. 決定前綴 (優先用標題內的括號，沒有就用 nickname)
+    brand = bracket_match.group(1) if bracket_match else nickname
     
-    # 如果剩餘部分沒有中文，就只回傳前綴或頻道名
-    if not main_chinese:
-        return nickname
+    # 5. 組合最終格式：【品牌】中文字
+    if location_name:
+        # 如果抓到的中文字包含了品牌名，就移除它，避免變成 【台北觀光】台北觀光貓空
+        clean_location = location_name.replace(nickname, '')
+        if clean_location:
+            return f"【{brand}】{clean_location}"
     
-    # 限制中文標題長度
-    if len(main_chinese) > 20:
-        main_chinese = main_chinese[:18] + "..."
-        
-    return f"{prefix}{main_chinese}"
+    return f"【{brand}】"
 
 def get_live_info():
     ydl_opts = {
         'quiet': True,
         'extract_flat': True,
         'skip_download': True,
-        'playlist_items': '1-10',
+        'playlist_items': '1-15', # 增加掃描數量確保抓到所有地點
         'ignoreerrors': True,
         'no_warnings': True,
         'extra_headers': {'Accept-Language': 'zh-TW'}
@@ -368,7 +363,7 @@ def get_live_info():
         for genre, channels in CATEGORIES.items():
             genre_list = []
             seen_urls = set()
-            print(f">>> 正在掃描分類: {genre}")
+            print(f"正在分析: {genre}")
             
             for nickname, url in channels.items():
                 try:
@@ -386,9 +381,9 @@ def get_live_info():
                             v_url = f"https://www.youtube.com/watch?v={v_id}"
                             
                             if v_id and v_url not in seen_urls:
+                                # 調用統一格式化函式
                                 v_raw_title = entry.get('title', '')
-                                # 執行中文優化邏輯
-                                optimized_title = clean_chinese_title(v_raw_title, nickname)
+                                optimized_title = clean_and_unify_title(v_raw_title, nickname)
                                 
                                 genre_list.append(f"{optimized_title},{v_url}")
                                 seen_urls.add(v_url)
@@ -399,7 +394,7 @@ def get_live_info():
             if genre_list:
                 final_output.append(genre)
                 final_output.extend(genre_list)
-                final_output.append("") # 區塊間隔
+                final_output.append("") # 確保分類間有空行
                 
     return final_output
 
@@ -407,4 +402,4 @@ if __name__ == "__main__":
     results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(results).strip() + "\n")
-    print("\n✅ 中文優化標題清單已完成！")
+    print("\n✅ 格式統一優化完成！請檢查 live_list.txt")
