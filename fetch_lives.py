@@ -1,7 +1,7 @@
 import yt_dlp
 import re
 
-# 頻道分類清單 (已整合您提供的清單)
+# 頻道分類清單 (以您的風景類別為例進行測試優化)
 CATEGORIES = {
     "台灣,#genre#": {
         "台灣地震監視": "https://www.youtube.com/@台灣地震監視/streams",
@@ -317,40 +317,41 @@ CATEGORIES = {
     }
 }
 
-def format_smart_title(raw_title, nickname, max_len=45):
+def clean_and_optimize_title(v_title, nickname):
     """
-    優化標題顯示：[頻道] 內容描述
+    優化標題：提取 【關鍵字】 + 地點/內容
     """
-    # 移除標點符號與冗餘字眼
-    clean_text = raw_title.replace(',', ' ').replace('LIVE', '').replace('直播', '').strip()
-    clean_text = re.sub(r'[\(\)\[\]]', '', clean_text)
+    # 1. 提取括號內的關鍵字 (例如：【Taipei Live Cam】)
+    bracket_match = re.search(r'[【\[](.*?)[】\]]', v_title)
+    prefix = f"【{bracket_match.group(1)}】" if bracket_match else f"【{nickname}】"
     
-    # 判斷標題是否主要為英文
-    is_english = bool(re.search(r'^[a-zA-Z0-9\s\.\-\:]+$', clean_text))
+    # 2. 清理主標題內容
+    # 移除括號部分、重複的關鍵字、4K/HD、即時影像等
+    main_content = re.sub(r'[【\[].*?[】\]]', '', v_title)
+    noise_words = ['4K', 'HD', '即時影像', 'Live Cam', 'Live Stream', '直播', '24H', '馬拉松']
+    for word in noise_words:
+        main_content = re.compile(re.escape(word), re.IGNORECASE).sub('', main_content)
     
-    if is_english:
-        # 英文標題通常較長，直接使用
-        display = clean_text
+    # 移除多餘符號並去空白
+    main_content = main_content.replace('|', '').replace('-', '').replace(',', ' ').strip()
+    
+    # 3. 組合標題
+    if not main_content:
+        final_title = prefix
     else:
-        # 中文標題：[自定義頻道名] + 影片標題關鍵字
-        # 避免頻道名重複出現在標題中
-        short_title = clean_text.replace(nickname, '').strip()
-        if not short_title:
-            display = nickname
-        else:
-            display = f"[{nickname}] {short_title}"
-
-    # 長度截斷
-    if len(display) > max_len:
-        return display[:max_len-3] + "..."
-    return display
+        # 限制內容長度防止跑版
+        if len(main_content) > 25:
+            main_content = main_content[:22] + "..."
+        final_title = f"{prefix}{main_content}"
+        
+    return final_title
 
 def get_live_info():
     ydl_opts = {
         'quiet': True,
         'extract_flat': True,
         'skip_download': True,
-        'playlist_items': '1-10', # 每個頻道掃描前10個項目
+        'playlist_items': '1-10',
         'ignoreerrors': True,
         'no_warnings': True,
         'extra_headers': {'Accept-Language': 'zh-TW'}
@@ -360,9 +361,9 @@ def get_live_info():
     
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         for genre, channels in CATEGORIES.items():
-            genre_data = []
+            genre_list = []
             seen_urls = set()
-            print(f">>> 處理類別: {genre}")
+            print(f">>> 正在掃描: {genre}")
             
             for nickname, url in channels.items():
                 try:
@@ -376,30 +377,32 @@ def get_live_info():
                     for entry in entries:
                         if not entry: continue
                         if entry.get('live_status') == 'is_live' or entry.get('is_live'):
-                            v_url = f"https://www.youtube.com/watch?v={entry.get('id')}"
+                            v_id = entry.get('id')
+                            v_url = f"https://www.youtube.com/watch?v={v_id}"
                             
                             if v_url not in seen_urls:
-                                v_title = entry.get('title', '')
-                                optimized_title = format_smart_title(v_title, nickname)
+                                # 優化標題
+                                v_raw_title = entry.get('title', '')
+                                optimized_title = clean_and_optimize_title(v_raw_title, nickname)
                                 
-                                genre_data.append(f"{optimized_title},{v_url}")
+                                genre_list.append(f"{optimized_title},{v_url}")
                                 seen_urls.add(v_url)
                                 print(f"  [找到] {optimized_title}")
                 except:
                     continue
             
-            if genre_data:
+            if genre_list:
                 final_output.append(genre)
-                final_output.extend(genre_data)
-                final_output.append("") # 區塊間空一行
+                final_output.extend(genre_list)
+                final_output.append("") # 分類空行
                 
     return final_output
 
 def main():
-    data = get_live_info()
+    results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
-        f.write("\n".join(data).strip() + "\n")
-    print("\n✅ 優化清單已完成！")
+        f.write("\n".join(results).strip() + "\n")
+    print("\n✅ 標題優化清單已產出至 live_list.txt")
 
 if __name__ == "__main__":
     main()
