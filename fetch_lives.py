@@ -1,20 +1,18 @@
 import yt_dlp
 
-# 頻道清單
 CHANNELS = {
     "華視新聞": "https://www.youtube.com/@CtsTw/streams",
-    "Muse木棉花-闔家歡": "https://www.youtube.com/@Muse_Family/streams",
+    "Muse木棉花-闔家歡": "https://www.youtube.com/@Muse_Family/live", # 改用 /live 強制導向
     "HOP Sports": "https://www.youtube.com/@HOPSports/streams",
     "超級夜總會": "https://www.youtube.com/@SuperNightClubCH29/streams"
 }
 
 def get_live_info():
-    # 這裡的設定是為了應對 YouTube 在海外 IP 上的限制
     ydl_opts = {
         'quiet': True,
         'extract_flat': True,
         'skip_download': True,
-        'playlist_items': '1-10',  # 檢查最新的 10 個影片
+        'playlist_items': '1-10',
         'ignoreerrors': True,
         'no_warnings': True,
         'extra_headers': {
@@ -24,55 +22,51 @@ def get_live_info():
     }
     
     results = []
-    
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         for name, url in CHANNELS.items():
             print(f"正在檢查: {name}...")
             try:
-                # 提取資訊
+                # extract_info 會處理 /live 的自動跳轉
                 info = ydl.extract_info(url, download=False)
                 
-                if info and 'entries' in info:
-                    for entry in info['entries']:
-                        if not entry: continue
+                if not info:
+                    continue
+                
+                # 處理 entries (列表) 或 直接是個影片資訊 (單一直播)
+                entries = info.get('entries', [info])
+                
+                for entry in entries:
+                    if not entry: continue
+                    
+                    # 狀態判斷：正在直播 或 標題包含直播
+                    status = entry.get('live_status')
+                    title = entry.get('title', 'Unknown Title')
+                    
+                    # 如果是正在直播 (is_live) 或 列表中的直播項目
+                    if status == 'is_live' or entry.get('is_live') is True:
+                        video_id = entry.get('id')
+                        video_url = f"https://www.youtube.com/watch?v={video_id}"
+                        results.append(f"{title},{video_url}")
+                        print(f"  [成功] {title}")
                         
-                        # 同時檢查 live_status 與影片標題
-                        # 木棉花的直播常被標註為 is_upcoming 或 was_live，但標題會寫「直播中」
-                        status = entry.get('live_status')
-                        title = entry.get('title', '')
-                        
-                        if status == 'is_live' or (status == 'is_upcoming' and '直播中' in title) or (status == 'is_upcoming' and '馬拉松' in title):
-                            video_id = entry.get('id')
-                            video_url = f"https://www.youtube.com/watch?v={video_id}"
-                            
-                            # 格式：網頁標題,網址
-                            results.append(f"{title},{video_url}")
-                            print(f"  [找到] {title}")
-                            
             except Exception as e:
-                print(f"  [跳過] {name} 檢查失敗")
+                print(f"  [跳過] {name} 檢查失敗: {e}")
                 
     return results
 
 def main():
     live_list = get_live_info()
     
-    # 去除重複項並保持順序
-    seen = set()
-    final_list = []
-    for item in live_list:
-        if item not in seen:
-            final_list.append(item)
-            seen.add(item)
+    # 移除重複項目
+    final_list = list(dict.fromkeys(live_list))
 
-    # 寫入檔案
     with open("live_list.txt", "w", encoding="utf-8") as f:
         if final_list:
             f.write("\n".join(final_list) + "\n")
         else:
-            f.write("") # 清空檔案
+            f.write("") # 保持空檔
             
-    print(f"\n掃描結束。共找到 {len(final_list)} 個直播網址。")
+    print(f"\n任務結束。共找到 {len(final_list)} 個直播。")
 
 if __name__ == "__main__":
     main()
