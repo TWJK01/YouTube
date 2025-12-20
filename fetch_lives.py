@@ -314,39 +314,36 @@ CATEGORIES = {
 		"交通部觀光署澎湖國家風景區管理處": "https://www.youtube.com/@交通部觀光署澎湖國家/streams",		
 		"樂遊金門": "https://www.youtube.com/@kinmentravel/streams",
 		"馬祖國家風景區": "https://www.youtube.com/@matsunationalscenicarea9539/streams"		
-    }	
+    }	}
 }
 
-def extract_landmark_title(v_title, nickname):
+def extract_chinese_landmark(v_title, nickname):
     """
-    深度優化地標提取：
-    1. 提取括號內容作為品牌前綴。
-    2. 從剩餘文字中提取精確的『中文地標名』。
-    3. 移除噪音詞（4K, Live, 頻道名）。
+    強化中文地標提取邏輯
     """
-    # 步驟 1: 提取品牌前綴 (e.g., Taipei Live Cam)
+    # 1. 提取括號內的品牌 (e.g., Taipei Live Cam)
     brand_match = re.search(r'[【\[](.*?)[】\]]', v_title)
     if brand_match:
         brand = brand_match.group(1)
-        # 移除前綴中不必要的英文
-        brand = re.sub(r'(?i)4K|Live|Cam|Stream|Official', '', brand).strip()
+        brand = re.sub(r'(?i)4K|Live|Cam|Stream', '', brand).strip()
     else:
         brand = nickname
 
-    # 步驟 2: 清理標題，移除括號與英文噪音
-    main_text = re.sub(r'[【\[].*?[】\]]', '', v_title)
-    noise = ['4K', 'HD', 'LIVE', 'Live Cam', '即時影像', '直播', '24H', '馬拉松', 'Streaming', 'Taipei', 'New Taipei']
-    for word in noise:
-        main_text = re.compile(re.escape(word), re.IGNORECASE).sub('', main_text)
-
-    # 步驟 3: 提取中文字地標
-    # 排除掉頻道原本的名稱(nickname)，只留具體地點
-    main_text = main_text.replace(nickname.replace("即時影像", ""), "")
-    chinese_parts = re.findall(r'[\u4e00-\u9fa5]+', main_text)
+    # 2. 專門提取標題中的「中文字」地標
+    # 移除噪音詞與頻道名
+    clean_text = v_title.replace("即時影像", "").replace("直播", "").replace(nickname, "")
+    
+    # 使用正則表達式只抓取中文字 [ \u4e00-\u9fa5 ]
+    chinese_parts = re.findall(r'[\u4e00-\u9fa5]+', clean_text)
     landmark = "".join(chinese_parts)
 
-    # 步驟 4: 格式標準化校正
-    # 如果品牌是台北觀光，統一顯示為 Taipei Live Cam 增加專業感
+    # 3. 如果沒抓到中文字，退而求其次抓取括號外的文字
+    if not landmark:
+        # 移除中括號部分
+        simple_title = re.sub(r'[【\[].*?[】\]]', '', v_title).strip()
+        landmark = simple_title.split('|')[0].split('-')[0].strip() # 抓取第一個分割區段
+
+    # 4. 格式化前綴
     if "Taipei" in brand or "台北" in nickname:
         display_brand = "Taipei Live Cam"
     elif "新北" in nickname:
@@ -354,24 +351,20 @@ def extract_landmark_title(v_title, nickname):
     else:
         display_brand = brand
 
-    # 步驟 5: 組合輸出
+    # 5. 輸出格式：【品牌】中文地標
     if landmark:
-        # 再次確保地點名稱不包含冗餘的「即時影像」字眼
-        landmark = landmark.replace("即時影像", "").replace("直播", "")
         return f"【{display_brand}】{landmark}"
-    
-    # 沒地標時，回傳帶有影片 ID 前幾位的標題以供分辨
-    return f"【{display_brand}】{main_text.strip()[:15]}"
+    return f"【{display_brand}】"
 
 def get_live_info():
     ydl_opts = {
         'quiet': True,
         'extract_flat': True,
         'skip_download': True,
-        'playlist_items': '1-20',
+        'playlist_items': '1-15',
         'ignoreerrors': True,
         'no_warnings': True,
-        'extra_headers': {'Accept-Language': 'zh-TW'}
+        'extra_headers': {'Accept-Language': 'zh-TW'} # 強制請求繁體中文
     }
     
     final_output = []
@@ -380,7 +373,7 @@ def get_live_info():
         for genre, channels in CATEGORIES.items():
             genre_list = []
             seen_urls = set()
-            print(f">>> 正在提取 {genre} 的具體地標...")
+            print(f">>> 正在掃描並修正中文地標: {genre}")
             
             for nickname, url in channels.items():
                 try:
@@ -399,20 +392,20 @@ def get_live_info():
                         v_url = f"https://www.youtube.com/watch?v={v_id}"
                         
                         if v_id and v_url not in seen_urls:
+                            # 使用修正後的中文地標提取
                             v_raw_title = entry.get('title', '')
-                            # 執行地標提取邏輯
-                            final_title = extract_landmark_title(v_raw_title, nickname)
+                            final_title = extract_chinese_landmark(v_raw_title, nickname)
                             
                             genre_list.append(f"{final_title},{v_url}")
                             seen_urls.add(v_url)
-                            print(f"  [地標發現] {final_title}")
+                            print(f"  [成功提取] {final_title}")
                 except:
                     continue
             
             if genre_list:
                 final_output.append(genre)
                 final_output.extend(genre_list)
-                final_output.append("") # 類別後空行
+                final_output.append("") 
                 
     return final_output
 
@@ -420,4 +413,4 @@ if __name__ == "__main__":
     results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(results).strip() + "\n")
-    print("\n✅ 標題優化完成！地標已精確區分並產出至 live_list.txt")
+    print("\n✅ 中文地標修正完成！請查看 live_list.txt")
