@@ -1,7 +1,7 @@
 import yt_dlp
 import re
 
-# 您提供的完整頻道清單
+# 頻道分類清單 (包含您先前提供的所有類型)
 CATEGORIES = {
     "台灣,#genre#": {
         "台灣地震監視": "https://www.youtube.com/@台灣地震監視/streams",
@@ -319,39 +319,50 @@ CATEGORIES = {
 
 def clean_and_distinguish_title(v_title, nickname):
     """
-    將標題優化為具備區分度的格式：【品牌】具體內容
+    核心優化邏輯：確保輸出為 【品牌】地點/描述
+    解決範例中 'Taipei 4K Live Cam' 重複導致無法區分的問題
     """
-    # 1. 提取原始標題中的括號關鍵字 (例如 Taipei Live Cam)
+    # 1. 決定品牌前綴 (優先取標題括號內的內容，否則用自定義暱稱)
     bracket_match = re.search(r'[【\[](.*?)[】\]]', v_title)
-    brand = bracket_match.group(1) if bracket_match else nickname
+    if bracket_match:
+        brand = bracket_match.group(1)
+        # 移除前綴中干擾的 4K, Live, Cam 等字眼
+        brand = re.sub(r'(?i)4K|Live|Cam|Stream', '', brand).strip()
+    else:
+        brand = nickname
+
+    # 2. 提取具體地點或內容描述 (主標題)
+    # 先移除原始標題中的括號部分
+    main_text = re.sub(r'[【\[].*?[】\]]', '', v_title)
     
-    # 2. 清理標題，只保留核心中文描述
-    # 移除括號、英文噪音詞與常見冗餘詞
-    clean_text = re.sub(r'[【\[].*?[】\]]', '', v_title)
-    noise = ['4K', 'HD', 'LIVE', 'Live Cam', '即時影像', '直播', '24H', '馬拉松', 'Streaming', 'Official']
+    # 過濾噪音關鍵字 (不分大小寫)
+    noise = ['4K', 'HD', 'LIVE', 'Live Cam', '即時影像', '直播', '24H', '馬拉松', 'Streaming', 'Official', 'Taipei']
     for word in noise:
-        clean_text = re.compile(re.escape(word), re.IGNORECASE).sub('', clean_text)
+        main_text = re.compile(re.escape(word), re.IGNORECASE).sub('', main_text)
+
+    # 3. 提取純中文字眼 (通常是地點名，如：貓空、大佳河濱)
+    chinese_parts = re.findall(r'[\u4e00-\u9fa5]+', main_text)
+    location = "".join(chinese_parts)
+
+    # 4. 針對特殊品牌(如台北觀光)進行格式統一校正
+    display_brand = "Taipei Live Cam" if "Taipei" in brand or "台北" in nickname else brand
     
-    # 3. 提取純中文字眼
-    chinese_parts = re.findall(r'[\u4e00-\u9fa5]+', clean_text)
-    content_desc = "".join(chinese_parts)
+    # 5. 組合最終名稱
+    if location:
+        # 如果內容中包含了品牌名，則過濾掉重複的部分
+        final_desc = location.replace("台北觀光", "").replace("即時影像", "").strip()
+        if final_desc:
+            return f"【{display_brand}】{final_desc}"
     
-    # 4. 避免品牌與內容重複 (例如：【台北觀光】台北觀光貓空 -> 【台北觀光】貓空)
-    if content_desc:
-        content_desc = content_desc.replace(nickname, '')
-        # 如果剩下的是地點名稱，則組合
-        if content_desc:
-            return f"【{brand}】{content_desc}"
-    
-    # 5. 若無具體地點則回傳品牌名
-    return f"【{brand}】"
+    # 如果沒抓到中文地點，則保留剩下的原始文字或回傳 ID 以供區分
+    return f"【{display_brand}】{main_text.strip()[:20]}"
 
 def get_live_info():
     ydl_opts = {
         'quiet': True,
         'extract_flat': True,
         'skip_download': True,
-        'playlist_items': '1-20', # 確保抓到所有分站直播
+        'playlist_items': '1-15', # 每個頻道檢查前15個項目
         'ignoreerrors': True,
         'no_warnings': True,
         'extra_headers': {'Accept-Language': 'zh-TW'}
@@ -363,7 +374,7 @@ def get_live_info():
         for genre, channels in CATEGORIES.items():
             genre_list = []
             seen_urls = set()
-            print(f">>> 正在區分標題並抓取: {genre}")
+            print(f">>> 正在掃描並分析分類: {genre}")
             
             for nickname, url in channels.items():
                 try:
@@ -387,19 +398,22 @@ def get_live_info():
                                 
                                 genre_list.append(f"{final_title},{v_url}")
                                 seen_urls.add(v_url)
-                                print(f"  [OK] {final_title}")
-                except:
+                                print(f"  [成功提取] {final_title}")
+                except Exception as e:
                     continue
             
+            # 如果該分類有內容，則寫入總表
             if genre_list:
                 final_output.append(genre)
                 final_output.extend(genre_list)
-                final_output.append("") # 分類空行
+                final_output.append("") # 分類結束後空一行
                 
     return final_output
 
 if __name__ == "__main__":
     results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
-        f.write("\n".join(results).strip() + "\n")
-    print("\n✅ 已完成！所有直播地點與內容已成功區分。")
+        # 清除結尾多餘空白並寫入檔案
+        content = "\n".join(results).strip()
+        f.write(content + "\n")
+    print("\n✅ 任務完成！請查看產出的 live_list.txt 檔案。")
