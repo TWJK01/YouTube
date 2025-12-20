@@ -1,7 +1,7 @@
 import yt_dlp
 import re
 
-# 頻道分類清單
+# 您提供的完整頻道清單
 CATEGORIES = {
     "台灣,#genre#": {
         "台灣地震監視": "https://www.youtube.com/@台灣地震監視/streams",
@@ -317,33 +317,33 @@ CATEGORIES = {
     }	
 }
 
-def clean_and_unify_title(v_title, nickname):
+def clean_and_distinguish_title(v_title, nickname):
     """
-    統一輸出格式：【來源/品牌】中文地點或描述
+    將標題優化為具備區分度的格式：【品牌】具體內容
     """
-    # 1. 嘗試提取原始標題中的括號內容 (例如 Taipei Live Cam)
+    # 1. 提取原始標題中的括號關鍵字 (例如 Taipei Live Cam)
     bracket_match = re.search(r'[【\[](.*?)[】\]]', v_title)
-    
-    # 2. 清理主標題：移除括號內容、4K、即時影像等噪音
-    main_text = re.sub(r'[【\[].*?[】\]]', '', v_title)
-    noise_words = ['4K', 'HD', 'LIVE', 'Live Cam', '即時影像', '直播', '24H', '馬拉松', 'Streaming']
-    for word in noise_words:
-        main_text = re.compile(re.escape(word), re.IGNORECASE).sub('', main_text)
-    
-    # 3. 提取標題中的關鍵中文字 (地點名稱)
-    chinese_parts = re.findall(r'[\u4e00-\u9fa5]+', main_text)
-    location_name = "".join(chinese_parts)
-
-    # 4. 決定前綴 (優先用標題內的括號，沒有就用 nickname)
     brand = bracket_match.group(1) if bracket_match else nickname
     
-    # 5. 組合最終格式：【品牌】中文字
-    if location_name:
-        # 如果抓到的中文字包含了品牌名，就移除它，避免變成 【台北觀光】台北觀光貓空
-        clean_location = location_name.replace(nickname, '')
-        if clean_location:
-            return f"【{brand}】{clean_location}"
+    # 2. 清理標題，只保留核心中文描述
+    # 移除括號、英文噪音詞與常見冗餘詞
+    clean_text = re.sub(r'[【\[].*?[】\]]', '', v_title)
+    noise = ['4K', 'HD', 'LIVE', 'Live Cam', '即時影像', '直播', '24H', '馬拉松', 'Streaming', 'Official']
+    for word in noise:
+        clean_text = re.compile(re.escape(word), re.IGNORECASE).sub('', clean_text)
     
+    # 3. 提取純中文字眼
+    chinese_parts = re.findall(r'[\u4e00-\u9fa5]+', clean_text)
+    content_desc = "".join(chinese_parts)
+    
+    # 4. 避免品牌與內容重複 (例如：【台北觀光】台北觀光貓空 -> 【台北觀光】貓空)
+    if content_desc:
+        content_desc = content_desc.replace(nickname, '')
+        # 如果剩下的是地點名稱，則組合
+        if content_desc:
+            return f"【{brand}】{content_desc}"
+    
+    # 5. 若無具體地點則回傳品牌名
     return f"【{brand}】"
 
 def get_live_info():
@@ -351,7 +351,7 @@ def get_live_info():
         'quiet': True,
         'extract_flat': True,
         'skip_download': True,
-        'playlist_items': '1-15', # 增加掃描數量確保抓到所有地點
+        'playlist_items': '1-20', # 確保抓到所有分站直播
         'ignoreerrors': True,
         'no_warnings': True,
         'extra_headers': {'Accept-Language': 'zh-TW'}
@@ -363,7 +363,7 @@ def get_live_info():
         for genre, channels in CATEGORIES.items():
             genre_list = []
             seen_urls = set()
-            print(f"正在分析: {genre}")
+            print(f">>> 正在區分標題並抓取: {genre}")
             
             for nickname, url in channels.items():
                 try:
@@ -381,20 +381,20 @@ def get_live_info():
                             v_url = f"https://www.youtube.com/watch?v={v_id}"
                             
                             if v_id and v_url not in seen_urls:
-                                # 調用統一格式化函式
                                 v_raw_title = entry.get('title', '')
-                                optimized_title = clean_and_unify_title(v_raw_title, nickname)
+                                # 調用優化辨識函式
+                                final_title = clean_and_distinguish_title(v_raw_title, nickname)
                                 
-                                genre_list.append(f"{optimized_title},{v_url}")
+                                genre_list.append(f"{final_title},{v_url}")
                                 seen_urls.add(v_url)
-                                print(f"  [OK] {optimized_title}")
+                                print(f"  [OK] {final_title}")
                 except:
                     continue
             
             if genre_list:
                 final_output.append(genre)
                 final_output.extend(genre_list)
-                final_output.append("") # 確保分類間有空行
+                final_output.append("") # 分類空行
                 
     return final_output
 
@@ -402,4 +402,4 @@ if __name__ == "__main__":
     results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(results).strip() + "\n")
-    print("\n✅ 格式統一優化完成！請檢查 live_list.txt")
+    print("\n✅ 已完成！所有直播地點與內容已成功區分。")
