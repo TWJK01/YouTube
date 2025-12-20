@@ -1,7 +1,7 @@
 import yt_dlp
 import re
 
-# 頻道分類清單 (以您的風景類別為例進行測試優化)
+# 頻道分類清單
 CATEGORIES = {
     "台灣,#genre#": {
         "台灣地震監視": "https://www.youtube.com/@台灣地震監視/streams",
@@ -317,34 +317,39 @@ CATEGORIES = {
     }
 }
 
-def clean_and_optimize_title(v_title, nickname):
+def clean_chinese_title(v_title, nickname):
     """
-    優化標題：提取 【關鍵字】 + 地點/內容
+    優化邏輯：優先取中文內容，並保持 【來源】地點/描述 的格式
     """
-    # 1. 提取括號內的關鍵字 (例如：【Taipei Live Cam】)
+    # 1. 檢查是否有中括號內容 (如 【Taipei Live Cam】)
     bracket_match = re.search(r'[【\[](.*?)[】\]]', v_title)
+    
+    # 2. 提取純中文部分（過濾掉 4K, Live 等字眼）
+    # 移除括號內容後再找中文
+    remaining_text = re.sub(r'[【\[].*?[】\]]', '', v_title)
+    
+    # 移除常見噪音詞
+    noise_words = ['4K', 'HD', 'LIVE', 'Live Cam', '即時影像', '直播', '24H', '馬拉松']
+    for word in noise_words:
+        remaining_text = re.compile(re.escape(word), re.IGNORECASE).sub('', remaining_text)
+    
+    # 提取中文地點或標題主體 (排除掉只有標點符號的狀況)
+    chinese_parts = re.findall(r'[\u4e00-\u9fa5]+', remaining_text)
+    main_chinese = "".join(chinese_parts)
+
+    # 3. 組合標題
+    # 如果有抓到原始括號關鍵字，就用它當前綴；否則用我們定義的 nickname
     prefix = f"【{bracket_match.group(1)}】" if bracket_match else f"【{nickname}】"
     
-    # 2. 清理主標題內容
-    # 移除括號部分、重複的關鍵字、4K/HD、即時影像等
-    main_content = re.sub(r'[【\[].*?[】\]]', '', v_title)
-    noise_words = ['4K', 'HD', '即時影像', 'Live Cam', 'Live Stream', '直播', '24H', '馬拉松']
-    for word in noise_words:
-        main_content = re.compile(re.escape(word), re.IGNORECASE).sub('', main_content)
+    # 如果剩餘部分沒有中文，就只回傳前綴或頻道名
+    if not main_chinese:
+        return nickname
     
-    # 移除多餘符號並去空白
-    main_content = main_content.replace('|', '').replace('-', '').replace(',', ' ').strip()
-    
-    # 3. 組合標題
-    if not main_content:
-        final_title = prefix
-    else:
-        # 限制內容長度防止跑版
-        if len(main_content) > 25:
-            main_content = main_content[:22] + "..."
-        final_title = f"{prefix}{main_content}"
+    # 限制中文標題長度
+    if len(main_chinese) > 20:
+        main_chinese = main_chinese[:18] + "..."
         
-    return final_title
+    return f"{prefix}{main_chinese}"
 
 def get_live_info():
     ydl_opts = {
@@ -363,7 +368,7 @@ def get_live_info():
         for genre, channels in CATEGORIES.items():
             genre_list = []
             seen_urls = set()
-            print(f">>> 正在掃描: {genre}")
+            print(f">>> 正在掃描分類: {genre}")
             
             for nickname, url in channels.items():
                 try:
@@ -380,29 +385,26 @@ def get_live_info():
                             v_id = entry.get('id')
                             v_url = f"https://www.youtube.com/watch?v={v_id}"
                             
-                            if v_url not in seen_urls:
-                                # 優化標題
+                            if v_id and v_url not in seen_urls:
                                 v_raw_title = entry.get('title', '')
-                                optimized_title = clean_and_optimize_title(v_raw_title, nickname)
+                                # 執行中文優化邏輯
+                                optimized_title = clean_chinese_title(v_raw_title, nickname)
                                 
                                 genre_list.append(f"{optimized_title},{v_url}")
                                 seen_urls.add(v_url)
-                                print(f"  [找到] {optimized_title}")
+                                print(f"  [OK] {optimized_title}")
                 except:
                     continue
             
             if genre_list:
                 final_output.append(genre)
                 final_output.extend(genre_list)
-                final_output.append("") # 分類空行
+                final_output.append("") # 區塊間隔
                 
     return final_output
 
-def main():
+if __name__ == "__main__":
     results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(results).strip() + "\n")
-    print("\n✅ 標題優化清單已產出至 live_list.txt")
-
-if __name__ == "__main__":
-    main()
+    print("\n✅ 中文優化標題清單已完成！")
