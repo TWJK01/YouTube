@@ -1,7 +1,7 @@
 import yt_dlp
 import re
 
-# 頻道分類清單
+# 1. 頻道分類與來源清單
 CATEGORIES = {
     "台灣,#genre#": {
         "台灣地震監視": "https://www.youtube.com/@台灣地震監視/streams",
@@ -317,50 +317,72 @@ CATEGORIES = {
     }
 }
 
-def force_chinese_title(entry, nickname):
+# 2. 英文地標翻譯對照表 (針對純英文標題強制轉換)
+LANDMARK_MAP = {
+    "Maokong": "貓空指南宮",
+    "Jiantanshan": "劍潭山微風平台",
+    "Bishan": "碧山巖",
+    "Dajia": "大佳河濱公園",
+    "Dadaocheng": "大稻埕碼頭",
+    "Elephant Mountain": "象山看台北",
+    "Baling": "巴陵大橋",
+    "Amuping": "阿姆坪薑絲島",
+    "Ginger Island": "薑絲島",
+    "Cihu": "慈湖紀念雕塑公園",
+    "Shihmen Reservoir": "石門水庫",
+    "Daxi Old Street": "大溪老街",
+    "Jiaobanshan": "角板山",
+    "Eco Pond": "生態池",
+    "Plum Orchard": "梅園",
+    "Hutoushan": "虎頭山奧爾森林學堂",
+    "Daxi Bridge": "大溪橋",
+    "Three Swimming Turtles": "三龜戲水",
+    "Xuchuogang": "許厝港濕地",
+    "Xiao Wulai": "小烏來",
+    "Skywalk": "天空步道",
+    "101": "台北101"
+}
+
+def extract_best_title(v_title, nickname):
     """
-    強制從標題中提取中文字。如果標題是英文，則嘗試從描述中提取或保留原始中文部分。
+    優先提取中文地標，若無中文則根據對照表翻譯英文。
     """
-    v_title = entry.get('title', '')
-    
-    # 1. 處理品牌前綴
+    # 決定前綴
     if "Taipei" in v_title or "台北" in nickname:
         brand = "Taipei Live Cam"
+    elif "桃園" in nickname or "Taoyuan" in v_title:
+        brand = "遊桃園 Taoyuan Travel"
     else:
         brand = nickname
 
-    # 2. 強制尋找標題中的中文字 (不限位置)
-    # 使用 regex 抓取所有中文字：[\u4e00-\u9fa5]
+    # 1. 嘗試抓取標題內所有中文字
     chinese_match = re.findall(r'[\u4e00-\u9fa5]+', v_title)
     
-    # 3. 過濾掉常見的系統噪音詞
-    noise = ["即時影像", "直播", "頻道", "官方", "台北", "觀光"]
-    landmark_parts = [word for word in chinese_match if word not in noise]
-    landmark = "".join(landmark_parts)
+    # 移除噪音詞：如「即時影像」、「直播」等
+    noise = ["即時影像", "直播", "頻道", "動態", "資訊", "桃園", "台北", "觀光"]
+    clean_parts = [word for word in chinese_match if word not in noise]
+    landmark = "".join(clean_parts)
 
-    # 4. 如果標題真的完全沒中文 (例如全是英文 Maokong Zhinan)
-    # 我們針對台北觀光頻道的常用地標做一個簡單的關鍵字比對(Fallback)
-    if not landmark:
-        mapping = {
-            "Maokong": "貓空指南宮",
-            "Jiantanshan": "劍潭山微風平台",
-            "Bishan": "碧山巖",
-            "Dajia": "大佳河濱公園",
-            "Dadaocheng": "大稻埕碼頭",
-            "Elephant Mountain": "象山看台北",
-            "101": "台北101"
-        }
-        for eng, chi in mapping.items():
+    # 2. 如果中文太少 (可能是純英文標題)，則進行英文匹配
+    if len(landmark) < 2:
+        found_translation = []
+        for eng, chi in LANDMARK_MAP.items():
             if eng.lower() in v_title.lower():
-                landmark = chi
-                break
+                found_translation.append(chi)
+        
+        if found_translation:
+            # 組合找到的地標詞 (例如：角板山 + 生態池)
+            landmark = "".join(dict.fromkeys(found_translation)) 
 
-    # 5. 組合最終輸出
-    if landmark:
-        return f"【{brand}】{landmark}"
-    else:
-        # 如果還是沒地標，就回傳完整原始標題(不截斷)
-        return f"【{brand}】{v_title}"
+    # 3. 如果還是沒抓到，保留括號外的文字作為保底
+    if not landmark:
+        landmark = re.sub(r'[【\[].*?[】\]]', '', v_title).strip()
+        landmark = landmark.split('|')[0].split('-')[0].strip()
+
+    # 4. 最終清理：防止名稱過於冗長或重複
+    landmark = landmark.replace("桃園國際機場", "桃園機場")
+    
+    return f"【{brand}】{landmark}"
 
 def get_live_info():
     ydl_opts = {
@@ -370,9 +392,8 @@ def get_live_info():
         'playlist_items': '1-20',
         'ignoreerrors': True,
         'no_warnings': True,
-        # 關鍵：強制設定繁體中文 Header，並模擬台灣 IP 請求環境
         'extra_headers': {
-            'Accept-Language': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+            'Accept-Language': 'zh-TW,zh;q=0.9',
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         }
     }
@@ -383,6 +404,7 @@ def get_live_info():
         for genre, channels in CATEGORIES.items():
             genre_list = []
             seen_urls = set()
+            print(f">>> 正在掃描並強化辨識: {genre}")
             
             for nickname, url in channels.items():
                 try:
@@ -394,16 +416,19 @@ def get_live_info():
                         entries = [info]
 
                     for entry in entries:
-                        if not entry: continue
-                        if entry.get('live_status') == 'is_live' or entry.get('is_live'):
-                            v_url = f"https://www.youtube.com/watch?v={entry.get('id')}"
+                        if not entry or not (entry.get('live_status') == 'is_live' or entry.get('is_live')):
+                            continue
                             
-                            if v_url not in seen_urls:
-                                # 調用強制中文地標函式
-                                final_title = force_chinese_title(entry, nickname)
-                                genre_list.append(f"{final_title},{v_url}")
-                                seen_urls.add(v_url)
-                except:
+                        v_url = f"https://www.youtube.com/watch?v={entry.get('id')}"
+                        if v_url not in seen_urls:
+                            v_raw_title = entry.get('title', '')
+                            # 執行地標強化辨識
+                            final_title = extract_best_title(v_raw_title, nickname)
+                            
+                            genre_list.append(f"{final_title},{v_url}")
+                            seen_urls.add(v_url)
+                            print(f"  [成功辨識] {final_title}")
+                except Exception:
                     continue
             
             if genre_list:
@@ -417,3 +442,4 @@ if __name__ == "__main__":
     results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(results).strip() + "\n")
+    print("\n✅ 清單已產出，請檢查地標是否已正確區分。")
