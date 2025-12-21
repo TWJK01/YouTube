@@ -317,53 +317,62 @@ CATEGORIES = {
     }
 }
 
-def get_full_display_title(v_title, nickname):
+def force_chinese_title(entry, nickname):
     """
-    提取標題中完整的中文部分，確保風景類地標清晰可見。
+    強制從標題中提取中文字。如果標題是英文，則嘗試從描述中提取或保留原始中文部分。
     """
-    # 1. 處理品牌前綴 (e.g., 【Taipei Live Cam】)
-    if "台北" in nickname or "Taipei" in v_title:
+    v_title = entry.get('title', '')
+    
+    # 1. 處理品牌前綴
+    if "Taipei" in v_title or "台北" in nickname:
         brand = "Taipei Live Cam"
-    elif "新北" in nickname:
-        brand = "新北旅客"
     else:
-        # 從標題括號提取或使用自定義暱稱
-        bracket_match = re.search(r'[【\[](.*?)[】\]]', v_title)
-        brand = bracket_match.group(1) if bracket_match else nickname
-        # 移除前綴中多餘的英文噪音
-        brand = re.sub(r'(?i)4K|Live|Cam|Stream', '', brand).strip()
+        brand = nickname
 
-    # 2. 提取完整的中文描述 (跳過英文地點名，直取中文地標)
-    # 移除括號內容
-    main_text = re.sub(r'[【\[].*?[】\]]', '', v_title).strip()
+    # 2. 強制尋找標題中的中文字 (不限位置)
+    # 使用 regex 抓取所有中文字：[\u4e00-\u9fa5]
+    chinese_match = re.findall(r'[\u4e00-\u9fa5]+', v_title)
     
-    # 匹配中文字符串 (包含中文標點)
-    chinese_pattern = r'[\u4e00-\u9fa5\uff01-\uff5e\u3000-\u303f0-9]+'
-    chinese_matches = re.findall(chinese_pattern, main_text)
-    
-    # 將找到的中文地標組合
-    full_chinese = " ".join(chinese_matches)
+    # 3. 過濾掉常見的系統噪音詞
+    noise = ["即時影像", "直播", "頻道", "官方", "台北", "觀光"]
+    landmark_parts = [word for word in chinese_match if word not in noise]
+    landmark = "".join(landmark_parts)
 
-    # 3. 組合最終標題
-    if full_chinese:
-        # 移除重複的頻道名，保留純地標內容
-        clean_desc = full_chinese.replace(nickname, "").replace("即時影像", "").strip()
-        if not clean_desc: clean_desc = full_chinese
-        return f"【{brand}】{clean_desc}"
-    
-    # 若完全無中文，回傳原始標題前段
-    return f"【{brand}】{main_text[:25]}"
+    # 4. 如果標題真的完全沒中文 (例如全是英文 Maokong Zhinan)
+    # 我們針對台北觀光頻道的常用地標做一個簡單的關鍵字比對(Fallback)
+    if not landmark:
+        mapping = {
+            "Maokong": "貓空指南宮",
+            "Jiantanshan": "劍潭山微風平台",
+            "Bishan": "碧山巖",
+            "Dajia": "大佳河濱公園",
+            "Dadaocheng": "大稻埕碼頭",
+            "Elephant Mountain": "象山看台北",
+            "101": "台北101"
+        }
+        for eng, chi in mapping.items():
+            if eng.lower() in v_title.lower():
+                landmark = chi
+                break
+
+    # 5. 組合最終輸出
+    if landmark:
+        return f"【{brand}】{landmark}"
+    else:
+        # 如果還是沒地標，就回傳完整原始標題(不截斷)
+        return f"【{brand}】{v_title}"
 
 def get_live_info():
     ydl_opts = {
         'quiet': True,
         'extract_flat': True,
         'skip_download': True,
-        'playlist_items': '1-15',
+        'playlist_items': '1-10',
         'ignoreerrors': True,
         'no_warnings': True,
+        # 關鍵：強制設定繁體中文 Header，並模擬台灣 IP 請求環境
         'extra_headers': {
-            'Accept-Language': 'zh-TW,zh;q=0.9',
+            'Accept-Language': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7',
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         }
     }
@@ -374,7 +383,6 @@ def get_live_info():
         for genre, channels in CATEGORIES.items():
             genre_list = []
             seen_urls = set()
-            print(f">>> 正在掃描分類: {genre}")
             
             for nickname, url in channels.items():
                 try:
@@ -388,24 +396,20 @@ def get_live_info():
                     for entry in entries:
                         if not entry: continue
                         if entry.get('live_status') == 'is_live' or entry.get('is_live'):
-                            v_id = entry.get('id')
-                            v_url = f"https://www.youtube.com/watch?v={v_id}"
+                            v_url = f"https://www.youtube.com/watch?v={entry.get('id')}"
                             
-                            if v_id and v_url not in seen_urls:
-                                v_raw_title = entry.get('title', '')
-                                # 執行標題優化
-                                final_title = get_full_display_title(v_raw_title, nickname)
-                                
+                            if v_url not in seen_urls:
+                                # 調用強制中文地標函式
+                                final_title = force_chinese_title(entry, nickname)
                                 genre_list.append(f"{final_title},{v_url}")
                                 seen_urls.add(v_url)
-                                print(f"  [OK] {final_title}")
-                except Exception:
+                except:
                     continue
             
             if genre_list:
                 final_output.append(genre)
                 final_output.extend(genre_list)
-                final_output.append("") # 分類間隔空行
+                final_output.append("") 
                 
     return final_output
 
@@ -413,4 +417,3 @@ if __name__ == "__main__":
     results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(results).strip() + "\n")
-    print("\n✅ 完整標題直播清單已產出！")
