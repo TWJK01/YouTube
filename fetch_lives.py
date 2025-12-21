@@ -1,7 +1,7 @@
 import yt_dlp
 import re
 
-# 1. 完整風景頻道清單
+# 1. 完整頻道清單定義
 CATEGORIES = {
     "台灣,#genre#": {
         "台灣地震監視": "https://www.youtube.com/@台灣地震監視/streams",
@@ -317,7 +317,7 @@ CATEGORIES = {
     }
 }
 
-# 2. 整合地標翻譯對照表 (針對純英文標題的保底機制)
+# 2. 地標翻譯對照表 (針對純英文或辨識困難標題的救援)
 LANDMARK_MAP = {
     # 高雄
     "Shoushan Lovers": "壽山情人觀景台", "Lianchihtan": "蓮池潭", "Lotus Pond": "蓮池潭",
@@ -327,71 +327,76 @@ LANDMARK_MAP = {
     "Shihmen Reservoir": "石門水庫", "Daxi Old Street": "大溪老街", "Jiaobanshan": "角板山",
     "Lala Mountain": "拉拉山", "Xuchuogang": "許厝港濕地", "Xiao Wulai": "小烏來",
     # 阿里山
-    "Fenqihu": "奮起湖", "Eryanping": "二延平步道", "Taiping Suspension Bridge": "太平雲梯",
+    "Fenqihu": "奮起湖", "Eryanping": "二延平", "Taiping Suspension Bridge": "太平雲梯",
     "Lijia": "里佳資訊站", "Sheng-Li Farm": "生力農場", "Niupuzai": "牛埔仔大草原",
     # 東部海岸
     "Chaikou": "綠島柴口", "Fanchuanbi": "帆船鼻", "Shitiping": "石梯坪", "Changhong Bridge": "長虹橋",
-    "Dashshibi": "大石鼻山", "Jialulan": "加路蘭", "Torik": "都歷", "Sanxiantai": "三仙台",
-    # 台北
-    "Maokong": "貓空指南宮", "Jiantanshan": "劍潭山微風平台", "Bishan": "碧山巖",
-    "Dadaocheng": "大稻埕碼頭", "Elephant Mountain": "象山"
+    "Dashshibi": "大石鼻山", "Jialulan": "加路蘭", "Torik": "都歷", "Sanxiantai": "三仙台"
 }
 
 def extract_best_title(v_title, nickname):
     """
-    整合型標題改進方案：
-    1. 標準化品牌前綴。
-    2. 移除括號、頻道名稱、以及「即時影像」等冗餘詞。
-    3. 優先提取具體的中文地標。
-    4. 若無中文則比對英文翻譯表。
+    整合型標題優化邏輯
     """
-    # A. 品牌前綴統整
-    if "Kaohsiung" in v_title or "高雄" in nickname: brand = "高雄旅遊網"
-    elif "Taipei" in v_title or "台北" in nickname: brand = "Taipei Live Cam"
-    elif "Taoyuan" in v_title or "桃園" in nickname: brand = "遊桃園"
-    elif "New Taipei" in v_title or "新北" in nickname: brand = "新北旅客"
-    elif "Alishan" in v_title or "阿里山" in nickname: brand = "阿里山"
-    elif "East Coast" in v_title or "東部海岸" in nickname: brand = "東部海岸"
+    # A. 國會頻道：提取具體會議名稱
+    if "國會頻道" in nickname:
+        # 分割標題並取第一個區段 (通常是委員會或院會名稱)
+        segments = re.split(r'[\|\-\—\–]', v_title)
+        if len(segments) > 1:
+            return f"【國會頻道】{segments[0].strip()}"
+        return f"【國會頻道】{v_title.replace('立法院議事轉播', '').strip()}"
+
+    # B. 風景頻道品牌標準化
+    if "高雄" in nickname or "Kaohsiung" in v_title: brand = "高雄旅遊網"
+    elif "Taipei" in nickname or "台北" in v_title: brand = "Taipei Live Cam"
+    elif "桃園" in nickname or "Taoyuan" in v_title: brand = "遊桃園"
+    elif "新北" in nickname or "New Taipei" in v_title: brand = "新北旅客"
+    elif "阿里山" in nickname or "Alishan" in v_title: brand = "阿里山"
+    elif "東部海岸" in nickname or "East Coast" in v_title: brand = "東部海岸"
     else: brand = nickname
 
-    # B. 預處理：移除括號內容與常見噪音詞
+    # C. 風景地標提取 (移除噪音與括號)
     clean_title = re.sub(r'[【\[\(].*?[】\]\)]', '', v_title).strip()
     segments = re.split(r'[\|\-\—\–]', clean_title)
     
     landmark = ""
-    # C. 從標題片段中反向搜尋中文地標 (風景頻道地標通常在後方)
+    # 反向搜尋具體中文地標
     for seg in reversed(segments):
         chinese_found = "".join(re.findall(r'[\u4e00-\u9fa5]+', seg))
-        # 剔除城市名與頻道重複字眼
+        # 移除重複的城市名與噪音字
         noises = ["即時影像", "直播", "頻道", "官方", "高雄", "桃園", "台北", "新北", "觀光", "風景區", "管理處"]
         for n in noises:
             chinese_found = chinese_found.replace(n, "")
-        
         if len(chinese_found) >= 2:
             landmark = chinese_found
             break
 
-    # D. 如果中文提取失敗 (例如：Shitiping Live Cam)，比對翻譯表
+    # D. 英文翻譯救援
     if len(landmark) < 2:
-        found_parts = []
         for eng, chi in LANDMARK_MAP.items():
             if eng.lower() in v_title.lower():
-                found_parts.append(chi)
-        if found_parts:
-            landmark = "".join(dict.fromkeys(found_parts))
+                landmark = chi
+                break
 
-    # E. 最終清理
+    # E. 最終清理與保底
     if not landmark:
         landmark = re.sub(r'(?i)Live Cam|4K|Stream|即時影像|Taiwan', '', clean_title).strip()
-        landmark = landmark.split('|')[0].strip()
+        landmark = landmark.split('|')[0].strip() if landmark else "即時影像"
 
     return f"【{brand}】{landmark}"
 
 def get_live_info():
     ydl_opts = {
-        'quiet': True, 'extract_flat': True, 'skip_download': True,
-        'playlist_items': '1-15', 'ignoreerrors': True, 'no_warnings': True,
-        'extra_headers': {'Accept-Language': 'zh-TW,zh;q=0.9'}
+        'quiet': True,
+        'extract_flat': True,
+        'skip_download': True,
+        'playlist_items': '1-20',
+        'ignoreerrors': True,
+        'no_warnings': True,
+        'extra_headers': {
+            'Accept-Language': 'zh-TW,zh;q=0.9',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        }
     }
     
     final_output = []
@@ -399,24 +404,27 @@ def get_live_info():
         for genre, channels in CATEGORIES.items():
             genre_list = []
             seen_urls = set()
-            print(f">>> 正在掃描並優化全台風景地標: {genre}")
+            print(f">>> 正在掃描並優化: {genre}")
             
             for nickname, url in channels.items():
                 try:
                     info = ydl.extract_info(url, download=False)
                     if not info: continue
+                    
                     entries = info.get('entries', []) or ([info] if info.get('live_status') == 'is_live' else [])
 
                     for entry in entries:
                         if not entry or not (entry.get('live_status') == 'is_live' or entry.get('is_live')):
                             continue
+                            
                         v_url = f"https://www.youtube.com/watch?v={entry.get('id')}"
                         if v_url not in seen_urls:
-                            # 套用整合優化方案
+                            # 執行整合辨識邏輯
                             final_title = extract_best_title(entry.get('title', ''), nickname)
                             genre_list.append(f"{final_title},{v_url}")
                             seen_urls.add(v_url)
-                except: continue
+                except Exception:
+                    continue
             
             if genre_list:
                 final_output.append(genre)
@@ -429,4 +437,4 @@ if __name__ == "__main__":
     results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(results).strip() + "\n")
-    print("\n✅ 全台風景地標優化整合完成！請查看 live_list.txt")
+    print("\n✅ 標題辨識優化整合完成！請檢查 live_list.txt")
