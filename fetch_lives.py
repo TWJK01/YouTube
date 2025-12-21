@@ -317,9 +317,9 @@ CATEGORIES = {
     }
 }
 
-def extract_chinese_landmark(v_title, nickname):
+def get_full_chinese_title(v_title, nickname):
     """
-    強化版提取邏輯：強制搜尋標題內所有中文字符，並與品牌組合
+    提取標題中完整的中文部分，不進行縮減，僅移除重複的品牌名。
     """
     # 1. 處理品牌前綴
     if "台北" in nickname or "Taipei" in v_title:
@@ -327,32 +327,31 @@ def extract_chinese_landmark(v_title, nickname):
     elif "新北" in nickname:
         brand = "新北旅客"
     else:
-        # 提取括號內容
+        # 嘗試從括號提取，若無則用自定義暱稱
         bracket_match = re.search(r'[【\[](.*?)[】\]]', v_title)
         brand = bracket_match.group(1) if bracket_match else nickname
         brand = re.sub(r'(?i)4K|Live|Cam|Stream', '', brand).strip()
 
-    # 2. 提取中文字地標 (關鍵優化)
-    # 移除標題中已知的干擾字眼
-    noise = ['即時影像', '直播', '4K', 'HD', '頻道', '官方', nickname]
-    clean_text = v_title
-    for n in noise:
-        clean_text = clean_text.replace(n, "")
-
-    # 使用 Regex 提取所有中文：這會跳過英文 Maokong Zhinan，直接抓到後面的『貓空指南宮』
-    chinese_found = re.findall(r'[\u4e00-\u9fa5]+', clean_text)
-    landmark = "".join(chinese_found)
+    # 2. 提取完整的中文標題段落
+    # 移除括號內的內容（通常是重複的英文品牌）
+    main_text = re.sub(r'[【\[].*?[】\]]', '', v_title).strip()
+    
+    # 尋找所有中文字串（包含標點符號如：、，）
+    # 使用 [\u4e00-\u9fa5] 匹配中文字，並保留常見中文標點
+    chinese_pattern = r'[\u4e00-\u9fa5\uff01-\uff5e\u3000-\u303f]+'
+    chinese_matches = re.findall(chinese_pattern, main_text)
+    
+    full_chinese = " ".join(chinese_matches)
 
     # 3. 組合輸出
-    # 如果抓到具體中文地標 (如：貓空指南宮)
-    if landmark:
-        return f"【{brand}】{landmark}"
+    if full_chinese:
+        # 移除與品牌重複的字眼（例如標題裡又有「台北觀光」）
+        display_text = full_chinese.replace(nickname, "").strip()
+        if not display_text: display_text = full_chinese
+        return f"【{brand}】{display_text}"
     
-    # 如果沒抓到中文，嘗試從括號外的英文名稱中提取
-    fallback = re.sub(r'[【\[].*?[】\]]', '', v_title).strip()
-    fallback = fallback.split('|')[0].split('-')[0].strip() # 抓取第一個區段
-    
-    return f"【{brand}】{fallback}"
+    # 若標題完全無中文，則回傳清理後的原始標題
+    return f"【{brand}】{main_text}"
 
 def get_live_info():
     ydl_opts = {
@@ -362,10 +361,9 @@ def get_live_info():
         'playlist_items': '1-15',
         'ignoreerrors': True,
         'no_warnings': True,
-        # 關鍵設定：強制以繁體中文語系請求資料
         'extra_headers': {
-            'Accept-Language': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+            'Accept-Language': 'zh-TW,zh;q=0.9',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         }
     }
     
@@ -375,7 +373,7 @@ def get_live_info():
         for genre, channels in CATEGORIES.items():
             genre_list = []
             seen_urls = set()
-            print(f">>> 正在掃描 {genre} ...")
+            print(f">>> 正在掃描並提取完整中文標題: {genre}")
             
             for nickname, url in channels.items():
                 try:
@@ -393,11 +391,13 @@ def get_live_info():
                             v_url = f"https://www.youtube.com/watch?v={v_id}"
                             
                             if v_id and v_url not in seen_urls:
-                                # 執行標題優化
-                                optimized_title = extract_chinese_landmark(entry.get('title', ''), nickname)
+                                # 取得完整中文標題
+                                raw_v_title = entry.get('title', '')
+                                optimized_title = get_full_chinese_title(raw_v_title, nickname)
+                                
                                 genre_list.append(f"{optimized_title},{v_url}")
                                 seen_urls.add(v_url)
-                                print(f"  [成功] {optimized_title}")
+                                print(f"  [完整標題] {optimized_title}")
                 except Exception:
                     continue
             
@@ -412,4 +412,4 @@ if __name__ == "__main__":
     results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(results).strip() + "\n")
-    print("\n✅ 中文地標強制提取完成！")
+    print("\n✅ 完整標題提取完成！請檢查 live_list.txt")
