@@ -314,7 +314,7 @@ CATEGORIES = {
 		"交通部觀光署澎湖國家風景區管理處": "https://www.youtube.com/@交通部觀光署澎湖國家/streams",		
 		"樂遊金門": "https://www.youtube.com/@kinmentravel/streams",
 		"馬祖國家風景區": "https://www.youtube.com/@matsunationalscenicarea9539/streams"		
-    }}
+    }
 }
 
 # 2. 整合地標翻譯對照表 (針對純英文標題的保底機制)
