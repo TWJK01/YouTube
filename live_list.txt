@@ -149,9 +149,7 @@
 體育,#genre#
 【緯來體育台】臺中連莊雲豹飛將,https://www.youtube.com/watch?v=oZCFASb__ww
 【getwin_sport】鳳山體育館,https://www.youtube.com/watch?v=ve9dCHYRKjs
-【HOP Sports】例行賽屏東台電雲林美津濃企業年甲級男女排球聯賽,https://www.youtube.com/watch?v=eLozAQ4EC_o
 【HOP Sports】小時台湾時間,https://www.youtube.com/watch?v=JaGd4Yy_xjA
-【GoHoops】20251221 shoot 360 17:30 Hornets VS Future Wings,https://www.youtube.com/watch?v=ZbjdhzvaGyM
 【WCW】LIVE: WCW Watch Party,https://www.youtube.com/watch?v=UZYwoKfrgJQ
 【BattleBots】🔴 LIVE All BattleBots Vegas Events Fights!,https://www.youtube.com/watch?v=5CHCbBj-Vjg
 
@@ -217,7 +215,6 @@
 【國會頻道】司法及法制委員會,https://www.youtube.com/watch?v=KUhidt89DVo
 【國會頻道】內政委員會,https://www.youtube.com/watch?v=vGX0bMBVa4k
 【國會頻道】修憲委員會,https://www.youtube.com/watch?v=1s_XWr7KzVE
-【國會頻道】國會頻道１,https://www.youtube.com/watch?v=4HysYHJ6GkY
 
 風景,#genre#
 【和平島公園即時影像】和平島公園,https://www.youtube.com/watch?v=TRswIqMXKz8
@@ -265,11 +262,6 @@
 【遊桃園】角板山,https://www.youtube.com/watch?v=-xT1bZhWLuU
 【遊桃園】Hutoushan Owl Forest School,https://www.youtube.com/watch?v=yQSmajHyMhU
 【遊桃園】Daxi Bridge,https://www.youtube.com/watch?v=oFJ6gCaBb_Q
-【遊桃園】Three Swimming Turtles,https://www.youtube.com/watch?v=5YDXZ1aiR5Y
-【遊桃園】角板山思親亭,https://www.youtube.com/watch?v=3Za9y4z_Lzc
-【遊桃園】小烏來天空步道,https://www.youtube.com/watch?v=neaiCec1kec
-【遊桃園】Hutoushan Environmental Park,https://www.youtube.com/watch?v=tu_gsIkNt-w
-【遊桃園】拉拉山,https://www.youtube.com/watch?v=YkIUZjVlhv4
 【雪霸國家公園 Shei-Pa National Park】雪見遊憩區小時,https://www.youtube.com/watch?v=2KDE860OW_A
 【雪霸國家公園 Shei-Pa National Park】汶水遊客中心小時,https://www.youtube.com/watch?v=VgmWVBUsfGo
 【雪霸國家公園 Shei-Pa National Park】觀霧遊憩區小時,https://www.youtube.com/watch?v=Isp6RQiuxNo
