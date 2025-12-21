@@ -367,7 +367,7 @@ def get_live_info():
         'quiet': True,
         'extract_flat': True,
         'skip_download': True,
-        'playlist_items': '1-20',
+        'playlist_items': '1-10',
         'ignoreerrors': True,
         'no_warnings': True,
         # 關鍵：強制設定繁體中文 Header，並模擬台灣 IP 請求環境
