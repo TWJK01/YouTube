@@ -1,7 +1,7 @@
 import yt_dlp
 import re
 
-# 1. 頻道分類與來源清單
+# 1. 頻道分類清單
 CATEGORIES = {
     "台灣,#genre#": {
         "台灣地震監視": "https://www.youtube.com/@台灣地震監視/streams",
@@ -317,58 +317,60 @@ CATEGORIES = {
     }
 }
 
-# 2. 擴充地標翻譯對照表 (涵蓋阿里山、台北、桃園等)
+# 2. 擴充地標翻譯對照表 (新增東部海岸地標)
 LANDMARK_MAP = {
+    # 東部海岸系列
+    "Chaikou": "綠島柴口",
+    "Fanchuanbi": "綠島帆船鼻",
+    "Shitiping": "石梯坪",
+    "Changhong Bridge": "長虹橋",
+    "Dashshibi Hill": "大石鼻山",
+    "Jialulan": "加路蘭",
+    "Torik": "都歷遊客中心",
+    "Sanxiantai": "三仙台",
+    "Nanliao": "綠島南寮漁港",
+    "Jinzun": "金樽",
+    "Lidong": "東管處都歷",
     # 阿里山系列
     "Fenqihu": "奮起湖",
     "Eryanping": "二延平步道",
     "Taiping Suspension Bridge": "太平雲梯",
     "Lijia": "里佳資訊站",
-    "Sheng-Li Farm": "生力農場",
-    "Niupuzai": "牛埔仔愛情大草原",
-    "Highway 18": "台18線愛情絲路",
-    "National Scenic Area Administration": "觸口遊客中心",
     # 台北系列
     "Maokong": "貓空指南宮",
-    "Jiantanshan": "劍潭山微風平台",
-    "Bishan": "碧山巖",
-    "Dajia": "大佳河濱公園",
-    "Dadaocheng": "大稻埕碼頭",
-    "Elephant Mountain": "象山看台北",
-    # 桃園系列
-    "Baling": "巴陵大橋",
-    "Shihmen Reservoir": "石門水庫",
-    "Daxi Old Street": "大溪老街"
+    "Dadaocheng": "大稻埕碼頭"
 }
 
 def extract_best_title(v_title, nickname):
     """
-    針對風景類標題進行深度優化，優先提取中文地標。
+    深度優化：強制提取標題中的中文地標，若無則依對照表翻譯。
     """
-    # 決定品牌前綴
-    if "Alishan" in v_title or "阿里山" in nickname:
+    # A. 決定品牌前綴
+    if "East Coast" in v_title or "東部海岸" in nickname:
+        brand = "東部海岸國家風景區"
+    elif "Alishan" in v_title or "阿里山" in nickname:
         brand = "阿里山國家風景區"
     elif "Taipei" in v_title or "台北" in nickname:
         brand = "Taipei Live Cam"
-    elif "Taoyuan" in v_title or "桃園" in nickname:
-        brand = "遊桃園 Taoyuan Travel"
     else:
         brand = nickname
 
-    # 1. 優先尋找標題中括號內的中文 (阿里山頻道常用格式)
-    bracket_chinese = re.findall(r'[【\[]([\u4e00-\u9fa5]+)[】\]]', v_title)
-    if bracket_chinese:
-        # 過濾掉包含品牌名的括號
-        landmark = next((c for c in bracket_chinese if "阿里山" not in c and "即時影像" not in c), "")
-        if landmark: return f"【{brand}】{landmark}"
+    # B. 優先尋找標題中「最後一個」連字號或分隔符號後的中文 (這是最精確的地標位置)
+    # 範例：【Live Cam】東海岸即時影像 - 三仙台 -> 抓取「三仙台」
+    segments = re.split(r'[\|\-\—\–]', v_title)
+    if len(segments) > 1:
+        last_segment = segments[-1].strip()
+        chinese_only = "".join(re.findall(r'[\u4e00-\u9fa5]+', last_segment))
+        if chinese_only and len(chinese_only) >= 2:
+            return f"【{brand}】{chinese_only}"
 
-    # 2. 嘗試抓取標題內所有中文字
+    # C. 嘗試抓取標題內所有中文字並過濾噪音
     chinese_match = re.findall(r'[\u4e00-\u9fa5]+', v_title)
-    noise = ["即時影像", "直播", "頻道", "官方", "桃園", "台北", "觀光", "阿里山", "國家風景區管理處"]
-    clean_parts = [word for word in chinese_match if word not in noise]
-    landmark = "".join(clean_parts)
+    noise = ["即時影像", "直播", "頻道", "官方", "東部海岸", "阿里山", "台北", "觀光", "國家風景區"]
+    landmark_parts = [word for word in chinese_match if word not in noise]
+    landmark = "".join(landmark_parts)
 
-    # 3. 如果中文提取失敗 (例如標題純英文)，執行英文關鍵字對照
+    # D. 如果中文太少，執行英文關鍵字翻譯
     if len(landmark) < 2:
         found_translation = []
         for eng, chi in LANDMARK_MAP.items():
@@ -377,10 +379,10 @@ def extract_best_title(v_title, nickname):
         if found_translation:
             landmark = "".join(dict.fromkeys(found_translation))
 
-    # 4. 保底邏輯：若仍無地標，保留標題中第一個有意義的區段
+    # E. 保底邏輯：移除括號後取標題前端
     if not landmark:
-        landmark = v_title.split('|')[0].split('-')[0].split('in')[0].strip()
-        landmark = re.sub(r'[【\[].*?[】\]]', '', landmark).strip()
+        landmark = re.sub(r'[【\[].*?[】\]]', '', v_title).strip()
+        landmark = landmark.split('|')[0].split('-')[0].strip()
 
     return f"【{brand}】{landmark}"
 
@@ -404,7 +406,7 @@ def get_live_info():
         for genre, channels in CATEGORIES.items():
             genre_list = []
             seen_urls = set()
-            print(f">>> 正在掃描並強化地標辨識: {genre}")
+            print(f">>> 正在提取完整中文地標: {genre}")
             
             for nickname, url in channels.items():
                 try:
@@ -422,12 +424,12 @@ def get_live_info():
                         v_url = f"https://www.youtube.com/watch?v={entry.get('id')}"
                         if v_url not in seen_urls:
                             v_raw_title = entry.get('title', '')
-                            # 調用強化辨識邏輯
+                            # 調用標題強化辨識
                             final_title = extract_best_title(v_raw_title, nickname)
                             
                             genre_list.append(f"{final_title},{v_url}")
                             seen_urls.add(v_url)
-                            print(f"  [成功辨識] {final_title}")
+                            print(f"  [成功提取] {final_title}")
                 except Exception: continue
             
             if genre_list:
@@ -441,4 +443,4 @@ if __name__ == "__main__":
     results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(results).strip() + "\n")
-    print("\n✅ 清單已更新，阿里山地標已修正為中文。")
+    print("\n✅ 東部海岸與各風景區中文標題已成功優化。")
