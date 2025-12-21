@@ -317,71 +317,71 @@ CATEGORIES = {
     }
 }
 
-# 2. 英文地標翻譯對照表 (針對純英文標題強制轉換)
+# 2. 擴充地標翻譯對照表 (涵蓋阿里山、台北、桃園等)
 LANDMARK_MAP = {
+    # 阿里山系列
+    "Fenqihu": "奮起湖",
+    "Eryanping": "二延平步道",
+    "Taiping Suspension Bridge": "太平雲梯",
+    "Lijia": "里佳資訊站",
+    "Sheng-Li Farm": "生力農場",
+    "Niupuzai": "牛埔仔愛情大草原",
+    "Highway 18": "台18線愛情絲路",
+    "National Scenic Area Administration": "觸口遊客中心",
+    # 台北系列
     "Maokong": "貓空指南宮",
     "Jiantanshan": "劍潭山微風平台",
     "Bishan": "碧山巖",
     "Dajia": "大佳河濱公園",
     "Dadaocheng": "大稻埕碼頭",
     "Elephant Mountain": "象山看台北",
+    # 桃園系列
     "Baling": "巴陵大橋",
-    "Amuping": "阿姆坪薑絲島",
-    "Ginger Island": "薑絲島",
-    "Cihu": "慈湖紀念雕塑公園",
     "Shihmen Reservoir": "石門水庫",
-    "Daxi Old Street": "大溪老街",
-    "Jiaobanshan": "角板山",
-    "Eco Pond": "生態池",
-    "Plum Orchard": "梅園",
-    "Hutoushan": "虎頭山奧爾森林學堂",
-    "Daxi Bridge": "大溪橋",
-    "Three Swimming Turtles": "三龜戲水",
-    "Xuchuogang": "許厝港濕地",
-    "Xiao Wulai": "小烏來",
-    "Skywalk": "天空步道",
-    "101": "台北101"
+    "Daxi Old Street": "大溪老街"
 }
 
 def extract_best_title(v_title, nickname):
     """
-    優先提取中文地標，若無中文則根據對照表翻譯英文。
+    針對風景類標題進行深度優化，優先提取中文地標。
     """
-    # 決定前綴
-    if "Taipei" in v_title or "台北" in nickname:
+    # 決定品牌前綴
+    if "Alishan" in v_title or "阿里山" in nickname:
+        brand = "阿里山國家風景區"
+    elif "Taipei" in v_title or "台北" in nickname:
         brand = "Taipei Live Cam"
-    elif "桃園" in nickname or "Taoyuan" in v_title:
+    elif "Taoyuan" in v_title or "桃園" in nickname:
         brand = "遊桃園 Taoyuan Travel"
     else:
         brand = nickname
 
-    # 1. 嘗試抓取標題內所有中文字
+    # 1. 優先尋找標題中括號內的中文 (阿里山頻道常用格式)
+    bracket_chinese = re.findall(r'[【\[]([\u4e00-\u9fa5]+)[】\]]', v_title)
+    if bracket_chinese:
+        # 過濾掉包含品牌名的括號
+        landmark = next((c for c in bracket_chinese if "阿里山" not in c and "即時影像" not in c), "")
+        if landmark: return f"【{brand}】{landmark}"
+
+    # 2. 嘗試抓取標題內所有中文字
     chinese_match = re.findall(r'[\u4e00-\u9fa5]+', v_title)
-    
-    # 移除噪音詞：如「即時影像」、「直播」等
-    noise = ["即時影像", "直播", "頻道", "動態", "資訊", "桃園", "台北", "觀光"]
+    noise = ["即時影像", "直播", "頻道", "官方", "桃園", "台北", "觀光", "阿里山", "國家風景區管理處"]
     clean_parts = [word for word in chinese_match if word not in noise]
     landmark = "".join(clean_parts)
 
-    # 2. 如果中文太少 (可能是純英文標題)，則進行英文匹配
+    # 3. 如果中文提取失敗 (例如標題純英文)，執行英文關鍵字對照
     if len(landmark) < 2:
         found_translation = []
         for eng, chi in LANDMARK_MAP.items():
             if eng.lower() in v_title.lower():
                 found_translation.append(chi)
-        
         if found_translation:
-            # 組合找到的地標詞 (例如：角板山 + 生態池)
-            landmark = "".join(dict.fromkeys(found_translation)) 
+            landmark = "".join(dict.fromkeys(found_translation))
 
-    # 3. 如果還是沒抓到，保留括號外的文字作為保底
+    # 4. 保底邏輯：若仍無地標，保留標題中第一個有意義的區段
     if not landmark:
-        landmark = re.sub(r'[【\[].*?[】\]]', '', v_title).strip()
-        landmark = landmark.split('|')[0].split('-')[0].strip()
+        landmark = v_title.split('|')[0].split('-')[0].split('in')[0].strip()
+        landmark = re.sub(r'[【\[].*?[】\]]', '', landmark).strip()
 
-    # 4. 最終清理：防止名稱過於冗長或重複
-    landmark = landmark.replace("桃園國際機場", "桃園機場")
-    
     return f"【{brand}】{landmark}"
 
 def get_live_info():
@@ -404,7 +404,7 @@ def get_live_info():
         for genre, channels in CATEGORIES.items():
             genre_list = []
             seen_urls = set()
-            print(f">>> 正在掃描並強化辨識: {genre}")
+            print(f">>> 正在掃描並強化地標辨識: {genre}")
             
             for nickname, url in channels.items():
                 try:
@@ -422,14 +422,13 @@ def get_live_info():
                         v_url = f"https://www.youtube.com/watch?v={entry.get('id')}"
                         if v_url not in seen_urls:
                             v_raw_title = entry.get('title', '')
-                            # 執行地標強化辨識
+                            # 調用強化辨識邏輯
                             final_title = extract_best_title(v_raw_title, nickname)
                             
                             genre_list.append(f"{final_title},{v_url}")
                             seen_urls.add(v_url)
                             print(f"  [成功辨識] {final_title}")
-                except Exception:
-                    continue
+                except Exception: continue
             
             if genre_list:
                 final_output.append(genre)
@@ -442,4 +441,4 @@ if __name__ == "__main__":
     results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(results).strip() + "\n")
-    print("\n✅ 清單已產出，請檢查地標是否已正確區分。")
+    print("\n✅ 清單已更新，阿里山地標已修正為中文。")
