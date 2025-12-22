@@ -10,8 +10,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】現正播映大愛劇新何處是我家,https://www.youtube.com/watch?v=MIqUplvSRWA
-【大愛電視】現正播映好戲成雙飄洋過海來愛你,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+【大愛電視】現正播映經典劇坊在愛之外,https://www.youtube.com/watch?v=MIqUplvSRWA
+【大愛電視】現正播映經典劇坊在愛之外,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 【鏡新聞】鏡新聞線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】東森新聞小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】東森新聞小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -19,7 +19,6 @@
 【三立LIVE新聞】話時代人物精彩不斷電話時代人物,https://www.youtube.com/watch?v=nvr3wUZhlIY
 【三立LIVE新聞】三立新聞小時,https://www.youtube.com/watch?v=QsGswQvRmtU
 【三立LIVE新聞】三立新聞海外小時台灣新聞,https://www.youtube.com/watch?v=hGJkDZDchYI
-【中天電視CtiTv】與青年學子談兩岸鄭麗文東吳政治系演講中天新聞,https://www.youtube.com/watch?v=J2YKxq-8_h0
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -35,6 +34,7 @@
 【非凡商業台】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導,https://www.youtube.com/watch?v=xLqt2p6Dowo
 【運通財經台】運通財經台,https://www.youtube.com/watch?v=6u3fNhDKT6Q
 【全球財經台2】全球財經台,https://www.youtube.com/watch?v=UHSNRY7Ikco
+【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊,https://www.youtube.com/watch?v=A4A6dJz_1MQ
 【CCTV中文】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=7j92Myu2wzg
 【CCTV中文】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 【8world】资讯不停播视界,https://www.youtube.com/watch?v=RvSOIM620bA
@@ -173,15 +173,10 @@
 政論,#genre#
 【TVBS 優選頻道】時間連続配信中新聞大白話少康戰情,https://www.youtube.com/watch?v=f9P_slj4KvU
 【TVBS 優選頻道】時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】海南黃金三角新加坡中轉跌美百架戰機震委內瑞拉竟搶百萬桶陸石油首台光刻機運行北京破美封鎖完整版全球大視野,https://www.youtube.com/watch?v=6cIMDlGRS5k
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=0UOnH10P4oY
 【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網,https://www.youtube.com/watch?v=JIKHI-lnWmw
 【94要客訴】頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網,https://www.youtube.com/watch?v=HarWsyvLERc
-【大新聞大爆卦】與青年學子談兩岸鄭麗文東吳政治系演講大新聞大爆卦,https://www.youtube.com/watch?v=utyxoF3-G_o
 【新聞大白話】時間配信,https://www.youtube.com/watch?v=8o3rl1YgbmE
-【中天深喉嚨】與青年學子談兩岸鄭麗文東吳政治系演講,https://www.youtube.com/watch?v=DaDyB9iiG8w
-【57爆新聞】徐俊相,https://www.youtube.com/watch?v=UKUbmtiQm3U
-【關鍵時刻】北捷英雄守護所有人回家路北車英雄花海各國旅客親筆感謝余家昶,https://www.youtube.com/watch?v=6k5wHBvAg-4
 【少康戰情室】時間配信趙少康戰鬥藍,https://www.youtube.com/watch?v=_LVTMyXBTTI
 【金臨天下】財經新聞看盤不中斷時間黃斐瑜趙慶翔,https://www.youtube.com/watch?v=gBcED3mKCMU
 
