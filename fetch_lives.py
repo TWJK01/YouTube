@@ -1,7 +1,7 @@
 import yt_dlp
 import re
 
-# 1. 完整頻道分類與來源定義
+# 1. 完整頻道分類定義
 CATEGORIES = {
     "台灣,#genre#": {
         "台灣地震監視": "https://www.youtube.com/@台灣地震監視/streams",
@@ -317,35 +317,27 @@ CATEGORIES = {
     }
 }
 
-# 2. 地標翻譯對照表 (針對純英文或辨識困難標題的保底機制)
+# 2. 地標翻譯對照表 (救援純英文標題)
 LANDMARK_MAP = {
-    # 高雄系列
     "Shoushan Lovers": "壽山情人觀景台", "Lianchihtan": "蓮池潭", "Lotus Pond": "蓮池潭",
     "Cijin": "旗津", "Love River": "愛河", "Sizihwan": "西子灣",
-    # 桃園系列
-    "Baling": "巴陵大橋", "Amuping": "阿姆坪", "Ginger Island": "薑絲島", "Cihu": "慈湖",
-    "Shihmen Reservoir": "石門水庫", "Daxi Old Street": "大溪老街", "Jiaobanshan": "角板山",
-    "Lala Mountain": "拉拉山", "Xuchuogang": "許厝港濕地", "Xiao Wulai": "小烏來",
-    # 阿里山系列
+    "Baling": "巴陵大橋", "Shihmen Reservoir": "石門水庫", "Daxi Old Street": "大溪老街",
     "Fenqihu": "奮起湖", "Eryanping": "二延平", "Taiping Suspension Bridge": "太平雲梯",
-    "Lijia": "里佳資訊站", "Sheng-Li Farm": "生力農場", "Niupuzai": "牛埔仔大草原",
-    # 東部海岸系列
-    "Chaikou": "綠島柴口", "Fanchuanbi": "帆船鼻", "Shitiping": "石梯坪", "Changhong Bridge": "長虹橋",
-    "Dashshibi": "大石鼻山", "Jialulan": "加路蘭", "Torik": "都歷", "Sanxiantai": "三仙台"
+    "Sanxiantai": "三仙台", "Chaikou": "綠島柴口", "Shitiping": "石梯坪", "Jialulan": "加路蘭"
 }
 
 def extract_best_title(v_title, nickname):
     """
-    智慧標題優化：自動處理國會會議區分與風景地標提取。
+    優化標題提取邏輯：區分國會會議名稱與風景區地標。
     """
-    # A. 國會頻道：提取具體會議名稱 (例如：司法及法制委員會)
+    # A. 國會頻道：提取具體會議類別
     if "國會頻道" in nickname:
         segments = re.split(r'[\|\-\—\–]', v_title)
         if len(segments) > 1:
             return f"【國會頻道】{segments[0].strip()}"
         return f"【國會頻道】{v_title.replace('立法院議事轉播', '').strip()}"
 
-    # B. 風景頻道品牌標準化
+    # B. 風景頻道品牌名稱規範化
     if "高雄" in nickname or "Kaohsiung" in v_title: brand = "高雄旅遊網"
     elif "Taipei" in nickname or "台北" in v_title: brand = "Taipei Live Cam"
     elif "桃園" in nickname or "Taoyuan" in v_title: brand = "遊桃園"
@@ -354,14 +346,14 @@ def extract_best_title(v_title, nickname):
     elif "東部海岸" in nickname or "East Coast" in v_title: brand = "東部海岸"
     else: brand = nickname
 
-    # C. 風景地標提取 (移除括號並反向搜尋核心中文)
+    # C. 風景地標提取 (移除噪音詞與品牌重複名)
     clean_title = re.sub(r'[【\[\(].*?[】\]\)]', '', v_title).strip()
     segments = re.split(r'[\|\-\—\–]', clean_title)
     
     landmark = ""
+    # 反向搜尋標題中的中文地標 (通常位於後半段)
     for seg in reversed(segments):
         chinese_found = "".join(re.findall(r'[\u4e00-\u9fa5]+', seg))
-        # 移除重複的城市名與常見噪音字
         noises = ["即時影像", "直播", "頻道", "官方", "高雄", "桃園", "台北", "新北", "觀光", "風景區", "管理處"]
         for n in noises:
             chinese_found = chinese_found.replace(n, "")
@@ -369,7 +361,7 @@ def extract_best_title(v_title, nickname):
             landmark = chinese_found
             break
 
-    # D. 英文翻譯救援機制
+    # D. 英文對照救援
     if len(landmark) < 2:
         for eng, chi in LANDMARK_MAP.items():
             if eng.lower() in v_title.lower():
@@ -385,13 +377,13 @@ def extract_best_title(v_title, nickname):
 
 def get_live_info():
     """
-    抓取 YouTube 直播資訊並進行優化處理。
+    設定模擬請求標頭，防止美國伺服器遺漏地區性直播。
     """
     ydl_opts = {
         'quiet': True,
         'extract_flat': True,
         'skip_download': True,
-        'playlist_items': '1-15',
+        'playlist_items': '1-20',
         'ignoreerrors': True,
         'no_warnings': True,
         'extra_headers': {
@@ -405,22 +397,24 @@ def get_live_info():
         for genre, channels in CATEGORIES.items():
             genre_list = []
             seen_urls = set()
-            print(f">>> 正在掃描並優化: {genre}")
+            print(f">>> 正在同步國會與風景直播: {genre}")
             
             for nickname, url in channels.items():
                 try:
                     info = ydl.extract_info(url, download=False)
                     if not info: continue
                     
+                    # 獲取直播清單
                     entries = info.get('entries', []) or ([info] if info.get('live_status') == 'is_live' else [])
 
                     for entry in entries:
-                        if not entry or not (entry.get('live_status') == 'is_live' or entry.get('is_live')):
+                        # 檢查直播狀態，不論地區限制盡可能抓取網址
+                        is_live = entry.get('live_status') == 'is_live' or entry.get('is_live')
+                        if not is_live:
                             continue
                             
                         v_url = f"https://www.youtube.com/watch?v={entry.get('id')}"
                         if v_url not in seen_urls:
-                            # 套用整合優化方案
                             final_title = extract_best_title(entry.get('title', ''), nickname)
                             genre_list.append(f"{final_title},{v_url}")
                             seen_urls.add(v_url)
@@ -438,4 +432,4 @@ if __name__ == "__main__":
     results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(results).strip() + "\n")
-    print("\n✅ 國會、高雄與全台風景優化整合完成！請檢查 live_list.txt")
+    print("\n✅ 整合優化完成！標題與網址已儲存至 live_list.txt")
