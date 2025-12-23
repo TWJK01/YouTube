@@ -10,8 +10,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】現正播映大愛劇新何處是我家,https://www.youtube.com/watch?v=MIqUplvSRWA
-【大愛電視】現正播映好戲成雙阿芬的幸福修練,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+【大愛電視】現正播映經典劇坊在愛之外,https://www.youtube.com/watch?v=MIqUplvSRWA
+【大愛電視】現正播映經典劇坊在愛之外,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 【鏡新聞】鏡新聞線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】東森新聞小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】東森新聞小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -37,6 +37,7 @@
 【非凡商業台】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導,https://www.youtube.com/watch?v=xLqt2p6Dowo
 【運通財經台】運通財經台,https://www.youtube.com/watch?v=6u3fNhDKT6Q
 【全球財經台2】全球財經台,https://www.youtube.com/watch?v=UHSNRY7Ikco
+【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊,https://www.youtube.com/watch?v=L4e5IYplbuY
 【CCTV中文】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=7j92Myu2wzg
 【CCTV中文】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 【8world】资讯不停播视界,https://www.youtube.com/watch?v=RvSOIM620bA
@@ -181,13 +182,11 @@
 【TVBS 優選頻道】歷經兩年以哈戰爭聖誕節重新降臨伯利恆,https://www.youtube.com/watch?v=w4dsfKoK_hU
 【TVBS 優選頻道】時間連続配信中新聞大白話少康戰情,https://www.youtube.com/watch?v=f9P_slj4KvU
 【TVBS 優選頻道】時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】俄中將遇刺身亡震驚莫斯科超限戰升級美封鎖委油輪次求救日擁核挑戰紅線哈薩克飛俄出賣高市中俄中亞聯手震撼完整版全球大視野,https://www.youtube.com/watch?v=TVsRLEDQAdI
-【全球大視野】聖誕老公公出發了一年一度駕雪橇環遊世界送禮物全球大視野,https://www.youtube.com/watch?v=PCutXv-XYs4
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=0UOnH10P4oY
 【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網,https://www.youtube.com/watch?v=JIKHI-lnWmw
 【94要客訴】頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網,https://www.youtube.com/watch?v=HarWsyvLERc
 【新聞大白話】時間配信,https://www.youtube.com/watch?v=8o3rl1YgbmE
-【關鍵時刻】張文殺人黑盒子藏屠殺續集鎖定北車管轄混亂一條紅線各自甩鍋,https://www.youtube.com/watch?v=AwCqtl0Smes
+【哏傳媒】鄭麗文嗆的剛剛好但為什麼沒人要給我萬月每週二晚謝寒冰,https://www.youtube.com/watch?v=GGLNfyKstvQ
 【少康戰情室】時間配信趙少康戰鬥藍,https://www.youtube.com/watch?v=_LVTMyXBTTI
 【金臨天下】財經新聞看盤不中斷時間黃斐瑜趙慶翔,https://www.youtube.com/watch?v=gBcED3mKCMU
 
@@ -220,7 +219,6 @@
 【國會頻道】國會頻道１,https://www.youtube.com/watch?v=4HysYHJ6GkY
 
 風景,#genre#
-【和平島公園即時影像】和平島公園,https://www.youtube.com/watch?v=7ZqxPR17XD4
 【台北觀光即時影像】Maokong Zhinan Temple,https://www.youtube.com/watch?v=215ahZ_0rTg
 【台北觀光即時影像】Jiantanshan Weifeng Observatory,https://www.youtube.com/watch?v=34h_Cy_n0Ok
 【台北觀光即時影像】Bishan Temple,https://www.youtube.com/watch?v=uvwfYzwY8tg
@@ -250,7 +248,6 @@
 【necoast nsa】福隆海水浴場,https://www.youtube.com/watch?v=mMG7v_fET5A
 【necoast nsa】龍洞灣觀景台,https://www.youtube.com/watch?v=8-xSAfWwh10
 【necoast nsa】外澳沙灘,https://www.youtube.com/watch?v=UgoT-QTbYvo
-【野柳即時影像】野柳地質公園,https://www.youtube.com/watch?v=YezqADC03UM
 【遊桃園】巴陵馬崙砲台觀景平台,https://www.youtube.com/watch?v=3JzbzXqusDg
 【遊桃園】許厝港濕地,https://www.youtube.com/watch?v=44JArbF682k
 【遊桃園】小烏來寰宇平台,https://www.youtube.com/watch?v=PJWye36lEj4
