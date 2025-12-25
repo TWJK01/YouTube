@@ -15,8 +15,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】現正播映大愛午安新聞,https://www.youtube.com/watch?v=MIqUplvSRWA
-【大愛電視】現正播映大愛午安新聞,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+【大愛電視】現正播映大愛劇新何處是我家,https://www.youtube.com/watch?v=MIqUplvSRWA
+【大愛電視】現正播映大愛劇新何處是我家,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 【鏡新聞】鏡新聞線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】東森午安新聞耶誕節入夜下探度越晚越冷郭鎧紋春節前後逾機率恐大震台邦交有望宏都拉斯大選出爐親台候選人阿斯夫拉勝出,https://www.youtube.com/watch?v=Db75PfA09WM
 【東森新聞】東森新聞小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
@@ -132,6 +132,15 @@
 【SMG音乐频道】勤深深神级合唱盘点李克勤周深封神和音演绎华语金曲音综最传奇搭档宝藏音乐特辑周深李克勤,https://www.youtube.com/watch?v=eUL3_9OoIw4
 
 少兒,#genre#
+【Muse木棉花】魔都精兵的奴隸,https://www.youtube.com/live/qXD7NKZlLPA?si=zyVpCoX7dpqsJNWn
+【Muse木棉花】間諜家家酒,https://www.youtube.com/watch?v=dI2negE-v4c
+【Muse木棉花】進擊的巨人,https://www.youtube.com/watch?v=GlVvyu7jehk
+【Muse木棉花】關於我轉生變成史萊姆這檔事,https://www.youtube.com/watch?v=ATsYVyh_Nwk
+【Muse木棉花】葬送的芙莉蓮,https://www.youtube.com/live/DAVfn4Sp8xw?si=ZEWt4HIP6KBuhaYr
+【Muse木棉花】蠟筆小新TV版,https://www.youtube.com/watch?v=ENnjj7jQ23g
+【Muse木棉花】新哆啦A夢,https://www.youtube.com/watch?v=jbZCyIhL4WQ
+【Muse木棉花】中華一番,https://www.youtube.com/watch?v=mRCXonM5ru8
+【Muse木棉花】我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE
 【YOYOTV】金曲熱門卡通不間斷唱跳金曲兒歌,https://www.youtube.com/watch?v=ZjMe5u-I3PM
 【momokids親子台】歡樂谷首合輯歡樂歌曲不間斷帶小孩塞車神曲小朋友跳舞兒歌童兒童律動幼兒舞蹈愛唱歌,https://www.youtube.com/watch?v=oPntQYFGwgY
 【momokids親子台】這一家歡樂不間斷第四季家庭校園喜劇趣味短劇,https://www.youtube.com/watch?v=tKcvVpq7sgE
@@ -287,7 +296,7 @@
 【遊桃園】Amuping Ginger Island  in,https://www.youtube.com/watch?v=EUOp2LchPQM
 【遊桃園】Cihu Memorial Sculpture Park,https://www.youtube.com/watch?v=pSQ0e-ZTZ5g
 【遊桃園】石門水庫,https://www.youtube.com/watch?v=GUCaVR88ZFU
-【遊桃園】大溪老街,https://www.youtube.com/watch?v=XUWjAsajKXg
+【遊桃園】Taoyuan Daxi Old Street,https://www.youtube.com/watch?v=XUWjAsajKXg
 【遊桃園】Jiaobanshan Eco Pond,https://www.youtube.com/watch?v=XEbo8NzMTbQ
 【遊桃園】Jiaobanshan Plum Orchard,https://www.youtube.com/watch?v=-xT1bZhWLuU
 【遊桃園】Hutoushan Owl Forest School,https://www.youtube.com/watch?v=yQSmajHyMhU
