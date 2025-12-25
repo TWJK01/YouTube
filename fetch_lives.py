@@ -293,7 +293,6 @@ CATEGORIES = {
     "國會,#genre#": {
         "國會頻道": "https://www.youtube.com/@parliamentarytv/streams"
     },
-    },
     "佛教,#genre#": {
         "淨土宗": "https://www.youtube.com/@plbtp/streams",
         "修心時刻": "https://www.youtube.com/@Practicetime7/streams",
