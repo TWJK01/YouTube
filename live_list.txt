@@ -11,8 +11,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】現正播映法華經序中文版,https://www.youtube.com/watch?v=MIqUplvSRWA
-【大愛電視】現正播映同學好同協,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+【大愛電視】現正播映法譬如水,https://www.youtube.com/watch?v=MIqUplvSRWA
+【大愛電視】現正播映高僧傳,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 【鏡新聞】鏡新聞線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】東森新聞小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】東森新聞小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -39,6 +39,7 @@
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=7j92Myu2wzg
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 【鳳凰衛視PhoenixTV】小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
+【HOY 資訊台 × 有線新聞】有線新聞晨早新聞報道,https://www.youtube.com/watch?v=hmVUkboU48I
 【8world】资讯不停播视界,https://www.youtube.com/watch?v=RvSOIM620bA
 
 綜藝,#genre#
@@ -165,6 +166,7 @@
 【艾瑪愛學習】聖誕節的奇蹟寶寶故事繪本睡前故事,https://www.youtube.com/watch?v=a5fKi2-2VkM
 
 體育,#genre#
+【緯來體育台】賽季看緯來,https://www.youtube.com/watch?v=6qLZwy0FifE
 【HOP Sports】小時台湾時間,https://www.youtube.com/watch?v=JaGd4Yy_xjA
 【WCW】LIVE: WCW Watch Party,https://www.youtube.com/watch?v=UZYwoKfrgJQ
 【BattleBots】🔴 LIVE All BattleBots Vegas Events Fights!,https://www.youtube.com/watch?v=5CHCbBj-Vjg
