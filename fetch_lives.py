@@ -279,6 +279,12 @@ CATEGORIES = {
         "金臨天下": "https://www.youtube.com/@tvbsmoney/streams"		
     },	
 	"購物,#genre#": {
+        "海豚多媒體": "https://www.youtube.com/@24811001/streams",
+        "寶島文化台": "https://www.youtube.com/@bdtvbest/streams",
+        "三聖電視台": "https://www.youtube.com/@tsimtv-01/streams",		
+        "桐瑛台中電視臺": "https://www.youtube.com/@%E6%A1%90%E7%91%9B%E5%8F%B0%E4%B8%AD%E9%9B%BB%E8%A6%96%E8%87%BA/streams",
+        "桐瑛虎尾電視臺": "https://www.youtube.com/@%E6%A1%90%E7%91%9B%E8%99%8E%E5%B0%BE%E9%9B%BB%E8%A6%96%E8%87%BA/streams",
+        "桐瑛台南電視臺": "https://www.youtube.com/@%E6%A1%90%E7%91%9B%E5%8F%B0%E5%8D%97%E9%9B%BB%E8%A6%96%E8%87%BA/streams",		
         "momo購物一台": "https://www.youtube.com/@momoch4812/streams",
 	    "momo購物二台": "https://www.youtube.com/@momoch3571/streams",
 	    "ViVa TV美好家庭購物": "https://www.youtube.com/@ViVaTVtw/streams",
