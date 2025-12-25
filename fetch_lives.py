@@ -352,7 +352,7 @@ MANUAL_LINKS = {
         "【Muse木棉花】我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE",		
 		"【Ani-One】白色相簿2,https://www.youtube.com/watch?v=inuV4C7UCxo",
         "【Ani-One】佐賀偶像是傳奇,https://www.youtube.com/watch?v=SNG8wNLU-_s",
-        "【Ani-One】遊戲王－怪獸之決鬥,https://www.youtube.com/watch?v=nGDX7qUl6mw"
+        "【Ani-One】遊戲王－怪獸之決鬥,https://www.youtube.com/watch?v=nGDX7qUl6mw",
 		"【回歸線娛樂】真珠美人魚,https://www.youtube.com/watch?v=BLag8MOBUg8",
         "【回歸線娛樂】夢幻遊戲,https://www.youtube.com/watch?v=7j8chjyp7tw"
 		
