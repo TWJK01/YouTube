@@ -343,11 +343,11 @@ CATEGORIES = {
 
 # 2. 手動新增連結 (您可以在此直接放入網址)
 # 格式為: "分類名稱": ["標題,網址", "標題,網址"]
-MANUAL_LINKS = {
-
+MANUAL_LINKS =
+{
     "台灣,#genre#": [
-        【TTV LIVE 台視直播】台視,https://www.youtube.com/IVE 台?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
-     ],
+        "【【TTV LIVE 台視直播】台視,https://www.youtube.com/IVE 台?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD"
+    ],
 	"少兒,#genre#": [
         "【Muse木棉花】魔都精兵的奴隸,https://www.youtube.com/live/qXD7NKZlLPA?si=zyVpCoX7dpqsJNWn",
         "【Muse木棉花】間諜家家酒,https://www.youtube.com/watch?v=dI2negE-v4c",
@@ -363,9 +363,9 @@ MANUAL_LINKS = {
         "【Ani-One】遊戲王－怪獸之決鬥,https://www.youtube.com/watch?v=nGDX7qUl6mw",
 		"【回歸線娛樂】真珠美人魚,https://www.youtube.com/watch?v=BLag8MOBUg8",
         "【回歸線娛樂】夢幻遊戲,https://www.youtube.com/watch?v=7j8chjyp7tw"
-		
     ]
 }
+
 
 # 3. 地標翻譯對照表 (救援標題)
 LANDMARK_MAP = {
