@@ -45,8 +45,7 @@ CATEGORIES = {
         "BNE TV - 新西兰中文国际频道": "https://www.youtube.com/@BNETVNZ/streams",	
         "POP Radio聯播網": "https://www.youtube.com/@917POPRadio/streams",
         "LIVE NOW": "https://www.youtube.com/@LiveNow24H/streams",	
-        "鳳凰衛視PhoenixTV": "https://www.youtube.com/@phoenixtvhk/streams",
-        "鳳凰資訊 PhoenixTVNews": "https://www.youtube.com/@phoenixtvnews7060/streams",
+        "鳳凰衛視PhoenixTV": "https://www.youtube.com/@phoenixtvglobal/streams",
         "HOY 資訊台 × 有線新聞": "https://www.youtube.com/@HOYTVHK/streams",		
         "CCTV中文": "https://www.youtube.com/@LiveNow24H/streams",
         "8world": "https://www.youtube.com/@8worldSG/streams"
