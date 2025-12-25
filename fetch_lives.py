@@ -44,7 +44,7 @@ CATEGORIES = {
         "AI主播倪珍Nikki 播新聞": "https://www.youtube.com/@NOWnews-sp2di/streams",
         "BNE TV - 新西兰中文国际频道": "https://www.youtube.com/@BNETVNZ/streams",	
         "POP Radio聯播網": "https://www.youtube.com/@917POPRadio/streams",
-        "Eight FM": "https://www.youtube.com/@eight-audio/streams",	
+        "LIVE NOW": "https://www.youtube.com/@LiveNow24H/streams",	
         "鳳凰衛視PhoenixTV": "https://www.youtube.com/@phoenixtvhk/streams",
         "鳳凰資訊 PhoenixTVNews": "https://www.youtube.com/@phoenixtvnews7060/streams",
         "HOY 資訊台 × 有線新聞": "https://www.youtube.com/@HOYTVHK/streams",		
@@ -199,7 +199,8 @@ CATEGORIES = {
         "嘀嘀漫畫站": "https://www.youtube.com/@嘀嘀漫畫站DidiComic/streams",			
         "嗶哩嗶哩動畫Anime Made By Bilibili": "https://www.youtube.com/@MadeByBilibili/streams",	
         "回歸線娛樂": "https://www.youtube.com/@tropicsanime/streams",
-        "愛奇藝國漫": "https://www.youtube.com/@iQIYIAnimation/streams",	
+        "愛奇藝國漫": "https://www.youtube.com/@iQIYIAnimation/streams",
+        "艾瑪愛學習": "https://www.youtube.com/@EmmaLearning/streams",		
         "超人官方 YouTube 粵語頻道": "https://www.youtube.com/@ultraman_cantonese_official/streams"				
     },
     "體育,#genre#": {
@@ -227,7 +228,7 @@ CATEGORIES = {
 	    "WWE Vault": "https://www.youtube.com/@WWEVault/streams"   
     },
 	"音樂,#genre#": {
-	    "Eight FM 线上收听！": "https://www.youtube.com/@eight-audio/streams",
+	    "Eight无限": "https://www.youtube.com/@eight-audio/streams",	
 	    "Sony Music Entertainment Hong Kong": "https://www.youtube.com/@sonymusichk/streams",		
 	    "Hot TV": "https://www.youtube.com/@hotfm976/streams",		
 	    "KKBOX 华语新歌周榜": "https://www.youtube.com/@KKBOX-baidu6868/streams",
@@ -244,7 +245,8 @@ CATEGORIES = {
 	    "The Good Life Radio x Sensual Musique": "https://www.youtube.com/@TheGoodLiferadio/streams",	
         "Best of Mix": "https://www.youtube.com/@bestofmixlive/streams",
         "Rock FM": "https://www.youtube.com/@rockfm1/streams",
-        "Radio Mix": "https://www.youtube.com/@liveradiomix/streams",		
+        "Radio Mix": "https://www.youtube.com/@liveradiomix/streams",
+        "Too Music": "https://www.youtube.com/@toomusicc/streams",		
 	    "Radio Hits Music": "https://www.youtube.com/@LiveMusicRadio/streams"		
     },	
     "政論,#genre#": {
@@ -293,11 +295,14 @@ CATEGORIES = {
     "國會,#genre#": {
         "國會頻道": "https://www.youtube.com/@parliamentarytv/streams"
     },
-    "佛教,#genre#": {
+    "宗教,#genre#": {
         "淨土宗": "https://www.youtube.com/@plbtp/streams",
+        "中華傳統文化教育中心": "https://www.youtube.com/@520wtv/streams",
         "修心時刻": "https://www.youtube.com/@Practicetime7/streams",
         "華藏衛視直播2台": "https://www.youtube.com/@hztv2212/streams",		
-        "佛光山梵唄讚頌團": "https://www.youtube.com/@VG_MUSICAL/streams"		
+        "佛光山梵唄讚頌團": "https://www.youtube.com/@VG_MUSICAL/streams",
+        "生命電視台": "https://www.youtube.com/@LIFETV_HaiTao/streams",		
+        "遠東良友": "https://www.youtube.com/@febc/streams"		
     },		
     "風景,#genre#": {
         "TW Live Cam": "https://www.youtube.com/@DanjiangBridge/streams",	
