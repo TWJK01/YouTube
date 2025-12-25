@@ -47,7 +47,7 @@ CATEGORIES = {
         "LIVE NOW": "https://www.youtube.com/@LiveNow24H/streams",	
         "鳳凰衛視PhoenixTV": "https://www.youtube.com/@phoenixtvglobal/streams",
         "HOY 資訊台 × 有線新聞": "https://www.youtube.com/@HOYTVHK/streams",		
-        "CCTV中文": "https://www.youtube.com/@LiveNow24H/streams",
+        "CCTV中文": "https://www.youtube.com/@CCTVCH/featured",
         "8world": "https://www.youtube.com/@8worldSG/streams"
     },
     "綜藝,#genre#": {
@@ -68,8 +68,8 @@ CATEGORIES = {
         "飢餓遊戲": "https://www.youtube.com/@HungerGames123/streams",	
         "豬哥會社": "https://www.youtube.com/@FTV_ZhuGeClub/streams",
         "百變智多星": "https://www.youtube.com/@百變智多星/streams",	
-        "東森綜合台": "https://www.youtube.com/@中天娛樂CtiEntertainment/streams",
-        "中天娛樂頻道": "https://www.youtube.com/@ettv32/streams",		
+        "東森綜合台": "https://www.youtube.com/@ettv32/streams",
+        "中天娛樂頻道": "https://www.youtube.com/@中天娛樂CtiEntertainment/streams",		
         "57怪奇物語": "https://www.youtube.com/@57StrangerThings/streams",
         "命運好好玩": "https://www.youtube.com/@eravideo004/streams",	
         "TVBS娛樂頭條": "https://www.youtube.com/@tvbsenews/streams",	
@@ -190,7 +190,6 @@ CATEGORIES = {
         "超級汽車-卡通動畫": "https://www.youtube.com/@Supercar_Cartoon/streams",	
         "神奇鸡仔": "https://www.youtube.com/@como_cn/streams",
         "朱妮托尼 - 动画儿歌": "https://www.youtube.com/@JunyTonyCN/streams",	
-        "會說話的湯姆貓家族": "https://www.youtube.com/@TalkingFriendsCN/streams",
         "Muse木棉花-TW": "https://www.youtube.com/@MuseTW/streams",	
         "Muse木棉花-闔家歡": "https://www.youtube.com/@Muse_Family/streams",
         "Ani-One中文官方動畫頻道": "https://www.youtube.com/@AniOneAnime/streams",
