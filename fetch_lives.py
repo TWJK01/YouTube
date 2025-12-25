@@ -333,7 +333,10 @@ MANUAL_LINKS = {
         "【Muse木棉花】蠟筆小新TV版,https://www.youtube.com/watch?v=ENnjj7jQ23g",
         "【Muse木棉花】新哆啦A夢,https://www.youtube.com/watch?v=jbZCyIhL4WQ",
         "【Muse木棉花】中華一番,https://www.youtube.com/watch?v=mRCXonM5ru8",
-        "【Muse木棉花】我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE"		
+        "【Muse木棉花】我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE",		
+		"【Ani-One】白色相簿2,https://www.youtube.com/watch?v=inuV4C7UCxo",
+        "【Ani-One】佐賀偶像是傳奇,https://www.youtube.com/watch?v=SNG8wNLU-_s",
+        "【Ani-One】遊戲王－怪獸之決鬥,https://www.youtube.com/watch?v=nGDX7qUl6mw"
 
 		
     ]
