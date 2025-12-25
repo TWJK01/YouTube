@@ -98,6 +98,7 @@ CATEGORIES = {
         "公共電視-我們的島": "https://www.youtube.com/@ourislandTAIWAN/streams",
         "WeTV 綜藝經典": "https://www.youtube.com/@WeTV-ClassicVariety/streams",
         "爆梗TV": "https://www.youtube.com/@爆梗PunchlineTV/streams",
+		"緯來新聞網": "https://www.youtube.com/@videolandnews/streams",
         "灿星官方频道": "https://www.youtube.com/@CanxingMediaOfficialChannel/streams",
         "陕西广播电视台官方频道": "https://www.youtube.com/@chinashaanxitvofficialchan2836/streams",		
         "北京廣播電視台生活頻道": "https://www.youtube.com/@btvfinance/streams"		
@@ -163,7 +164,8 @@ CATEGORIES = {
         "China Zone 剧乐部": "https://www.youtube.com/@ChinaZoneDrama/streams",
         "China Zone 流金岁月": "https://www.youtube.com/@ChinaZone-ClassicDrama/streams",
         "China Zone梦想剧场": "https://www.youtube.com/@ChinaZone-DreamDrama/streams",		
-        "欢娱影视官方频道": "https://www.youtube.com/@chinahuanyuent.officialchannel/streams",		
+        "欢娱影视官方频道": "https://www.youtube.com/@chinahuanyuent.officialchannel/streams",
+        "乐视视频官方频道": "https://www.youtube.com/@letvdramas/streams",		
         "正午阳光官方频道": "https://www.youtube.com/@DaylightEntertainmentDrama/streams",		
         "超級影迷 正版電影免費看": "https://www.youtube.com/@MegaFilmLovers/streams",
         "電影想飛 正版電影免費看": "https://www.youtube.com/@moviesintheair/streams",
@@ -267,6 +269,7 @@ CATEGORIES = {
         "哏傳媒": "https://www.youtube.com/@funseeTW/streams",	
         "57爆新聞": "https://www.youtube.com/@57BreakingNews/streams",
         "關鍵時刻": "https://www.youtube.com/@ebcCTime/streams",
+		"郭正亮頻道": "https://www.youtube.com/@Guovision-TV/streams",
         "新聞龍捲風": "https://www.youtube.com/@新聞龍捲風NewsTornado/streams",		
         "頭條開講": "https://www.youtube.com/@頭條開講HeadlinesTalk/streams",		
 	    "少康戰情室": "https://www.youtube.com/@tvbssituationroom/streams",
@@ -280,6 +283,7 @@ CATEGORIES = {
     },	
 	"購物,#genre#": {
         "海豚多媒體": "https://www.youtube.com/@24811001/streams",
+        "玉麟網路電視台": "https://www.youtube.com/@YuLinNetworkTelevision/streams",		
         "寶島文化台": "https://www.youtube.com/@bdtvbest/streams",
         "三聖電視台": "https://www.youtube.com/@tsimtv-01/streams",		
         "桐瑛台中電視臺": "https://www.youtube.com/@%E6%A1%90%E7%91%9B%E5%8F%B0%E4%B8%AD%E9%9B%BB%E8%A6%96%E8%87%BA/streams",
