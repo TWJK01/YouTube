@@ -286,8 +286,16 @@ CATEGORIES = {
     },
     "國會,#genre#": {
         "國會頻道": "https://www.youtube.com/@parliamentarytv/streams"
-    },	
+    },
+    },
+    "佛教,#genre#": {
+        "淨土宗": "https://www.youtube.com/@plbtp/streams",
+        "修心時刻": "https://www.youtube.com/@Practicetime7/streams",
+        "華藏衛視直播2台": "https://www.youtube.com/@hztv2212/streams",		
+        "佛光山梵唄讚頌團": "https://www.youtube.com/@VG_MUSICAL/streams"		
+    },		
     "風景,#genre#": {
+        "TW Live Cam": "https://www.youtube.com/@DanjiangBridge/streams",	
         "和平島公園即時影像": "https://www.youtube.com/@和平島公園即時影像/streams",
 		"台北觀光即時影像": "https://www.youtube.com/@taipeitravelofficial/streams",
 		"陽明山國家公園": "https://www.youtube.com/@ymsnpinfo/streams",
@@ -318,7 +326,7 @@ CATEGORIES = {
 		"交通部觀光署澎湖國家風景區管理處": "https://www.youtube.com/@交通部觀光署澎湖國家/streams",		
 		"樂遊金門": "https://www.youtube.com/@kinmentravel/streams",
 		"馬祖國家風景區": "https://www.youtube.com/@matsunationalscenicarea9539/streams"		
-    }
+    }	
 }
 
 # 2. 手動新增連結 (您可以在此直接放入網址)
