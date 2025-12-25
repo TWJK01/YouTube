@@ -338,17 +338,16 @@ CATEGORIES = {
 		"交通部觀光署澎湖國家風景區管理處": "https://www.youtube.com/@交通部觀光署澎湖國家/streams",		
 		"樂遊金門": "https://www.youtube.com/@kinmentravel/streams",
 		"馬祖國家風景區": "https://www.youtube.com/@matsunationalscenicarea9539/streams"		
-    }	
+    }
 }
 
-# 2. 手動新增連結 (您可以在此直接放入網址)
-# 格式為: "分類名稱": ["標題,網址", "標題,網址"]
-MANUAL_LINKS =
-{
+# 2. 手動新增連結 (修正 SyntaxError)
+# 格式為 "分類名": ["標題,網址"]，若無則保持為 {}
+MANUAL_LINKS = {
     "台灣,#genre#": [
         "【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD"
     ],
-	"少兒,#genre#": [
+    "少兒,#genre##": [
         "【Muse木棉花】魔都精兵的奴隸,https://www.youtube.com/live/qXD7NKZlLPA?si=zyVpCoX7dpqsJNWn",
         "【Muse木棉花】間諜家家酒,https://www.youtube.com/watch?v=dI2negE-v4c",
         "【Muse木棉花】進擊的巨人,https://www.youtube.com/watch?v=GlVvyu7jehk",
@@ -366,8 +365,7 @@ MANUAL_LINKS =
     ]
 }
 
-
-# 3. 地標翻譯對照表 (救援標題)
+# 3. 地標翻譯對照表 (救援純英文標題)
 LANDMARK_MAP = {
     "Shoushan Lovers": "壽山情人觀景台", "Lianchihtan": "蓮池潭", "Lotus Pond": "蓮池潭",
     "Cijin": "旗津", "Baling": "巴陵大橋", "Shihmen Reservoir": "石門水庫",
@@ -376,17 +374,14 @@ LANDMARK_MAP = {
 }
 
 def extract_best_title(v_title, nickname):
-    """
-    智慧優化標題：處理國會名稱與風景地標。
-    """
-    # 國會處理
+    # A. 國會處理：提取委員會/會議名
     if "國會頻道" in nickname:
         segments = re.split(r'[\|\-\—\–]', v_title)
         if len(segments) > 1:
             return f"【國會頻道】{segments[0].strip()}"
         return f"【國會頻道】{v_title.replace('立法院議事轉播', '').strip()}"
 
-    # 風景品牌標準化
+    # B. 風景品牌標準化
     if "高雄" in nickname or "Kaohsiung" in v_title: brand = "高雄旅遊網"
     elif "Taipei" in nickname or "台北" in v_title: brand = "Taipei Live Cam"
     elif "桃園" in nickname or "Taoyuan" in v_title: brand = "遊桃園"
@@ -395,7 +390,7 @@ def extract_best_title(v_title, nickname):
     elif "東部海岸" in nickname or "East Coast" in v_title: brand = "東部海岸"
     else: brand = nickname
 
-    # 地標提取
+    # C. 地標提取 (排除噪音)
     clean_title = re.sub(r'[【\[\(].*?[】\]\)]', '', v_title).strip()
     segments = re.split(r'[\|\-\—\–]', clean_title)
     landmark = ""
@@ -405,13 +400,17 @@ def extract_best_title(v_title, nickname):
         for n in noises:
             chinese_found = chinese_found.replace(n, "")
         if len(chinese_found) >= 2:
-            landmark = chinese_found; break
+            landmark = chinese_found
+            break
 
+    # D. 英文對照救援
     if len(landmark) < 2:
         for eng, chi in LANDMARK_MAP.items():
             if eng.lower() in v_title.lower():
-                landmark = chi; break
+                landmark = chi
+                break
 
+    # E. 保底
     if not landmark:
         landmark = re.sub(r'(?i)Live Cam|4K|Stream|即時影像|Taiwan', '', clean_title).strip()
         landmark = landmark.split('|')[0].strip() if landmark else "即時影像"
@@ -419,9 +418,6 @@ def extract_best_title(v_title, nickname):
     return f"【{brand}】{landmark}"
 
 def get_live_info():
-    """
-    獲取 YouTube 資訊，合併手動連結與自動抓取結果。
-    """
     ydl_opts = {
         'quiet': True, 'extract_flat': True, 'skip_download': True,
         'playlist_items': '1-20', 'ignoreerrors': True, 'no_warnings': True,
@@ -430,23 +426,21 @@ def get_live_info():
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         }
     }
-    
     final_output = []
-    
-    # 建立一個集合來排除重複網址
     all_seen_urls = set()
 
     for genre, channels in CATEGORIES.items():
         genre_list = []
-        
-        # A. 先加入手動連結
+        # 加入手動連結
         if genre in MANUAL_LINKS:
             for item in MANUAL_LINKS[genre]:
-                url = item.split(',')[-1]
-                genre_list.append(item)
-                all_seen_urls.add(url)
+                try:
+                    url = item.split(',')[-1].strip()
+                    genre_list.append(item)
+                    all_seen_urls.add(url)
+                except: continue
 
-        # B. 抓取 YouTube 直播
+        # 自動抓取
         print(f">>> 正在同步: {genre}")
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             for nickname, url in channels.items():
@@ -454,11 +448,9 @@ def get_live_info():
                     info = ydl.extract_info(url, download=False)
                     if not info: continue
                     entries = info.get('entries', []) or ([info] if info.get('live_status') == 'is_live' else [])
-
                     for entry in entries:
                         is_live = entry.get('live_status') == 'is_live' or entry.get('is_live')
                         if not is_live: continue
-                        
                         v_url = f"https://www.youtube.com/watch?v={entry.get('id')}"
                         if v_url not in all_seen_urls:
                             final_title = extract_best_title(entry.get('title', ''), nickname)
@@ -477,4 +469,4 @@ if __name__ == "__main__":
     results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(results).strip() + "\n")
-    print("\n✅ 清單已更新 (含手動新增連結)！")
+    print("\n✅ 執行完成，live_list.txt 已更新。")
