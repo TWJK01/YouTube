@@ -228,7 +228,9 @@ CATEGORIES = {
 	    "WWE Vault": "https://www.youtube.com/@WWEVault/streams"   
     },
 	"音樂,#genre#": {
-	    "Eight无限": "https://www.youtube.com/@eight-audio/streams",	
+	    "Eight无限": "https://www.youtube.com/@eight-audio/streams",
+	    "相信音樂BinMusic": "https://www.youtube.com/@binmusictaipei/streams",
+	    "周杰倫 Jay Chou": "https://www.youtube.com/@jaychou/streams",		
 	    "Sony Music Entertainment Hong Kong": "https://www.youtube.com/@sonymusichk/streams",		
 	    "Hot TV": "https://www.youtube.com/@hotfm976/streams",		
 	    "KKBOX 华语新歌周榜": "https://www.youtube.com/@KKBOX-baidu6868/streams",
@@ -266,7 +268,9 @@ CATEGORIES = {
         "中天深喉嚨": "https://www.youtube.com/@ctitalkshow/streams",		
         "新聞挖挖哇！": "https://www.youtube.com/@newswawawa/streams",	
         "前進新台灣": "https://www.youtube.com/@SETTaiwanGo/streams",
-        "哏傳媒": "https://www.youtube.com/@funseeTW/streams",	
+        "哏傳媒": "https://www.youtube.com/@funseeTW/streams",
+        "董事長開講": "https://www.youtube.com/@dongsshow/streams",
+        "政經關不了": "https://www.youtube.com/@truevoiceoftaiwan/streams",			
         "57爆新聞": "https://www.youtube.com/@57BreakingNews/streams",
         "關鍵時刻": "https://www.youtube.com/@ebcCTime/streams",
 		"郭正亮頻道": "https://www.youtube.com/@Guovision-TV/streams",
