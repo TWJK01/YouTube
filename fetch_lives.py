@@ -4,7 +4,7 @@ import re
 # 1. 自動抓取的頻道清單
 CATEGORIES = {
     "跨年,#genre#": {
-        "小寬日常": "https://www.youtube.com/@%E5%B0%8F%E5%AF%AC%E6%97%A5%E5%B8%B8/streams"
+        "小寬日常": "https://www.youtube.com/@%E5%B0%8F%E5%AF%AC%E6%97%A5%E5%B8%B8/streams",
         "Suwah Music 瑞华唱片": "https://www.youtube.com/@SuwahMusic/streams"		
     },
     "台灣,#genre#": {
