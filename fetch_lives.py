@@ -228,6 +228,7 @@ CATEGORIES = {
 	    "WWE Vault": "https://www.youtube.com/@WWEVault/streams"   
     },
 	"音樂,#genre#": {
+	    "4kTQ-music": "https://www.youtube.com/@4kTQ-music/streams",	
 	    "Eight无限": "https://www.youtube.com/@eight-audio/streams",
 	    "相信音樂BinMusic": "https://www.youtube.com/@binmusictaipei/streams",
 	    "周杰倫 Jay Chou": "https://www.youtube.com/@jaychou/streams",		
@@ -249,7 +250,10 @@ CATEGORIES = {
         "Rock FM": "https://www.youtube.com/@rockfm1/streams",
         "Radio Mix": "https://www.youtube.com/@liveradiomix/streams",
         "Too Music": "https://www.youtube.com/@toomusicc/streams",		
-	    "Radio Hits Music": "https://www.youtube.com/@LiveMusicRadio/streams"		
+	    "Radio Hits Music": "https://www.youtube.com/@LiveMusicRadio/streams",
+	    "Dark City Sounds": "https://www.youtube.com/@darkcitysounds/streams",
+	    "Pop Japan Music": "https://www.youtube.com/@PopJapanMusic-du6su/streams",		
+	    "KING AMUSEMENT CREATIVE": "https://www.youtube.com/@KAC_official/streams"		
     },	
     "政論,#genre#": {
         "壹電視NEXT TV": "https://www.youtube.com/@壹電視NEXTTV/streams",
@@ -350,6 +354,10 @@ CATEGORIES = {
 MANUAL_LINKS = {
     "台灣,#genre#": [
         "【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD"
+    ],
+	"音樂,#genre#": [
+        "【周杰倫】音樂時光機,https://www.youtube.com/watch?v=q8hw5oKCDp4",
+		"【五月天】不間斷霸佔你耳朵,https://www.youtube.com/watch?v=q8hw5oKCDp4"
     ],
     "少兒,#genre#": [
         "【Muse木棉花】魔都精兵的奴隸,https://www.youtube.com/live/qXD7NKZlLPA?si=zyVpCoX7dpqsJNWn",
