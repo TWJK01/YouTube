@@ -4,7 +4,7 @@ import re
 # 1. 自動抓取的頻道清單
 CATEGORIES = {
     "跨年,#genre#": {
-        "小寬日常": "https://www.youtube.com/@%E5%B0%8F%E5%AF%AC%E6%97%A5%E5%B8%B8/streams",
+        "小寬日常": "https://www.youtube.com/@%E5%B0%8F%E5%AF%AC%E6%97%A5%E5%B8%B8/streams"
         "Suwah Music 瑞华唱片": "https://www.youtube.com/@SuwahMusic/streams"		
     },
     "台灣,#genre#": {
@@ -223,6 +223,8 @@ CATEGORIES = {
         "P.LEAGUE+": "https://www.youtube.com/@PLEAGUEofficial/streams",
         "TPBL": "https://www.youtube.com/@TPBL.Basketball/streams",		
         "CPBL 中華職棒": "https://www.youtube.com/@CPBL/streams",
+        "TPVL 台灣職業排球聯盟": "https://www.youtube.com/@tpvl.official/streams",
+        "籃海運動": "https://www.youtube.com/@pbe1772/streams",		
         "Body Sports  名衍行銷運動頻道": "https://www.youtube.com/@bodysports9644/streams",		
         "日本B聯盟": "https://www.youtube.com/@b.leagueinternational/streams",
         "MotoGP": "https://www.youtube.com/@motogp/streams",
@@ -248,6 +250,7 @@ CATEGORIES = {
 	    "青春音乐铺": "https://www.youtube.com/@青春音乐铺/streams",
 	    "水月琴音": "https://www.youtube.com/@Shuiyueqinyin/streams",	    
 	    "Cherry 葵": "https://www.youtube.com/@Cherriexin/streams",
+	    "Kanata Ch. 天音かなた": "https://www.youtube.com/@AmaneKanata/streams",		
 	    "CMIX - Chill Mix": "https://www.youtube.com/@ChillMix-CMIX/streams",		
 	    "「KING AMUSEMENT CREATIVE」公式チャンネル": "https://www.youtube.com/@KAC_official/streams",
 	    "FOR FUN RADIO TIME Music channel": "https://www.youtube.com/@FORFUNRADIOTIME-Relax/streams",		
