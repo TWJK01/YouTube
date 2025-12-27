@@ -223,6 +223,8 @@ CATEGORIES = {
         "P.LEAGUE+": "https://www.youtube.com/@PLEAGUEofficial/streams",
         "TPBL": "https://www.youtube.com/@TPBL.Basketball/streams",		
         "CPBL 中華職棒": "https://www.youtube.com/@CPBL/streams",
+        "CBC籃球聯盟": "https://www.youtube.com/@cbc726/streams",
+        "MAX籃球聯盟": "https://www.youtube.com/@MAX-mv8mr/streams",		
         "TPVL 台灣職業排球聯盟": "https://www.youtube.com/@tpvl.official/streams",
         "籃海運動": "https://www.youtube.com/@pbe1772/streams",		
         "Body Sports  名衍行銷運動頻道": "https://www.youtube.com/@bodysports9644/streams",		
@@ -263,7 +265,8 @@ CATEGORIES = {
 	    "Radio Hits Music": "https://www.youtube.com/@LiveMusicRadio/streams",
 	    "Dark City Sounds": "https://www.youtube.com/@darkcitysounds/streams",
 	    "Pop Japan Music": "https://www.youtube.com/@PopJapanMusic-du6su/streams",
-	    "Tokyo Sound Rank": "https://www.youtube.com/@TokyoSoundRank98/streams",		
+	    "Tokyo Sound Rank": "https://www.youtube.com/@TokyoSoundRank98/streams",
+	    "MEET48 Global": "https://www.youtube.com/@MEET48Global/streams",		
 	    "KING AMUSEMENT CREATIVE": "https://www.youtube.com/@KAC_official/streams"		
     },	
     "政論,#genre#": {
