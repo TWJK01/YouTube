@@ -387,7 +387,7 @@ MANUAL_LINKS = {
     ],
 	"音樂,#genre#": [
         "【周杰倫】音樂時光機,https://www.youtube.com/watch?v=q8hw5oKCDp4",
-		"【五月天】不間斷霸佔你耳朵,https://www.youtube.com/live/R62E7cFWX6o?si=_cqMc-tl_porPLcb"
+		"【五月天】不間斷霸佔你耳朵,https://www.youtube.com/live/R62E7cFWX6o"
     ],
     "少兒,#genre#": [
         "【Muse木棉花】魔都精兵的奴隸,https://www.youtube.com/live/qXD7NKZlLPA?si=zyVpCoX7dpqsJNWn",
