@@ -5,6 +5,7 @@ import re
 CATEGORIES = {
     "跨年,#genre#": {
         "小寬日常": "https://www.youtube.com/@%E5%B0%8F%E5%AF%AC%E6%97%A5%E5%B8%B8/streams"
+        "Suwah Music 瑞华唱片": "https://www.youtube.com/@SuwahMusic/streams"		
     },
     "台灣,#genre#": {
         "台灣地震監視": "https://www.youtube.com/@台灣地震監視/streams",
