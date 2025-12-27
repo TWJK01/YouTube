@@ -3,6 +3,9 @@ import re
 
 # 1. 自動抓取的頻道清單
 CATEGORIES = {
+    "跨年,#genre#": {
+        "小寬日常": "https://www.youtube.com/@%E5%B0%8F%E5%AF%AC%E6%97%A5%E5%B8%B8/streams"
+    },
     "台灣,#genre#": {
         "台灣地震監視": "https://www.youtube.com/@台灣地震監視/streams",
         "台灣颱風論壇": "https://www.youtube.com/@twtybbs2009/streams",		
