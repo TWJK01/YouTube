@@ -15,8 +15,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】現正播映青春愛讀書,https://www.youtube.com/watch?v=MIqUplvSRWA
-【大愛電視】現正播映好戲成雙阿芬的幸福修練,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+【大愛電視】現正播映經典劇坊在愛之外,https://www.youtube.com/watch?v=MIqUplvSRWA
+【大愛電視】現正播映經典劇坊在愛之外,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 【鏡新聞】鏡新聞線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】東森新聞小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】東森新聞小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -25,7 +25,6 @@
 【三立LIVE新聞】話時代人物精彩不斷電話時代人物,https://www.youtube.com/watch?v=nvr3wUZhlIY
 【三立LIVE新聞】三立新聞小時即時新聞國際氣象,https://www.youtube.com/watch?v=QsGswQvRmtU
 【三立LIVE新聞】三立新聞海外小時台灣新聞,https://www.youtube.com/watch?v=hGJkDZDchYI
-【中天新聞CtiNews】游盈隆被提名中選會主委換綠擋了提問找碴被鄭麗文罵無腦中天新聞,https://www.youtube.com/watch?v=Ziu8rlknCuo
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
 【TVBS NEWS】新聞網最新地震觀測即時地震速報,https://www.youtube.com/watch?v=ob3f6j-VhCA
@@ -48,6 +47,7 @@
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=7j92Myu2wzg
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 【鳳凰衛視PhoenixTV】小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
+【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊,https://www.youtube.com/watch?v=w0UajAZKJqE
 【8world】资讯不停播视界,https://www.youtube.com/watch?v=RvSOIM620bA
 
 綜藝,#genre#
@@ -272,7 +272,6 @@
 政論,#genre#
 【TVBS 優選頻道】時間連続配信中新聞大白話少康戰情,https://www.youtube.com/watch?v=f9P_slj4KvU
 【TVBS 優選頻道】時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】澤倫斯基抵達佛州會晤川普討論烏克蘭和平計畫全球大視野,https://www.youtube.com/watch?v=VUcITtX9yqg
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=0UOnH10P4oY
 【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網,https://www.youtube.com/watch?v=JIKHI-lnWmw
 【94要客訴】頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網,https://www.youtube.com/watch?v=HarWsyvLERc
@@ -280,7 +279,6 @@
 【哏傳媒】小時不斷電為您呈現假國防真獨裁違憲震怒人民,https://www.youtube.com/watch?v=BT1SkuA8YCs
 【郭正亮頻道】小時不斷電為您呈現假國防真獨裁違憲震怒人民,https://www.youtube.com/watch?v=0fOH_PaHGVY
 【少康戰情室】時間配信趙少康戰鬥藍,https://www.youtube.com/watch?v=_LVTMyXBTTI
-【文茜的世界周報】文茜的世界周報,https://www.youtube.com/watch?v=_5LPDfGKZN4
 【金臨天下】財經新聞看盤不中斷時間黃斐瑜趙慶翔,https://www.youtube.com/watch?v=gBcED3mKCMU
 
 購物,#genre#
