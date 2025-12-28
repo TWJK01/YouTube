@@ -5,7 +5,6 @@
 台灣,#genre#
 【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 【台灣地震監視】台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
-【台灣颱風論壇】台灣天氣即時監測,https://www.youtube.com/watch?v=HwBN5IwZwMQ
 【台灣颱風論壇】台湾花蓮県吉安駅付近,https://www.youtube.com/watch?v=kzBW-wA-U1A
 【台視新聞】台視新聞台小時線上台湾,https://www.youtube.com/watch?v=xL0ch83RAK8
 【中視新聞】台湾,https://www.youtube.com/watch?v=baDV1O5EBP0
@@ -15,8 +14,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】現正播映經典劇坊在愛之外,https://www.youtube.com/watch?v=MIqUplvSRWA
-【大愛電視】現正播映經典劇坊在愛之外,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+【大愛電視】現正播映大愛地球村,https://www.youtube.com/watch?v=MIqUplvSRWA
+【大愛電視】現正播映大愛地球村,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 【鏡新聞】鏡新聞線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】東森新聞小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】東森新聞小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -47,7 +46,6 @@
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=7j92Myu2wzg
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 【鳳凰衛視PhoenixTV】小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
-【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊,https://www.youtube.com/watch?v=w0UajAZKJqE
 【8world】资讯不停播视界,https://www.youtube.com/watch?v=RvSOIM620bA
 
 綜藝,#genre#
@@ -66,7 +64,6 @@
 【豬哥會社】馬拉松不間斷,https://www.youtube.com/watch?v=v8MUGB4vst8
 【東森綜合台】東森綜合台小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 【57怪奇物語】怪奇物語小時線上精選合集,https://www.youtube.com/watch?v=k0uJVhYX12Y
-【204檔案】昨晚太恐怖了,https://www.youtube.com/watch?v=ScvN0u3yKBA
 【Taipei Live Cam】不間斷,https://www.youtube.com/watch?v=HtUVepidg7c
 【非凡大探索】不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 【非凡大探索】不間斷,https://www.youtube.com/watch?v=Qx-PTaNRC7Y
@@ -173,7 +170,6 @@
 體育,#genre#
 【HOP Sports】小時台湾時間,https://www.youtube.com/watch?v=JaGd4Yy_xjA
 【CBC籃球聯盟】籃球聯盟嘿嘿揪團灌籃前先泡奶,https://www.youtube.com/watch?v=uC-JaWMk0Ow
-【CBC籃球聯盟】籃球聯盟譪卡訓練空間,https://www.youtube.com/watch?v=tkFLgd78hrA
 【WCW】LIVE: WCW Watch Party,https://www.youtube.com/watch?v=UZYwoKfrgJQ
 【BattleBots】🔴 LIVE All BattleBots Vegas Events Fights!,https://www.youtube.com/watch?v=5CHCbBj-Vjg
 【WWE】Best of 2025 SmackDown: Full Match Marathon,https://www.youtube.com/watch?v=5LJHZFO8ZDU
