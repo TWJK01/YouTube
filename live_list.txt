@@ -5,6 +5,7 @@
 台灣,#genre#
 【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 【台灣地震監視】台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
+【台灣颱風論壇】台灣天氣即時監測,https://www.youtube.com/watch?v=XX3RbL4mhWg
 【台灣颱風論壇】台湾花蓮県吉安駅付近,https://www.youtube.com/watch?v=kzBW-wA-U1A
 【台視新聞】台視新聞台小時線上台湾,https://www.youtube.com/watch?v=xL0ch83RAK8
 【中視新聞】台湾,https://www.youtube.com/watch?v=baDV1O5EBP0
@@ -14,8 +15,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】現正播映法華經序中文版,https://www.youtube.com/watch?v=MIqUplvSRWA
-【大愛電視】現正播映人到中年,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+【大愛電視】現正播映法譬如水,https://www.youtube.com/watch?v=MIqUplvSRWA
+【大愛電視】現正播映高僧傳,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 【鏡新聞】鏡新聞線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】東森新聞小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】東森新聞小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -24,7 +25,6 @@
 【三立LIVE新聞】話時代人物精彩不斷電話時代人物,https://www.youtube.com/watch?v=nvr3wUZhlIY
 【三立LIVE新聞】三立新聞小時即時新聞國際氣象,https://www.youtube.com/watch?v=QsGswQvRmtU
 【三立LIVE新聞】三立新聞海外小時台灣新聞,https://www.youtube.com/watch?v=hGJkDZDchYI
-【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
 【TVBS NEWS】新聞網最新地震觀測即時地震速報,https://www.youtube.com/watch?v=ob3f6j-VhCA
 【TVBS NEWS】追雪必看冷氣團發威合歡山變身夢幻糖霜,https://www.youtube.com/watch?v=5wCs-anKv1s
@@ -46,6 +46,7 @@
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=7j92Myu2wzg
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 【鳳凰衛視PhoenixTV】小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
+【HOY 資訊台 × 有線新聞】有線新聞晨早新聞報道即時新聞港聞兩岸國際資訊,https://www.youtube.com/watch?v=8tA8ns2gCVc
 【8world】资讯不停播视界,https://www.youtube.com/watch?v=RvSOIM620bA
 
 綜藝,#genre#
@@ -102,8 +103,6 @@
 【CCTV电视剧】马拉松红楼梦致敬经典岁月激流中的潜心之作,https://www.youtube.com/watch?v=WOcqjDpeX4w
 【CCTV电视剧】马拉松雍正王朝九子夺嫡皇家的权谋之术,https://www.youtube.com/watch?v=gFWrFns27CI
 【CCTV电视剧】马拉松武林外传另类喜剧戏说江湖,https://www.youtube.com/watch?v=Pp4zaahCN24
-【CCTV电视剧】马拉松康熙王朝千古一帝康熙帝的传奇一生,https://www.youtube.com/watch?v=LvsLQyCT7hQ
-【CCTV电视剧】大圣归来经典再现版西游记带你感受原版魅力西游记,https://www.youtube.com/watch?v=AlTP7S6r7Rc
 【CCTV电视剧】马拉松三国英雄集结权谋与忠义的较量三国演义带你领略英雄传奇,https://www.youtube.com/watch?v=1hv5TEYJ0pc
 【SMG上海电视台官方频道】房屋改造神级案例盘点梦想改造家精彩节目不间断,https://www.youtube.com/watch?v=zPW2NVeSVPw
 【SMG电视剧】让人听到心动的歌曲神级舞台纯享哪首最令你着迷,https://www.youtube.com/watch?v=JpDPb5b1r8s
@@ -169,6 +168,8 @@
 【HOP Sports】小時台湾時間,https://www.youtube.com/watch?v=JaGd4Yy_xjA
 【WCW】LIVE: WCW Watch Party,https://www.youtube.com/watch?v=UZYwoKfrgJQ
 【BattleBots】🔴 LIVE All BattleBots Vegas Events Fights!,https://www.youtube.com/watch?v=5CHCbBj-Vjg
+【BattleBots】🔴 LIVE BattleBots' Greatest Champions,https://www.youtube.com/watch?v=6NSFJTQVKXE
+【BattleBots】🔴 LIVE Greatest BattleBots Knockout Fights!,https://www.youtube.com/watch?v=GLZXr67zwNg
 【WWE】Best of 2025 SmackDown: Full Match Marathon,https://www.youtube.com/watch?v=5LJHZFO8ZDU
 【WWE】Best Of WWE in 2025: Full Match Marathon,https://www.youtube.com/watch?v=_cydFuD6HRQ
 
