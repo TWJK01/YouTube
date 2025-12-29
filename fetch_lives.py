@@ -1,11 +1,7 @@
 import yt_dlp
 import re
 
-# 1. 代理伺服器設定 (若無則保持 None)
-# 格式範例: "http://username:password@tw-proxy.com:8080"
-PROXY_URL = "https:/203.74.125.18:8888" 
-
-# 2. 自動抓取的頻道清單
+# 1. 自動抓取的頻道清單
 CATEGORIES = {
     "跨年,#genre#": {
         "小寬日常": "https://www.youtube.com/@%E5%B0%8F%E5%AF%AC%E6%97%A5%E5%B8%B8/streams",
@@ -393,7 +389,8 @@ CATEGORIES = {
     }
 }
 
-# 3. 手動連結 (報錯頻道的保底方案)
+# 2. 手動新增連結 (修正 SyntaxError)
+# 格式為 "分類名": ["標題,網址"]，若無則保持為 {}
 MANUAL_LINKS = {
     "台灣,#genre#": [
         "【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD"
@@ -420,27 +417,67 @@ MANUAL_LINKS = {
     ]
 }
 
+# 3. 地標翻譯對照表 (救援純英文標題)
+LANDMARK_MAP = {
+    "Shoushan Lovers": "壽山情人觀景台", "Lianchihtan": "蓮池潭", "Lotus Pond": "蓮池潭",
+    "Cijin": "旗津", "Baling": "巴陵大橋", "Shihmen Reservoir": "石門水庫",
+    "Fenqihu": "奮起湖", "Eryanping": "二延平", "Taiping Suspension Bridge": "太平雲梯",
+    "Sanxiantai": "三仙台", "Chaikou": "綠島柴口", "Shitiping": "石梯坪", "Jialulan": "加路蘭"
+}
+
 def extract_best_title(v_title, nickname):
-    # (此處保留之前的標題優化邏輯...)
-    brand = nickname
+    # A. 國會處理：提取委員會/會議名
+    if "國會頻道" in nickname:
+        segments = re.split(r'[\|\-\—\–]', v_title)
+        if len(segments) > 1:
+            return f"【國會頻道】{segments[0].strip()}"
+        return f"【國會頻道】{v_title.replace('立法院議事轉播', '').strip()}"
+
+    # B. 風景品牌標準化
+    if "高雄" in nickname or "Kaohsiung" in v_title: brand = "高雄旅遊網"
+    elif "Taipei" in nickname or "台北" in v_title: brand = "Taipei Live Cam"
+    elif "桃園" in nickname or "Taoyuan" in v_title: brand = "遊桃園"
+    elif "新北" in nickname or "New Taipei" in v_title: brand = "新北旅客"
+    elif "阿里山" in nickname or "Alishan" in v_title: brand = "阿里山"
+    elif "東部海岸" in nickname or "East Coast" in v_title: brand = "東部海岸"
+    else: brand = nickname
+
+    # C. 地標提取 (排除噪音)
     clean_title = re.sub(r'[【\[\(].*?[】\]\)]', '', v_title).strip()
-    return f"【{brand}】{clean_title[:15]}"
+    segments = re.split(r'[\|\-\—\–]', clean_title)
+    landmark = ""
+    for seg in reversed(segments):
+        chinese_found = "".join(re.findall(r'[\u4e00-\u9fa5]+', seg))
+        noises = ["即時影像", "直播", "頻道", "官方", "高雄", "桃園", "台北", "新北", "觀光", "風景區", "管理處"]
+        for n in noises:
+            chinese_found = chinese_found.replace(n, "")
+        if len(chinese_found) >= 2:
+            landmark = chinese_found
+            break
+
+    # D. 英文對照救援
+    if len(landmark) < 2:
+        for eng, chi in LANDMARK_MAP.items():
+            if eng.lower() in v_title.lower():
+                landmark = chi
+                break
+
+    # E. 保底
+    if not landmark:
+        landmark = re.sub(r'(?i)Live Cam|4K|Stream|即時影像|Taiwan', '', clean_title).strip()
+        landmark = landmark.split('|')[0].strip() if landmark else "即時影像"
+
+    return f"【{brand}】{landmark}"
 
 def get_live_info():
     ydl_opts = {
-        'quiet': True,
-        'extract_flat': True,
-        'skip_download': True,
-        'playlist_items': '1-5',
-        'ignoreerrors': True,
-        'no_warnings': True,
-        'proxy': PROXY_URL, # <--- 加入代理支援
+        'quiet': True, 'extract_flat': True, 'skip_download': True,
+        'playlist_items': '1-20', 'ignoreerrors': True, 'no_warnings': True,
         'extra_headers': {
             'Accept-Language': 'zh-TW,zh;q=0.9',
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         }
     }
-    
     final_output = []
     all_seen_urls = set()
 
@@ -449,28 +486,29 @@ def get_live_info():
         # 加入手動連結
         if genre in MANUAL_LINKS:
             for item in MANUAL_LINKS[genre]:
-                url = item.split(',')[-1].strip()
-                genre_list.append(item)
-                all_seen_urls.add(url)
-
-        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            for nickname, base_url in channels.items():
-                print(f">>> 正在掃描 {nickname} ...")
                 try:
-                    # 嘗試抓取
-                    info = ydl.extract_info(f"{base_url}/streams", download=False)
+                    url = item.split(',')[-1].strip()
+                    genre_list.append(item)
+                    all_seen_urls.add(url)
+                except: continue
+
+        # 自動抓取
+        print(f">>> 正在同步: {genre}")
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            for nickname, url in channels.items():
+                try:
+                    info = ydl.extract_info(url, download=False)
                     if not info: continue
-                    entries = info.get('entries', [])
-                    
+                    entries = info.get('entries', []) or ([info] if info.get('live_status') == 'is_live' else [])
                     for entry in entries:
-                        if entry and (entry.get('live_status') == 'is_live' or entry.get('is_live')):
-                            v_url = f"https://www.youtube.com/watch?v={entry.get('id')}"
-                            if v_url not in all_seen_urls:
-                                final_title = extract_best_title(entry.get('title', ''), nickname)
-                                genre_list.append(f"{final_title},{v_url}")
-                                all_seen_urls.add(v_url)
-                except:
-                    continue
+                        is_live = entry.get('live_status') == 'is_live' or entry.get('is_live')
+                        if not is_live: continue
+                        v_url = f"https://www.youtube.com/watch?v={entry.get('id')}"
+                        if v_url not in all_seen_urls:
+                            final_title = extract_best_title(entry.get('title', ''), nickname)
+                            genre_list.append(f"{final_title},{v_url}")
+                            all_seen_urls.add(v_url)
+                except: continue
         
         if genre_list:
             final_output.append(genre)
@@ -483,3 +521,4 @@ if __name__ == "__main__":
     results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(results).strip() + "\n")
+    print("\n✅ 執行完成，live_list.txt 已更新。")
