@@ -1,7 +1,9 @@
 import yt_dlp
 import re
 
-# 1. 自動抓取的頻道清單
+# ==========================================
+# 1. 頻道與手動連結配置區
+# ==========================================
 CATEGORIES = {
     "跨年,#genre#": {
         "小寬日常": "https://www.youtube.com/@%E5%B0%8F%E5%AF%AC%E6%97%A5%E5%B8%B8/streams",
@@ -87,7 +89,7 @@ CATEGORIES = {
         "TVBS女人我最大": "https://www.youtube.com/@tvbsqueen/streams",
         "型男大主廚": "https://www.youtube.com/@twcookingshow/videos",	
         "非凡大探索": "https://www.youtube.com/@ustvfoody/streams",
-        "你好, 星期六 Hello Saturday Official": "https://www.youtube.com/@HelloSaturdayOfficial/videos",	
+        "你好, 星期六 Hello Saturday Official": "https://youtube.com/@hellosaturdayofficial?si=--6KGPLtLMpXRMN5",	
         "BIF相信未來 官方頻道": "https://www.youtube.com/@BelieveinfutureTV/streams",
         "GTV 自由的旅行者": "https://www.youtube.com/@gtvfreedomtravelers/streams",
         "原視 TITV+": "https://www.youtube.com/@titv8932/videos",
@@ -105,7 +107,7 @@ CATEGORIES = {
 		"緯來新聞網": "https://www.youtube.com/@videolandnews/streams",
         "灿星官方频道": "https://www.youtube.com/@CanxingMediaOfficialChannel/streams",
         "陕西广播电视台官方频道": "https://www.youtube.com/@chinashaanxitvofficialchan2836/videos",		
-        "北京廣播電視台生活頻道": "https://www.youtube.com/@btvfinance/videos"		
+        "北京廣播電視台生活頻道": "https://www.youtube.com/@Brtvofficialchannel/streams"		
         
     },
     "影劇,#genre#": {	
@@ -127,9 +129,9 @@ CATEGORIES = {
         "GTV DRAMA English": "https://www.youtube.com/@gtvdramaenglish/streams",
         "萌萌愛追劇": "https://www.youtube.com/@mengmengaizhuijuminidrama/streams",	
         "龍華電視": "https://www.youtube.com/@ltv_tw/streams",
-        "Vidol TV": "https://www.youtube.com/@vidoltv/streams",		
+        "Vidol TV": "https://youtube.com/@vidoltv?si=wc0vxpCHtEVhigyf",		
         "緯來戲劇台": "https://www.youtube.com/@Vldrama43/streams",
-        "緯來育樂台": "https://www.youtube.com/@maxtv71/streams",		
+        "緯來育樂台": "https://www.youtube.com/@maxtv71/videos",		
         "愛爾達綜合台": "https://www.youtube.com/@ELTAWORLD/streams",
         "愛爾達影劇台": "https://www.youtube.com/@eltadrama/streams",
         "VBL Series": "https://www.youtube.com/@variety_between_love/streams",
@@ -138,19 +140,19 @@ CATEGORIES = {
         "百纳经典独播剧场": "https://www.youtube.com/@BainationTVSeriesOfficial/streams",
         "华录百納熱播劇場": "https://www.youtube.com/@Baination/streams",	
         "iQIYI 爱奇艺": "https://www.youtube.com/@iQIYIofficial/streams",
-        "iQIYI Show Giải Trí Vietnam": "https://www.youtube.com/@iQIYI_ShowGiảiTríVietnam/streams",		
+        "iQIYI Show Giải Trí Vietnam": "https://www.youtube.com/@iQIYI_ShowGi%E1%BA%A3iTr%C3%ADVietnam/videos",		
         "iQIYI Indonesia": "https://www.youtube.com/@iQIYIIndonesia/streams",
         "爱奇艺大电影": "https://www.youtube.com/@iQIYIMOVIETHEATER/streams",
         "iQIYI 慢綜藝": "https://www.youtube.com/@iQIYILifeShow/streams",		
         "iQIYI 潮綜藝": "https://www.youtube.com/@iQIYISuperShow/streams",
         "iQIYI 爆笑宇宙": "https://www.youtube.com/@iQIYIHappyWorld/streams",		
-        "MangoTV Shorts": "https://www.youtube.com/@MangoTVShorts/streams",
-        "MangoTV English": "https://www.youtube.com/@MangoTVEnglishOfficial/streams",
+        "MangoTV Shorts": "https://www.youtube.com/@MangoTVShorts/videos",
+        "MangoTV English": "https://www.youtube.com/@MangoTVEnglishOfficial/videos",
         "MangoTV Malaysia": "https://www.youtube.com/@MangoTVMalaysia/streams",		
-        "芒果TV古裝劇場": "https://www.youtube.com/@TVMangoTVCostume-yw1hj/streams",	
+        "芒果TV古裝劇場": "https://www.youtube.com/@TVMangoTVCostume-yw1hj/videos",	
         "芒果TV青春剧场": "https://www.youtube.com/@MangoTVDramaOfficial/streams",	
         "芒果TV季风频道": "https://www.youtube.com/@MangoMonsoon/streams",	
-        "芒果TV推理宇宙": "https://www.youtube.com/@MangoTV-Mystery/streams",
+        "芒果TV推理宇宙": "https://youtube.com/@mangotv-mystery?si=CRrdrZLRFBy4GXtQ",
         "芒果TV大電影劇場": "https://www.youtube.com/@MangoC-TheatreChannel/streams",
         "芒果TV心动": "https://www.youtube.com/@MangoTVSparkle/streams",	
         "CCTV电视剧": "https://www.youtube.com/@CCTVDrama/streams",	
@@ -387,8 +389,7 @@ CATEGORIES = {
     }
 }
 
-# 2. 手動新增連結 (修正 SyntaxError)
-# 格式為 "分類名": ["標題,網址"]，若無則保持為 {}
+# 若某些頻道在美國伺服器 100% 報 404，請在此手動填入連結保底
 MANUAL_LINKS = {
     "台灣,#genre#": [
         "【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD"
@@ -415,98 +416,100 @@ MANUAL_LINKS = {
     ]
 }
 
-# 3. 地標翻譯對照表 (救援純英文標題)
+# ==========================================
+# 2. 地標優化與翻譯邏輯
+# ==========================================
 LANDMARK_MAP = {
     "Shoushan Lovers": "壽山情人觀景台", "Lianchihtan": "蓮池潭", "Lotus Pond": "蓮池潭",
     "Cijin": "旗津", "Baling": "巴陵大橋", "Shihmen Reservoir": "石門水庫",
-    "Fenqihu": "奮起湖", "Eryanping": "二延平", "Taiping Suspension Bridge": "太平雲梯",
-    "Sanxiantai": "三仙台", "Chaikou": "綠島柴口", "Shitiping": "石梯坪", "Jialulan": "加路蘭"
+    "Fenqihu": "奮起湖", "Eryanping": "二延平", "Sanxiantai": "三仙台", "Chaikou": "綠島柴口"
 }
 
 def extract_best_title(v_title, nickname):
-    # A. 國會處理：提取委員會/會議名
+    # 國會特殊處理
     if "國會頻道" in nickname:
         segments = re.split(r'[\|\-\—\–]', v_title)
-        if len(segments) > 1:
-            return f"【國會頻道】{segments[0].strip()}"
-        return f"【國會頻道】{v_title.replace('立法院議事轉播', '').strip()}"
+        return f"【國會頻道】{segments[0].strip()}" if len(segments) > 1 else f"【國會頻道】{v_title}"
 
-    # B. 風景品牌標準化
-    if "高雄" in nickname or "Kaohsiung" in v_title: brand = "高雄旅遊網"
-    elif "Taipei" in nickname or "台北" in v_title: brand = "Taipei Live Cam"
-    elif "桃園" in nickname or "Taoyuan" in v_title: brand = "遊桃園"
-    elif "新北" in nickname or "New Taipei" in v_title: brand = "新北旅客"
-    elif "阿里山" in nickname or "Alishan" in v_title: brand = "阿里山"
-    elif "東部海岸" in nickname or "East Coast" in v_title: brand = "東部海岸"
-    else: brand = nickname
+    # 風景品牌標準化
+    brand = nickname
+    for b in ["高雄", "台北", "桃園", "新北", "阿里山", "東部海岸", "MangoTV"]:
+        if b in nickname: brand = b; break
 
-    # C. 地標提取 (排除噪音)
+    # 清理地標名稱
     clean_title = re.sub(r'[【\[\(].*?[】\]\)]', '', v_title).strip()
-    segments = re.split(r'[\|\-\—\–]', clean_title)
-    landmark = ""
-    for seg in reversed(segments):
-        chinese_found = "".join(re.findall(r'[\u4e00-\u9fa5]+', seg))
-        noises = ["即時影像", "直播", "頻道", "官方", "高雄", "桃園", "台北", "新北", "觀光", "風景區", "管理處"]
-        for n in noises:
-            chinese_found = chinese_found.replace(n, "")
-        if len(chinese_found) >= 2:
-            landmark = chinese_found
-            break
-
-    # D. 英文對照救援
-    if len(landmark) < 2:
-        for eng, chi in LANDMARK_MAP.items():
-            if eng.lower() in v_title.lower():
-                landmark = chi
-                break
-
-    # E. 保底
+    
+    # 嘗試從標題提取中文核心
+    chinese_parts = "".join(re.findall(r'[\u4e00-\u9fa5]+', clean_title))
+    for n in ["即時影像", "直播", "官方", "桃園", "台北", "高雄", "新北", brand]:
+        chinese_parts = chinese_parts.replace(n, "")
+        
+    landmark = chinese_parts if len(chinese_parts) >= 2 else ""
+    
+    # 英文翻譯救援
     if not landmark:
-        landmark = re.sub(r'(?i)Live Cam|4K|Stream|即時影像|Taiwan', '', clean_title).strip()
-        landmark = landmark.split('|')[0].strip() if landmark else "即時影像"
+        for eng, chi in LANDMARK_MAP.items():
+            if eng.lower() in v_title.lower(): landmark = chi; break
+            
+    return f"【{brand}】{landmark if landmark else clean_title[:15]}"
 
-    return f"【{brand}】{landmark}"
-
+# ==========================================
+# 3. 核心抓取邏輯 (多路徑重試機制)
+# ==========================================
 def get_live_info():
     ydl_opts = {
-        'quiet': True, 'extract_flat': True, 'skip_download': True,
-        'playlist_items': '1-20', 'ignoreerrors': True, 'no_warnings': True,
+        'quiet': True,
+        'extract_flat': True,
+        'skip_download': True,
+        'playlist_items': '1-10',
+        'ignoreerrors': True,  # 報錯不中斷
+        'no_warnings': True,
         'extra_headers': {
             'Accept-Language': 'zh-TW,zh;q=0.9',
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         }
     }
+    
     final_output = []
     all_seen_urls = set()
 
     for genre, channels in CATEGORIES.items():
         genre_list = []
-        # 加入手動連結
+        
+        # A. 加入手動保底連結
         if genre in MANUAL_LINKS:
             for item in MANUAL_LINKS[genre]:
-                try:
-                    url = item.split(',')[-1].strip()
-                    genre_list.append(item)
-                    all_seen_urls.add(url)
-                except: continue
+                url = item.split(',')[-1].strip()
+                genre_list.append(item)
+                all_seen_urls.add(url)
 
-        # 自動抓取
-        print(f">>> 正在同步: {genre}")
+        # B. 自動抓取 YouTube 直播
+        print(f">>> 正在掃描分類: {genre}")
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            for nickname, url in channels.items():
-                try:
-                    info = ydl.extract_info(url, download=False)
-                    if not info: continue
-                    entries = info.get('entries', []) or ([info] if info.get('live_status') == 'is_live' else [])
-                    for entry in entries:
-                        is_live = entry.get('live_status') == 'is_live' or entry.get('is_live')
-                        if not is_live: continue
-                        v_url = f"https://www.youtube.com/watch?v={entry.get('id')}"
-                        if v_url not in all_seen_urls:
-                            final_title = extract_best_title(entry.get('title', ''), nickname)
-                            genre_list.append(f"{final_title},{v_url}")
-                            all_seen_urls.add(v_url)
-                except: continue
+            for nickname, base_url in channels.items():
+                # 採用多路徑嘗試：1. Streams 分頁 2. 首頁 3. Embed API
+                search_paths = [f"{base_url}/streams", base_url] if "@" in base_url else [base_url]
+                
+                success = False
+                for path in search_paths:
+                    try:
+                        info = ydl.extract_info(path, download=False)
+                        if not info: continue
+                        
+                        entries = info.get('entries', []) or ([info] if info.get('live_status') == 'is_live' else [])
+                        
+                        for entry in entries:
+                            if entry and (entry.get('live_status') == 'is_live' or entry.get('is_live')):
+                                v_id = entry.get('id')
+                                v_url = f"https://www.youtube.com/watch?v={v_id}"
+                                if v_url not in all_seen_urls:
+                                    final_title = extract_best_title(entry.get('title', ''), nickname)
+                                    genre_list.append(f"{final_title},{v_url}")
+                                    all_seen_urls.add(v_url)
+                                    success = True
+                        if success: break
+                    except:
+                        continue
         
         if genre_list:
             final_output.append(genre)
@@ -519,4 +522,4 @@ if __name__ == "__main__":
     results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(results).strip() + "\n")
-    print("\n✅ 執行完成，live_list.txt 已更新。")
+    print("\n✅ 清單產出成功，請檢查 live_list.txt")
