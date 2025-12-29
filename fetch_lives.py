@@ -3,7 +3,7 @@ import re
 
 # 1. 代理伺服器設定 (若無則保持 None)
 # 格式範例: "http://username:password@tw-proxy.com:8080"
-PROXY_URL = "http:/34.81.72.31:80" 
+PROXY_URL = "https:/203.74.125.18:8888" 
 
 # 2. 自動抓取的頻道清單
 CATEGORIES = {
