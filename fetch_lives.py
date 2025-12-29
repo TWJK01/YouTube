@@ -1,7 +1,7 @@
 import yt_dlp
 import re
 
-# 1. 頻道分類清單 (建議檢查這些網址，有些頻道已更改 Handle)
+# 1. 自動抓取的頻道清單
 CATEGORIES = {
     "跨年,#genre#": {
         "小寬日常": "https://www.youtube.com/@%E5%B0%8F%E5%AF%AC%E6%97%A5%E5%B8%B8/streams",
@@ -389,7 +389,8 @@ CATEGORIES = {
     }
 }
 
-# 2. 手動新增連結 (將出錯但您確定有直播的連結放在這)
+# 2. 手動新增連結 (將報錯但您需要的連結直接放在這)
+# 格式: "分類": ["標題,網址"]
 MANUAL_LINKS = {
     "台灣,#genre#": [
         "【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD"
@@ -416,9 +417,12 @@ MANUAL_LINKS = {
     ]
 }
 
+# 3. 風景地標翻譯對照
 LANDMARK_MAP = {
     "Shoushan Lovers": "壽山情人觀景台", "Lianchihtan": "蓮池潭", "Lotus Pond": "蓮池潭",
-    "Baling": "巴陵大橋", "Shihmen Reservoir": "石門水庫", "Sanxiantai": "三仙台"
+    "Cijin": "旗津", "Baling": "巴陵大橋", "Shihmen Reservoir": "石門水庫",
+    "Fenqihu": "奮起湖", "Eryanping": "二延平", "Taiping Suspension Bridge": "太平雲梯",
+    "Sanxiantai": "三仙台", "Chaikou": "綠島柴口", "Shitiping": "石梯坪", "Jialulan": "加路蘭"
 }
 
 def extract_best_title(v_title, nickname):
@@ -426,32 +430,32 @@ def extract_best_title(v_title, nickname):
         segments = re.split(r'[\|\-\—\–]', v_title)
         return f"【國會頻道】{segments[0].strip()}" if len(segments) > 1 else f"【國會頻道】{v_title}"
 
+    # 辨識風景品牌
     brand = nickname
     for b in ["高雄", "台北", "桃園", "新北", "阿里山", "東部海岸"]:
         if b in nickname: brand = b; break
-        
+
     clean_title = re.sub(r'[【\[\(].*?[】\]\)]', '', v_title).strip()
-    chinese_found = "".join(re.findall(r'[\u4e00-\u9fa5]+', clean_title))
+    chinese_parts = "".join(re.findall(r'[\u4e00-\u9fa5]+', clean_title))
     
-    # 移除噪音
-    for n in ["即時影像", "直播", "官方", brand]:
-        chinese_found = chinese_found.replace(n, "")
+    # 移除贅字
+    for n in ["即時影像", "直播", "官方", "桃園", "台北", "高雄", "新北"]:
+        chinese_parts = chinese_parts.replace(n, "")
         
-    landmark = chinese_found if len(chinese_found) >= 2 else ""
+    landmark = chinese_parts if len(chinese_parts) >= 2 else ""
     if not landmark:
         for eng, chi in LANDMARK_MAP.items():
             if eng.lower() in v_title.lower(): landmark = chi; break
             
-    return f"【{brand}】{landmark if landmark else clean_title[:10]}"
+    return f"【{brand}】{landmark if landmark else clean_title[:12]}"
 
 def get_live_info():
-    # 核心設定：增加備用頁面抓取與地區模擬
     ydl_opts = {
         'quiet': True,
         'extract_flat': True,
         'skip_download': True,
         'playlist_items': '1-10',
-        'ignoreerrors': True, # 忽略單個頻道錯誤，繼續執行下一個
+        'ignoreerrors': True, # 關鍵：忽略單一頻道錯誤，繼續抓下一個
         'no_warnings': True,
         'extra_headers': {
             'Accept-Language': 'zh-TW,zh;q=0.9',
@@ -473,16 +477,16 @@ def get_live_info():
         print(f">>> 正在掃描 {genre} ...")
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             for nickname, base_url in channels.items():
-                # 策略：嘗試 streams 頁面，若出錯 yt-dlp 會自動回退至主頁面
-                target_urls = [f"{base_url}/streams", base_url]
+                # 策略：嘗試 streams 頁籤，失敗則嘗試首頁
+                paths = [f"{base_url}/streams", base_url]
+                success = False
                 
-                for url in target_urls:
+                for path in paths:
                     try:
-                        info = ydl.extract_info(url, download=False)
+                        info = ydl.extract_info(path, download=False)
                         if not info: continue
                         entries = info.get('entries', []) or ([info] if info.get('live_status') == 'is_live' else [])
                         
-                        found_live = False
                         for entry in entries:
                             if entry and (entry.get('live_status') == 'is_live' or entry.get('is_live')):
                                 v_url = f"https://www.youtube.com/watch?v={entry.get('id')}"
@@ -490,10 +494,10 @@ def get_live_info():
                                     final_title = extract_best_title(entry.get('title', ''), nickname)
                                     genre_list.append(f"{final_title},{v_url}")
                                     all_seen_urls.add(v_url)
-                                    found_live = True
-                        if found_live: break # 如果在 streams 找到直播，就不必再找主頁
-                    except Exception as e:
-                        continue # 嘗試下一個 URL 路徑
+                                    success = True
+                        if success: break # 抓到直播就跳出路徑迴圈
+                    except:
+                        continue
         
         if genre_list:
             final_output.append(genre)
@@ -506,4 +510,4 @@ if __name__ == "__main__":
     results = get_live_info()
     with open("live_list.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(results).strip() + "\n")
-    print("\n✅ 更新完成。已排除失效頻道並嘗試備用路徑。")
+    print("\n✅ 處理完成。")
