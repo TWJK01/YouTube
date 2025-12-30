@@ -6,6 +6,7 @@
 台灣,#genre#
 【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 【台灣地震監視】台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
+【台灣颱風論壇】台灣天氣即時監測,https://www.youtube.com/watch?v=HFw5jNXgynY
 【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近,https://www.youtube.com/watch?v=kzBW-wA-U1A
 【台視新聞】台小時線上台湾,https://www.youtube.com/watch?v=xL0ch83RAK8
 【中視新聞】新庶民大頭家,https://www.youtube.com/watch?v=j1swXfyDGXI
@@ -13,25 +14,20 @@
 【中視新聞 HD】中視新聞頻道小時線上台湾,https://www.youtube.com/watch?v=TCnaIE_SAtM
 【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=meHTKm4XBS8
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
+【民視新聞網】港錦江級巡邏艦和塔江號巡邏艦最新直擊民視快新聞,https://www.youtube.com/watch?v=1cHkqHVFvnU
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映大愛劇新何處是我家,https://www.youtube.com/watch?v=MIqUplvSRWA
-【大愛電視】大愛二臺全球現正播映大愛劇新何處是我家,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+【大愛電視】大愛一臺全球現正播映小主播看天下,https://www.youtube.com/watch?v=MIqUplvSRWA
+【大愛電視】大愛二臺全球現正播映好戲成雙阿芬的幸福修練,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
+【三立LIVE新聞】歲曹西平猝死演藝圈好友不捨悼念小哀悼會永遠記得他的獨特魅力三立新聞台,https://www.youtube.com/watch?v=hIkcPfI3JK8
 【三立LIVE新聞】祝你健康呷百二告別疲勞營養師教你招最有效的新陳代謝提升術祝你健康,https://www.youtube.com/watch?v=AjJIcpk8mXc
 【三立LIVE新聞】話時代人物精彩不斷電話時代人物,https://www.youtube.com/watch?v=nvr3wUZhlIY
 【三立LIVE新聞】共軍繞台軍演三立新聞小時即時新聞國際氣象,https://www.youtube.com/watch?v=QsGswQvRmtU
 【三立LIVE新聞】三立新聞海外小時台灣新聞,https://www.youtube.com/watch?v=hGJkDZDchYI
 【中天新聞CtiNews】共軍遠火實彈射擊喊全命中國防部證實落北部這些區域陸無人機俯瞰專家揭內幕曹西平後事無人理義子現身林佩潔何橞瑢報新聞中天新聞,https://www.youtube.com/watch?v=t2mKXVVTmZs
-【中天電視CtiTv】正義使命遠箱火打擊覆蓋台全島解放軍遠火將與海馬斯對轟給美日看中國首度挑明嚇阻介入兩棲艦逼近台灣島全球大視野,https://www.youtube.com/watch?v=tsz77r3t-n8
-【中天電視CtiTv】東部戰區對台遠程火力實彈射擊全部命中陸外交部最新發布中天新聞,https://www.youtube.com/watch?v=PmwyyNdTrFg
-【中天電視CtiTv】史上首次共軍圍台實彈軍演我領海被劃入台海周邊海域直擊不斷更新中天新聞,https://www.youtube.com/watch?v=R6FaRQcMcBw
-【中天電視CtiTv】圍台軍演國際航班起降大亂金馬停飛交通部估萬人受影響松山金門機場中天新聞,https://www.youtube.com/watch?v=MeaJFQcrjak
-【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
-【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
 【TVBS NEWS】追雪必看冷氣團發威合歡山變身夢幻糖霜,https://www.youtube.com/watch?v=5wCs-anKv1s
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 【TVBS NEWS】新聞台小時台湾世界中時間配信中,https://www.youtube.com/watch?v=2mCSYvcfhtc
@@ -39,6 +35,7 @@
 【寰宇新聞】台灣台小時台湾時間配信中,https://www.youtube.com/watch?v=w87VGpgd90U
 【寰宇新聞】小時線上台湾時間配信中,https://www.youtube.com/watch?v=6IquAgfvYmc
 【新唐人亞太電視台】新唐人小時,https://www.youtube.com/watch?v=Bhp_V7H5QoY
+【飛碟聯播網】陶色新聞陶晶瑩主持社群熱議話題娛樂新聞重點吳小帽,https://www.youtube.com/watch?v=Rj6nsWMFggQ
 【三大一台】三大有線電視公司,https://www.youtube.com/watch?v=qhApzA9RSDo
 【東森財經股市】東森財經新聞小時線上台湾金融,https://www.youtube.com/watch?v=1I2iq41Akmo
 【東森財經股市】小時台湾金融時間放送,https://www.youtube.com/watch?v=AEBeWMM1atA
@@ -50,6 +47,7 @@
 【AI主播倪珍Nikki 播新聞】小時台湾時間配信中,https://www.youtube.com/watch?v=YBgQRpZqeug
 【AI主播倪珍Nikki 播新聞】AI Anchor Ni Zh,https://www.youtube.com/watch?v=HSImh9Pz_44
 【AI主播倪珍Nikki 播新聞】主播倪珍小時氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
+【POP Radio聯播網】大國民羅旺哲專訪主播韋家齊談王世堅妙語如珠主播眼中的堅哥大罷免後的立院綠與藍白爭鋒激烈,https://www.youtube.com/watch?v=ad5CR_aiGXg
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=7j92Myu2wzg
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 【鳳凰衛視PhoenixTV】東部戰區對台南部海域射擊取得預期效果台軍方成立應變中心執行立即戰備操演日本防衛省或將引進核潛艇小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
@@ -160,7 +158,7 @@
 【貝樂虎兒歌-童謠歌曲】貝樂虎兒童熱門童謠不間斷歡樂小時小毛驢更多兒歌兒歌童謠卡通動畫貝樂虎,https://www.youtube.com/watch?v=u74LMt_hqG8
 【貝樂虎-兒歌童謠-卡通動畫-經典故事】叢林探險開始啦貝樂虎動物兒歌幼兒音樂童謠串燒兩只老虎拔蘿蔔貝樂虎,https://www.youtube.com/watch?v=YDtNnMzKuVc
 【貝樂虎-兒歌童謠-卡通動畫-經典故事】貝樂虎醫生出動職業認知卡通動畫兒童游戲最新最火幼兒早教視頻,https://www.youtube.com/watch?v=4Ir1-e3iXbU
-【小猪佩奇】最新视频粉红猪小妹动画,https://www.youtube.com/watch?v=AE8GKCmrQm8
+【小猪佩奇】最新视频粉红猪小妹动画,https://www.youtube.com/watch?v=-NVyscW0VHs
 【Kids Songs - Giligilis】Giligilis ABC P,https://www.youtube.com/watch?v=2Lasr_ARcHI
 【Kids Songs - Giligilis】Colorful ABC Ad,https://www.youtube.com/watch?v=EorP0ZQxwBU
 【Kids Songs - Giligilis】🎶 Five Colorful,https://www.youtube.com/watch?v=K6nRE-OMNck
@@ -262,9 +260,7 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情,https://www.youtube.com/watch?v=f9P_slj4KvU
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】正義使命遠箱火打擊覆蓋台全島解放軍遠火將與海馬斯對轟給美日看中國首度挑明嚇阻介入兩棲艦逼近台灣島中天電視,https://www.youtube.com/watch?v=AAal62DTPXc
 【全球大視野】俄軍小時空襲烏澤倫斬首普丁黃循財作死不給中晶片陸軍演完成實彈射擊紅繩釋訊號雙尾蠍亮劍台盡收眼底,https://www.youtube.com/watch?v=-IT5Gvy9uNY
-【全球大視野】東部戰區對台遠程火力實彈射擊全部命中陸外交部最新發布,https://www.youtube.com/watch?v=Hyp6lAS7R8k
 【全球大視野】史上首次共軍圍台實彈軍演我領海被劃入台海周邊海域直擊不斷更新,https://www.youtube.com/watch?v=WGGY30DXATU
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=0UOnH10P4oY
 【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網,https://www.youtube.com/watch?v=JIKHI-lnWmw
@@ -272,10 +268,8 @@
 【新聞大白話】🔴LIVE：2025.12.3,https://www.youtube.com/watch?v=SxTqjWfVJeI
 【新聞大白話】時間配信,https://www.youtube.com/watch?v=8o3rl1YgbmE
 【中天深喉嚨】圍台軍演國際航班起降大亂金馬停飛交通部估萬人受影響松山金門機場,https://www.youtube.com/watch?v=Fh243H33uM4
-【頭條開講】東部戰區對台遠程火力實彈射擊全部命中陸外交部最新發布,https://www.youtube.com/watch?v=gLfTWSW8erI
 【頭條開講】史上首次共軍圍台實彈軍演我領海被劃入台海周邊海域直擊不斷更新,https://www.youtube.com/watch?v=6LPwJHdVPtA
 【少康戰情室】精選特輯時間配信趙少康戰鬥藍,https://www.youtube.com/watch?v=_LVTMyXBTTI
-【金臨天下】軍演震盪大盤整理台股明封關收紅盤權值股抗利空台積鴻海聯發科大反攻市值型不香了高股息將翻身,https://www.youtube.com/watch?v=56ZHNUPxVQQ
 【金臨天下】財經新聞看盤不中斷時間黃斐瑜趙慶翔,https://www.youtube.com/watch?v=gBcED3mKCMU
 
 購物,#genre#
