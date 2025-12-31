@@ -80,16 +80,16 @@
 【台灣地震監視】台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
 【台灣颱風論壇】台灣天氣即時監測,https://www.youtube.com/watch?v=HFw5jNXgynY
 【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近,https://www.youtube.com/watch?v=kzBW-wA-U1A
+【台視新聞】年元旦總統府升旗典禮,https://www.youtube.com/watch?v=zBvbE0IPFww
 【台視新聞】台小時線上台湾,https://www.youtube.com/watch?v=xL0ch83RAK8
 【中視新聞】頻道小時線上台湾,https://www.youtube.com/watch?v=baDV1O5EBP0
 【中視新聞 HD】中視新聞頻道小時線上台湾,https://www.youtube.com/watch?v=TCnaIE_SAtM
 【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=meHTKm4XBS8
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映映照人生,https://www.youtube.com/watch?v=MIqUplvSRWA
-【大愛電視】大愛二臺全球現正播映映照人生,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+【大愛電視】大愛一臺全球現正播映法華經序中文版,https://www.youtube.com/watch?v=MIqUplvSRWA
+【大愛電視】大愛二臺全球現正播映小人物大英雄,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -99,12 +99,15 @@
 【三立LIVE新聞】三立新聞海外小時台灣新聞,https://www.youtube.com/watch?v=hGJkDZDchYI
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
+【TVBS NEWS】總統府元旦升旗健康台灣團結守護,https://www.youtube.com/watch?v=ghJjZfz-yMY
+【TVBS NEWS】卡達首辦大型跨年活動煙火無人機燈光表演新聞,https://www.youtube.com/watch?v=68znS9ZY6Ns
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 【TVBS NEWS】新聞台小時台湾世界中時間配信中,https://www.youtube.com/watch?v=2mCSYvcfhtc
 【寰宇新聞】迎接全球燄火秀跟說再見,https://www.youtube.com/watch?v=TbjueZ8hLcs
 【寰宇新聞】中國對台大規模軍演日韓歐美皆表達關切南韓總統李在明訪中前夕中國軍演升溫台海緊張台,https://www.youtube.com/watch?v=Ej3LQM_lTEw
 【寰宇新聞】台灣台小時台湾時間配信中,https://www.youtube.com/watch?v=w87VGpgd90U
 【寰宇新聞】小時線上台湾時間配信中,https://www.youtube.com/watch?v=6IquAgfvYmc
+【udn video】中華民國年元旦總統府升旗典禮,https://www.youtube.com/watch?v=mrTb8J6W6VE
 【新唐人亞太電視台】新唐人小時,https://www.youtube.com/watch?v=Bhp_V7H5QoY
 【三大一台】三大有線電視公司,https://www.youtube.com/watch?v=qhApzA9RSDo
 【東森財經股市】東森財經新聞小時線上台湾金融,https://www.youtube.com/watch?v=1I2iq41Akmo
@@ -139,6 +142,7 @@
 【豬哥會社】馬拉松不間斷,https://www.youtube.com/watch?v=v8MUGB4vst8
 【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=k0uJVhYX12Y
+【TVBS娛樂頭條】卡達首辦大型跨年活動煙火無人機燈光表演新聞,https://www.youtube.com/watch?v=TGrSen28fos
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=HtUVepidg7c
 【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=Qx-PTaNRC7Y
@@ -210,6 +214,37 @@
 【Ani-One】遊戲王－怪獸之決鬥,https://www.youtube.com/watch?v=nGDX7qUl6mw
 【回歸線娛樂】真珠美人魚,https://www.youtube.com/watch?v=BLag8MOBUg8
 【回歸線娛樂】夢幻遊戲,https://www.youtube.com/watch?v=7j8chjyp7tw
+【YOYOTV】金曲熱門卡通不間斷唱跳金曲兒歌,https://www.youtube.com/watch?v=ZjMe5u-I3PM
+【momokids親子台】舞法天女朵法拉繁體中文朵蜜法蘇拉緹音樂劇,https://www.youtube.com/watch?v=k4TC9_pheW0
+【momokids親子台】歡樂谷首合輯歡樂歌曲不間斷帶小孩塞車神曲小朋友跳舞兒歌童兒童律動幼兒舞蹈愛唱歌,https://www.youtube.com/watch?v=oPntQYFGwgY
+【momokids親子台】這一家歡樂不間斷第四季家庭校園喜劇趣味短劇,https://www.youtube.com/watch?v=tKcvVpq7sgE
+【Bebefinn 繁體中文 - 兒歌】新年快樂貝貝彬人氣兒歌更多好習慣養成經典兒歌台灣配音中文兒歌童謠連續播放繁體中文,https://www.youtube.com/watch?v=L0Q4RL9K2U8
+【寶貝多米-兒歌童謠-卡通動畫-經典故事】恐龍唱唱跳跳派對趣味兒歌和互動遊戲童謠寶貝多米,https://www.youtube.com/watch?v=ATiJ3ihQuP8
+【瑪莎與熊】立即觀看所有劇集,https://www.youtube.com/watch?v=E_E80UC2gek
+【碰碰狐 鯊魚寶寶】新年快樂鯊魚寶寶碰碰狐人氣歌曲卡通動畫,https://www.youtube.com/watch?v=DgIn_dN7Hew
+【寶寶巴士】倒楣的灰狼笨賊更多熱門動畫合集安全警長啦咘啦哆,https://www.youtube.com/watch?v=nVYrDAiIIsk
+【Miliki Family - 繁體中文 - 兒歌】米利基萌宝圣诞特别篇,https://www.youtube.com/watch?v=g0Cics5mfa4
+【貝樂虎兒歌-童謠歌曲】貝樂虎兒童熱門童謠不間斷歡樂小時小毛驢更多兒歌兒歌童謠卡通動畫貝樂虎,https://www.youtube.com/watch?v=u74LMt_hqG8
+【貝樂虎-兒歌童謠-卡通動畫-經典故事】叢林探險開始啦貝樂虎動物兒歌幼兒音樂童謠串燒兩只老虎拔蘿蔔貝樂虎,https://www.youtube.com/watch?v=YDtNnMzKuVc
+【貝樂虎-兒歌童謠-卡通動畫-經典故事】貝樂虎醫生出動職業認知卡通動畫兒童游戲最新最火幼兒早教視頻,https://www.youtube.com/watch?v=4Ir1-e3iXbU
+【小猪佩奇】最新视频粉红猪小妹动画,https://www.youtube.com/watch?v=0p0MC2FZX3g
+【Kids Songs - Giligilis】Giligilis ABC P,https://www.youtube.com/watch?v=2Lasr_ARcHI
+【Kids Songs - Giligilis】Colorful ABC Ad,https://www.youtube.com/watch?v=EorP0ZQxwBU
+【Kids Songs - Giligilis】🎶 Five Colorful,https://www.youtube.com/watch?v=K6nRE-OMNck
+【Kids Songs - Giligilis】Explore the Fun,https://www.youtube.com/watch?v=9gvfD_L9FSI
+【Kids Songs - Giligilis】🍓 Giligilis’ AB,https://www.youtube.com/watch?v=E61jEDQKisg
+【Kids Songs - Giligilis】🥥 Coconut Song ,https://www.youtube.com/watch?v=ybntYv4ctXM
+【Kids Songs - Giligilis】Yummy Yummy Man,https://www.youtube.com/watch?v=cFHHTE6dyUA
+【Kids Songs - Giligilis】🍓 Yummy Fruits ,https://www.youtube.com/watch?v=Ef_4c0-vNQY
+【Kids Songs - Giligilis】Giligilis' Grea,https://www.youtube.com/watch?v=IIWgW9ww4uE
+【超級汽車-卡通動畫】警車守護朋友更多汽車兒歌合輯交通工具卡通超級汽車,https://www.youtube.com/watch?v=Me0qdV9XQgQ
+【超級汽車-卡通動畫】警車守護朋友更多汽車兒歌合輯交通工具卡通超級汽車,https://www.youtube.com/watch?v=kcGmDpjdez4
+【神奇鸡仔】兒歌童謠卡通動畫,https://www.youtube.com/watch?v=ZxBauq89vBQ
+【朱妮托尼 - 动画儿歌】我有壹個洋娃娃我的洋娃娃朱妮的洋娃娃生病了經典兒歌兒歌童謠朱妮托尼童話故事,https://www.youtube.com/watch?v=IQbSkhYWC6A
+【朱妮托尼 - 动画儿歌】朱妮托尼的颜色去哪儿了颜色兒歌五彩缤纷颜色王国画,https://www.youtube.com/watch?v=adtIhQ_1HoI
+【朱妮托尼 - 动画儿歌】兒歌童謠卡通動畫尝尝彩虹色零食五颜六色的零食颜色儿歌美食儿歌朱妮托尼兒歌,https://www.youtube.com/watch?v=PvHvJRMji7w
+【朱妮托尼 - 动画儿歌】朱妮托尼圣诞节快乐美甲师你长大后想做什么朱妮托尼童話故事,https://www.youtube.com/watch?v=hCpriLTzoZA
+【嗶哩嗶哩動畫Anime Made By Bilibili】坠入仙界三千年修成仙帝强势归来守护家族的荣耀仙帝归来合集,https://www.youtube.com/watch?v=YjigZrRUqAg
 
 體育,#genre#
 【HOP Sports】小時台湾時間,https://www.youtube.com/watch?v=JaGd4Yy_xjA
@@ -289,12 +324,17 @@
 【Tokyo Sound Rank】人気曲最新邦楽集優里米津玄師宇多田,https://www.youtube.com/watch?v=MjsI7PQrm4Y
 
 政論,#genre#
+【TVBS 優選頻道】總統府元旦升旗健康台灣團結守護,https://www.youtube.com/watch?v=wT7kqKfXuFI
+【TVBS 優選頻道】卡達首辦大型跨年活動煙火無人機燈光表演新聞,https://www.youtube.com/watch?v=gG-eVdFlQDY
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情,https://www.youtube.com/watch?v=f9P_slj4KvU
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
+【全球大視野】迎接全球各地接力煙火綻放瘋跨年,https://www.youtube.com/watch?v=reADlO15ZaA
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=0UOnH10P4oY
 【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網,https://www.youtube.com/watch?v=JIKHI-lnWmw
 【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網,https://www.youtube.com/watch?v=HarWsyvLERc
 【新聞大白話】時間配信,https://www.youtube.com/watch?v=8o3rl1YgbmE
+【中時新聞網】總統府元旦升旗賴清德韓國瑜同台出席,https://www.youtube.com/watch?v=iOAoi6UL-gI
+【頭條開講】迎接全球各地接力煙火綻放瘋跨年,https://www.youtube.com/watch?v=_IJG635maEA
 【少康戰情室】精選特輯時間配信趙少康戰鬥藍,https://www.youtube.com/watch?v=_LVTMyXBTTI
 【金臨天下】財經新聞看盤不中斷時間黃斐瑜趙慶翔,https://www.youtube.com/watch?v=gBcED3mKCMU
 
