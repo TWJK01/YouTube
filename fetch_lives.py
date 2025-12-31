@@ -394,6 +394,8 @@ CATEGORIES = {
 MANUAL_LINKS = {
     "跨年,#genre#": [
         "【臺北市政府】【1900】臺北最High新年城,https://www.youtube.com/watch?v=6Ekqt2eQWaM",
+        "【新北市文化局】【1620】2026閃耀新北1314跨河煙火- 八里「星月舞台」,https://www.youtube.com/watch?v=R8wy0ptiuVs",
+        "【新北市文化局】【1700】2026閃耀新北1314跨河煙火- 淡水「星光舞台」,https://www.youtube.com/watch?v=INUlQU4XH7E",		
         "【壹電視】【1900】「2026雄嗨趴」高雄跨年晚會 ,https://www.youtube.com/watch?v=6nV37uSsx1o",
         "【嘉義+1 We Chiayi】【1730】「2026雄嗨趴」高雄跨年晚會 ,https://www.youtube.com/watch?v=_ePcCXyHDAk",
         "【雲林縣政府】【1800】雲林跨年晚會 ,https://www.youtube.com/watch?v=AF3wC8L8NyA",		
