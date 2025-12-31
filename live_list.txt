@@ -4,7 +4,7 @@
 【新北市文化局】【1700】2026閃耀新北1314跨河煙火- 淡水「星光舞台」,https://www.youtube.com/watch?v=INUlQU4XH7E
 【壹電視】【1900】「2026雄嗨趴」高雄跨年晚會 ,https://www.youtube.com/watch?v=6nV37uSsx1o
 【嘉義+1 We Chiayi】【1730】「2026雄嗨趴」高雄跨年晚會 ,https://www.youtube.com/watch?v=_ePcCXyHDAk
-【雲林縣政府】【1800】雲林跨年晚會 ,https://www.youtube.com/watch?v=AF3wC8L8NyA
+【雲林縣政府】【1800】雲林跨年晚會,https://www.youtube.com/watch?v=AF3wC8L8NyA
 【宜蘭市公所】【1900】2026 璀璨蘭城・幸福宜市,https://www.youtube.com/watch?v=0TWaHr8zmBc
 【臺東縣政府】【1500】《東！帶我走》2026台東跨年晚會直播,https://www.youtube.com/watch?v=VnZ6x6m5VAc
 【黃敬宣】【1630】2026西螺跨年晚會,https://www.youtube.com/watch?v=p8sCOzVY1HU
@@ -37,6 +37,7 @@
 【非凡電視】【2100】全球跨年 2026雪梨煙火秀,https://www.youtube.com/watch?v=BD2vmXPX-uc
 【非凡電視】【2026】閃耀新北「淡江大橋」,https://www.youtube.com/watch?v=uk3JixPp3Lc
 【非凡電視】【1900】紐西蘭奧克蘭 迎接2026,https://www.youtube.com/watch?v=FtdlBFqAFk8
+【三立新聞】【1630】2026花蓮太平洋觀光節跨年演唱會,https://www.youtube.com/watch?v=iwbYPtvjzzM
 【三立新聞】【2000】2026包你發 麗寶跨年演唱會,https://www.youtube.com/watch?v=WWr8TgTlzXw
 【三立新聞】【1900】2026台中最強跨年夜,https://www.youtube.com/watch?v=YuF_KbM01T4
 【三立新聞】【1600】拉斯維加斯封街迎2026,https://www.youtube.com/watch?v=GLkmiJxpEOA
@@ -88,7 +89,7 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映大愛真健康,https://www.youtube.com/watch?v=MIqUplvSRWA
+【大愛電視】大愛一臺全球現正播映法譬如水,https://www.youtube.com/watch?v=MIqUplvSRWA
 【大愛電視】大愛二臺全球現正播映小人物大英雄,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】東森晚安新聞迎接跨年夜北東濕涼要帶傘中北低溫度市府前湧現歌迷排隊入場安檢超嚴格台中地院婦人攜菜刀闖入警出動人持盾牌到場,https://www.youtube.com/watch?v=LuwGfgZD8B8
@@ -245,7 +246,6 @@
 
 體育,#genre#
 【HOP Sports】小時台湾時間,https://www.youtube.com/watch?v=JaGd4Yy_xjA
-【TPBL】例行賽國王中信特攻,https://www.youtube.com/watch?v=hvIzC6KS690
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=UZYwoKfrgJQ
 【BattleBots】🔴 LIVE All Batt,https://www.youtube.com/watch?v=5CHCbBj-Vjg
 【WWE】Best of 2025 Sm,https://www.youtube.com/watch?v=5LJHZFO8ZDU
@@ -320,6 +320,7 @@
 【Tokyo Sound Rank】邦楽今聴神曲集宇多田他,https://www.youtube.com/watch?v=4VT3Zi3Xr2c
 【Tokyo Sound Rank】邦楽話題神曲宇多田他,https://www.youtube.com/watch?v=z8PzoHfHBf0
 【Tokyo Sound Rank】人気曲最新邦楽集優里米津玄師宇多田,https://www.youtube.com/watch?v=MjsI7PQrm4Y
+【MEET48 Global】跨年联合特殊公演,https://www.youtube.com/watch?v=2KNfozLypmo
 【MEET48 Global】和我一起芭全团跨年联合特殊公演,https://www.youtube.com/watch?v=F6m1FYTR4hs
 【MEET48 Global】捌肆全团联合公演,https://www.youtube.com/watch?v=FXUAjCqRJFg
 【MEET48 Global】跨年联合特别公演,https://www.youtube.com/watch?v=GD15Jeb01zM
