@@ -11,11 +11,12 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映生活地球村,https://www.youtube.com/watch?v=MIqUplvSRWA
-【大愛電視】大愛二臺全球現正播映行動現場,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+【大愛電視】大愛一臺全球現正播映日日素,https://www.youtube.com/watch?v=MIqUplvSRWA
+【大愛電視】大愛二臺全球現正播映證嚴上人說故事,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
+【中天新聞CtiNews】兆國防預算五度封殺大陸軍演美國首度表態台美關稅談判結果年前公布擾民惹議換卡急轉彎孫怡琳劉又嘉報新聞中天電視,https://www.youtube.com/watch?v=KrCZ0cTFU64
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
 【TVBS NEWS】強烈大陸冷氣團來襲瘋追雪各地鏡頭君直擊,https://www.youtube.com/watch?v=m95MYzrZuas
@@ -39,7 +40,6 @@
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=7j92Myu2wzg
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 【鳳凰衛視PhoenixTV】元旦天小長假內地文旅市場明顯升溫瑞士酒吧火災致約死傷特朗普威脅要干涉伊朗騷亂事件小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
-【HOY 資訊台 × 有線新聞】有線新聞晨早新聞報道即時新聞港聞兩岸國際資訊,https://www.youtube.com/watch?v=a9HE5LmCkh8
 【8world】资讯不停播视界,https://www.youtube.com/watch?v=RvSOIM620bA
 
 綜藝,#genre#
@@ -254,7 +254,7 @@
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=0siTFIU__tc
 【玉麟網路電視台】線上,https://www.youtube.com/watch?v=Pr3D4mMrhvE
-【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=l5z8MDVbIUo
+【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=jmH5eLpl50A
 【三聖電視台】「三聖電視台」直播,https://www.youtube.com/watch?v=Sl26ZFvawuU
 【桐瑛台中電視臺】「桐瑛台中電視臺」直播,https://www.youtube.com/watch?v=HZTQ87Vq2IA
 【桐瑛台南電視臺】「桐瑛台南電視臺」直播,https://www.youtube.com/watch?v=UZW-uj83JHk
@@ -266,18 +266,6 @@
 【Live東森購物台】CH46,https://www.youtube.com/watch?v=Z50JFuNgvB0
 【Live東森購物台】CH34,https://www.youtube.com/watch?v=_Vlzn9qAHD4
 【Live東森購物台】CH60,https://www.youtube.com/watch?v=u0NYyH3ZesE
-
-國會,#genre#
-【國會頻道】國會頻道２,https://www.youtube.com/watch?v=Lj8OWF6nzcg
-【國會頻道】程序委員會,https://www.youtube.com/watch?v=IvAXtzx5cUI
-【國會頻道】黨團協商,https://www.youtube.com/watch?v=yUx5lB4mhZk
-【國會頻道】社會福利及衛生環境委員會,https://www.youtube.com/watch?v=DdUWlWZVOi8
-【國會頻道】經費稽核委員會,https://www.youtube.com/watch?v=nkejc54RyDU
-【國會頻道】紀律委員會,https://www.youtube.com/watch?v=KyHM5yvcLU4
-【國會頻道】外交及國防委員會,https://www.youtube.com/watch?v=Af0TFVbxvAQ
-【國會頻道】立法院會議,https://www.youtube.com/watch?v=tDg3bJFYLzI
-【國會頻道】經濟委員會,https://www.youtube.com/watch?v=xfikIGtkQeA
-【國會頻道】財政委員會,https://www.youtube.com/watch?v=Cidl9JoRtGk
 
 宗教,#genre#
 【淨土宗】網路電視台南無阿彌陀佛,https://www.youtube.com/watch?v=gThC6n9F2Vw
