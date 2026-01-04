@@ -1,7 +1,6 @@
 台灣,#genre#
 【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 【台灣地震監視】台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
-【台灣颱風論壇】台灣天氣即時監測,https://www.youtube.com/watch?v=HFw5jNXgynY
 【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近,https://www.youtube.com/watch?v=kzBW-wA-U1A
 【台視新聞】台小時線上台湾,https://www.youtube.com/watch?v=xL0ch83RAK8
 【中視新聞】頻道小時線上台湾,https://www.youtube.com/watch?v=baDV1O5EBP0
@@ -11,8 +10,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映大愛真健康,https://www.youtube.com/watch?v=MIqUplvSRWA
-【大愛電視】大愛二臺全球現正播映大愛真健康,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+【大愛電視】大愛一臺全球現正播映日日素,https://www.youtube.com/watch?v=MIqUplvSRWA
+【大愛電視】大愛二臺全球現正播映青春愛讀書,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】美軍絕對決心行動癱瘓北京神盾小時活捉馬杜洛,https://www.youtube.com/watch?v=AN9cyHVWuK4
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
@@ -23,7 +22,6 @@
 【三立LIVE新聞】話時代人物精彩不斷電話時代人物,https://www.youtube.com/watch?v=nvr3wUZhlIY
 【三立LIVE新聞】三立新聞小時即時新聞國際氣象,https://www.youtube.com/watch?v=QsGswQvRmtU
 【三立LIVE新聞】三立新聞海外小時台灣新聞,https://www.youtube.com/watch?v=hGJkDZDchYI
-【中天電視CtiTv】對民進黨撂狠話再搞一定焦土政策柯文哲嘉義掃街火力全開中天新聞,https://www.youtube.com/watch?v=rkB2xtPG1fs
 【中天電視CtiTv】川普出手接管委內瑞拉馬杜洛被擒送抵美國紐約受審不斷更新中天新聞,https://www.youtube.com/watch?v=OYcanqJ_7SA
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
@@ -49,6 +47,7 @@
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=7j92Myu2wzg
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 【鳳凰衛視PhoenixTV】特朗普美大型石油公司將進軍委內瑞拉李在明抵達北京開啟對華國事訪問拉美各國領導人譴責美襲擊委內瑞拉小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
+【HOY 資訊台 × 有線新聞】有線新聞新聞報道即時新聞港聞兩岸國際資訊,https://www.youtube.com/watch?v=WLgHtj8hF7o
 【8world】资讯不停播视界,https://www.youtube.com/watch?v=RvSOIM620bA
 
 綜藝,#genre#
@@ -179,14 +178,12 @@
 【HOP Sports】例行賽雲林美津濃屏東台電企業年甲級男女排球聯賽,https://www.youtube.com/watch?v=zeJOGBv--sA
 【HOP Sports】小時台湾時間,https://www.youtube.com/watch?v=JaGd4Yy_xjA
 【動滋Sports】LIVE》1/408:00,https://www.youtube.com/watch?v=YFbBav7BQWk
-【GoHoops】20260104 HGBA 1,https://www.youtube.com/watch?v=MtRwzS369bc
+【GoHoops】名人堂來都來了,https://www.youtube.com/watch?v=E0NVqz8uRlI
 【GoHoops】一維菓菜行傳興米,https://www.youtube.com/watch?v=wjlxK9mo3xI
 【TPBL】例行賽國王全家海神,https://www.youtube.com/watch?v=-vtCpyW-2QQ
 【TPVL 台灣職業排球聯盟】例行賽台鋼天鷹雲豹飛將,https://www.youtube.com/watch?v=INc8k4B2CQU
-【籃海運動】青少年籃球聯盟,https://www.youtube.com/watch?v=-OX6eXW_GeA
+【籃海運動】青少年籃球聯盟,https://www.youtube.com/watch?v=vIs_N4ldRJE
 【日本B聯盟】KAWASAKI BRAVE ,https://www.youtube.com/watch?v=V5vIcdItgoU
-【日本B聯盟】SHIGA LAKES vs ,https://www.youtube.com/watch?v=499OW4x7ht0
-【日本B聯盟】RYUKYU GOLDEN K,https://www.youtube.com/watch?v=6K6V5IZPhfE
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=UZYwoKfrgJQ
 【BattleBots】🔴 LIVE All Batt,https://www.youtube.com/watch?v=5CHCbBj-Vjg
 【WWE】Best of 2025 Ra,https://www.youtube.com/watch?v=3FsdtcgP0hA
@@ -266,15 +263,14 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情,https://www.youtube.com/watch?v=f9P_slj4KvU
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
+【全球大視野】習改核武川任內制霸天下炸台海逼美搞定這些大事周錫瑋蔡正元黃介正重磅對談精彩完整全程中天電視網路論壇,https://www.youtube.com/watch?v=eYfm3-M_xZk
 【全球大視野】川普出手接管委內瑞拉馬杜洛被擒送抵美國紐約受審不斷更新,https://www.youtube.com/watch?v=bD-5afs2LFI
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=0UOnH10P4oY
 【94要客訴】行動政府行動正能量陳亭妃改變台南女力市長鐵馬精神三立新聞網,https://www.youtube.com/watch?v=ekDkMLuWrA0
 【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網,https://www.youtube.com/watch?v=JIKHI-lnWmw
 【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網,https://www.youtube.com/watch?v=HarWsyvLERc
-【大新聞大爆卦】美抓馬杜洛曝賴下場綠兩國論自找死路了沈伯洋被陸肉搜綠嚇尿柯文哲大復活萬人空巷林岱樺要脫黨了綠台南民調超搞笑,https://www.youtube.com/watch?v=JfKJj7ZlTYE
 【新聞大白話】特報,https://www.youtube.com/watch?v=zq0TSfubuxk
 【新聞大白話】時間配信,https://www.youtube.com/watch?v=8o3rl1YgbmE
-【中天深喉嚨】對民進黨撂狠話再搞一定焦土政策柯文哲嘉義掃街火力全開,https://www.youtube.com/watch?v=43AriFI3yZA
 【哏傳媒】小時不斷電為您呈現年度回顧賴獨裁綁架全民,https://www.youtube.com/watch?v=mMSrFo6i_Gw
 【董事長開講】全字幕小時不斷電一起收看吳董觀點,https://www.youtube.com/watch?v=WcbVB0eh0jg
 【關鍵時刻】美軍絕對決心行動癱瘓北京神盾小時活捉馬杜洛,https://www.youtube.com/watch?v=uRK32OjtSx0
@@ -286,6 +282,7 @@
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=0siTFIU__tc
 【玉麟網路電視台】線上,https://www.youtube.com/watch?v=Pr3D4mMrhvE
+【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=AqkSYJfyKwk
 【三聖電視台】「三聖電視台」直播,https://www.youtube.com/watch?v=Sl26ZFvawuU
 【桐瑛台中電視臺】「桐瑛台中電視臺」直播,https://www.youtube.com/watch?v=HZTQ87Vq2IA
 【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播,https://www.youtube.com/watch?v=4K76Q5uWKiY
