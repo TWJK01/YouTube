@@ -10,8 +10,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映大愛年度劇展芳草碧連天,https://www.youtube.com/watch?v=MIqUplvSRWA
-【大愛電視】大愛二臺全球現正播映好戲成雙大大與太太,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+【大愛電視】大愛一臺全球現正播映經典劇坊在愛之外,https://www.youtube.com/watch?v=MIqUplvSRWA
+【大愛電視】大愛二臺全球現正播映經典劇坊在愛之外,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -19,7 +19,6 @@
 【三立LIVE新聞】話時代人物精彩不斷電話時代人物,https://www.youtube.com/watch?v=nvr3wUZhlIY
 【三立LIVE新聞】三立新聞小時即時新聞國際氣象,https://www.youtube.com/watch?v=QsGswQvRmtU
 【三立LIVE新聞】三立新聞海外小時台灣新聞,https://www.youtube.com/watch?v=hGJkDZDchYI
-【中天電視CtiTv】傳賴清德點名卓榮泰千億軍購沒到苗博雅曝僅案延宕嗆提不出清單就別造謠館長被起訴喊冤要賴清德出庭總統被告才要出庭中天電視,https://www.youtube.com/watch?v=-9TxsLSnfO8
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
 【TVBS NEWS】強烈大陸冷氣團來襲瘋追雪各地鏡頭君直擊,https://www.youtube.com/watch?v=m95MYzrZuas
@@ -43,6 +42,7 @@
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=7j92Myu2wzg
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 【鳳凰衛視PhoenixTV】特朗普接管格陵蘭是為防止中俄控制北極中國外交部美謀取私利別拿他國當藉口王毅訪非釋放中非戰略對表信號小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
+【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊,https://www.youtube.com/watch?v=b1rf5ik8qak
 【8world】资讯不停播视界,https://www.youtube.com/watch?v=RvSOIM620bA
 
 綜藝,#genre#
@@ -244,12 +244,10 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=WAUECPu9EOw
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】伊朗鎮壓恐逾千人亡川普動武倒數聲波武器現身白宮背書南天門成真航母升空照進現實完整版,https://www.youtube.com/watch?v=MPHNONQ3qOs
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=0UOnH10P4oY
 【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網,https://www.youtube.com/watch?v=JIKHI-lnWmw
 【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網,https://www.youtube.com/watch?v=HarWsyvLERc
 【新聞大白話】時間配信,https://www.youtube.com/watch?v=8o3rl1YgbmE
-【關鍵時刻】習近平全力切割伊朗惹火普丁王毅訪索馬利亞緊急放鳥戰狼怕了,https://www.youtube.com/watch?v=ll5tpm3ZQbY
 【少康戰情室】精選特輯時間配信趙少康戰鬥藍,https://www.youtube.com/watch?v=_LVTMyXBTTI
 
 購物,#genre#
@@ -298,9 +296,9 @@
 
 教育,#genre#
 【龍騰高中聲】學測數學近年全解析小時不下線陪你撐到學測那天,https://www.youtube.com/watch?v=7wX-bH0KCCg
+【ABC Learning English】Learn English T,https://www.youtube.com/watch?v=vYOLs8e_jDw
 【ABC Learning English】English Convers,https://www.youtube.com/watch?v=ASYIVRWCVJw
 【ABC Learning English】English Convers,https://www.youtube.com/watch?v=c8HCTQX_9G4
-【ABC Learning English】Learn English T,https://www.youtube.com/watch?v=PTtqASP6hGQ
 【ABC Learning English】24 Hours Englis,https://www.youtube.com/watch?v=vuTY4FDAbpA
 【學習粵語】Speak Cantonese,https://www.youtube.com/watch?v=1DIdH6WWxWs
 【南非荷蘭語】Speak Afrikaans,https://www.youtube.com/watch?v=NlZwwACamSU
@@ -325,8 +323,6 @@
 【學習波斯語】Speak Persian 2,https://www.youtube.com/watch?v=MZZXGuOVl-I
 
 風景,#genre#
-【TW Live Cam】淡江大橋淡江大橋跨年煙火,https://www.youtube.com/watch?v=RwESfbNevQk
-【和平島公園即時影像】和平島公園,https://www.youtube.com/watch?v=NilOYhriA4I
 【台北】Maokong Zhinan ,https://www.youtube.com/watch?v=215ahZ_0rTg
 【台北】Jiantanshan Wei,https://www.youtube.com/watch?v=34h_Cy_n0Ok
 【台北】Bishan Temple |,https://www.youtube.com/watch?v=uvwfYzwY8tg
