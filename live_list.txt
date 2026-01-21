@@ -11,8 +11,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛二臺全球現正播映高僧傳,https://www.youtube.com/watch?v=QDxRJP-wfeI
-【大愛電視】大愛一臺全球現正播映大愛年度劇展芳草碧連天,https://www.youtube.com/watch?v=MIqUplvSRWA
+【大愛電視】大愛二臺全球現正播映映照人生,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映映照人生,https://www.youtube.com/watch?v=MIqUplvSRWA
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -301,26 +301,6 @@
 【ABC Learning English】Learn English T,https://www.youtube.com/watch?v=vYOLs8e_jDw
 【ABC Learning English】English Convers,https://www.youtube.com/watch?v=ASYIVRWCVJw
 【ABC Learning English】24 Hours Englis,https://www.youtube.com/watch?v=vuTY4FDAbpA
-【學習粵語】Speak Cantonese,https://www.youtube.com/watch?v=1DIdH6WWxWs
-【南非荷蘭語】Speak Afrikaans,https://www.youtube.com/watch?v=NlZwwACamSU
-【學習印地語】Speak Hindi 24/,https://www.youtube.com/watch?v=0FfSdk86sYA
-【學習菲律賓語】Speak Filipino ,https://www.youtube.com/watch?v=XnQw76AXBHc
-【學習烏爾都語】Speak Urdu 24/7,https://www.youtube.com/watch?v=ZP-ES10h0Fg
-【學習德語】Speak German 24,https://www.youtube.com/watch?v=1n_OxwjIqMI
-【學習土耳其語】Speak Turkish 2,https://www.youtube.com/watch?v=-lgXrFlzovo
-【學習阿拉伯語】Speak Arabic 24,https://www.youtube.com/watch?v=4I4wnyL-pOY
-【學習瑞典語】Speak Swedish 2,https://www.youtube.com/watch?v=ifr8YkoAutw
-【學習挪威語】Speak Norwegian,https://www.youtube.com/watch?v=F72NrtTPQsc
-【學習希伯來語】Speak Hebrew 24,https://www.youtube.com/watch?v=51otwj5gyPg
-【學習希臘語】Speak Greek 24/,https://www.youtube.com/watch?v=jriR2xXnIxc
-【學習波蘭語】Speak Polish 24,https://www.youtube.com/watch?v=XAVl9lhnhw8
-【學習日文】Speak Japanese ,https://www.youtube.com/watch?v=9VWh8jRfUmY
-【學習中文】Speak Chinese 2,https://www.youtube.com/watch?v=hjXQXAZTmns
-【學習匈牙利語】Speak Hungarian,https://www.youtube.com/watch?v=eVu4Ce7Nln4
-【學習芬蘭語】Speak Finnish 2,https://www.youtube.com/watch?v=XYBVEnItftQ
-【學習荷蘭語】Speak Dutch 24/,https://www.youtube.com/watch?v=225AvY8FALk
-【學習法語】Speak French 24,https://www.youtube.com/watch?v=y7F7VxWyfFM
-【學習波斯語】Speak Persian 2,https://www.youtube.com/watch?v=MZZXGuOVl-I
 
 風景,#genre#
 【和平島公園即時影像】和平島公園,https://www.youtube.com/watch?v=nGz8w9drcDs
