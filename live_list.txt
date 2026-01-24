@@ -11,7 +11,7 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛二臺全球現正播映好戲成雙大大與太太,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛二臺全球現正播映大愛真健康,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【大愛電視】大愛一臺全球現正播映大愛迷你劇場美好心境界,https://www.youtube.com/watch?v=MIqUplvSRWA
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
@@ -28,7 +28,7 @@
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 【TVBS NEWS】新聞台小時台湾世界中時間配信中,https://www.youtube.com/watch?v=2mCSYvcfhtc
-【寰宇新聞】川普還在覬覦格陵蘭嗆哪國不支持就課關稅烏俄和平談判再現僵局川普澤倫斯基害的台,https://www.youtube.com/watch?v=Ej3LQM_lTEw
+【寰宇新聞】川普槓北約竟提阿富汗狂批盟軍惹毛英國人民幣兌美元中間價破升值動能浮現台,https://www.youtube.com/watch?v=Ej3LQM_lTEw
 【寰宇新聞】台灣台小時台湾時間配信中,https://www.youtube.com/watch?v=w87VGpgd90U
 【寰宇新聞】小時線上台湾時間配信中,https://www.youtube.com/watch?v=6IquAgfvYmc
 【寰宇全視界】寰宇新聞台小時線上台湾時間配信中,https://www.youtube.com/watch?v=5SH3FDMyMzg
@@ -172,14 +172,15 @@
 【嗶哩嗶哩動畫Anime Made By Bilibili】战魔道夺至宝驰骋星海再回天南韩立实力暴增凡人修仙传合集,https://www.youtube.com/watch?v=_vv9BFMWXqk
 
 體育,#genre#
+【緯來體育台】臺中連莊臺北伊斯特,https://www.youtube.com/watch?v=MQrhEZsc6yY
 【getwin_sport】臺中連莊伊斯特北市大天母體育館,https://www.youtube.com/watch?v=mdMPxCVFb_g
 【HOP Sports】例行賽中纖義力營造企業年甲級男女排球聯賽,https://www.youtube.com/watch?v=egBS4Yt1-T4
 【動滋Sports】LIVE》1/2408:00,https://www.youtube.com/watch?v=iFT2Q_aOrJQ
 【動滋Sports】LIVE》1/2408:00,https://www.youtube.com/watch?v=-8iFXJuN7g8
-【GoHoops】北投七號盒子攝影奧丁丁,https://www.youtube.com/watch?v=8wJfKIrHugg
+【GoHoops】學生聯賽房卡給我,https://www.youtube.com/watch?v=_Gi2vNG_btY
 【TPBL】例行賽全家海神中信特攻,https://www.youtube.com/watch?v=8sfFUke60YI
-【CBC籃球聯盟】籃球聯盟光復老人家峨眉雙,https://www.youtube.com/watch?v=HjVwWw6yLTY
-【MAX籃球聯盟】籃球聯盟籃球聯盟正在,https://www.youtube.com/watch?v=UdwoCRfPuCg
+【CBC籃球聯盟】籃球聯盟昇玖國際不動產,https://www.youtube.com/watch?v=a0ODw_cNRls
+【MAX籃球聯盟】Max S26 1/24 Re,https://www.youtube.com/watch?v=9rrUATRp5rc
 【TPVL 台灣職業排球聯盟】例行賽臺北伊斯特臺中連莊,https://www.youtube.com/watch?v=4zzH-hXzsHg
 【日本B聯盟】GUNMA CRANE THU,https://www.youtube.com/watch?v=VHMTWqHZdss
 【日本B聯盟】KYOTO HANNARYZ ,https://www.youtube.com/watch?v=5DZaGuMTM0A
@@ -234,6 +235,7 @@
 【Radio Hits Music】Hits Radio 1 Li,https://www.youtube.com/watch?v=3MOrgUjiigE
 【Radio Hits Music】Pop Radio - Hit,https://www.youtube.com/watch?v=UWc_vMRGxDs
 【Dark City Sounds】Hottest Hip Hop,https://www.youtube.com/watch?v=r7eFY9YYTdE
+【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師,https://www.youtube.com/watch?v=xshntvQcq0s
 【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師,https://www.youtube.com/watch?v=LZCLZk5lzrY
 【Pop Japan Music】心響邦楽癒曲優里米津玄師,https://www.youtube.com/watch?v=jdu8Sn07KG4
 【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新,https://www.youtube.com/watch?v=2UzT31HGHfw
