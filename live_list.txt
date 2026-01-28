@@ -11,8 +11,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛二臺全球現正播映經典劇坊純美時光,https://www.youtube.com/watch?v=QDxRJP-wfeI
-【大愛電視】大愛一臺全球現正播映經典劇坊純美時光,https://www.youtube.com/watch?v=MIqUplvSRWA
+【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=MIqUplvSRWA
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -43,7 +43,6 @@
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=7j92Myu2wzg
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 【鳳凰衛視PhoenixTV】英國首相斯塔默抵達北京伊朗外長未與美特使接觸未提談判請求俄外交部遭美扣押郵輪上兩名俄船員獲釋小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
-【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊,https://www.youtube.com/watch?v=0PeF8wrXQeg
 【8world】资讯不停播视界,https://www.youtube.com/watch?v=RvSOIM620bA
 
 綜藝,#genre#
@@ -64,7 +63,6 @@
 【豬哥會社】馬拉松不間斷,https://www.youtube.com/watch?v=v8MUGB4vst8
 【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=k0uJVhYX12Y
-【204檔案】這段是廣播還是鬼講話,https://www.youtube.com/watch?v=oNmMxKOM_7Y
 【台灣大搜索】來自社會記者第一手的報導深入剖析犯罪者的內心世界探索每個刑事案件背後的故事資深記者老帶你揭露台灣社會重案祕辛,https://www.youtube.com/watch?v=TiOU3qHCqXk
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=HtUVepidg7c
 【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
@@ -294,6 +292,12 @@
 【佛光山梵唄讚頌團】佛光山梵唄早晚課觀世音菩薩普門品,https://www.youtube.com/watch?v=timOrsX8NjM
 【生命電視台】小時時間生放送,https://www.youtube.com/watch?v=dVkQNH3IfME
 【遠東良友】良友電台同行頻道良友电台同行频道遠東福音會,https://www.youtube.com/watch?v=BXvMi6rGrc8
+
+教育,#genre#
+【ABC Learning English】English Convers,https://www.youtube.com/watch?v=4ayHSRrvWjs
+【ABC Learning English】Learn English T,https://www.youtube.com/watch?v=vYOLs8e_jDw
+【ABC Learning English】English Convers,https://www.youtube.com/watch?v=ASYIVRWCVJw
+【ABC Learning English】24 Hours Englis,https://www.youtube.com/watch?v=vuTY4FDAbpA
 
 風景,#genre#
 【台北】Maokong Zhinan ,https://www.youtube.com/watch?v=215ahZ_0rTg
