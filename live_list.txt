@@ -11,8 +11,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛二臺全球現正播映好戲成雙路長情更長,https://www.youtube.com/watch?v=QDxRJP-wfeI
-【大愛電視】大愛一臺全球現正播映大愛年度劇展芳草碧連天,https://www.youtube.com/watch?v=MIqUplvSRWA
+【大愛電視】大愛二臺全球現正播映人文講堂,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映人文講堂,https://www.youtube.com/watch?v=MIqUplvSRWA
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -43,6 +43,7 @@
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=7j92Myu2wzg
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 【鳳凰衛視PhoenixTV】美在中東部署包括航母在內至少艘軍艦澤連斯基邀請普京到基輔談判中國對威士忌酒實施進口暫定稅率小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
+【HOY 資訊台 × 有線新聞】有線新聞晚間新聞東京香港連爆億円劫案有中國公民上野受害駐日使館提交涉促盡快破案安全帶法例刪改議員認審議走漏眼劉兆佳立法會疏忽未把好關,https://www.youtube.com/watch?v=Ei3whUqBPLw
 【8world】资讯不停播视界,https://www.youtube.com/watch?v=RvSOIM620bA
 
 綜藝,#genre#
@@ -243,12 +244,10 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=WAUECPu9EOw
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】頂流失格寶可夢靖國神社辦活動中國玩家怒伊朗封鎖荷姆茲海峽衝擊全球油市美慌了中國三航母時代第艘進展曝光完整版,https://www.youtube.com/watch?v=k7IhaeAFAYM
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=0UOnH10P4oY
 【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網,https://www.youtube.com/watch?v=JIKHI-lnWmw
 【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網,https://www.youtube.com/watch?v=HarWsyvLERc
 【新聞大白話】時間配信,https://www.youtube.com/watch?v=8o3rl1YgbmE
-【關鍵時刻】習近平用現代科舉完美獨裁今年保無望是中國模式的終點,https://www.youtube.com/watch?v=rRuD_24kajg
 【少康戰情室】精選特輯時間配信趙少康戰鬥藍,https://www.youtube.com/watch?v=_LVTMyXBTTI
 【品觀點】立法院第屆第會期第次會議決議民生新興計畫電視辯論會,https://www.youtube.com/watch?v=U6rFhuYEyZg
 
@@ -268,18 +267,6 @@
 【Live東森購物台】CH46,https://www.youtube.com/watch?v=Z50JFuNgvB0
 【Live東森購物台】CH34,https://www.youtube.com/watch?v=_Vlzn9qAHD4
 【Live東森購物台】CH60,https://www.youtube.com/watch?v=u0NYyH3ZesE
-
-國會,#genre#
-【國會頻道】國會頻道２,https://www.youtube.com/watch?v=Lj8OWF6nzcg
-【國會頻道】程序委員會,https://www.youtube.com/watch?v=IvAXtzx5cUI
-【國會頻道】黨團協商,https://www.youtube.com/watch?v=yUx5lB4mhZk
-【國會頻道】社會福利及衛生環境委員會,https://www.youtube.com/watch?v=DdUWlWZVOi8
-【國會頻道】經費稽核委員會,https://www.youtube.com/watch?v=nkejc54RyDU
-【國會頻道】紀律委員會,https://www.youtube.com/watch?v=KyHM5yvcLU4
-【國會頻道】外交及國防委員會,https://www.youtube.com/watch?v=Af0TFVbxvAQ
-【國會頻道】立法院會議,https://www.youtube.com/watch?v=tDg3bJFYLzI
-【國會頻道】經濟委員會,https://www.youtube.com/watch?v=xfikIGtkQeA
-【國會頻道】財政委員會,https://www.youtube.com/watch?v=Cidl9JoRtGk
 
 宗教,#genre#
 【中華傳統文化教育中心】世界電視台儒釋道教育與藝術文化的電視台,https://www.youtube.com/watch?v=ih-Kv8XPdcQ
