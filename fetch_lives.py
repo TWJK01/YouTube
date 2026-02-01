@@ -243,7 +243,8 @@ CATEGORIES = {
 	    "WWE Vault": "https://www.youtube.com/@WWEVault/streams"   
     },
 	"音樂,#genre#": {
-	    "4kTQ-music": "https://www.youtube.com/@4kTQ-music/streams",	
+	    "4kTQ-music": "https://www.youtube.com/@4kTQ-music/streams",
+	    "心动 Radio": "https://www.youtube.com/@%E5%BF%83%E5%8A%A8Radio/streams",		
 	    "Eight无限": "https://www.youtube.com/@eight-audio/streams",
 	    "相信音樂BinMusic": "https://www.youtube.com/@binmusictaipei/streams",
 	    "周杰倫 Jay Chou": "https://www.youtube.com/@jaychou/streams",		
