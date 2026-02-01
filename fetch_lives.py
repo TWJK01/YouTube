@@ -405,21 +405,20 @@ MANUAL_LINKS = {
 		"【五月天】不間斷霸佔你耳朵,https://www.youtube.com/live/R62E7cFWX6o"
     ],
     "少兒,#genre#": [
-        "【Muse木棉花】輝夜姬想讓人告白 邁向大人的階梯,https://www.youtube.com/watch?v=wEkaLDlGyIU",
+        "【Muse木棉花】獵人HUNTER×HUNTER,https://www.youtube.com/watch?v=UVouDle2jHc",
         "【Muse木棉花】葬送的芙莉蓮,https://www.youtube.com/watch?v=v1ZmBzh9pxs",
         "【Muse木棉花】JOJO的奇妙冒險,https://www.youtube.com/watch?v=4_JnTQCn9Kg",		
-        "【Muse木棉花】無職轉生～到了異世界就拿出真本事,https://www.youtube.com/watch?v=rXVuWlXmZYI",		
-        "【Muse木棉花】戀上換裝娃娃S1+S2,https://www.youtube.com/watch?v=7WD9k5BT5zU",
-        "【Muse木棉花】進擊的巨人S1-S4,https://www.youtube.com/watch?v=GlVvyu7jehk",
+        "【Muse木棉花】進擊的巨人,https://www.youtube.com/watch?v=GlVvyu7jehk",		
         "【Muse木棉花】蠟筆小新劇場版系列,https://www.youtube.com/watch?v=tBYG62NeTdU",		
         "【Muse木棉花】蠟筆小新TV版,https://www.youtube.com/watch?v=ENnjj7jQ23g",
         "【Muse木棉花】新哆啦A夢,https://www.youtube.com/watch?v=jbZCyIhL4WQ",
         "【Muse木棉花】中華一番,https://www.youtube.com/watch?v=mRCXonM5ru8",
         "【Muse木棉花】我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE",			
-		"【Ani-One】搖曳露營,https://www.youtube.com/watch?v=cwc6Z1lak70",
-        "【Ani-One】遊戲王－怪獸之決鬥,https://www.youtube.com/watch?v=SsMRsvbii9w",
-		"【回歸線娛樂】真珠美人魚,https://www.youtube.com/watch?v=BLag8MOBUg8",
-        "【回歸線娛樂】外星人田中太郎,https://www.youtube.com/watch?v=99Whfu4Tfwk"
+		"【Ani-One】搖曳露營,https://www.youtube.com/watch?v=fzpMSL1tRu0",
+        "【Ani-One】遊戲王－怪獸之決鬥,https://www.youtube.com/watch?v=SHngPS2mRac",
+		"【回歸線娛樂】金肉人 完美超人始祖篇,https://www.youtube.com/watch?v=KIIrDvrWP5k",
+		"【回歸線娛樂】外星人田中太郎,https://www.youtube.com/watch?v=99Whfu4Tfwk",		
+        "【回歸線娛樂】真珠美人魚,https://www.youtube.com/watch?v=BLag8MOBUg8"
     ]
 }
 
