@@ -11,8 +11,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛二臺全球現正播映好戲成雙路長情更長,https://www.youtube.com/watch?v=QDxRJP-wfeI
-【大愛電視】大愛一臺全球現正播映大愛年度劇展芳草碧連天,https://www.youtube.com/watch?v=MIqUplvSRWA
+【大愛電視】大愛二臺全球現正播映經典劇坊純美時光,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映經典劇坊純美時光,https://www.youtube.com/watch?v=MIqUplvSRWA
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -170,6 +170,7 @@
 【緯來體育台】2026.02.04│LIVE,https://www.youtube.com/watch?v=FGsoTJoL6eY
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=lD8PpHHJvms
 【BattleBots】🔴 LIVE The BEST,https://www.youtube.com/watch?v=G6ERanEbzEE
+【WWE】Best of AJ Styl,https://www.youtube.com/watch?v=oI2E6w79APY
 【WWE Vault】Superstar Best ,https://www.youtube.com/watch?v=90_71FSq4SY
 
 音樂,#genre#
@@ -241,12 +242,10 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=WAUECPu9EOw
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】伊朗被包圍美軍集結中國衛星盯死土耳其來遲三國協作化解戰火莫迪捅刀放棄俄羅斯投向美懷抱川普高興習近平表態完整版,https://www.youtube.com/watch?v=QS3adVNYtB4
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=0UOnH10P4oY
 【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網,https://www.youtube.com/watch?v=JIKHI-lnWmw
 【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網,https://www.youtube.com/watch?v=HarWsyvLERc
 【新聞大白話】時間配信,https://www.youtube.com/watch?v=8o3rl1YgbmE
-【關鍵時刻】是習近平的政治緊身衣中國經濟大逃殺大量遭張又俠式整肅,https://www.youtube.com/watch?v=mDOjVdnIspo
 【少康戰情室】精選特輯時間配信趙少康戰鬥藍,https://www.youtube.com/watch?v=_LVTMyXBTTI
 
 購物,#genre#
