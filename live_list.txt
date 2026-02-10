@@ -11,8 +11,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映風月同天分秒版,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映真善美故事館,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -40,7 +40,6 @@
 【AI主播倪珍Nikki 播新聞】小時台湾時間配信中,https://www.youtube.com/watch?v=YBgQRpZqeug
 【AI主播倪珍Nikki 播新聞】AI Anchor Ni Zh,https://www.youtube.com/watch?v=HSImh9Pz_44
 【AI主播倪珍Nikki 播新聞】主播倪珍小時氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
-【BNE TV - 新西兰中文国际频道】中国发白皮书国安伸进金融与航运歼射热焰弹演练猪背式法报告对中国搞广场协议比亚迪起诉美国政府日本加入北约节奏特朗普恫言阻止美加新大桥通车我爱纽西兰,https://www.youtube.com/watch?v=hboHRadjAp4
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=7j92Myu2wzg
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 【鳳凰衛視PhoenixTV】中國國防部警惕日政府重走軍國主義邪路俄方下輪俄烏談判可能很快舉行伊朗美伊核談判顯示雙方存在理解共識小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
@@ -219,7 +218,6 @@
 【Radio Hits Music】Hits Radio 1 Li,https://www.youtube.com/watch?v=3MOrgUjiigE
 【Radio Hits Music】Pop Radio - Hit,https://www.youtube.com/watch?v=UWc_vMRGxDs
 【Dark City Sounds】Hottest Hip Hop,https://www.youtube.com/watch?v=r7eFY9YYTdE
-【Pop Japan Music】心響邦楽癒曲優里米津玄師,https://www.youtube.com/watch?v=BmRQXaig-DI
 【Pop Japan Music】有名曲音楽最新最新曲邦楽最人気若者音楽邦楽最新,https://www.youtube.com/watch?v=17WFTdiwMDw
 【Pop Japan Music】有名曲音楽最新最新曲邦楽最人気若者音楽邦楽最新,https://www.youtube.com/watch?v=59Tmi2HIAms
 【Pop Japan Music】邦楽年最新曲癒感動名曲集優里米津玄師,https://www.youtube.com/watch?v=6KAjS7bbNLQ
@@ -229,6 +227,7 @@
 【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師,https://www.youtube.com/watch?v=jlzHCIZ5Xko
 【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師,https://www.youtube.com/watch?v=-ig3OSXNiDY
 【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新,https://www.youtube.com/watch?v=Jg58I7d6Azg
+【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師,https://www.youtube.com/watch?v=LZCLZk5lzrY
 【Tokyo Sound Rank】有名曲邦楽日本最高歌優里米津玄師宇多田,https://www.youtube.com/watch?v=dQ7Avm5vZUI
 【Tokyo Sound Rank】人気曲有名曲邦楽優里米津玄師宇多田,https://www.youtube.com/watch?v=ns3kv2cHzh0
 【Tokyo Sound Rank】邦楽今聴神曲集宇多田他,https://www.youtube.com/watch?v=4VT3Zi3Xr2c
