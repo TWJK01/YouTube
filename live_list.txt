@@ -3,7 +3,8 @@
 【台灣地震監視】台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
 【台灣颱風論壇】台灣天氣即時監測,https://www.youtube.com/watch?v=LzOTY4mZG00
 【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近,https://www.youtube.com/watch?v=kzBW-wA-U1A
-【台視新聞】午間大頭條台東醉男搶巡邏車逃逸警追公里開槍,https://www.youtube.com/watch?v=VegqwpWiJ80
+【台視新聞】整點大頭條少年闖輕軌釀碰撞害列車停分鐘,https://www.youtube.com/watch?v=cYVjD-hnJfY
+【台視新聞】統一獅新春團拜春訓開訓,https://www.youtube.com/watch?v=ISzqVrQSHMw
 【台視新聞】台小時線上台湾,https://www.youtube.com/watch?v=xL0ch83RAK8
 【中視新聞】中視午間新聞線上看,https://www.youtube.com/watch?v=q_2p8963mO4
 【中視新聞】頻道小時線上台湾,https://www.youtube.com/watch?v=baDV1O5EBP0
@@ -15,8 +16,8 @@
 【公視】一字千金春節馬拉松挑戰最燒腦的文字競賽,https://www.youtube.com/watch?v=rp1te7k6BQM
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映人間菩提,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映日日素,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映行動現場,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映行動現場,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】東森午安新聞行人待撞區台中斑馬線交叉設計惹議遭轟時代眼淚東區名店接連關人流減少中年後小心病毒再起諾羅流恐進入流行高峰,https://www.youtube.com/watch?v=aBh4Yo9Lak8
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
@@ -28,7 +29,6 @@
 【三立LIVE新聞】美最高法院裁定川普關稅大刀違憲億美元稅款恐全數退還三立新聞國際焦點地震氣象台湾,https://www.youtube.com/watch?v=QsGswQvRmtU
 【三立LIVE新聞】川普宣布全球加徵關稅再嗆台灣偷晶片台灣新聞三立新聞國際焦點地震氣象政經動態台湾,https://www.youtube.com/watch?v=hGJkDZDchYI
 【中天新聞CtiNews】對等關稅判違法無用川普法院開轟最高法院遷怒台灣偷晶片三支下下籤示警全台國運籤一次看黃韵筑報新聞中天新聞,https://www.youtube.com/watch?v=V0JtalUObjE
-【中天新聞CtiNews】美國對等關稅判決違法川普嗆恥辱還有四招可加徵朝天宮國運籤龍虎相交專家曝警示綠盤算朝野續鬥孫怡琳報新聞中天新聞,https://www.youtube.com/watch?v=k0mfAo4mJws
 【中天電視CtiTv】川普關稅被判違法嗆最高法院恥辱宣布加徵全球新關稅最快天後實施中天新聞,https://www.youtube.com/watch?v=vCY57vgGgWc
 【中天電視CtiTv】初五內門新動物園上工囉現場發包限量發財金中天新聞,https://www.youtube.com/watch?v=vl8RpUvDKmU
 【中天電視CtiTv】神奇動物陪你過好年中天新聞,https://www.youtube.com/watch?v=r3x3vBbdeYo
@@ -41,7 +41,6 @@
 【寰宇新聞】小時線上台湾時間配信中,https://www.youtube.com/watch?v=6IquAgfvYmc
 【寰宇全視界】寰宇新聞台小時線上台湾時間配信中,https://www.youtube.com/watch?v=5SH3FDMyMzg
 【新唐人亞太電視台】新唐人小時,https://www.youtube.com/watch?v=Bhp_V7H5QoY
-【原視新聞網 TITV News】從田野與實作秀林部落讓族語回到生活中原住民族電視台,https://www.youtube.com/watch?v=54ZfEr4Gge0
 【三大一台】三大有線電視公司,https://www.youtube.com/watch?v=qhApzA9RSDo
 【東森財經股市】東森財經新聞小時線上台湾金融,https://www.youtube.com/watch?v=1I2iq41Akmo
 【東森財經股市】小時台湾金融時間放送,https://www.youtube.com/watch?v=AEBeWMM1atA
@@ -213,61 +212,6 @@
 音樂,#genre#
 【周杰倫】音樂時光機,https://www.youtube.com/watch?v=q8hw5oKCDp4
 【五月天】不間斷霸佔你耳朵,https://www.youtube.com/live/R62E7cFWX6o
-【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋,https://www.youtube.com/watch?v=YSWHtk1_UKQ
-【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音二月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質,https://www.youtube.com/watch?v=WlqXiPuwWtM
-【4kTQ-music】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=BYNWUMC2Np4
-【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋,https://www.youtube.com/watch?v=99rLT2xf8T8
-【心动 Radio】最孤單的夜裡有你留下的聲音超好聽中文原創情歌夜晚放鬆閱讀學習助眠,https://www.youtube.com/watch?v=fx9UIfXzKVw
-【Hot TV】🔥🎵 #KJJadiDJ 🎧 ,https://www.youtube.com/watch?v=augOnkJkrHY
-【时间节拍 Melody】華語單曲排行週榜二月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋,https://www.youtube.com/watch?v=qrWp7zOrWAg
-【时间节拍 Melody】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=PoNKmT9ns-Y
-【时间节拍 Melody】抖音神曲抖音歌曲若月亮沒來王宇宙向思思總會有人可能是風太大了吧承桓我會等年最洗腦的旋律都在這裡,https://www.youtube.com/watch?v=PWt0X2ioW8E
-【时间节拍 Melody】華語單曲排行週榜愛就一個字若月亮没来花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋二月新歌,https://www.youtube.com/watch?v=IsEhtbPZr4Q
-【孤心旋律】二月热门歌曲爆火社交媒体刷屏神曲那些直击人心的歌楊天一沒能成為你的白馬承桓座位次次陷落爱错胡睿,https://www.youtube.com/watch?v=ioSrMwrXtos
-【孤心旋律】月熱門歌曲最火抖音合輯抖音四十大熱門歌曲在加納共和國離婚從前說座位如果爱忘了林俊傑鄧紫棋,https://www.youtube.com/watch?v=JcjAZeeB0sg
-【孤心旋律】華語單曲排行週榜一月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋,https://www.youtube.com/watch?v=2KnheMYXGDs
-【孤心旋律】華語單曲排行週榜超好聽的中文歌單愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=eGkDnmeI4t8
-【Cherry 葵】Nightcore Radio,https://www.youtube.com/watch?v=tjne3WWB3kA
-【「KING AMUSEMENT CREATIVE」公式チャンネル】時間日,https://www.youtube.com/watch?v=4FBW3mkdKOs
-【FOR FUN RADIO TIME Music channel】音樂不間斷讀書工作專屬音樂陪你每一天,https://www.youtube.com/watch?v=IomlsrbTFsQ
-【The Good Life Radio x Sensual Musique】Deep House Radi,https://www.youtube.com/watch?v=IkmLXvBfVv0
-【The Good Life Radio x Sensual Musique】Chill Out Music,https://www.youtube.com/watch?v=m52ynxt1mOo
-【The Good Life Radio x Sensual Musique】Chillout Lounge,https://www.youtube.com/watch?v=9UMxZofMNbA
-【The Good Life Radio x Sensual Musique】The Good Life R,https://www.youtube.com/watch?v=36YnV9STBqc
-【Rock FM】Rock 90s ⚡  Bes,https://www.youtube.com/watch?v=njqkg8o4C84
-【Rock FM】Pop Rock ⚡  Bes,https://www.youtube.com/watch?v=2Sn6nqruOB8
-【Rock FM】Rock 2000s ⚡  B,https://www.youtube.com/watch?v=VbTYnJshTas
-【Rock FM】Rock Classics ⚡,https://www.youtube.com/watch?v=Nt27aBceerI
-【Radio Mix】Radio 2000s Hit,https://www.youtube.com/watch?v=0C4kZlNrhbI
-【Radio Mix】Radio 90s Mix  ,https://www.youtube.com/watch?v=Ukyd5pBfJjM
-【Radio Mix】Radio 70s 80s M,https://www.youtube.com/watch?v=WnCfvAMM9eY
-【Radio Mix】Best Radio 1 PO,https://www.youtube.com/watch?v=b-bK2Vn3D38
-【Radio Mix】Radio POP Mix 2,https://www.youtube.com/watch?v=x-JC7sJJUW8
-【Radio Mix】Dance Radio Mix,https://www.youtube.com/watch?v=hXyRD5vbKpo
-【Too Music】The Good Time R,https://www.youtube.com/watch?v=YDuz4mAtyf4
-【Too Music】Music Radio Mix,https://www.youtube.com/watch?v=m2BnK_hf2qg
-【Too Music】Music Radio Ret,https://www.youtube.com/watch?v=9hylBusqpX8
-【Too Music】Music Radio Pop,https://www.youtube.com/watch?v=zjXupvypOmw
-【Too Music】Today's Top Hit,https://www.youtube.com/watch?v=nHeXL2We4EE
-【Too Music】Music Radio 1 P,https://www.youtube.com/watch?v=FVLNVecHzvI
-【Radio Hits Music】Hits Radio 1 Li,https://www.youtube.com/watch?v=3MOrgUjiigE
-【Radio Hits Music】Pop Radio - Hit,https://www.youtube.com/watch?v=UWc_vMRGxDs
-【Dark City Sounds】Hottest Hip Hop,https://www.youtube.com/watch?v=r7eFY9YYTdE
-【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新,https://www.youtube.com/watch?v=_rH7Zy0saGE
-【Pop Japan Music】邦楽年最新曲癒感動名曲集優里米津玄師,https://www.youtube.com/watch?v=vbV3xPZOK4w
-【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新,https://www.youtube.com/watch?v=o-tyIqtgYw8
-【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師,https://www.youtube.com/watch?v=U6Tzp6GDpUk
-【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師,https://www.youtube.com/watch?v=B1CU7VFNqvI
-【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師,https://www.youtube.com/watch?v=M6RcRkchj4Q
-【Pop Japan Music】心響邦楽癒曲優里米津玄師,https://www.youtube.com/watch?v=pH0yWSjMox8
-【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新,https://www.youtube.com/watch?v=1Tc1gvom4Po
-【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師,https://www.youtube.com/watch?v=JHW1Q9Hhzak
-【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師,https://www.youtube.com/watch?v=eL43EJy7TLs
-【Tokyo Sound Rank】有名曲邦楽日本最高歌優里米津玄師宇多田,https://www.youtube.com/watch?v=dQ7Avm5vZUI
-【Tokyo Sound Rank】人気曲有名曲邦楽優里米津玄師宇多田,https://www.youtube.com/watch?v=ns3kv2cHzh0
-【Tokyo Sound Rank】邦楽今聴神曲集宇多田他,https://www.youtube.com/watch?v=4VT3Zi3Xr2c
-【Tokyo Sound Rank】邦楽話題神曲宇多田他,https://www.youtube.com/watch?v=z8PzoHfHBf0
-【Tokyo Sound Rank】人気曲最新邦楽集優里米津玄師宇多田,https://www.youtube.com/watch?v=MjsI7PQrm4Y
 
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=WAUECPu9EOw
@@ -321,7 +265,6 @@
 【佛光山梵唄讚頌團】共修早晚課佛光山梵唄南無消災延壽藥師佛,https://www.youtube.com/watch?v=pyIkBtXxtuk
 【佛光山梵唄讚頌團】共修早晚課佛光山梵唄觀世音菩薩普門品,https://www.youtube.com/watch?v=TvEARGJ950E
 【佛光山梵唄讚頌團】迎財神善行為本福德為財馬年開工正念招福氣歡喜得圓滿,https://www.youtube.com/watch?v=rKQIO52D76Y
-【佛光山梵唄讚頌團】佛光山大年初一禮千佛法會駿馬迎春行有光明願有力量所至皆善緣所行常福慧,https://www.youtube.com/watch?v=jYFNm-cAVp4
 【佛光山梵唄讚頌團】共修法會佛光山梵唄大悲懺法會播出版一懺一淨一願一光願慈悲遍照十方,https://www.youtube.com/watch?v=okcUl_k5Y9I
 【生命電視台】小時時間生放送,https://www.youtube.com/watch?v=dVkQNH3IfME
 【遠東良友】良友電台同行頻道良友电台同行频道遠東福音會,https://www.youtube.com/watch?v=BXvMi6rGrc8
