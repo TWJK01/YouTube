@@ -11,8 +11,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映大愛醫生館,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映真善美故事館,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映仁心慧語,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映仁心慧語,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -60,7 +60,6 @@
 【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=k0uJVhYX12Y
 【台灣大搜索】來自資深社會記者第一手報導富少百刀剁雙親跨海追殺美小三剖析犯罪者的內心世界探索案件背後的故事揭露台灣社會重案祕辛,https://www.youtube.com/watch?v=TiOU3qHCqXk
-【關鍵時刻】中國股開年遭血洗中企受不了國產晶片向海外求救引恐慌暴跌,https://www.youtube.com/watch?v=KVOGXDVTI8g
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=HtUVepidg7c
 【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=Qx-PTaNRC7Y
@@ -75,7 +74,6 @@
 【台視時光機】從街頭到教授流氓教授真實改編熱血人生小時精彩,https://www.youtube.com/watch?v=nt6SoW6D5i8
 【台視時光機】挑戰你的極限精彩類戲劇一次看個夠,https://www.youtube.com/watch?v=MlpGNrF88FI
 【中視經典戲劇】嗶波童年回來了浴火鳳凰馬拉松小時不斷電,https://www.youtube.com/watch?v=1MEbwM8lejE
-【華視戲劇頻道】全劇小時不斷電一起跟包公辦案,https://www.youtube.com/watch?v=2FNoip54KcE
 【華視戲劇頻道】小時不斷電一起追劇來辦案,https://www.youtube.com/watch?v=7PrYe8ykEjY
 【民視戲劇館】台灣奇案民視戲劇馬拉松,https://www.youtube.com/watch?v=NyrdWXddfR4
 【民視戲劇館】廉政英雄民視戲劇馬拉松,https://www.youtube.com/watch?v=TXKWbIPgD_8
@@ -232,8 +230,6 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=WAUECPu9EOw
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】川普大帝國情咨文自豪分鐘六成美國人打臉福特號臨陣便祕馬桶堵塞屎詩災難中國飛彈挺伊朗美以絕望完整版,https://www.youtube.com/watch?v=e9CEYL0zYQI
-【民視讚夯】軍購條例在野不擋了韓國瑜變綠國瑜國情報告無共識傅崐萁不退讓李貞秀立委資格存疑陸委會證實了仲江開講,https://www.youtube.com/watch?v=rJocorNgDVk
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=0UOnH10P4oY
 
 購物,#genre#
