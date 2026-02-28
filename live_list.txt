@@ -11,8 +11,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映人文講堂,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映青春愛讀書,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛迷你劇場如果還有明天,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -48,7 +48,6 @@
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=7j92Myu2wzg
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 【鳳凰衛視PhoenixTV】伊朗打擊目標是中東所有美軍基地特朗普美國開始在伊朗實施重大作戰行動以色列和美國發射的巡航導彈飛往伊朗小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
-【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊,https://www.youtube.com/watch?v=jahvkhHIdhI
 【8world】资讯不停播视界,https://www.youtube.com/watch?v=RvSOIM620bA
 
 綜藝,#genre#
@@ -173,6 +172,12 @@
 【朱妮托尼 - 动画儿歌】動物保護者尝尝彩虹色零食小棉花糖更多朱妮托尼颜色儿歌,https://www.youtube.com/watch?v=9Pj9bCAubb0
 【朱妮托尼 - 动画儿歌】辛辣味香甜味你喜欢什么口味呢彩色糖果贩卖机碳酸饮料为什么会冒泡画,https://www.youtube.com/watch?v=7lKkaQnWios
 【嗶哩嗶哩動畫Anime Made By Bilibili】逆行凡间修为归零看云帝如何再起风云重整世界仙帝归来,https://www.youtube.com/watch?v=27Ho2GhN_AY
+
+體育,#genre#
+【HOP Sports】小時台湾時間,https://www.youtube.com/watch?v=JaGd4Yy_xjA
+【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=lD8PpHHJvms
+【WWE】Best of Elimina,https://www.youtube.com/watch?v=-qNg8xCsq4E
+【WWE Vault】WWE Vault Watch,https://www.youtube.com/watch?v=_Ji8vj_Jm9w
 
 音樂,#genre#
 【周杰倫】音樂時光機,https://www.youtube.com/watch?v=q8hw5oKCDp4
