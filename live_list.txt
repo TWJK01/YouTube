@@ -3,6 +3,7 @@
 【台灣地震監視】台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
 【台灣颱風論壇】台灣天氣即時監測,https://www.youtube.com/watch?v=LzOTY4mZG00
 【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近,https://www.youtube.com/watch?v=kzBW-wA-U1A
+【中視新聞】孫大千談的過去現在未來郭正亮談中美交易新變局,https://www.youtube.com/watch?v=HXcniyTBH_o
 【中視新聞】頻道小時線上台湾,https://www.youtube.com/watch?v=baDV1O5EBP0
 【中視新聞 HD】中視新聞頻道小時線上台湾,https://www.youtube.com/watch?v=TCnaIE_SAtM
 【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=meHTKm4XBS8
@@ -10,13 +11,15 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映證嚴上人說故事,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映證嚴上人說故事,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映靜心瑜伽,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映好戲成雙我在你心裡,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【鏡新聞】馬郁雯拚初選最後衝刺富民路市場掃街拜票,https://www.youtube.com/watch?v=73rPlCqY77Q
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
 【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾,https://www.youtube.com/watch?v=hGJkDZDchYI
-【中天新聞CtiNews】美伊戰爭川普開嗆要伊朗無條件投降經典賽台日戰扣倒今戰捷克還能晉級孫怡琳劉又嘉報新聞中天新聞,https://www.youtube.com/watch?v=_4RRpjgq7jo
+【中天新聞CtiNews】四月台灣斷氣危機剉咧等官員脫口核四馬英九停的扯立院表決戰綠委集體翹班綠油油鬆動討厭民進黨擴張劉又嘉孫怡琳報新聞中天新聞,https://www.youtube.com/watch?v=LG9rU-v5IhY
+【中天電視CtiTv】孫大千談的過去現在未來郭正亮談全球變局中美交易中天新聞,https://www.youtube.com/watch?v=Eam9b3_4a5Q
 【中天電視CtiTv】伊朗摧毀美億美元薩德雷達最新影像曝約旦基地遭炸拒接受哈米尼之子接最高領袖川普必須親自參與領袖選舉過程不斷更新中天新聞,https://www.youtube.com/watch?v=tVJkCsHO28o
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
@@ -41,6 +44,7 @@
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=7j92Myu2wzg
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 【鳳凰衛視PhoenixTV】美軍擊中伊朗無人機航母爆炸起火科威特遇襲美軍指揮中心遭伊朗監視中方中國經濟為動盪世界提供穩定性小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
+【HOY 資訊台 × 有線新聞】新聞報道,https://www.youtube.com/watch?v=NhOai2AszCY
 【8world】资讯不停播视界,https://www.youtube.com/watch?v=RvSOIM620bA
 
 綜藝,#genre#
@@ -167,6 +171,12 @@
 【嗶哩嗶哩動畫Anime Made By Bilibili】异像现神魔临秦牧及延康众人逆天前行踏出一条新生之路牧神记,https://www.youtube.com/watch?v=uVa_2VP_QuU
 
 體育,#genre#
+【庫泊運動賽事】第九屆玉山盃三人制全國槌球錦標賽月日,https://www.youtube.com/watch?v=aCHzRx2CVL0
+【CBC籃球聯盟】籃球聯盟維多利亞教育合勤集團,https://www.youtube.com/watch?v=EOVO6Utlq2g
+【CBC籃球聯盟】籃球聯盟炭烤吐司星期三,https://www.youtube.com/watch?v=46DPVQ2vJqs
+【MAX籃球聯盟】駿鵬汽車,https://www.youtube.com/watch?v=rHXtXwn0opg
+【籃海運動】週末籃球聯賽比奇堡德撲王拿靠肝鐵少年,https://www.youtube.com/watch?v=pyRip4u94tM
+【Body Sports  名衍行銷運動頻道】女生組決賽雲縣建國積穗,https://www.youtube.com/watch?v=yn-LFipzVdM
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=lD8PpHHJvms
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=Dv-pmT25qZc
 【WWE】Best of Randy O,https://www.youtube.com/watch?v=MNYTzo36wko
@@ -175,7 +185,6 @@
 音樂,#genre#
 【周杰倫】音樂時光機,https://www.youtube.com/watch?v=q8hw5oKCDp4
 【五月天】不間斷霸佔你耳朵,https://www.youtube.com/live/R62E7cFWX6o
-【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋,https://www.youtube.com/watch?v=CYEdnOvbntI
 【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋,https://www.youtube.com/watch?v=YSWHtk1_UKQ
 【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音二月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質,https://www.youtube.com/watch?v=WlqXiPuwWtM
 【4kTQ-music】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=BYNWUMC2Np4
@@ -191,7 +200,6 @@
 【孤心旋律】年月最新熱門單曲華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋二月新歌,https://www.youtube.com/watch?v=AnrRt4xiUBQ
 【孤心旋律】華語單曲排行週榜一月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋,https://www.youtube.com/watch?v=2KnheMYXGDs
 【孤心旋律】華語單曲排行週榜超好聽的中文歌單愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=eGkDnmeI4t8
-【KKBOX 华语新歌周榜】那些年我们听过的情歌你还记得吗蔡依林周杰伦王菲林俊杰五月天年代至年代的华语流行经典唤起你心中的青春记忆一起回到那个属于磁带和的年代我好嗎不曾回來過,https://www.youtube.com/watch?v=kUMwwHr1nlM
 【水月琴音】無損音質熱門中文歌精選必聽流行歌曲古風音樂,https://www.youtube.com/watch?v=yTaRNzU-12A
 【Cherry 葵】Nightcore Radio,https://www.youtube.com/watch?v=tjne3WWB3kA
 【「KING AMUSEMENT CREATIVE」公式チャンネル】時間日,https://www.youtube.com/watch?v=4FBW3mkdKOs
@@ -237,6 +245,8 @@
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=0UOnH10P4oY
 【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網,https://www.youtube.com/watch?v=JIKHI-lnWmw
 【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網,https://www.youtube.com/watch?v=HarWsyvLERc
+【大新聞大爆卦】孫大千談的過去現在未來郭正亮談全球變局中美交易,https://www.youtube.com/watch?v=dIox3gyHcSM
+【中時新聞網】孫大千談的過去現在未來郭正亮談中美交易新變局,https://www.youtube.com/watch?v=wGLgvTFnF90
 【頭條開講】伊朗摧毀美億美元薩德雷達最新影像曝約旦基地遭炸拒接受哈米尼之子接最高領袖川普必須親自參與領袖選舉過程不斷更新,https://www.youtube.com/watch?v=4S_Pv_sFfRc
 【金臨天下】財經網路新聞小時台湾世界中時間配信中財經財經鈔能力,https://www.youtube.com/watch?v=TMjUNWnNYmE
 
