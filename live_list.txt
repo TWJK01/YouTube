@@ -165,7 +165,6 @@
 
 體育,#genre#
 【HOP Sports】小時台湾時間,https://www.youtube.com/watch?v=JaGd4Yy_xjA
-【CBC籃球聯盟】籃球聯盟清華大學世霖紐約隊,https://www.youtube.com/watch?v=BrTsqnI-wlU
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=lD8PpHHJvms
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=Dv-pmT25qZc
 【WWE】Best of Randy O,https://www.youtube.com/watch?v=MNYTzo36wko
@@ -243,7 +242,6 @@
 
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=IBcS_0eEndI
-【玉麟網路電視台】線上作伙來聽歌,https://www.youtube.com/watch?v=Rz0xXkp-Ehk
 【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=zZxKiTBACb0
 【三聖電視台】「三聖電視台」直播,https://www.youtube.com/watch?v=l7RYPQiiur0
 【桐瑛台中電視臺】「桐瑛台中電視臺」直播,https://www.youtube.com/watch?v=HZTQ87Vq2IA
