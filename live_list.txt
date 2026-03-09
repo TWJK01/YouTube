@@ -10,13 +10,13 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映人間菩提,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映好戲成雙天下第一招,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛醫生館,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映真善美故事館,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
 【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾,https://www.youtube.com/watch?v=hGJkDZDchYI
-【中天新聞CtiNews】盧秀燕訪美天為國發聲李四川訪議會如誓師政府喊高油價恐成常態台天然氣成靠進口電也漲中天夜線中天新聞,https://www.youtube.com/watch?v=a065vYsYrqk
+【中天電視CtiTv】伊最高領袖下令向美以發動第波攻擊川普嗆撐不久以放話繼續追擊中天新聞,https://www.youtube.com/watch?v=8LkKUFynja0
 【中天電視CtiTv】不對美國妥協伊朗選出哈米尼之子為新領袖伊朗戰爭何時停川普美以一起決定中天新聞,https://www.youtube.com/watch?v=UW0kSZTq1UI
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
@@ -231,11 +231,12 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=WAUECPu9EOw
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】不對美國妥協伊朗選出哈米尼之子為新領袖伊朗戰爭何時停川普美以一起決定,https://www.youtube.com/watch?v=ZeNh9b74WGI
+【全球大視野】伊最高領袖下令向美以發動第波攻擊川普嗆撐不久以放話繼續追擊,https://www.youtube.com/watch?v=BwVUdbfvWp8
+【全球大視野】哈米尼次子強悍接班美以白忙一場美軍傷亡再增伊朗怒轟林肯號美軍基地遭波及中俄動了上合組織出手華府後方失火完整版,https://www.youtube.com/watch?v=BApCgpbbtOQ
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=0UOnH10P4oY
 【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網,https://www.youtube.com/watch?v=JIKHI-lnWmw
 【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網,https://www.youtube.com/watch?v=HarWsyvLERc
-【頭條開講】不對美國妥協伊朗選出哈米尼之子為新領袖伊朗戰爭何時停川普美以一起決定,https://www.youtube.com/watch?v=HzJCYBqOwzA
+【頭條開講】伊最高領袖下令向美以發動第波攻擊川普嗆撐不久以放話繼續追擊,https://www.youtube.com/watch?v=01dtbRDv8XQ
 【金臨天下】財經網路新聞小時台湾世界中時間配信中財經財經鈔能力,https://www.youtube.com/watch?v=TMjUNWnNYmE
 
 購物,#genre#
