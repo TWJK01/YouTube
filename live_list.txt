@@ -3,6 +3,7 @@
 【台灣地震監視】台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
 【台灣颱風論壇】台灣天氣即時監測,https://www.youtube.com/watch?v=LzOTY4mZG00
 【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近,https://www.youtube.com/watch?v=kzBW-wA-U1A
+【中視新聞】新庶民大頭家,https://www.youtube.com/watch?v=yLn4SRM67tc
 【中視新聞】頻道小時線上台湾,https://www.youtube.com/watch?v=baDV1O5EBP0
 【中視新聞 HD】中視新聞頻道小時線上台湾,https://www.youtube.com/watch?v=TCnaIE_SAtM
 【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=meHTKm4XBS8
@@ -10,16 +11,17 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映無量義經偈頌,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映高僧傳,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛劇夢醒時刻,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映大愛劇夢醒時刻,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】伊朗國安首長指揮官遇襲亡北約拒護航荷姆茲海峽川普怒批愚蠢錯誤,https://www.youtube.com/watch?v=baSPkwCAhsY
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
-【三立LIVE新聞】赴日夢碎柯文哲聲請解除境管北院二大理由駁回藍白合持續膠著藍家變不斷白陷脫北者危機王偊菁主持三立新聞台,https://www.youtube.com/watch?v=6t57wktaSQ4
 【三立LIVE新聞】再次聽見島嶼天光從衝擊立法院到改變台灣政治版圖,https://www.youtube.com/watch?v=Fk7yHJKSoVo
 【三立LIVE新聞】主播互動說新聞三立新聞國際焦點地震氣象台湾,https://www.youtube.com/watch?v=QsGswQvRmtU
 【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾,https://www.youtube.com/watch?v=hGJkDZDchYI
+【中天新聞CtiNews】藍白合作協議內容曝光劉世芳耍官威王世堅揭緣由韓國入境卡爭議外交部出手了委內瑞拉放假一天慶首奪冠李珮瑄畢倩涵報新聞中天新聞,https://www.youtube.com/watch?v=hpxsUY2Jc-Y
+【中天電視CtiTv】龍介仙媽祖婆只做年市長室開到漁電共生龍頭台積電供應商傳倒帳銀行聯貸億挫咧等國土計畫法草案底定廠房變農田爆爭議中天電視,https://www.youtube.com/watch?v=u88VQLJ0-z8
 【中天電視CtiTv】川伯致電高層勸退蕭敬嚴鄭麗文出席中常會最新中天新聞,https://www.youtube.com/watch?v=1ALX-nO7mFE
 【中天電視CtiTv】川普政府窩裡反反恐中心主任請辭以色列斬首成功空襲擊斃伊朗國安首長專家解析不斷更新中天新聞,https://www.youtube.com/watch?v=sd7-PG7oT2s
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
@@ -45,6 +47,7 @@
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=7j92Myu2wzg
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 【鳳凰衛視PhoenixTV】伊朗發動第波攻勢報復拉里賈尼遇害中國特使會見埃及外長及阿盟秘書長伊朗霍爾木茲不會恢復到戰前狀態小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
+【HOY 資訊台 × 有線新聞】有線新聞新聞報道即時新聞港聞兩岸國際資訊,https://www.youtube.com/watch?v=z0tOAoCLbYU
 【8world】资讯不停播视界,https://www.youtube.com/watch?v=RvSOIM620bA
 
 綜藝,#genre#
@@ -167,7 +170,6 @@
 【朱妮托尼 - 动画儿歌】蚊子嗡嗡嗡動物兒歌朱妮托尼兒歌蚊子經典兒歌,https://www.youtube.com/watch?v=XMPQyW1RF6E
 
 體育,#genre#
-【Body Sports  名衍行銷運動頻道】學年度中等學校女子壘球聯賽高中組冠軍賽丹鳳高中士林高商,https://www.youtube.com/watch?v=SsBJkum5hkc
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=lD8PpHHJvms
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=Dv-pmT25qZc
 【WWE】Best of Roman R,https://www.youtube.com/watch?v=CsyuyUwupQE
@@ -234,21 +236,19 @@
 【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新,https://www.youtube.com/watch?v=Jg58I7d6Azg
 
 政論,#genre#
-【壹電視NEXT TV】北院駁回赴日柯文哲司法再吞一敗選戰節奏也亂爆脾氣越來越差黃國昌張啓楷民調超慘中國日夜懸心川習會竟延後中東牽動印太和平揭秘蔡英文爬山政治學,https://www.youtube.com/watch?v=HeQCvXuCzLw
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=WAUECPu9EOw
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
+【全球大視野】伊朗證實拉里賈尼身亡伊朗總統誓言復仇集束彈擊中特拉維夫美打不下去反恐中心主任辭職川普延後或週訪中,https://www.youtube.com/watch?v=-QlA1NDIbdY
 【全球大視野】川普政府窩裡反反恐中心主任請辭以色列斬首成功空襲擊斃伊朗國安首長專家解析不斷更新中天新聞,https://www.youtube.com/watch?v=6N0-vP51uBw
-【民視讚夯】無關阿堯學位羈押原因未消台日無司法互助柯解除境管遭駁回,https://www.youtube.com/watch?v=XHjAC4JWxdI
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=0UOnH10P4oY
 【94要客訴】再次聽見島嶼天光從衝擊立法院到改變台灣政治版圖三立新聞網,https://www.youtube.com/watch?v=EiB52rjbgQ8
 【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網,https://www.youtube.com/watch?v=JIKHI-lnWmw
-【大新聞大爆卦】現正中,https://www.youtube.com/watch?v=DfOhoJ6neck
 【新聞大白話】🔴LIVE：2026.03.1,https://www.youtube.com/watch?v=cvcPsnTJAPw
-【中時新聞網】蕭敬嚴案延燒鄭麗文出席中常會最新回應,https://www.youtube.com/watch?v=_W7kqqoLt_8
 【中天深喉嚨】川伯致電高層勸退蕭敬嚴鄭麗文出席中常會最新,https://www.youtube.com/watch?v=lao_nCqlfls
 【57爆新聞】伊朗國安首長指揮官遇襲亡北約拒護航荷姆茲海峽川普怒批愚蠢錯誤,https://www.youtube.com/watch?v=RAl3R8H47Oc
 【頭條開講】川普政府窩裡反反恐中心主任請辭以色列斬首成功空襲擊斃伊朗國安首長專家解析不斷更新中天新聞,https://www.youtube.com/watch?v=Dbax2ZIsNW0
 【品觀點】立法院衛環委員會全體委員會議邀請衛福部長報告備詢,https://www.youtube.com/watch?v=ue6WgtLfe5s
+【52新聞聚樂部 】歷史哥聊軍事來賓鄭繼文,https://www.youtube.com/watch?v=37FykaeFXT4
 
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=IBcS_0eEndI
