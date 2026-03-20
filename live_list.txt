@@ -2,7 +2,6 @@
 【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 【台灣地震監視】台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
 【台灣颱風論壇】台灣天氣即時監測,https://www.youtube.com/watch?v=LzOTY4mZG00
-【台視新聞】花蓮縣近海發生規模地震最大震度級,https://www.youtube.com/watch?v=iTPUhockYDU
 【台視新聞】台小時線上台湾,https://www.youtube.com/watch?v=xL0ch83RAK8
 【中視新聞】頻道小時線上台湾,https://www.youtube.com/watch?v=baDV1O5EBP0
 【中視新聞 HD】中視新聞頻道小時線上台湾,https://www.youtube.com/watch?v=TCnaIE_SAtM
@@ -11,14 +10,15 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映無量義經偈頌,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映立德路號,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛學漢醫,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映好戲成雙天下第一招,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
 【三立LIVE新聞】三立新聞國際焦點地震氣象台湾,https://www.youtube.com/watch?v=QsGswQvRmtU
 【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾,https://www.youtube.com/watch?v=hGJkDZDchYI
-【中天電視CtiTv】美日峰會川普談襲伊朗提珍珠港開玩笑伊朗宣稱擊落戰機還附影片佐證不斷更新專家解析中天電視,https://www.youtube.com/watch?v=yDDcoz4BkU4
+【中天新聞CtiNews】美戰機首遭伊朗擊中評估攻占哈格島油價飆漲川普藉日襲珍珠港喻轟伊朗高市白宮晚宴高喊日本回來中天夜線中天新聞,https://www.youtube.com/watch?v=9GUW0giy4c8
+【TVBS NEWS】伊朗導彈襲以色列海法煉油廠以色列承諾不動伊朗能源設施,https://www.youtube.com/watch?v=plpUFNuD-Zw
 【TVBS NEWS】以軍答應停攻油田美股周五開盤最新,https://www.youtube.com/watch?v=Ph5PkhtCfrs
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 【TVBS NEWS】新聞台小時台湾世界中時間配信中,https://www.youtube.com/watch?v=2mCSYvcfhtc
@@ -58,12 +58,14 @@
 【豬哥會社】馬拉松不間斷,https://www.youtube.com/watch?v=v8MUGB4vst8
 【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=k0uJVhYX12Y
+【204檔案】探靈百年古宅裡究竟發生了什麼,https://www.youtube.com/watch?v=g1ddYPL4SgU
 【台灣大搜索】驚悚插瓶女大生駭人姦煮女房客孝子黑化奪父命道士謀財弒父妻麥當勞連環爆炸高鐵的致命恐嚇剖析犯罪者的內心世界揭露可怖的離奇情節探索案件隱藏的真相,https://www.youtube.com/watch?v=TiOU3qHCqXk
 【關鍵時刻】荷姆茲重新開張川普做莊巴菲特最後一筆交易早看透美霸權劇本,https://www.youtube.com/watch?v=Shdk6NUKGZI
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=HtUVepidg7c
 【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=Qx-PTaNRC7Y
 【BIF相信未來 官方頻道】掌声响起小时不间断马拉松相信未来,https://www.youtube.com/watch?v=EVATvtQHjyg
+【原視 TITV+】百年之路第二季走回自己的名字枋寮六龜里古道,https://www.youtube.com/watch?v=pLLLzHA7hR8
 
 影劇,#genre#
 【戲說台灣】元宵快樂吃湯圓配戲說小時不間斷,https://www.youtube.com/watch?v=JPJFLo9r1gA
@@ -91,7 +93,6 @@
 【終極系列】終極四大時空馬拉松,https://www.youtube.com/watch?v=HKDuzWlyGts
 【GTV DRAMA English】惡作劇之吻馬拉松,https://www.youtube.com/watch?v=6lKL5znyZkc
 【影视剧汇踪】都挺好全集不间断姚晨走出重男轻女的家庭独自打拼倪大红作天作地花式折腾儿女众星云集演绎中国式家庭姚晨倪大红郭京飞领衔主演,https://www.youtube.com/watch?v=uPLdwjHlf58
-【精选大剧】雍正皇帝康熙震怒查贪腐雍正慧眼识奇才布衣混混假钦差一字不识安天下,https://www.youtube.com/watch?v=7IV5p3v9ImU
 【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场,https://www.youtube.com/watch?v=nQ7mbcPr60w
 【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场,https://www.youtube.com/watch?v=VYXlTMBd4y8
 【百纳经典独播剧场】马拉松高清修复未删减无静音版戏骨云集神仙打架陈宝国焦晃归亚蕾同台演绎教科级演技每个角色都有独特的魅力堪称必看经典,https://www.youtube.com/watch?v=gCGC21-URwA
@@ -228,7 +229,6 @@
 【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師,https://www.youtube.com/watch?v=-ig3OSXNiDY
 【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新,https://www.youtube.com/watch?v=Jg58I7d6Azg
 【MEET48 Global】公演,https://www.youtube.com/watch?v=3jXjRqzVEbA
-【MEET48 Global】瑶光之迹第一百二十七场,https://www.youtube.com/watch?v=KK9_E_zMV50
 
 政論,#genre#
 【TVBS 優選頻道】以軍答應停攻油田美股周五開盤最新,https://www.youtube.com/watch?v=3USRo_bDQf8
@@ -239,14 +239,13 @@
 【94要客訴】蔡英文掀爬山比賽誰喘潮流賴清德你們上山下海我來看海鯤號內裝宜蘭縣長民調綠林國漳小勝藍白合吳宗憲鄭麗文認為鄭習會是選舉利多,https://www.youtube.com/watch?v=p5hliLAFElQ
 【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網,https://www.youtube.com/watch?v=JIKHI-lnWmw
 【哏傳媒】談天說地論台灣,https://www.youtube.com/watch?v=CdWiDncoPfY
-【頭條開講】美軍匿蹤神話破滅伊朗嗆還有更多驚喜美以聯軍準備全面入侵伊朗陣亡將士家屬淚訴誰想要戰爭完整版,https://www.youtube.com/watch?v=PmkayComDQo
+【57爆新聞】高市化身日本隊長救中東川普亂提珍珠港硬酸油危機難解徐俊相,https://www.youtube.com/watch?v=USl4eNW9p8k
 【頭條開講】美日峰會川普談襲伊朗提珍珠港開玩笑伊朗宣稱擊落戰機還附影片佐證不斷更新專家解析中天電視,https://www.youtube.com/watch?v=0JDfzdFw4AU
-【少康戰情室】美隱形戰機遭伊朗狙擊五角大廈要追加兆打壞人,https://www.youtube.com/watch?v=6TNYhmWqCnE
 【觀點】'26.03.20,https://www.youtube.com/watch?v=p6I5Xwh7emg
 
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=cvTOL-PGqEg
-【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=6uebCklomEY
+【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=ui9lt5HPc9k
 【三聖電視台】「三聖電視台」直播,https://www.youtube.com/watch?v=6z6jdVt8-Cw
 【桐瑛台中電視臺】「桐瑛台中電視臺」直播,https://www.youtube.com/watch?v=HZTQ87Vq2IA
 【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播,https://www.youtube.com/watch?v=05LNKaj9Qic
