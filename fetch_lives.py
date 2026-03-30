@@ -418,21 +418,23 @@ MANUAL_LINKS = {
 		"【五月天】不間斷霸佔你耳朵,https://www.youtube.com/live/R62E7cFWX6o"
     ],
     "少兒,#genre#": [
-        "【Muse木棉花】間諜家家酒,https://www.youtube.com/watch?v=hdgvUXazd1w",
-        "【Muse木棉花】BanG Dream! It's MyGO,https://www.youtube.com/watch?v=iZ44tIBbfH0",
-        "【Muse木棉花】獵人HUNTER×HUNTER,https://www.youtube.com/watch?v=UVouDle2jHc",		
-        "【Muse木棉花】葬送的芙莉蓮,https://www.youtube.com/watch?v=v1ZmBzh9pxs",
-        "【Muse木棉花】JOJO的奇妙冒險,https://www.youtube.com/watch?v=4_JnTQCn9Kg",
-        "【Muse木棉花】進擊的巨人,https://www.youtube.com/watch?v=GlVvyu7jehk",				
+        "【Muse木棉花】在異世界獲得超強能力的我,https://www.youtube.com/watch?v=KZB9vJOiJc4",
+        "【Muse木棉花】從零開始的異世界生活,https://www.youtube.com/watch?v=x_amhRkNtuc",
+        "【Muse木棉花】暗殺教室,https://www.youtube.com/watch?v=mSPqk2R70Vk",		
+        "【Muse木棉花】鑽石王牌,https://www.youtube.com/watch?v=wO0nqg5qcak",
+        "【Muse木棉花】進擊的巨人,https://www.youtube.com/watch?v=cbFb2RC1ruI",
+        "【Muse木棉花】獵人HUNTER×HUNTER,https://www.youtube.com/watch?v=UVouDle2jHc",
+        "【Muse木棉花】葬送的芙莉蓮,https://www.youtube.com/watch?v=v1ZmBzh9pxs",		
         "【Muse木棉花】蠟筆小新劇場版系列,https://www.youtube.com/watch?v=tBYG62NeTdU",		
         "【Muse木棉花】蠟筆小新TV版,https://www.youtube.com/watch?v=ENnjj7jQ23g",
         "【Muse木棉花】新哆啦A夢,https://www.youtube.com/watch?v=gnDok9gtopw",
         "【Muse木棉花】中華一番,https://www.youtube.com/watch?v=mRCXonM5ru8",
         "【Muse木棉花】我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE",
-        "【Ani-One】遊戲王－怪獸之決鬥,https://www.youtube.com/watch?v=SHngPS2mRac",
-		"【回歸線娛樂】凍牌~地下麻將鬥牌錄,https://www.youtube.com/watch?v=FsCrGmYmw9w",
-		"【回歸線娛樂】凡爾賽玫瑰,https://www.youtube.com/watch?v=TAS_TszmpTY",		
-        "【回歸線娛樂】真珠美人魚,https://www.youtube.com/watch?v=BLag8MOBUg8"
+        "【Ani-One】彈珠汽水瓶裡的千歲同學,https://www.youtube.com/watch?v=0RsnHQxcbMI",
+        "【Ani-One】遊戲王－怪獸之決鬥,https://www.youtube.com/watch?v=4bgq03NHDHs",		
+        "【Ani-One】OVERLORD,https://www.youtube.com/watch?v=XDM7J5yzFPM",		
+		"【回歸線娛樂】鬼影投手,https://www.youtube.com/watch?v=GdzHENyoNLs",
+		"【回歸線娛樂】真珠美人魚,https://www.youtube.com/watch?v=BLag8MOBUg8"
     ]
 }
 
