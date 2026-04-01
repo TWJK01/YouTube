@@ -12,15 +12,16 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映大愛醫生館,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映真善美故事館,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
 【三立LIVE新聞】柯文哲言詞辯論宣判影片全紀錄,https://www.youtube.com/watch?v=Sy4swkrbYe8
 【三立LIVE新聞】三立新聞美伊戰爭國際焦點地震氣象台湾,https://www.youtube.com/watch?v=QsGswQvRmtU
 【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾,https://www.youtube.com/watch?v=hGJkDZDchYI
-【中天電視CtiTv】川普證實伊朗總統求停火強硬回應不開放荷莫茲海峽就再轟中天新聞,https://www.youtube.com/watch?v=CZGrWHMH07w
+【中天電視CtiTv】逾半世紀首度載人重返月球阿提米絲二號繞月測試升空即時中文翻譯中天新聞,https://www.youtube.com/watch?v=fTNEsUXmK-o
+【中天電視CtiTv】川普稱伊朗新總統求停火嗆不開放荷姆茲海峽就將伊朗炸回石器時代中天新聞,https://www.youtube.com/watch?v=CZGrWHMH07w
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 【TVBS NEWS】新聞台小時台湾世界中時間配信中,https://www.youtube.com/watch?v=2mCSYvcfhtc
@@ -40,7 +41,6 @@
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=TsccmbyNk6g
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 【鳳凰衛視PhoenixTV】特朗普將就伊朗問題發表全國講話伊朗發動多輪襲擊以色列中部十多人傷也門胡塞武裝稱向以色列南部發射導彈小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
-【HOY 資訊台 × 有線新聞】有線新聞午夜新聞報道,https://www.youtube.com/watch?v=kkGybaFkew8
 【8world】资讯不停播视界,https://www.youtube.com/watch?v=RvSOIM620bA
 
 綜藝,#genre#
@@ -58,7 +58,6 @@
 【豬哥會社】馬拉松不間斷,https://www.youtube.com/watch?v=v8MUGB4vst8
 【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=k0uJVhYX12Y
-【204檔案】愚人節,https://www.youtube.com/watch?v=ULFibn-HEVY
 【台灣大搜索】驚悚插瓶女大生駭人姦煮女房客孝子黑化奪父命道士謀財弒父妻麥當勞連環爆炸高鐵的致命恐嚇剖析犯罪者的內心世界揭露可怖的離奇情節探索案件隱藏的真相,https://www.youtube.com/watch?v=TiOU3qHCqXk
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=HtUVepidg7c
 【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
@@ -234,13 +233,15 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=WAUECPu9EOw
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】川普證實伊朗總統求停火強硬回應不開放荷莫茲海峽就再轟中天新聞,https://www.youtube.com/watch?v=ltfFOP8UgbE
-【全球大視野】睽違多年人類再次奔月阿提米絲號發射倒數計時即時中文翻譯,https://www.youtube.com/watch?v=Ac5Mez3iiTg
+【全球大視野】逾半世紀首度載人重返月球阿提米絲二號繞月測試升空即時中文翻譯,https://www.youtube.com/watch?v=uDx2U69pl1w
+【全球大視野】川普稱伊朗新總統求停火嗆不開放荷姆茲海峽就將伊朗炸回石器時代中天新聞,https://www.youtube.com/watch?v=ltfFOP8UgbE
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=0UOnH10P4oY
 【94要客訴】柯文哲言詞辯論宣判影片全紀錄三立新聞網,https://www.youtube.com/watch?v=VFKcuDGfw5o
 【中時新聞網】司法首次柯文哲涉京華城案辯論宣判影音全公開播送,https://www.youtube.com/watch?v=A0LrJAAHUF0
 【57爆新聞】有轉折川普稱伊朗求停火荷莫茲海峽必須完全恢復,https://www.youtube.com/watch?v=mfjV_r5mlQ4
-【頭條開講】川普證實伊朗總統求停火強硬回應不開放荷莫茲海峽就再轟中天新聞,https://www.youtube.com/watch?v=o--RIezJkcE
+【新聞龍捲風】逾半世紀首度載人重返月球阿提米絲二號繞月測試升空即時中文翻譯,https://www.youtube.com/watch?v=ue19foujytI
+【頭條開講】逾半世紀首度載人重返月球阿提米絲二號繞月測試升空即時中文翻譯,https://www.youtube.com/watch?v=o4ncZ5qRT-c
+【頭條開講】川普稱伊朗新總統求停火嗆不開放荷姆茲海峽就將伊朗炸回石器時代中天新聞,https://www.youtube.com/watch?v=o--RIezJkcE
 
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=cvTOL-PGqEg
