@@ -11,8 +11,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映大愛劇以身相許,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映人間菩提,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大馬慈濟情,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映大馬慈濟情,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -263,6 +263,46 @@
 【國會頻道】立法院會議,https://www.youtube.com/watch?v=tDg3bJFYLzI
 【國會頻道】經濟委員會,https://www.youtube.com/watch?v=xfikIGtkQeA
 【國會頻道】財政委員會,https://www.youtube.com/watch?v=Cidl9JoRtGk
+
+宗教,#genre#
+【淨土宗】網路電視台南無阿彌陀佛,https://www.youtube.com/watch?v=mkf9L0mgxQQ
+【中華傳統文化教育中心】世界電視台儒釋道教育與藝術文化的電視台,https://www.youtube.com/watch?v=ih-Kv8XPdcQ
+【修心時刻】藥師佛合輯健康延壽守護安穩的琉璃光華舒心版,https://www.youtube.com/watch?v=J5ZaPfMwKTk
+【修心時刻】綠度母心咒溫暖安定滿一切願的慈悲妙音,https://www.youtube.com/watch?v=zAv8p7Bdc6s
+【華藏衛視直播2台】華藏衛視網路淨空老和尚講經弘法的道場,https://www.youtube.com/watch?v=3Fz1njXrIKM
+【佛光山梵唄讚頌團】共修早晚課佛光山梵唄八十八佛大懺悔文,https://www.youtube.com/watch?v=MX-Bz3ykiUE
+【佛光山梵唄讚頌團】共修早晚課佛光山梵唄南無消災延壽藥師佛,https://www.youtube.com/watch?v=pyIkBtXxtuk
+【佛光山梵唄讚頌團】共修早晚課佛光山梵唄觀世音菩薩普門品,https://www.youtube.com/watch?v=TvEARGJ950E
+【佛光山梵唄讚頌團】共修法會佛光山梵唄大悲懺法會播出版一懺一淨一願一光願慈悲遍照十方,https://www.youtube.com/watch?v=okcUl_k5Y9I
+【生命電視台】小時時間生放送,https://www.youtube.com/watch?v=dVkQNH3IfME
+【遠東良友】良友電台同行頻道良友电台同行频道遠東福音會,https://www.youtube.com/watch?v=mH3S7BNKk28
+
+教育,#genre#
+【ABC Learning English】English Convers,https://www.youtube.com/watch?v=xPgo8dIHy7I
+【ABC Learning English】Learn English T,https://www.youtube.com/watch?v=1D6fL5o4zwE
+【ABC Learning English】English Convers,https://www.youtube.com/watch?v=4ayHSRrvWjs
+【ABC Learning English】24 Hours Englis,https://www.youtube.com/watch?v=vuTY4FDAbpA
+【學習粵語】Speak Cantonese,https://www.youtube.com/watch?v=Zrkf814SPbw
+【南非荷蘭語】Speak Afrikaans,https://www.youtube.com/watch?v=oIWaTR3PgzE
+【學習印地語】Speak Hindi 24/,https://www.youtube.com/watch?v=wMMMHsCMa1A
+【學習菲律賓語】Speak Filipino ,https://www.youtube.com/watch?v=Rgfbb1KJSTo
+【學習烏爾都語】Speak Urdu 24/7,https://www.youtube.com/watch?v=ap34FN6M7ac
+【學習德語】Speak German 24,https://www.youtube.com/watch?v=85bR1SsXH6E
+【學習土耳其語】Speak Turkish 2,https://www.youtube.com/watch?v=pUP9tWxK7SE
+【學習阿拉伯語】Speak Arabic 24,https://www.youtube.com/watch?v=EA3zW89fc_k
+【學習瑞典語】Speak Swedish 2,https://www.youtube.com/watch?v=IZYKZbdxVsM
+【學習挪威語】Speak Norwegian,https://www.youtube.com/watch?v=yNlNo2WYsCY
+【學習希伯來語】Speak Hebrew 24,https://www.youtube.com/watch?v=XWCc-x0Fki8
+【學習希臘語】Speak Greek 24/,https://www.youtube.com/watch?v=t1KSmMPFjIk
+【學習波蘭語】Speak Polish 24,https://www.youtube.com/watch?v=B6cDg3xnKss
+【學習日文】Speak Japanese ,https://www.youtube.com/watch?v=OqwA-w3mMx0
+【學習中文】Speak Chinese 2,https://www.youtube.com/watch?v=rl4a_2C5FNw
+【學習匈牙利語】Speak Hungarian,https://www.youtube.com/watch?v=SR7423E4vkc
+【學習芬蘭語】Speak Finnish 2,https://www.youtube.com/watch?v=3nLnQxgUoOA
+【學習荷蘭語】Speak Dutch 24/,https://www.youtube.com/watch?v=OnyBi7ZyXcs
+【學習韓語】Speak Korean 24,https://www.youtube.com/watch?v=WU6TGx4_yOE
+【學習法語】Speak French 24,https://www.youtube.com/watch?v=PeGTZCZPmg8
+【學習波斯語】Speak Persian 2,https://www.youtube.com/watch?v=aLsfJi762ys
 
 風景,#genre#
 【台北】貓空指南宮猫空指南宮,https://www.youtube.com/watch?v=215ahZ_0rTg
