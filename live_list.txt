@@ -11,8 +11,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛劇以身相許,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映人間菩提,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -263,19 +263,6 @@
 【國會頻道】立法院會議,https://www.youtube.com/watch?v=tDg3bJFYLzI
 【國會頻道】經濟委員會,https://www.youtube.com/watch?v=xfikIGtkQeA
 【國會頻道】財政委員會,https://www.youtube.com/watch?v=Cidl9JoRtGk
-
-宗教,#genre#
-【淨土宗】網路電視台南無阿彌陀佛,https://www.youtube.com/watch?v=mkf9L0mgxQQ
-【中華傳統文化教育中心】世界電視台儒釋道教育與藝術文化的電視台,https://www.youtube.com/watch?v=ih-Kv8XPdcQ
-【修心時刻】藥師佛合輯健康延壽守護安穩的琉璃光華舒心版,https://www.youtube.com/watch?v=J5ZaPfMwKTk
-【修心時刻】綠度母心咒溫暖安定滿一切願的慈悲妙音,https://www.youtube.com/watch?v=zAv8p7Bdc6s
-【華藏衛視直播2台】華藏衛視網路淨空老和尚講經弘法的道場,https://www.youtube.com/watch?v=3Fz1njXrIKM
-【佛光山梵唄讚頌團】共修早晚課佛光山梵唄八十八佛大懺悔文,https://www.youtube.com/watch?v=MX-Bz3ykiUE
-【佛光山梵唄讚頌團】共修早晚課佛光山梵唄南無消災延壽藥師佛,https://www.youtube.com/watch?v=pyIkBtXxtuk
-【佛光山梵唄讚頌團】共修早晚課佛光山梵唄觀世音菩薩普門品,https://www.youtube.com/watch?v=TvEARGJ950E
-【佛光山梵唄讚頌團】共修法會佛光山梵唄大悲懺法會播出版一懺一淨一願一光願慈悲遍照十方,https://www.youtube.com/watch?v=okcUl_k5Y9I
-【生命電視台】小時時間生放送,https://www.youtube.com/watch?v=dVkQNH3IfME
-【遠東良友】良友電台同行頻道良友电台同行频道遠東福音會,https://www.youtube.com/watch?v=mH3S7BNKk28
 
 風景,#genre#
 【台北】貓空指南宮猫空指南宮,https://www.youtube.com/watch?v=215ahZ_0rTg
