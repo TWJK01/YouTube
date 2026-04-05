@@ -11,8 +11,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛劇以身相許,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映高僧傳,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -240,6 +240,21 @@
 【57爆新聞】川普下最後通牒警告天內開放荷姆茲否則讓伊朗淪人間煉獄,https://www.youtube.com/watch?v=t5bPdaUOqfk
 【郭正亮頻道】小時不斷電為您呈現鄭習會通中美反抗司法迫害,https://www.youtube.com/watch?v=KlRCtY4JfvE
 【頭條開講】運輸機不能飛美軍自毀伊朗嗆我擊落的川普週二將是伊朗大橋日與電廠日警告開放荷莫茲海峽否則將活在地獄之中,https://www.youtube.com/watch?v=lviN52qYtxw
+
+購物,#genre#
+【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=jOiPpGxnXds
+【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=LtO38CVsYbc
+【三聖電視台】「三聖電視台」直播,https://www.youtube.com/watch?v=6z6jdVt8-Cw
+【桐瑛台中電視臺】「桐瑛台中電視臺」直播,https://www.youtube.com/watch?v=HZTQ87Vq2IA
+【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播,https://www.youtube.com/watch?v=QuHKZCwYsAM
+【momo購物一台】購物一台頻道小時線上,https://www.youtube.com/watch?v=_pZQ1Lk0xMA
+【momo購物二台】購物二台頻道小時線上,https://www.youtube.com/watch?v=xbNWkUyxQGM
+【ViVa TV美好家庭購物】美好購物台線上看,https://www.youtube.com/watch?v=lEXITHxcagI
+【ViVa TV美好家庭購物】美好購物台線上看,https://www.youtube.com/watch?v=7IyxOiGMLgw
+【Live東森購物台】CH47,https://www.youtube.com/watch?v=ViJ3XiN6Q3M
+【Live東森購物台】CH46,https://www.youtube.com/watch?v=Z50JFuNgvB0
+【Live東森購物台】CH34,https://www.youtube.com/watch?v=_Vlzn9qAHD4
+【Live東森購物台】CH60,https://www.youtube.com/watch?v=u0NYyH3ZesE
 
 國會,#genre#
 【國會頻道】國會頻道２,https://www.youtube.com/watch?v=Lj8OWF6nzcg
