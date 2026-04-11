@@ -1,51 +1,5 @@
 台灣,#genre#
 【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
-【台灣地震監視】台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
-【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近,https://www.youtube.com/watch?v=34Tdm973FXw
-【台灣颱風論壇】台灣天氣即時監測,https://www.youtube.com/watch?v=LzOTY4mZG00
-【台視新聞】台小時線上台湾,https://www.youtube.com/watch?v=xL0ch83RAK8
-【中視新聞】頻道小時線上台湾,https://www.youtube.com/watch?v=baDV1O5EBP0
-【中視新聞 HD】中視新聞頻道小時線上台湾,https://www.youtube.com/watch?v=TCnaIE_SAtM
-【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=meHTKm4XBS8
-【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-【民視新聞網】蕭美琴參訪神岡馬場助戰何欣純現場直擊民視快新聞,https://www.youtube.com/watch?v=sSRUB7htfw8
-【民視新聞網】柯文哲黃國昌出席讓更有型誓師大會民視快新聞,https://www.youtube.com/watch?v=Mt80OgCFBf0
-【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
-【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映證嚴上人說故事,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映科學,https://www.youtube.com/watch?v=QDxRJP-wfeI
-【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
-【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
-【三立LIVE新聞】柯案完整判決書上網頁萬字柯清廉神話破滅鄭習會當天共機擾台偵獲架次和平善意周楷王時齊主持三立新聞台,https://www.youtube.com/watch?v=cgw6wkvlPlg
-【三立LIVE新聞】週末不斷線精彩一次看李正皓主持三立新聞台,https://www.youtube.com/watch?v=OjZbuBGr7KM
-【三立LIVE新聞】三立新聞美伊戰爭國際焦點地震氣象台湾,https://www.youtube.com/watch?v=QsGswQvRmtU
-【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾,https://www.youtube.com/watch?v=hGJkDZDchYI
-【中天電視CtiTv】美伊和談巴基斯坦登場范斯警告別耍花招停火條件與分歧成關鍵變數中天新聞,https://www.youtube.com/watch?v=r_Ss1cnlhOQ
-【中天電視CtiTv】鄭麗文參謁孫中山衣冠塚訪中關村借鏡竹科見北京市委書記尹力訪北京故宮中天電視,https://www.youtube.com/watch?v=a7RPoRb7RxI
-【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
-【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
-【TVBS NEWS】柯文哲黃國昌讓更有型誓師大會,https://www.youtube.com/watch?v=tCw8CXOH560
-【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
-【TVBS NEWS】新聞台小時台湾世界中時間配信中,https://www.youtube.com/watch?v=2mCSYvcfhtc
-【寰宇新聞】川普演說後慘被打臉美軍戰鬥機突遭伊朗擊落川指美戰機被擊落不影響談判傳伊朗稱不會談台,https://www.youtube.com/watch?v=Ej3LQM_lTEw
-【寰宇新聞】台灣台小時台湾時間配信中,https://www.youtube.com/watch?v=w87VGpgd90U
-【寰宇新聞】小時線上台湾時間配信中,https://www.youtube.com/watch?v=6IquAgfvYmc
-【寰宇全視界】寰宇新聞台小時線上台湾時間配信中,https://www.youtube.com/watch?v=5SH3FDMyMzg
-【udn video】柯文哲黃國昌讓更有型誓師大會,https://www.youtube.com/watch?v=8rCezuOM4s4
-【新唐人亞太電視台】新唐人小時,https://www.youtube.com/watch?v=Bhp_V7H5QoY
-【三大一台】三大有線電視公司,https://www.youtube.com/watch?v=qhApzA9RSDo
-【東森財經股市】東森財經新聞小時線上台湾金融,https://www.youtube.com/watch?v=1I2iq41Akmo
-【東森財經股市】小時台湾金融時間放送,https://www.youtube.com/watch?v=AEBeWMM1atA
-【寰宇財經新聞】寰宇新聞財經台小時線上台湾時間配信中,https://www.youtube.com/watch?v=yAUQQ0DhPxI
-【非凡電視】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導,https://www.youtube.com/watch?v=eA6Aczd3FZM
-【非凡商業台】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導,https://www.youtube.com/watch?v=xLqt2p6Dowo
-【運通財經台】「運通財經台」直播,https://www.youtube.com/watch?v=xKK5R-tA6lA
-【全球財經台2】全球財經台,https://www.youtube.com/watch?v=LyQ-iWfoVg0
-【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=TsccmbyNk6g
-【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=f6Kq93wnaZ8
-【鳳凰衛視PhoenixTV】美伊談判將在伊斯蘭堡舉行鄭麗文期待國共共同推動兩岸和平制度化巴基斯坦派戰機護航伊朗談判代表團小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
-【8world】资讯不停播视界,https://www.youtube.com/watch?v=RvSOIM620bA
 
 綜藝,#genre#
 【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電,https://www.youtube.com/watch?v=In_HXlgUt8w
@@ -169,14 +123,15 @@
 
 體育,#genre#
 【getwin_sport】臺中連莊雲豹飛將中原體育館,https://www.youtube.com/watch?v=QTn6r1i3FcU
-【智林體育台】年春季踢拳錦標賽丨月日賽程,https://www.youtube.com/watch?v=DepoQZTcGVw
-【智林體育台】年春季踢拳錦標賽丨月日賽程擂台賽程,https://www.youtube.com/watch?v=n2X0IndOl9o
 【HOP Sports】年榮耀盃慢速壘球賽,https://www.youtube.com/watch?v=hIMPYCIBOt8
 【HOP Sports】小時台湾時間,https://www.youtube.com/watch?v=r0TLT5pweJM
+【P.LEAGUE+】璞園領航猿臺北富邦勇士,https://www.youtube.com/watch?v=BgCV2uza804
+【TPBL】例行賽台啤永豐雲豹新竹御嵿攻城獅,https://www.youtube.com/watch?v=97H4JbTJfgk
 【TPBL】例行賽國王全家海神,https://www.youtube.com/watch?v=jHWnF3KMJwk
-【CBC籃球聯盟】籃球聯盟星期三埔派,https://www.youtube.com/watch?v=nS7bbGIa4QQ
-【MAX籃球聯盟】籃球聯盟籃球聯盟正在,https://www.youtube.com/watch?v=YSx3etAglbo
-【MAX籃球聯盟】山大魚惡衝破雙響丼中央店,https://www.youtube.com/watch?v=eD5MLZLN-io
+【CBC籃球聯盟】籃球聯盟炭烤吐司路邊烤肉風城店,https://www.youtube.com/watch?v=jl2DKPh8fWQ
+【CBC籃球聯盟】籃球聯盟夏綠蒂雪花冰母鴨幫,https://www.youtube.com/watch?v=Mb_fghjCfJE
+【MAX籃球聯盟】鮮爆便當,https://www.youtube.com/watch?v=yqEp_R1eivc
+【MAX籃球聯盟】蛋餅酥酥天廷統包煥發當舖達成開發,https://www.youtube.com/watch?v=py92lQQFhlI
 【TPVL 台灣職業排球聯盟】例行賽雲豹飛將台中連莊,https://www.youtube.com/watch?v=n8CgJI3Leoc
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=SIBP7u0tDJY
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=Dv-pmT25qZc
@@ -187,7 +142,6 @@
 【周杰倫】音樂時光機,https://www.youtube.com/watch?v=q8hw5oKCDp4
 【五月天】不間斷霸佔你耳朵,https://www.youtube.com/live/R62E7cFWX6o
 【4kTQ-music】抖音最最最火抖音歌曲抖音最火四月熱門歌曲最火流行歌曲大陸流行歌曲,https://www.youtube.com/watch?v=HEA79rYseIU
-【4kTQ-music】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=gAD-OBOZ6tg
 【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋,https://www.youtube.com/watch?v=YSWHtk1_UKQ
 【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音四月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質,https://www.youtube.com/watch?v=WlqXiPuwWtM
 【4kTQ-music】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=BYNWUMC2Np4
@@ -246,21 +200,17 @@
 【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新,https://www.youtube.com/watch?v=Jg58I7d6Azg
 【MEET48 Global】梦之门单子涵生日公演,https://www.youtube.com/watch?v=Llbx23_h8IM
 【MEET48 Global】巡演广州站,https://www.youtube.com/watch?v=o6QdYwqPnO0
-【MEET48 Global】第十五场,https://www.youtube.com/watch?v=gCS47GCzwEo
 【MEET48 Global】幻镜第十场,https://www.youtube.com/watch?v=f7C-KtuHNsw
+【MEET48 Global】没有我的世界巡演上海站,https://www.youtube.com/watch?v=qGmUMIgMJa4
 
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=WAUECPu9EOw
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
 【全球大視野】美伊和談巴基斯坦登場范斯警告別耍花招停火條件與分歧成關鍵變數,https://www.youtube.com/watch?v=TJN1ft51o4E
-【民視讚夯】判決書曝光揭柯文哲如何裝窮珊珊偷怨老闆亂花錢上面不擋京華城案應曉薇施壓導讀判決書柯挪用眾望萬公款鄭習會大禮包中共將公布惠台措施,https://www.youtube.com/watch?v=rN7o550W8xs
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=0UOnH10P4oY
 【94要客訴】春季例行賽傳說對決三立新聞網,https://www.youtube.com/watch?v=bza3yzj8X3k
-【大新聞大爆卦】現正中,https://www.youtube.com/watch?v=l9yJBw_yPkU
 【大新聞大爆卦】鄭麗文參謁孫中山衣冠塚訪中關村借鏡竹科見北京市委書記尹力訪北京故宮,https://www.youtube.com/watch?v=RcRfGxLbX7c
 【新聞大白話】特報,https://www.youtube.com/watch?v=rWRKs0Xc6tk
-【中時新聞網】天山春日如畫科技護林守護古樹生機,https://www.youtube.com/watch?v=__-m0DZnEcI
-【中時新聞網】參觀中關村超興奮鄭麗文開心收下機械手紀念品,https://www.youtube.com/watch?v=fs0rAA4lvoM
 【中時新聞網】白沙屯媽祖進香將登場精彩回顧小時不斷電,https://www.youtube.com/watch?v=ImAew2yj40w
 【57爆新聞】美伊談判今時登場川普喊話海峽很快開放,https://www.youtube.com/watch?v=rEF53tdds8M
 【頭條開講】美伊和談巴基斯坦登場范斯警告別耍花招停火條件與分歧成關鍵變數,https://www.youtube.com/watch?v=2G4bKBu3ekM
@@ -295,6 +245,7 @@
 【國會頻道】財政委員會,https://www.youtube.com/watch?v=Cidl9JoRtGk
 
 宗教,#genre#
+【淨土宗】道晟法師回首向來蕭瑟處迴心念佛心自安,https://www.youtube.com/watch?v=dNT7JkpWWdo
 【中華傳統文化教育中心】世界電視台儒釋道教育與藝術文化的電視台,https://www.youtube.com/watch?v=ih-Kv8XPdcQ
 【修心時刻】藥師佛合輯健康延壽守護安穩的琉璃光華舒心版,https://www.youtube.com/watch?v=J5ZaPfMwKTk
 【華藏衛視直播2台】華藏衛視網路淨空老和尚講經弘法的道場,https://www.youtube.com/watch?v=3Fz1njXrIKM
