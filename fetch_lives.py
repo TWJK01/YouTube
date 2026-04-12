@@ -418,25 +418,24 @@ MANUAL_LINKS = {
     ],
 	"音樂,#genre#": [
         "【周杰倫】音樂時光機,https://www.youtube.com/watch?v=q8hw5oKCDp4",
+        "【告五人】唱出你的人生BGM,https://www.youtube.com/watch?v=B7EliniYUrQ",		
 		"【五月天】不間斷霸佔你耳朵,https://www.youtube.com/live/R62E7cFWX6o"
     ],
     "少兒,#genre#": [
-        "【Muse木棉花】在異世界獲得超強能力的我,https://www.youtube.com/watch?v=KZB9vJOiJc4",
-        "【Muse木棉花】從零開始的異世界生活,https://www.youtube.com/watch?v=x_amhRkNtuc",
+        "【Muse木棉花】86不存在的戰區,https://www.youtube.com/watch?v=KZyk0WrarUQ",
+        "【Muse木棉花】關於我轉生變成史萊姆這檔事,https://www.youtube.com/watch?v=WyZfs0YYQtM",
         "【Muse木棉花】暗殺教室,https://www.youtube.com/watch?v=mSPqk2R70Vk",		
         "【Muse木棉花】鑽石王牌,https://www.youtube.com/watch?v=wO0nqg5qcak",
-        "【Muse木棉花】進擊的巨人,https://www.youtube.com/watch?v=cbFb2RC1ruI",
-        "【Muse木棉花】獵人HUNTER×HUNTER,https://www.youtube.com/watch?v=UVouDle2jHc",
-        "【Muse木棉花】葬送的芙莉蓮,https://www.youtube.com/watch?v=v1ZmBzh9pxs",		
-        "【Muse木棉花】蠟筆小新劇場版系列,https://www.youtube.com/watch?v=tBYG62NeTdU",		
+        "【Muse木棉花】葬送的芙莉蓮,https://www.youtube.com/watch?v=v1ZmBzh9pxs",
+        "【Muse木棉花】獵人HUNTER×HUNTER,https://www.youtube.com/watch?v=UVouDle2jHc",		
+        "【Muse木棉花】海螺小姐,https://www.youtube.com/watch?v=Lh6xiMlkRrg",		
         "【Muse木棉花】蠟筆小新TV版,https://www.youtube.com/watch?v=ENnjj7jQ23g",
         "【Muse木棉花】新哆啦A夢,https://www.youtube.com/watch?v=gnDok9gtopw",
         "【Muse木棉花】中華一番,https://www.youtube.com/watch?v=mRCXonM5ru8",
         "【Muse木棉花】我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE",
-        "【Ani-One】彈珠汽水瓶裡的千歲同學,https://www.youtube.com/watch?v=0RsnHQxcbMI",
-        "【Ani-One】遊戲王－怪獸之決鬥,https://www.youtube.com/watch?v=4bgq03NHDHs",		
+        "【Ani-One】不時輕聲地以俄語遮羞的鄰座艾莉同學,https://www.youtube.com/watch?v=7ilWzXKJTEo",		
         "【Ani-One】OVERLORD,https://www.youtube.com/watch?v=XDM7J5yzFPM",		
-		"【回歸線娛樂】鬼影投手,https://www.youtube.com/watch?v=GdzHENyoNLs",
+		"【回歸線娛樂】科學小飛俠,https://www.youtube.com/watch?v=ldDt_RYPpzw",
 		"【回歸線娛樂】真珠美人魚,https://www.youtube.com/watch?v=BLag8MOBUg8"
     ]
 }
