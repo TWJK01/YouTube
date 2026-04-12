@@ -228,7 +228,9 @@ CATEGORIES = {
     "體育,#genre#": {
         "愛爾達體育家族": "https://www.youtube.com/@ELTASPORTSHD/streams",
         "緯來體育台": "https://www.youtube.com/@vlsports/streams",
+        "漁夫大玩攝影": "https://www.youtube.com/@%E6%BC%81%E5%A4%AB%E5%A4%A7%E7%8E%A9%E6%94%9D%E5%BD%B1/streams",		
 	    "公視體育": "https://www.youtube.com/@pts_sports/streams",
+	    "BE HEROES": "https://www.youtube.com/@BEHEROES/streams",		
 	    "getwin_sport": "https://www.youtube.com/@GetWinSport/streams",		
         "庫泊運動賽事": "https://www.youtube.com/@coopersport-live/streams",	
         "智林體育台": "https://www.youtube.com/@oursport_tv1/streams",
@@ -311,6 +313,7 @@ CATEGORIES = {
         "57爆新聞": "https://www.youtube.com/@57BreakingNews/streams",
         "關鍵時刻": "https://www.youtube.com/@ebcCTime/streams",
 		"郭正亮頻道": "https://www.youtube.com/@Guovision-TV/streams",
+		"朱學恒的萬事通事務所": "https://www.youtube.com/@sciencewillwin/streams",		
         "新聞龍捲風": "https://www.youtube.com/@新聞龍捲風NewsTornado/streams",		
         "頭條開講": "https://www.youtube.com/@頭條開講HeadlinesTalk/streams",		
 	    "少康戰情室": "https://www.youtube.com/@tvbssituationroom/streams",
