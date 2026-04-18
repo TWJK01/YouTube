@@ -273,6 +273,7 @@ CATEGORIES = {
 	    "青春音乐铺": "https://www.youtube.com/@青春音乐铺/streams",
 	    "水月琴音": "https://www.youtube.com/@Shuiyueqinyin/streams",	    
 	    "Cherry 葵": "https://www.youtube.com/@Cherriexin/streams",
+	    "Coachella": "https://www.youtube.com/@Coachella/streams",		
 	    "Kanata Ch. 天音かなた": "https://www.youtube.com/@AmaneKanata/streams",		
 	    "CMIX - Chill Mix": "https://www.youtube.com/@ChillMix-CMIX/streams",		
 	    "「KING AMUSEMENT CREATIVE」公式チャンネル": "https://www.youtube.com/@KAC_official/streams",
