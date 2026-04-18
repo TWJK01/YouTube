@@ -433,9 +433,10 @@ MANUAL_LINKS = {
         "【Muse木棉花】新哆啦A夢,https://www.youtube.com/watch?v=gnDok9gtopw",
         "【Muse木棉花】中華一番,https://www.youtube.com/watch?v=mRCXonM5ru8",
         "【Muse木棉花】我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE",
-        "【Ani-One】不時輕聲地以俄語遮羞的鄰座艾莉同學,https://www.youtube.com/watch?v=7ilWzXKJTEo",		
+        "【Ani-One】我想成為影之強者,https://www.youtube.com/watch?v=GC0jlrDM9YI",		
         "【Ani-One】OVERLORD,https://www.youtube.com/watch?v=XDM7J5yzFPM",		
 		"【回歸線娛樂】科學小飛俠,https://www.youtube.com/watch?v=ldDt_RYPpzw",
+		"【回歸線娛樂】賭博默示錄,https://www.youtube.com/watch?v=5hrhXygnPFc",		
 		"【回歸線娛樂】真珠美人魚,https://www.youtube.com/watch?v=BLag8MOBUg8"
     ]
 }
