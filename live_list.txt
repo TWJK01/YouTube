@@ -12,8 +12,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映戲說真人生,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映人間菩提,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映人文講堂,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映人文講堂,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -39,7 +39,6 @@
 【非凡商業台】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導,https://www.youtube.com/watch?v=xLqt2p6Dowo
 【運通財經台】「運通財經台」直播,https://www.youtube.com/watch?v=xKK5R-tA6lA
 【全球財經台2】全球財經台,https://www.youtube.com/watch?v=LyQ-iWfoVg0
-【BNE TV - 新西兰中文国际频道】美国要来硬的伊朗翻脸不谈了胡赛发声海峡关闭领空开放伊朗长脑子了约好日舰闯台海新西兰军机抵近中国七国肩并肩军演创纪录英国隐身美国尖端研究领域人接连离奇身亡失踪我爱纽西兰,https://www.youtube.com/watch?v=GYDEgV9a_Mg
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=TsccmbyNk6g
 【鳳凰衛視PhoenixTV】伊朗恢復對霍爾木茲海峽控制特朗普與伊交涉進行得很好達成協議或親赴伊斯蘭堡美伊周末或會談小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
 【8world】资讯不停播视界,https://www.youtube.com/watch?v=RvSOIM620bA
@@ -168,10 +167,8 @@
 
 體育,#genre#
 【HOP Sports】小時台湾時間,https://www.youtube.com/watch?v=r0TLT5pweJM
-【The Savannah Bananas】2026 Banana Bal,https://www.youtube.com/watch?v=O4JlpwXRcJQ
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=SIBP7u0tDJY
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=Dv-pmT25qZc
-【WWE】LIVE matches fr,https://www.youtube.com/watch?v=j8f9jKenBnM
 【WWE】Countdown to Wr,https://www.youtube.com/watch?v=LIdg17emMZ8
 【WWE Vault】WrestleMania Wa,https://www.youtube.com/watch?v=yRc2z0F_8uE
 
@@ -269,18 +266,6 @@
 【Live東森購物台】CH46,https://www.youtube.com/watch?v=Z50JFuNgvB0
 【Live東森購物台】CH34,https://www.youtube.com/watch?v=_Vlzn9qAHD4
 【Live東森購物台】CH60,https://www.youtube.com/watch?v=u0NYyH3ZesE
-
-國會,#genre#
-【國會頻道】國會頻道２,https://www.youtube.com/watch?v=Lj8OWF6nzcg
-【國會頻道】程序委員會,https://www.youtube.com/watch?v=IvAXtzx5cUI
-【國會頻道】黨團協商,https://www.youtube.com/watch?v=yUx5lB4mhZk
-【國會頻道】社會福利及衛生環境委員會,https://www.youtube.com/watch?v=DdUWlWZVOi8
-【國會頻道】經費稽核委員會,https://www.youtube.com/watch?v=nkejc54RyDU
-【國會頻道】紀律委員會,https://www.youtube.com/watch?v=KyHM5yvcLU4
-【國會頻道】外交及國防委員會,https://www.youtube.com/watch?v=Af0TFVbxvAQ
-【國會頻道】立法院會議,https://www.youtube.com/watch?v=tDg3bJFYLzI
-【國會頻道】經濟委員會,https://www.youtube.com/watch?v=xfikIGtkQeA
-【國會頻道】財政委員會,https://www.youtube.com/watch?v=Cidl9JoRtGk
 
 宗教,#genre#
 【淨土宗】網路電視台南無阿彌陀佛,https://www.youtube.com/watch?v=SagsXpM85hE
