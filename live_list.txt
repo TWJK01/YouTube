@@ -11,8 +11,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映經典劇坊月娘,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映經典劇坊月娘,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -56,7 +56,6 @@
 【豬哥會社】馬拉松不間斷,https://www.youtube.com/watch?v=v8MUGB4vst8
 【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=k0uJVhYX12Y
-【204檔案】通知社群已開啟,https://www.youtube.com/watch?v=84vYnAx3pws
 【台灣大搜索】驚悚插瓶女大生駭人姦煮女房客孝子黑化奪父命道士謀財弒父妻麥當勞連環爆炸高鐵的致命恐嚇剖析犯罪者的內心世界揭露可怖的離奇情節探索案件隱藏的真相,https://www.youtube.com/watch?v=TiOU3qHCqXk
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=HtUVepidg7c
 【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
@@ -163,12 +162,6 @@
 【朱妮托尼 - 动画儿歌】動物保護者職業體驗兒歌愛護小動物兒歌童謠卡通動畫朱妮托尼,https://www.youtube.com/watch?v=jmNPJ4KfjzM
 【朱妮托尼 - 动画儿歌】颜色认知益智儿歌大合集彩虹糖果贩卖机趣味科普朱妮托尼童话动画启蒙早教连续播放,https://www.youtube.com/watch?v=ssxcAjVk-_4
 
-體育,#genre#
-【HOP Sports】小時台湾時間,https://www.youtube.com/watch?v=r0TLT5pweJM
-【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=SIBP7u0tDJY
-【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=Dv-pmT25qZc
-【WWE Vault】WWE Home Video ,https://www.youtube.com/watch?v=OKlJsk3LQi0
-
 音樂,#genre#
 【周杰倫】音樂時光機,https://www.youtube.com/watch?v=q8hw5oKCDp4
 【告五人】唱出你的人生BGM,https://www.youtube.com/watch?v=B7EliniYUrQ
@@ -190,7 +183,6 @@
 【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=hI60Fnalrlc
 【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=OYaiWcAgR9A
 【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=MM7AnZsBFA8
-【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=KGsJcaRJ2Pc
 【Cherry 葵】Nightcore Radio,https://www.youtube.com/watch?v=tjne3WWB3kA
 【「KING AMUSEMENT CREATIVE」公式チャンネル】時間日,https://www.youtube.com/watch?v=4FBW3mkdKOs
 【FOR FUN RADIO TIME Music channel】音樂不間斷讀書工作專屬音樂陪你每一天,https://www.youtube.com/watch?v=w4dlH_3uwKo
