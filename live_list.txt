@@ -1,45 +1,5 @@
 台灣,#genre#
 【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
-【台灣地震監視】台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
-【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近,https://www.youtube.com/watch?v=34Tdm973FXw
-【台灣颱風論壇】台灣天氣即時監測,https://www.youtube.com/watch?v=LzOTY4mZG00
-【台視新聞】台小時線上台湾,https://www.youtube.com/watch?v=sNtCBxP-8LY
-【中視新聞】頻道小時線上台湾,https://www.youtube.com/watch?v=baDV1O5EBP0
-【中視新聞 HD】中視新聞頻道小時線上台湾,https://www.youtube.com/watch?v=TCnaIE_SAtM
-【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=meHTKm4XBS8
-【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
-【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映大愛迷你劇場伴你同行,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛迷你劇場伴你同行,https://www.youtube.com/watch?v=QDxRJP-wfeI
-【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
-【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
-【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
-【三立LIVE新聞】大甲媽遶境進香第天現場最新情況,https://www.youtube.com/watch?v=sfjpR9FhlVw
-【三立LIVE新聞】三立新聞小時三立台湾放送,https://www.youtube.com/watch?v=QsGswQvRmtU
-【三立LIVE新聞】三立海外放送三立,https://www.youtube.com/watch?v=hGJkDZDchYI
-【中天電視CtiTv】美記者提問川普還要打多久川普別催我美軍第艘航空母艦抵達中東傳美軍為停火破局秘擬方案專家解析中天新聞,https://www.youtube.com/watch?v=z8qksTP1nZ0
-【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
-【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
-【TVBS NEWS】新聞台小時台湾世界中時間配信中,https://www.youtube.com/watch?v=2mCSYvcfhtc
-【寰宇新聞】川普演說後慘被打臉美軍戰鬥機突遭伊朗擊落川指美戰機被擊落不影響談判傳伊朗稱不會談台,https://www.youtube.com/watch?v=Ej3LQM_lTEw
-【寰宇新聞】台灣台小時台湾時間配信中,https://www.youtube.com/watch?v=w87VGpgd90U
-【寰宇新聞】小時線上台湾時間配信中,https://www.youtube.com/watch?v=6IquAgfvYmc
-【寰宇全視界】寰宇新聞台小時線上台湾時間配信中,https://www.youtube.com/watch?v=LqIMxdJiztU
-【新唐人亞太電視台】新唐人小時,https://www.youtube.com/watch?v=Bhp_V7H5QoY
-【八大民生新聞】丙午年大甲媽遶境進香,https://www.youtube.com/watch?v=c14leMtmfxM
-【東森財經股市】東森財經新聞小時線上台湾金融,https://www.youtube.com/watch?v=1I2iq41Akmo
-【東森財經股市】小時台湾金融時間放送,https://www.youtube.com/watch?v=AEBeWMM1atA
-【寰宇財經新聞】寰宇新聞財經台小時線上台湾時間配信中,https://www.youtube.com/watch?v=yAUQQ0DhPxI
-【非凡電視】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導,https://www.youtube.com/watch?v=eA6Aczd3FZM
-【非凡商業台】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導,https://www.youtube.com/watch?v=xLqt2p6Dowo
-【運通財經台】「運通財經台」直播,https://www.youtube.com/watch?v=xKK5R-tA6lA
-【全球財經台2】全球財經台,https://www.youtube.com/watch?v=LyQ-iWfoVg0
-【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=wUxJlo79GuE
-【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=TsccmbyNk6g
-【鳳凰衛視PhoenixTV】美國防部就對伊朗軍事行動召開新聞發佈會據報美軍計劃打擊霍爾木茲海峽伊朗軍力伊朗蜂群艦隊嚴陣以待小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
-【8world】资讯不停播视界,https://www.youtube.com/watch?v=RvSOIM620bA
 
 綜藝,#genre#
 【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電,https://www.youtube.com/watch?v=In_HXlgUt8w
@@ -57,7 +17,6 @@
 【豬哥會社】馬拉松不間斷,https://www.youtube.com/watch?v=v8MUGB4vst8
 【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=k0uJVhYX12Y
-【204檔案】于朦朧全省認養路燈計畫,https://www.youtube.com/watch?v=DjuXin-NhPM
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=HtUVepidg7c
 【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=Qx-PTaNRC7Y
@@ -160,12 +119,6 @@
 【朱妮托尼 - 动画儿歌】颜色认知益智儿歌大合集彩虹糖果贩卖机趣味科普朱妮托尼童话动画启蒙早教连续播放,https://www.youtube.com/watch?v=ssxcAjVk-_4
 【嗶哩嗶哩動畫Anime Made By Bilibili】从凡人少年到元婴老祖百年仙途终成正果凡人修仙传,https://www.youtube.com/watch?v=rkXFBe0n2lU
 
-體育,#genre#
-【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=SIBP7u0tDJY
-【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=Dv-pmT25qZc
-【WWE】Best of Brock L,https://www.youtube.com/watch?v=TXQVMZoZT5A
-【WWE Vault】WWE Home Video ,https://www.youtube.com/watch?v=OKlJsk3LQi0
-
 音樂,#genre#
 【周杰倫】音樂時光機,https://www.youtube.com/watch?v=q8hw5oKCDp4
 【告五人】唱出你的人生BGM,https://www.youtube.com/watch?v=B7EliniYUrQ
@@ -236,7 +189,6 @@
 購物,#genre#
 【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=F3Tq66F72EY
 【桐瑛台中電視臺】「桐瑛台中電視臺」直播,https://www.youtube.com/watch?v=HZTQ87Vq2IA
-【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播,https://www.youtube.com/watch?v=QuHKZCwYsAM
 【桐瑛台南電視臺】「桐瑛台南電視臺」直播,https://www.youtube.com/watch?v=Ob_4nVDJ8ks
 【momo購物一台】購物一台頻道小時線上,https://www.youtube.com/watch?v=_pZQ1Lk0xMA
 【momo購物二台】購物二台頻道小時線上,https://www.youtube.com/watch?v=xbNWkUyxQGM
@@ -258,6 +210,19 @@
 【國會頻道】立法院會議,https://www.youtube.com/watch?v=tDg3bJFYLzI
 【國會頻道】經濟委員會,https://www.youtube.com/watch?v=xfikIGtkQeA
 【國會頻道】財政委員會,https://www.youtube.com/watch?v=Cidl9JoRtGk
+
+宗教,#genre#
+【淨土宗】網路電視台南無阿彌陀佛,https://www.youtube.com/watch?v=SagsXpM85hE
+【中華傳統文化教育中心】世界電視台儒釋道教育與藝術文化的電視台,https://www.youtube.com/watch?v=ih-Kv8XPdcQ
+【修心時刻】綠度母心咒溫暖安定滿一切願的慈悲妙音,https://www.youtube.com/watch?v=qSFdYNm4zGE
+【修心時刻】藥師佛合輯健康延壽守護安穩的琉璃光華舒心版,https://www.youtube.com/watch?v=J5ZaPfMwKTk
+【華藏衛視直播2台】華藏衛視網路淨空老和尚講經弘法的道場,https://www.youtube.com/watch?v=3Fz1njXrIKM
+【佛光山梵唄讚頌團】共修法會佛光山梵唄大悲懺法會播出版一懺一淨一願一光願慈悲遍照十方,https://www.youtube.com/watch?v=jJFAaxdzopw
+【佛光山梵唄讚頌團】共修早晚課佛光山梵唄南無消災延壽藥師佛,https://www.youtube.com/watch?v=dU7hIpDsgA0
+【佛光山梵唄讚頌團】共修早晚課佛光山梵唄八十八佛大懺悔文,https://www.youtube.com/watch?v=MX-Bz3ykiUE
+【佛光山梵唄讚頌團】共修早晚課佛光山梵唄觀世音菩薩普門品,https://www.youtube.com/watch?v=TvEARGJ950E
+【生命電視台】小時時間生放送,https://www.youtube.com/watch?v=dVkQNH3IfME
+【遠東良友】良友電台同行頻道良友电台同行频道遠東福音會,https://www.youtube.com/watch?v=mH3S7BNKk28
 
 教育,#genre#
 【ABC Learning English】English Convers,https://www.youtube.com/watch?v=xPgo8dIHy7I
