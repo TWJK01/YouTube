@@ -12,8 +12,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映經典劇坊月娘,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映經典劇坊月娘,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -59,7 +59,6 @@
 【豬哥會社】馬拉松不間斷,https://www.youtube.com/watch?v=v8MUGB4vst8
 【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=k0uJVhYX12Y
-【204檔案】于朦朧全省認養路燈目標座燈,https://www.youtube.com/watch?v=RUqkNcKVI3I
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=HtUVepidg7c
 【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=Qx-PTaNRC7Y
@@ -231,7 +230,6 @@
 【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新,https://www.youtube.com/watch?v=Jg58I7d6Azg
 
 政論,#genre#
-【壹電視NEXT TV】鎮瀾宮大甲媽繞境進香回鑾,https://www.youtube.com/watch?v=cMUEoviToUM
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=WAUECPu9EOw
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
 【全球大視野】美國中止與伊朗談判行程以再轟黎巴嫩伊嗆不接受威脅下談判美應先解海上封鎖,https://www.youtube.com/watch?v=csDNrUba4d4
@@ -241,6 +239,21 @@
 【郭正亮頻道】小時不斷電為您呈現綠擋十大惠台抗中外交破產,https://www.youtube.com/watch?v=QADeZVBhSpI
 【新聞龍捲風】大甲媽回鑾鎮瀾宮安座大典萬人簇擁迎駕,https://www.youtube.com/watch?v=ipoO_voARM4
 【頭條開講】美國中止與伊朗談判行程以再轟黎巴嫩伊嗆不接受威脅下談判美應先解海上封鎖,https://www.youtube.com/watch?v=8r_W1nEZNTg
+
+購物,#genre#
+【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=cijXch4LtEY
+【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=yKfOsXEy0Bk
+【桐瑛台中電視臺】「桐瑛台中電視臺」直播,https://www.youtube.com/watch?v=HZTQ87Vq2IA
+【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播,https://www.youtube.com/watch?v=xb6ABLE4dV8
+【桐瑛台南電視臺】「桐瑛台南電視臺」直播,https://www.youtube.com/watch?v=Ob_4nVDJ8ks
+【momo購物一台】購物一台頻道小時線上,https://www.youtube.com/watch?v=_pZQ1Lk0xMA
+【momo購物二台】購物二台頻道小時線上,https://www.youtube.com/watch?v=xbNWkUyxQGM
+【ViVa TV美好家庭購物】美好購物台線上看,https://www.youtube.com/watch?v=lEXITHxcagI
+【ViVa TV美好家庭購物】美好購物台線上看,https://www.youtube.com/watch?v=7IyxOiGMLgw
+【Live東森購物台】CH47,https://www.youtube.com/watch?v=ViJ3XiN6Q3M
+【Live東森購物台】CH46,https://www.youtube.com/watch?v=Z50JFuNgvB0
+【Live東森購物台】CH34,https://www.youtube.com/watch?v=_Vlzn9qAHD4
+【Live東森購物台】CH60,https://www.youtube.com/watch?v=u0NYyH3ZesE
 
 國會,#genre#
 【國會頻道】國會頻道２,https://www.youtube.com/watch?v=Lj8OWF6nzcg
