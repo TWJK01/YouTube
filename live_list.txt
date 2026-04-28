@@ -1,28 +1,6 @@
 台灣,#genre#
 【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 
-綜藝,#genre#
-【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電,https://www.youtube.com/watch?v=In_HXlgUt8w
-【中視經典綜藝】爆笑綜藝史詩級主持陣容康康徐乃麟曾國城方芳芳庹宗康郭子乾小時不斷電,https://www.youtube.com/watch?v=9WQ-75lhyp4
-【中視經典綜藝】豬哥亮陳亞蘭萬秀豬王爆笑劇場小時馬拉松不間斷豬哥亮陳亞蘭呂雪鳳,https://www.youtube.com/watch?v=ADDSmXoPDY8
-【綜藝一級棒】小時歡樂不停播讓一級棒陪伴你的每時每刻,https://www.youtube.com/watch?v=9gx5EIyHmsw
-【民視 超級冰冰Show】馬拉松大咖雲集金曲不斷,https://www.youtube.com/watch?v=ON6bMdKXBC4
-【民視綜藝娛樂 Formosa TV Entertainments】民視綜藝馬拉松經典大回顧陪你笑翻天,https://www.youtube.com/watch?v=a0tPx3js1wY
-【華視綜藝頻道】天才衝衝衝完整集數不間斷馬拉松曾國城徐乃麟張文綺徐凱希,https://www.youtube.com/watch?v=0ePhPlTJbGo
-【華視綜藝頻道】現代嘉慶君不間斷馬拉松豬哥亮陳亞蘭呂雪鳳,https://www.youtube.com/watch?v=OhA_G0s9pqw
-【綜藝大熱門】猜歌王不間斷猜不停讓你第一集看到最新集數不間斷吳宗憲陳漢典生配信,https://www.youtube.com/watch?v=CXBlwhBHeZw
-【綜藝玩很大】憲哥坤達小鬼把不可能變可能讓我們找出那無法被超越的感動小時不間斷,https://www.youtube.com/watch?v=IkVUGn_uTCE
-【飢餓遊戲】一次播到飽孫協志王仁甫許孟哲蔡黃汝峮峮小時不斷電,https://www.youtube.com/watch?v=6TsaEYaKueE
-【飢餓遊戲】點閱人氣榜孫協志王仁甫許孟哲蔡黃汝峮峮完整版馬拉松,https://www.youtube.com/watch?v=UJgN7q6jpns
-【豬哥會社】馬拉松不間斷,https://www.youtube.com/watch?v=v8MUGB4vst8
-【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
-【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=k0uJVhYX12Y
-【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=HtUVepidg7c
-【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
-【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=Qx-PTaNRC7Y
-【BIF相信未來 官方頻道】掌声响起小时不间断马拉松相信未来,https://www.youtube.com/watch?v=EVATvtQHjyg
-【灿星官方频道】ЛУЧШИЕ ФИЛЬМЫ И,https://www.youtube.com/watch?v=eA99O9MT2uI
-
 影劇,#genre#
 【戲說台灣】媽祖生日快樂重溫媽祖單元聽說拜對供品能夠旺一整年哦小時不間斷,https://www.youtube.com/watch?v=JPJFLo9r1gA
 【台視時光機】高清重現神機妙算劉伯溫全集馬拉松震撼登場,https://www.youtube.com/watch?v=gmZbGTY5ssg
@@ -111,35 +89,6 @@
 【全球大視野】美伊談判觸礁伊朗外長奔俄求援中東戰火點燃油價漲勢多家廉航撐不住,https://www.youtube.com/watch?v=mnzW5Oi3ry8
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=0UOnH10P4oY
 【頭條開講】美伊談判觸礁伊朗外長奔俄求援中東戰火點燃油價漲勢多家廉航撐不住,https://www.youtube.com/watch?v=z3m08UTHVc4
-
-購物,#genre#
-【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=cijXch4LtEY
-【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=hAQOHnJzUsw
-【三聖電視台】「三聖電視台」直播,https://www.youtube.com/watch?v=guKEQ90rnI4
-【桐瑛台中電視臺】「桐瑛台中電視臺」直播,https://www.youtube.com/watch?v=HZTQ87Vq2IA
-【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播,https://www.youtube.com/watch?v=xb6ABLE4dV8
-【桐瑛台南電視臺】「桐瑛台南電視臺」直播,https://www.youtube.com/watch?v=Ob_4nVDJ8ks
-【momo購物一台】購物一台頻道小時線上,https://www.youtube.com/watch?v=_pZQ1Lk0xMA
-【momo購物二台】購物二台頻道小時線上,https://www.youtube.com/watch?v=xbNWkUyxQGM
-【ViVa TV美好家庭購物】美好購物台線上看,https://www.youtube.com/watch?v=lEXITHxcagI
-【ViVa TV美好家庭購物】美好購物台線上看,https://www.youtube.com/watch?v=7IyxOiGMLgw
-【Live東森購物台】CH47,https://www.youtube.com/watch?v=ViJ3XiN6Q3M
-【Live東森購物台】CH46,https://www.youtube.com/watch?v=Z50JFuNgvB0
-【Live東森購物台】CH34,https://www.youtube.com/watch?v=_Vlzn9qAHD4
-【Live東森購物台】CH60,https://www.youtube.com/watch?v=u0NYyH3ZesE
-
-宗教,#genre#
-【淨土宗】網路電視台南無阿彌陀佛,https://www.youtube.com/watch?v=SagsXpM85hE
-【中華傳統文化教育中心】世界電視台儒釋道教育與藝術文化的電視台,https://www.youtube.com/watch?v=ih-Kv8XPdcQ
-【修心時刻】綠度母心咒溫暖安定滿一切願的慈悲妙音,https://www.youtube.com/watch?v=qSFdYNm4zGE
-【修心時刻】藥師佛合輯健康延壽守護安穩的琉璃光華舒心版,https://www.youtube.com/watch?v=J5ZaPfMwKTk
-【華藏衛視直播2台】華藏衛視網路淨空老和尚講經弘法的道場,https://www.youtube.com/watch?v=3Fz1njXrIKM
-【佛光山梵唄讚頌團】共修法會佛光山梵唄大悲懺法會播出版一懺一淨一願一光願慈悲遍照十方,https://www.youtube.com/watch?v=jJFAaxdzopw
-【佛光山梵唄讚頌團】共修早晚課佛光山梵唄南無消災延壽藥師佛,https://www.youtube.com/watch?v=dU7hIpDsgA0
-【佛光山梵唄讚頌團】共修早晚課佛光山梵唄八十八佛大懺悔文,https://www.youtube.com/watch?v=MX-Bz3ykiUE
-【佛光山梵唄讚頌團】共修早晚課佛光山梵唄觀世音菩薩普門品,https://www.youtube.com/watch?v=TvEARGJ950E
-【生命電視台】小時時間生放送,https://www.youtube.com/watch?v=dVkQNH3IfME
-【遠東良友】良友電台同行頻道良友电台同行频道遠東福音會,https://www.youtube.com/watch?v=mH3S7BNKk28
 
 教育,#genre#
 【ABC Learning English】English Convers,https://www.youtube.com/watch?v=xPgo8dIHy7I
