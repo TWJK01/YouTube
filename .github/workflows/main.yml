@@ -12,18 +12,35 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      # 升級至 v5 以支援 Node.js 24
+      - uses: actions/checkout@v5
+
+      # 升級至 v6 以支援 Node.js 24
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
-      - name: Install yt-dlp
-        run: pip install yt-dlp
+          # 加入快取機制，可以讓每次執行速度變快
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install yt-dlp
+
       - name: Run script
         run: python fetch_lives.py
+
       - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          # 使用 git add . 確保如果檔案結構有變動也能抓到
           git add live_list.txt
-          git diff --staged --quiet || (git commit -m "Auto update live list" && git push)
+          # 檢查是否有變動，避免空的 commit 導致報錯
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Auto update live list: $(date +'%Y-%m-%d %H:%M')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
