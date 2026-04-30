@@ -421,6 +421,7 @@ MANUAL_LINKS = {
     ],
 	"音樂,#genre#": [
         "【周杰倫】音樂時光機,https://www.youtube.com/watch?v=q8hw5oKCDp4",
+	    "【派偉俊】音樂全天候派送,https://www.youtube.com/watch?v=fnowh-gCdd4",
         "【告五人】唱出你的人生BGM,https://www.youtube.com/watch?v=B7EliniYUrQ",		
 		"【五月天】不間斷霸佔你耳朵,https://www.youtube.com/live/R62E7cFWX6o"
     ],
