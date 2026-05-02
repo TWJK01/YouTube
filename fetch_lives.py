@@ -50,7 +50,7 @@ CATEGORIES = {
         "POP Radio聯播網": "https://www.youtube.com/@917POPRadio/streams",
         "LIVE NOW": "https://www.youtube.com/@LiveNow24H/streams",	
         "鳳凰衛視PhoenixTV": "https://www.youtube.com/@phoenixtvglobal/streams",
-        "HOY 資訊台  有線新聞": "https://www.youtube.com/@HOYTVHK/streams",		
+        "HOY資訊台 有線新聞": "https://www.youtube.com/@HOYTVHK/streams",		
         "CCTV中文": "https://www.youtube.com/@CCTVCH/featured",
         "8world": "https://www.youtube.com/@8worldSG/streams"
     },
