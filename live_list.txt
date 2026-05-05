@@ -1,32 +1,6 @@
 台灣,#genre#
 【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 
-綜藝,#genre#
-【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電,https://www.youtube.com/watch?v=Kc5OXLZ9NEw
-【中視經典綜藝】爆笑綜藝史詩級主持陣容康康徐乃麟曾國城方芳芳庹宗康郭子乾小時不斷電,https://www.youtube.com/watch?v=9WQ-75lhyp4
-【中視經典綜藝】豬哥亮陳亞蘭萬秀豬王爆笑劇場小時馬拉松不間斷豬哥亮陳亞蘭呂雪鳳,https://www.youtube.com/watch?v=ADDSmXoPDY8
-【綜藝一級棒】小時歡樂不停播讓一級棒陪伴你的每時每刻,https://www.youtube.com/watch?v=9gx5EIyHmsw
-【民視 超級冰冰Show】馬拉松大咖雲集金曲不斷,https://www.youtube.com/watch?v=ON6bMdKXBC4
-【民視綜藝娛樂 Formosa TV Entertainments】全台玩透透秘境探險馬拉松,https://www.youtube.com/watch?v=T0G2afHBVcc
-【民視綜藝娛樂 Formosa TV Entertainments】民視綜藝馬拉松經典大回顧陪你笑翻天,https://www.youtube.com/watch?v=a0tPx3js1wY
-【華視綜藝頻道】天才衝衝衝完整集數不間斷馬拉松曾國城徐乃麟張文綺徐凱希,https://www.youtube.com/watch?v=0ePhPlTJbGo
-【華視綜藝頻道】現代嘉慶君不間斷馬拉松豬哥亮陳亞蘭呂雪鳳,https://www.youtube.com/watch?v=OhA_G0s9pqw
-【綜藝大熱門】猜歌王不間斷猜不停讓你第一集看到最新集數不間斷吳宗憲陳漢典生配信,https://www.youtube.com/watch?v=CXBlwhBHeZw
-【綜藝玩很大】憲哥坤達小鬼把不可能變可能讓我們找出那無法被超越的感動小時不間斷,https://www.youtube.com/watch?v=IkVUGn_uTCE
-【飢餓遊戲】一次播到飽孫協志王仁甫許孟哲蔡黃汝峮峮小時不斷電,https://www.youtube.com/watch?v=6TsaEYaKueE
-【飢餓遊戲】點閱人氣榜孫協志王仁甫許孟哲蔡黃汝峮峮完整版馬拉松,https://www.youtube.com/watch?v=UJgN7q6jpns
-【豬哥會社】馬拉松不間斷,https://www.youtube.com/watch?v=v8MUGB4vst8
-【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
-【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=k0uJVhYX12Y
-【關鍵時刻】東森世界日報美伊全面開火川普聲稱伊朗艘快艇遭美擊沉美軍加油機在波灣上空緊急求救中東火藥庫引爆伊朗飛彈無人機狂轟阿聯石油港,https://www.youtube.com/watch?v=f4anDxCspVs
-【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=HtUVepidg7c
-【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
-【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=Qx-PTaNRC7Y
-【BIF相信未來 官方頻道】掌声响起小时不间断马拉松相信未来,https://www.youtube.com/watch?v=EVATvtQHjyg
-【寶島神很大】北港朝天宮迎媽祖盛大登場農曆第二場國家重要民俗,https://www.youtube.com/watch?v=4SXdZROI3mI
-【Taste The World】Amazing!! MUST-,https://www.youtube.com/watch?v=4JMTjkfRGUg
-【灿星官方频道】ЛУЧШИЕ ФИЛЬМЫ И,https://www.youtube.com/watch?v=eA99O9MT2uI
-
 影劇,#genre#
 【戲說台灣】媽祖生日快樂重溫媽祖單元聽說拜對供品能夠旺一整年哦小時不間斷,https://www.youtube.com/watch?v=JPJFLo9r1gA
 【CCTV纪录】舌尖上的中国第四季从深山到街头巷尾美食所在之处就是烟火人间一起开启一段美食之旅,https://www.youtube.com/watch?v=qR3FzdH9Yxs
@@ -60,8 +34,6 @@
 【終極系列】終極四大時空馬拉松,https://www.youtube.com/watch?v=HKDuzWlyGts
 【GTV DRAMA English】惡作劇之吻馬拉松,https://www.youtube.com/watch?v=6lKL5znyZkc
 【影视剧汇踪】都挺好全集不间断姚晨走出重男轻女的家庭独自打拼倪大红作天作地花式折腾儿女众星云集演绎中国式家庭姚晨倪大红郭京飞领衔主演,https://www.youtube.com/watch?v=uq_dLjPSPUc
-【精选大剧】天下英雄榜江湖乱世起烽烟天地风云皆入局自古英雄出少年靳东释小龙,https://www.youtube.com/watch?v=mua5Ttno6kk
-【精选大剧】天下英雄榜江湖乱世起烽烟天地风云皆入局自古英雄出少年靳东释小龙,https://www.youtube.com/watch?v=3zCt9vtqExM
 【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场,https://www.youtube.com/watch?v=a-XpSWzP7JE
 【百纳经典独播剧场】独播高清无静音版经典古装悬疑高分神剧原汁原味的大唐神探传奇梁冠华张子健钱雁秋黄金三角重聚熟悉的配方不可复制的经典狄仁杰智破奇案新增恋爱线,https://www.youtube.com/watch?v=FOcuiNtTXFc
 【百纳经典独播剧场】马拉松高清修复未删减无静音版戏骨云集神仙打架陈宝国焦晃归亚蕾同台演绎教科级演技每个角色都有独特的魅力堪称必看经典,https://www.youtube.com/watch?v=AhN3PBPWCEM
@@ -121,6 +93,10 @@
 【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=b2ccimxHrts
 【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=biE_zsSkPUs
 【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=hI60Fnalrlc
+【KKBOX 华语新歌周榜】不能不聽的首歌九年級生還在聽的如果可以說好不會分手演员我好嗎浪子回頭信爱成瘾你就不要想起我,https://www.youtube.com/watch?v=3yKhmovZMXM
+【KKBOX 华语新歌周榜】不能不聽的首歌九年級生還在聽的如果可以說好不會分手演员我好嗎浪子回頭信爱成瘾你就不要想起我,https://www.youtube.com/watch?v=rM1D9ZpDk4I
+【KKBOX 华语新歌周榜】年經典流行歌曲分鐘串燒系列八年級生首經典流行歌曲我好嗎雪落下的聲音不曾回來過信爱成瘾月牙湾,https://www.youtube.com/watch?v=blxa3ox3c5Y
+【KKBOX 华语新歌周榜】那些年我们听过的情歌你还记得吗蔡依林周杰伦王菲林俊杰五月天年代至年代的华语流行经典唤起你心中的青春记忆一起回到那个属于磁带和的年代我好嗎不曾回來過,https://www.youtube.com/watch?v=L8JPGNdSYkQ
 【Cherry 葵】Nightcore Radio,https://www.youtube.com/watch?v=tjne3WWB3kA
 【FOR FUN RADIO TIME Music channel】音樂不間斷讀書工作專屬音樂陪你每一天,https://www.youtube.com/watch?v=w4dlH_3uwKo
 【The Good Life Radio x Sensual Musique】Deep House Radi,https://www.youtube.com/watch?v=IkmLXvBfVv0
@@ -156,34 +132,23 @@
 【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師,https://www.youtube.com/watch?v=jlzHCIZ5Xko
 【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師,https://www.youtube.com/watch?v=-ig3OSXNiDY
 【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新,https://www.youtube.com/watch?v=Jg58I7d6Azg
-【MEET48 Global】拾忆第二场,https://www.youtube.com/watch?v=eMdZRjJYCms
-【MEET48 Global】全新公演企划首演第二场,https://www.youtube.com/watch?v=LaWD3Pf1Z3M
 【KING AMUSEMENT CREATIVE】時間日,https://www.youtube.com/watch?v=4FBW3mkdKOs
 
-政論,#genre#
-【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=WAUECPu9EOw
-【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】荷姆茲海峽爆迷你戰爭川普已擊沉伊艘快艇伊飛彈狂轟阿聯最大港口竄火柱畫面曝,https://www.youtube.com/watch?v=I2uVLxFzbQE
-【民視讚夯】旋風回台賴總統謝史國接送情航跡圖曝趁美菲軍演避中干擾,https://www.youtube.com/watch?v=XohU7lgOBlk
-【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=0UOnH10P4oY
-【中時新聞網】迎接第代新生命年朱鷺孵化全球全紀錄,https://www.youtube.com/watch?v=MwzCm9a48a4
-【哏傳媒】小時不斷電為您呈現完整版網友問答調整國防預算不等於無法保衛台灣,https://www.youtube.com/watch?v=4RAebe67UCs
-【朱學恒的萬事通事務所】台灣為什麼拿下一代的錢買打不贏的武器國際智庫美方多次批評為什麼不聽,https://www.youtube.com/watch?v=LtA9AEjdDzU
-【頭條開講】全球注目中國出手了伊朗外長訪中我被逼買大陸貨川普嘴臭美網圍剿美軍加油機出事川普黑天鵝想要退稅沒門完整版,https://www.youtube.com/watch?v=E5b0m5GSYbc
-【頭條開講】荷姆茲海峽爆迷你戰爭川普已擊沉伊艘快艇伊飛彈狂轟阿聯最大港口竄火柱畫面曝,https://www.youtube.com/watch?v=AQA6jpmyxfY
-【少康戰情室】賴清德飛離史返國搭同一專機刻意關閉飛機身分資訊怕意外,https://www.youtube.com/watch?v=idNHpcXGx-o
-
-國會,#genre#
-【國會頻道】國會頻道２,https://www.youtube.com/watch?v=Lj8OWF6nzcg
-【國會頻道】程序委員會,https://www.youtube.com/watch?v=IvAXtzx5cUI
-【國會頻道】黨團協商,https://www.youtube.com/watch?v=yUx5lB4mhZk
-【國會頻道】社會福利及衛生環境委員會,https://www.youtube.com/watch?v=DdUWlWZVOi8
-【國會頻道】經費稽核委員會,https://www.youtube.com/watch?v=nkejc54RyDU
-【國會頻道】紀律委員會,https://www.youtube.com/watch?v=KyHM5yvcLU4
-【國會頻道】外交及國防委員會,https://www.youtube.com/watch?v=Af0TFVbxvAQ
-【國會頻道】立法院會議,https://www.youtube.com/watch?v=tDg3bJFYLzI
-【國會頻道】經濟委員會,https://www.youtube.com/watch?v=xfikIGtkQeA
-【國會頻道】財政委員會,https://www.youtube.com/watch?v=Cidl9JoRtGk
+購物,#genre#
+【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=cijXch4LtEY
+【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=n9GPVFd_qpY
+【三聖電視台】「三聖電視台」直播,https://www.youtube.com/watch?v=guKEQ90rnI4
+【桐瑛台中電視臺】「桐瑛台中電視臺」直播,https://www.youtube.com/watch?v=HZTQ87Vq2IA
+【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播,https://www.youtube.com/watch?v=xb6ABLE4dV8
+【桐瑛台南電視臺】「桐瑛台南電視臺」直播,https://www.youtube.com/watch?v=Ob_4nVDJ8ks
+【momo購物一台】購物一台頻道小時線上,https://www.youtube.com/watch?v=_pZQ1Lk0xMA
+【momo購物二台】購物二台頻道小時線上,https://www.youtube.com/watch?v=xbNWkUyxQGM
+【ViVa TV美好家庭購物】美好購物台線上看,https://www.youtube.com/watch?v=lEXITHxcagI
+【ViVa TV美好家庭購物】美好購物台線上看,https://www.youtube.com/watch?v=7IyxOiGMLgw
+【Live東森購物台】CH47,https://www.youtube.com/watch?v=ViJ3XiN6Q3M
+【Live東森購物台】CH46,https://www.youtube.com/watch?v=Z50JFuNgvB0
+【Live東森購物台】CH34,https://www.youtube.com/watch?v=_Vlzn9qAHD4
+【Live東森購物台】CH60,https://www.youtube.com/watch?v=u0NYyH3ZesE
 
 宗教,#genre#
 【淨土宗】網路電視台南無阿彌陀佛,https://www.youtube.com/watch?v=SagsXpM85hE
@@ -197,6 +162,32 @@
 【佛光山梵唄讚頌團】共修早晚課佛光山梵唄觀世音菩薩普門品,https://www.youtube.com/watch?v=TvEARGJ950E
 【生命電視台】小時時間生放送,https://www.youtube.com/watch?v=dVkQNH3IfME
 【遠東良友】良友電台同行頻道良友电台同行频道遠東福音會,https://www.youtube.com/watch?v=mH3S7BNKk28
+
+教育,#genre#
+【ABC Learning English】English Convers,https://www.youtube.com/watch?v=xPgo8dIHy7I
+【ABC Learning English】Learn English T,https://www.youtube.com/watch?v=1D6fL5o4zwE
+【ABC Learning English】English Convers,https://www.youtube.com/watch?v=4ayHSRrvWjs
+【ABC Learning English】24 Hours Englis,https://www.youtube.com/watch?v=vuTY4FDAbpA
+【學習粵語】Speak Cantonese,https://www.youtube.com/watch?v=Zrkf814SPbw
+【南非荷蘭語】Speak Afrikaans,https://www.youtube.com/watch?v=oIWaTR3PgzE
+【學習印地語】Speak Hindi 24/,https://www.youtube.com/watch?v=wMMMHsCMa1A
+【學習菲律賓語】Speak Filipino ,https://www.youtube.com/watch?v=Rgfbb1KJSTo
+【學習烏爾都語】Speak Urdu 24/7,https://www.youtube.com/watch?v=ap34FN6M7ac
+【學習德語】Speak German 24,https://www.youtube.com/watch?v=85bR1SsXH6E
+【學習土耳其語】Speak Turkish 2,https://www.youtube.com/watch?v=pUP9tWxK7SE
+【學習阿拉伯語】Speak Arabic 24,https://www.youtube.com/watch?v=EA3zW89fc_k
+【學習瑞典語】Speak Swedish 2,https://www.youtube.com/watch?v=IZYKZbdxVsM
+【學習希伯來語】Speak Hebrew 24,https://www.youtube.com/watch?v=XWCc-x0Fki8
+【學習希臘語】Speak Greek 24/,https://www.youtube.com/watch?v=t1KSmMPFjIk
+【學習波蘭語】Speak Polish 24,https://www.youtube.com/watch?v=B6cDg3xnKss
+【學習日文】Speak Japanese ,https://www.youtube.com/watch?v=OqwA-w3mMx0
+【學習中文】Speak Chinese 2,https://www.youtube.com/watch?v=rl4a_2C5FNw
+【學習匈牙利語】Speak Hungarian,https://www.youtube.com/watch?v=SR7423E4vkc
+【學習芬蘭語】Speak Finnish 2,https://www.youtube.com/watch?v=3nLnQxgUoOA
+【學習荷蘭語】Speak Dutch 24/,https://www.youtube.com/watch?v=OnyBi7ZyXcs
+【學習韓語】Speak Korean 24,https://www.youtube.com/watch?v=WU6TGx4_yOE
+【學習法語】Speak French 24,https://www.youtube.com/watch?v=PeGTZCZPmg8
+【學習波斯語】Speak Persian 2,https://www.youtube.com/watch?v=aLsfJi762ys
 
 風景,#genre#
 【台北】貓空指南宮猫空指南宮,https://www.youtube.com/watch?v=215ahZ_0rTg
