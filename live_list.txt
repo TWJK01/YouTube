@@ -1,30 +1,5 @@
 台灣,#genre#
 【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
-【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近,https://www.youtube.com/watch?v=34Tdm973FXw
-【台灣颱風論壇】台灣天氣即時監測,https://www.youtube.com/watch?v=LzOTY4mZG00
-【台視新聞】台小時線上台湾,https://www.youtube.com/watch?v=sNtCBxP-8LY
-【中視新聞 HD】中視新聞頻道小時線上台湾,https://www.youtube.com/watch?v=TCnaIE_SAtM
-【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=meHTKm4XBS8
-【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
-【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映大愛早安新聞,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛早安新聞,https://www.youtube.com/watch?v=QDxRJP-wfeI
-【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
-【寰宇新聞】川普拒絕伊朗點停戰方案軍事衝突風險恐升物價失控數位戒嚴美軍封鎖下伊朗成通膨地獄台,https://www.youtube.com/watch?v=Ej3LQM_lTEw
-【寰宇新聞】台灣台小時台湾時間配信中,https://www.youtube.com/watch?v=w87VGpgd90U
-【寰宇新聞】小時線上台湾時間配信中,https://www.youtube.com/watch?v=6IquAgfvYmc
-【寰宇全視界】寰宇新聞台小時線上台湾時間配信中,https://www.youtube.com/watch?v=LqIMxdJiztU
-【寰宇財經新聞】寰宇新聞財經台小時線上台湾時間配信中,https://www.youtube.com/watch?v=yAUQQ0DhPxI
-【非凡商業台】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導,https://www.youtube.com/watch?v=xLqt2p6Dowo
-【全球財經台2】全球財經台,https://www.youtube.com/watch?v=LyQ-iWfoVg0
-【鳳凰衛視PhoenixTV】美伊據報已就緩解美國海上封鎖達成共識中方台灣問題是中美政治基礎中的基礎美軍戰機攔截一伊朗油輪炸毀船舵小时间鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
-
-綜藝,#genre#
-【綜藝一級棒】小時歡樂不停播讓一級棒陪伴你的每時每刻,https://www.youtube.com/watch?v=9gx5EIyHmsw
-【民視綜藝娛樂 Formosa TV Entertainments】全台玩透透秘境探險馬拉松,https://www.youtube.com/watch?v=T0G2afHBVcc
-【民視綜藝娛樂 Formosa TV Entertainments】民視綜藝馬拉松經典大回顧陪你笑翻天,https://www.youtube.com/watch?v=a0tPx3js1wY
-【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 
 少兒,#genre#
 【Muse木棉花】從零開始的異世界生活,https://www.youtube.com/watch?v=AcIUpyhNKUg
@@ -44,10 +19,6 @@
 【回歸線娛樂】貴族轉生,https://www.youtube.com/watch?v=U7XE5HWPsAw
 【回歸線娛樂】賭博默示錄,https://www.youtube.com/watch?v=5hrhXygnPFc
 【回歸線娛樂】真珠美人魚,https://www.youtube.com/watch?v=BLag8MOBUg8
-
-體育,#genre#
-【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=Dv-pmT25qZc
-【WWE Vault】Ruthless Aggres,https://www.youtube.com/watch?v=FDyJpNEpV44
 
 音樂,#genre#
 【周杰倫】音樂時光機,https://www.youtube.com/watch?v=q8hw5oKCDp4
