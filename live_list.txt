@@ -12,12 +12,11 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映大愛劇他的靈魂與他的書店,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映好戲成雙聽見愛,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
-【中天電視CtiTv】油含致癌物增至家食藥署逐批檢驗批蔣萬安責任移轉挨轟沈伯洋急喊一直扯政治口水沒必要癌油波及校吳思瑤轟蔣萬安樂不思北中天電視,https://www.youtube.com/watch?v=AzrOvZ7kMJQ
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -53,8 +52,6 @@
 【豬哥會社】馬拉松不間斷,https://www.youtube.com/watch?v=v8MUGB4vst8
 【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=5sFglcMEm7I
-【204檔案】當蚊子停在你的搞丸上就會發現暴力不能解決任何問題,https://www.youtube.com/watch?v=7ujDIWVdYMw
-【關鍵時刻】美國慶看煙火俄民眾賞濃煙普丁憂蘇聯解體臉色難看求和川普,https://www.youtube.com/watch?v=IrxZDpcPI90
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=SdvgdCOwKCg
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=6iu77C-6Y7k
 【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
@@ -161,7 +158,6 @@
 
 體育,#genre#
 【HOP Sports】小時台湾時間,https://www.youtube.com/watch?v=r0TLT5pweJM
-【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=iWFnntuJ1QM
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=Dv-pmT25qZc
 【WWE】Best of The Blo,https://www.youtube.com/watch?v=MINfvOX4BzI
 【WWE Vault】Nothing but Bed,https://www.youtube.com/watch?v=y1qfNVOjv-g
@@ -226,10 +222,8 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=pkLOXxMlt20
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】中國核潛艇向太平洋發射戰略導彈巨浪擺脫第一島鏈束縛中俄海空聯手狠擊日本伊朗國葬百萬人送行川普震驚完整版,https://www.youtube.com/watch?v=RTMGf_yHrFA
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=xvbDsoLcMIc
 【94要客訴】時間地震速報監視網三立新聞網,https://www.youtube.com/watch?v=KlmDMBwa-W8
-【新聞龍捲風】強颱巴威最新路徑曝北台影響大最快周四海陸警齊發,https://www.youtube.com/watch?v=GrPoyBhdR6w
 【少康戰情室】政經說政論小時互動颱風假穩了強颱巴威侵襲率縣市破成土耳其總統指以色列沉迷戰爭批別破壞美伊諒解備忘錄新聞大白話國民大會國民開小會,https://www.youtube.com/watch?v=Gzo0sDZ4Fcg
 
 購物,#genre#
