@@ -13,8 +13,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映經典劇坊人生二十甲,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映經典劇坊人生二十甲,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -157,7 +157,6 @@
 【嗶哩嗶哩動畫Anime Made By Bilibili】慕兰之战开播倒计时新篇章将至让我们重温韩立的漫漫仙途为大战做好准备凡人修仙传,https://www.youtube.com/watch?v=Vouyc10V2-E
 
 體育,#genre#
-【緯來體育台】2026.07.12｜LIVE,https://www.youtube.com/watch?v=2gAYVuR3myk
 【博斯體育台】網球迷動起來溫布頓網球錦標賽火熱開打男單決賽專屬聊天室快來和大家一起聊球賽聊球星,https://www.youtube.com/watch?v=JcdFD9Guvb8
 【HOP Sports】小時台湾時間,https://www.youtube.com/watch?v=r0TLT5pweJM
 【WCW】Story of The nW,https://www.youtube.com/watch?v=Sk3YNqe4fbM
@@ -199,7 +198,6 @@
 【Radio Mix】Radio POP Mix 2,https://www.youtube.com/watch?v=x-JC7sJJUW8
 【Radio Mix】Dance Radio Mix,https://www.youtube.com/watch?v=hXyRD5vbKpo
 【Too Music】The Good Time R,https://www.youtube.com/watch?v=XhUYenOt2sI
-【Too Music】Music Radio Tod,https://www.youtube.com/watch?v=ahveWCUL5Q8
 【Too Music】Too Music Radio,https://www.youtube.com/watch?v=MEf8erMTsGs
 【Too Music】Music Radio Mix,https://www.youtube.com/watch?v=m2BnK_hf2qg
 【Too Music】Music Radio Ret,https://www.youtube.com/watch?v=9hylBusqpX8
@@ -232,7 +230,6 @@
 
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=aC6YNHVHb_I
-【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=7HexmZrIamY
 【三聖電視台】三聖電視台-直播,https://www.youtube.com/watch?v=h6-4Q3GAWL4
 【桐瑛台中電視臺】「桐瑛台中電視臺」直播,https://www.youtube.com/watch?v=gd-Z4tuPcPA
 【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播,https://www.youtube.com/watch?v=maE5EOuh_Rg
