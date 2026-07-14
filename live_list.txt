@@ -12,11 +12,12 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛劇他的靈魂與他的書店,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映高僧傳,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
+【中天電視CtiTv】姆巴佩率攻守俱佳的法國隊挑戰亞馬爾領軍的無敵艦隊中天電視,https://www.youtube.com/watch?v=9As6gA4cfg0
 【中天電視CtiTv】美萬大軍艘軍艦集結對伊朗海上封鎖伊狂轟阿聯油輪中東美軍基地中天新聞,https://www.youtube.com/watch?v=MJXFPESgu3g
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
@@ -217,6 +218,7 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=eEvMO8zGIeI
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
+【全球大視野】姆巴佩率攻守俱佳的法國隊挑戰亞馬爾領軍的無敵艦隊,https://www.youtube.com/watch?v=l4Z75n4l5hE
 【全球大視野】美萬大軍艘軍艦集結對伊朗海上封鎖伊狂轟阿聯油輪中東美軍基地,https://www.youtube.com/watch?v=cUm8R4lHIIE
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=xvbDsoLcMIc
 【94要客訴】時間地震速報監視網三立新聞網,https://www.youtube.com/watch?v=KlmDMBwa-W8
@@ -227,10 +229,8 @@
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=aC6YNHVHb_I
 【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=dG1T3NxAnw4
-【三聖電視台】三聖電視台-直播,https://www.youtube.com/watch?v=h6-4Q3GAWL4
 【桐瑛台中電視臺】「桐瑛台中電視臺」直播,https://www.youtube.com/watch?v=gd-Z4tuPcPA
 【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播,https://www.youtube.com/watch?v=maE5EOuh_Rg
-【桐瑛台南電視臺】「桐瑛台南電視臺」直播,https://www.youtube.com/watch?v=qdCBW0UNPik
 【momo購物一台】購物一台頻道小時線上,https://www.youtube.com/watch?v=_8FQRM74W8Y
 【momo購物二台】購物二台頻道小時線上,https://www.youtube.com/watch?v=xbNWkUyxQGM
 【ViVa TV美好家庭購物】美好購物台線上看,https://www.youtube.com/watch?v=rc8px6ti8fc
