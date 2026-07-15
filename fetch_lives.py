@@ -50,8 +50,9 @@ CATEGORIES = {
         "POP Radio聯播網": "https://www.youtube.com/@917POPRadio/streams",
         "LIVE NOW": "https://www.youtube.com/@LiveNow24H/streams",	
         "鳳凰衛視PhoenixTV": "https://www.youtube.com/@phoenixtvglobal/streams",
-        "HOY資訊台 有線新聞": "https://www.youtube.com/@HOYTVHK/streams",		
+        "HOY 資訊台 × 有線新聞": "https://www.youtube.com/@HOYTVHK/streams",		
         "CCTV中文": "https://www.youtube.com/@CCTVCH/featured",
+        "八度空间华语新闻": "https://www.youtube.com/@8tvmandarinnews/streams",		
         "8world": "https://www.youtube.com/@8worldSG/streams"
     },
     "綜藝,#genre#": {
@@ -110,10 +111,12 @@ CATEGORIES = {
         "公共電視-我們的島": "https://www.youtube.com/@ourislandTAIWAN/streams",
         "WeTV 綜藝經典": "https://www.youtube.com/@WeTV-ClassicVariety/videos",
         "爆梗TV": "https://www.youtube.com/@爆梗PunchlineTV/streams",
+        "浙江衛視": "https://www.youtube.com/@KeepRunningChina/streams",		
         "STR Network": "https://www.youtube.com/@STRNetworkasia/streams",		
 		"緯來新聞網": "https://www.youtube.com/@videolandnews/streams",
         "灿星官方频道": "https://www.youtube.com/@CanxingMediaOfficialChannel/streams",
-        "陕西广播电视台官方频道": "https://www.youtube.com/@chinashaanxitvofficialchan2836/videos",		
+        "陕西广播电视台官方频道": "https://www.youtube.com/@chinashaanxitvofficialchan2836/videos",
+        "KBS WORLD TV": "https://www.youtube.com/@kbsworldtv/streams",		
         "北京廣播電視台生活頻道": "https://www.youtube.com/@Brtvofficialchannel/streams"		
         
     },
@@ -221,6 +224,7 @@ CATEGORIES = {
         "嗶哩嗶哩動畫Anime Made By Bilibili": "https://www.youtube.com/@MadeByBilibili/streams",
         "Ani-Mi動漫迷動畫頻道": "https://www.youtube.com/@AnimiforAnime/streams",		
         "回歸線娛樂": "https://www.youtube.com/@tropicsanime/streams",
+        "嗶哩嗶哩動畫Anime Made By Bilibili": "https://www.youtube.com/@MadeByBilibili/streams",		
         "愛奇藝國漫": "https://www.youtube.com/@iQIYIAnimation/streams",
         "艾瑪愛學習": "https://www.youtube.com/@EmmaLearning/streams",		
         "超人官方 YouTube 粵語頻道": "https://www.youtube.com/@ultraman_cantonese_official/streams"				
