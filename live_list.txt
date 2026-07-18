@@ -12,14 +12,15 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映大愛早安新聞,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛早安新聞,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映青春愛讀書,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映好戲成雙姊姊向前衝,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
-【中天電視CtiTv】法國英格蘭都不想踢季軍戰獎金個人金靴獎都不如大力金盃吸引人中天電視,https://www.youtube.com/watch?v=VBApb__0Esk
+【中天新聞CtiNews】蔣萬安今密會盧秀燕宜蘭揪新問題油卓榮泰批其他縣市沒用心查川普嗆伊朗下周會更慘世界盃季軍賽最新蘇貞蓉黃韵筑報新聞中天新聞,https://www.youtube.com/watch?v=djt8rYZe_XY
 【中天電視CtiTv】中東戰火升級伊朗導彈轟美軍艦艇專家揭衝突關鍵在荷姆茲海峽警告川普一念之間恐擴大戰局中天新聞,https://www.youtube.com/watch?v=ctjp-KzMj4w
 【中天電視CtiTv】花蓮萬里溪堰塞湖紅色警戒蓄水量達林保署即刻起隨時可能溢流中天新聞,https://www.youtube.com/watch?v=KytgDYuFKhg
+【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 【TVBS NEWS】新聞台小時台湾世界中時間配信中,https://www.youtube.com/watch?v=2mCSYvcfhtc
 【TVBS財經】財經網路新聞小時台湾世界中時間配信中財經財經鈔能力金臨天下,https://www.youtube.com/watch?v=0an9taQ7OYM
@@ -163,7 +164,7 @@
 
 體育,#genre#
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=QkA0xpsBZ8Q
-【WWE】Best of Hell in,https://www.youtube.com/watch?v=v5CIY2gBekg
+【WWE】Countdown to Sa,https://www.youtube.com/watch?v=RSxjwsaspvg
 【WWE Vault】WWE Saturday Ni,https://www.youtube.com/watch?v=ycms-CIs9IY
 
 音樂,#genre#
@@ -219,7 +220,6 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=eEvMO8zGIeI
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】法國英格蘭都不想踢季軍戰獎金個人金靴獎都不如大力金盃吸引人,https://www.youtube.com/watch?v=mm7HZlUBw4M
 【全球大視野】中東戰火升級伊朗導彈轟美軍艦艇專家揭衝突關鍵在荷姆茲海峽警告川普一念之間恐擴大戰局,https://www.youtube.com/watch?v=Rh6A2oNbKcY
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=xvbDsoLcMIc
 【94要客訴】時間地震速報監視網三立新聞網,https://www.youtube.com/watch?v=KlmDMBwa-W8
@@ -230,7 +230,7 @@
 
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=aC6YNHVHb_I
-【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=K_28Aga5Ono
+【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=NoAwS61gp9k
 【桐瑛台中電視臺】「桐瑛台中電視臺」直播,https://www.youtube.com/watch?v=gd-Z4tuPcPA
 【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播,https://www.youtube.com/watch?v=tzecgF5Tf5c
 【桐瑛台南電視臺】「桐瑛台南電視臺」直播,https://www.youtube.com/watch?v=PLhU-Vt-10c
