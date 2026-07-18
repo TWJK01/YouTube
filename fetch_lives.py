@@ -427,8 +427,8 @@ MANUAL_LINKS = {
 		"【五月天】不間斷霸佔你耳朵,https://www.youtube.com/live/R62E7cFWX6o"
     ],
     "少兒,#genre#": [
-        "【Muse木棉花】路人超能,https://www.youtube.com/watch?v=DIwhawGf8oE",
-        "【Muse木棉花】BanG Dream! It's MyGO,https://www.youtube.com/watch?v=639T_dY72Qs",
+        "【Muse木棉花】春夏秋冬代行者,https://www.youtube.com/watch?v=7OurFhdZx9I",
+        "【Muse木棉花】擅長逃跑的殿下,https://www.youtube.com/watch?v=018JSlYV8eQ",
         "【Muse木棉花】無職轉生,https://www.youtube.com/watch?v=GTadYkDC4bs",		
         "【Muse木棉花】獵人,https://www.youtube.com/watch?v=YrUJXdCamNs",
         "【Muse木棉花】葬送的芙莉蓮,https://www.youtube.com/watch?v=PxAQgmdBgug",
@@ -437,9 +437,11 @@ MANUAL_LINKS = {
         "【Muse木棉花】新哆啦A夢,https://www.youtube.com/watch?v=IgRPlOv-EIs",
         "【Muse木棉花】中華一番,https://www.youtube.com/watch?v=mRCXonM5ru8",
         "【Muse木棉花】我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE",		
-        "【Ani-One】BLEACH 死神,https://www.youtube.com/watch?v=eXOH1058mB4",		
+        "【Ani-One】BLEACH 死神,https://www.youtube.com/watch?v=eXOH1058mB4",
+        "【Ani-One】Gachiakuta,https://www.youtube.com/watch?v=NaK0zUAa2rY",
+        "【Ani-One】死神,https://www.youtube.com/watch?v=G7e1tHnDW_w",		
         "【Ani-One】藍色監獄,https://www.youtube.com/watch?v=ul4EF4m3prY",
-        "【Ani-One】OVERLORD,https://www.youtube.com/watch?v=XDM7J5yzFPM",			
+        "【Ani-One】OVERLORD,https://www.youtube.com/watch?v=XDM7J5yzFPM",		
 		"【回歸線娛樂】死亡筆記本,https://www.youtube.com/watch?v=VrktkZAh2Xc",
 		"【回歸線娛樂】碧藍之海,https://www.youtube.com/watch?v=tBNfvyJxrds",		
 		"【回歸線娛樂】真珠美人魚,https://www.youtube.com/watch?v=BLag8MOBUg8"
