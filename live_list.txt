@@ -8,14 +8,16 @@
 【中視新聞】頻道小時線上台湾,https://www.youtube.com/watch?v=baDV1O5EBP0
 【中視新聞 HD】中視新聞頻道小時線上台湾,https://www.youtube.com/watch?v=TCnaIE_SAtM
 【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=KMMHw8rllic
+【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映法華經序中文版,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映在台灣站起分版,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映衲履足跡,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映國民漢字須知,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
+【中天電視CtiTv】法國英格蘭都不想踢季軍戰獎金個人金靴獎都不如大力金盃吸引人中天電視,https://www.youtube.com/watch?v=VBApb__0Esk
 【中天電視CtiTv】中東戰火升級伊朗導彈轟美軍艦艇專家揭衝突關鍵在荷姆茲海峽警告川普一念之間恐擴大戰局中天新聞,https://www.youtube.com/watch?v=ctjp-KzMj4w
 【中天電視CtiTv】花蓮萬里溪堰塞湖紅色警戒蓄水量達林保署即刻起隨時可能溢流中天新聞,https://www.youtube.com/watch?v=KytgDYuFKhg
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -26,6 +28,7 @@
 【寰宇新聞】小時線上台湾時間配信中,https://www.youtube.com/watch?v=6IquAgfvYmc
 【寰宇全視界】寰宇新聞台小時線上台湾時間配信中,https://www.youtube.com/watch?v=LqIMxdJiztU
 【新唐人亞太電視台】新唐人小時,https://www.youtube.com/watch?v=Bhp_V7H5QoY
+【三大一台】三大有線電視公司,https://www.youtube.com/watch?v=XH3hbHc85ZQ
 【東森財經股市】東森財經新聞小時線上台湾金融,https://www.youtube.com/watch?v=1I2iq41Akmo
 【東森財經股市】小時台湾金融時間放送,https://www.youtube.com/watch?v=AEBeWMM1atA
 【寰宇財經新聞】寰宇新聞財經台小時線上台湾時間配信中,https://www.youtube.com/watch?v=yAUQQ0DhPxI
@@ -160,6 +163,7 @@
 
 體育,#genre#
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=QkA0xpsBZ8Q
+【WWE】LA Knight live ,https://www.youtube.com/watch?v=bfR74d5XgsQ
 【WWE】Best of Hell in,https://www.youtube.com/watch?v=v5CIY2gBekg
 【WWE Vault】WWE Saturday Ni,https://www.youtube.com/watch?v=ycms-CIs9IY
 
@@ -216,6 +220,7 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=eEvMO8zGIeI
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
+【全球大視野】法國英格蘭都不想踢季軍戰獎金個人金靴獎都不如大力金盃吸引人,https://www.youtube.com/watch?v=mm7HZlUBw4M
 【全球大視野】中東戰火升級伊朗導彈轟美軍艦艇專家揭衝突關鍵在荷姆茲海峽警告川普一念之間恐擴大戰局,https://www.youtube.com/watch?v=Rh6A2oNbKcY
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=xvbDsoLcMIc
 【94要客訴】時間地震速報監視網三立新聞網,https://www.youtube.com/watch?v=KlmDMBwa-W8
