@@ -12,15 +12,15 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映經典劇坊人生二十甲,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映經典劇坊人生二十甲,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
 【中天電視CtiTv】伊最高領袖嗆給難忘教訓美發全球旅遊警示攻擊恐不限中東中天新聞,https://www.youtube.com/watch?v=ZWu4A8K2G6s
-【中天電視CtiTv】台中西北大飯店舊址大火一家口困頂樓消防空中搶命全救下中天新聞,https://www.youtube.com/watch?v=s6YTo58po_c
 【中天電視CtiTv】藍民代絕食抗議遇大雨鄭麗文探視送毛巾又沒逼你吃毒油藍民代絕食抗議小時不斷電中天新聞,https://www.youtube.com/watch?v=F8S-tx4Vkzw
 【中天電視CtiTv】萬里溪堰塞湖水位突破壩頂濁水持續流出目前侷限於河道內中天新聞,https://www.youtube.com/watch?v=KytgDYuFKhg
+【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 【TVBS NEWS】新聞台小時台湾世界中時間配信中,https://www.youtube.com/watch?v=2mCSYvcfhtc
 【TVBS財經】財經網路新聞小時台湾世界中時間配信中財經財經鈔能力金臨天下,https://www.youtube.com/watch?v=0an9taQ7OYM
@@ -55,7 +55,6 @@
 【豬哥會社】馬拉松不間斷,https://www.youtube.com/watch?v=v8MUGB4vst8
 【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=5sFglcMEm7I
-【204檔案】阿飄預測阿根廷冠軍你信嗎,https://www.youtube.com/watch?v=q0jcvpE5A2M
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=SdvgdCOwKCg
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=6iu77C-6Y7k
 【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
@@ -165,6 +164,7 @@
 體育,#genre#
 【緯來體育台】2026.07.19｜LIVE,https://www.youtube.com/watch?v=4QHkLr7HiHk
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=QkA0xpsBZ8Q
+【WWE】SummerSlam Kick,https://www.youtube.com/watch?v=YRMRrQq5Mlk
 【WWE Vault】WWE Saturday Ni,https://www.youtube.com/watch?v=ycms-CIs9IY
 
 音樂,#genre#
@@ -229,7 +229,6 @@
 【大新聞大爆卦】藍民代絕食抗議遇大雨鄭麗文探視送毛巾又沒逼你吃毒油藍民代絕食抗議小時不斷電中天新聞,https://www.youtube.com/watch?v=siqs-SgJuJU
 【中時新聞網】吳崢脫口沒逼你吃毒油藍營議員參選人絕食靜坐,https://www.youtube.com/watch?v=QiJj_vmHbFY
 【哏傳媒】小時不斷電為您呈現做不好就換掉我是人我反台毒郭正亮頻道,https://www.youtube.com/watch?v=z_cCaxOBWpw
-【新聞龍捲風】台中西北大飯店舊址大火一家口困頂樓消防空中搶命全救下,https://www.youtube.com/watch?v=2S0ZGqkaHAs
 【新聞龍捲風】萬里溪堰塞湖水位突破壩頂濁水持續流出目前侷限於河道內中天新聞,https://www.youtube.com/watch?v=lKjVmVk95b0
 【頭條開講】伊最高領袖嗆給難忘教訓美發全球旅遊警示攻擊恐不限中東,https://www.youtube.com/watch?v=tYHeDrz0gX8
 【少康戰情室】政經說政論小時互動又不是我逼你吃你跟我大聲幹嘛吳崢高分貝回嗆遭網友炎上中東戰火延燒股市全面下挫新聞大白話國民大會國民開小會,https://www.youtube.com/watch?v=Cb5MRzy0aiQ
