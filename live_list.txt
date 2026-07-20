@@ -12,8 +12,8 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛劇他的靈魂與他的書店,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映高僧傳,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -103,7 +103,6 @@
 【CCTV电视剧】马拉松三国英雄集结权谋与忠义的较量三国演义带你领略英雄传奇,https://www.youtube.com/watch?v=sKZ4gOPV4mM
 【CCTV电视剧】康熙王朝千古一帝康熙帝的传奇一生,https://www.youtube.com/watch?v=QF6VpFjkFjw
 【CCTV电视剧】马拉松雍正王朝九子夺嫡皇家的权谋之术,https://www.youtube.com/watch?v=RGCaUT6-hqU
-【老广一起睇】小时大院房客家第季经典第集连播粤语经典电视剧,https://www.youtube.com/watch?v=UsLH7NRjIfY
 【GC影視】楊廣奪位天下大亂瓦崗寨群雄集結誰能終結暴政陳銳鄭爽邵峰隋唐演義小時馬拉松,https://www.youtube.com/watch?v=yQxIiDA-3eI
 【GC影視】娶了一個控制狂老婆有多窒息從醫生到崩潰中年男人的真實地獄中國式離婚蔣雯麗陳道明,https://www.youtube.com/watch?v=epGwZZXFMCY
 【GC影視】神探狄人傑懸疑馬拉松陪你一起破案燒腦輪播狄大人帶你極限反殺,https://www.youtube.com/watch?v=rTA4rE77Lsc
@@ -225,7 +224,6 @@
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=eEvMO8zGIeI
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
 【全球大視野】一週內數名美軍陣亡美連炸夜再增兵美伊衝突逼近全面開戰,https://www.youtube.com/watch?v=S26pO3wQoRQ
-【全球大視野】西班牙時隔年二度封王百萬人潮上街遊行,https://www.youtube.com/watch?v=HytsphRDCqk
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=xvbDsoLcMIc
 【94要客訴】時間地震速報監視網三立新聞網,https://www.youtube.com/watch?v=KlmDMBwa-W8
 【大新聞大爆卦】力挺反毒油絕食青年軍鄭麗文籲民眾站出來小時不斷電,https://www.youtube.com/watch?v=7kOtd0vtrWk
@@ -274,7 +272,6 @@
 【遠東良友】良友電台同行頻道良友电台同行频道遠東福音會遠東廣播,https://www.youtube.com/watch?v=9EOAY4BQrE8
 
 教育,#genre#
-【ABC Learning English】English Speakin,https://www.youtube.com/watch?v=c_NdZmq15OE
 【ABC Learning English】English Convers,https://www.youtube.com/watch?v=S3nvC5IbciM
 【ABC Learning English】24 Hours Englis,https://www.youtube.com/watch?v=1D6fL5o4zwE
 【ABC Learning English】English Convers,https://www.youtube.com/watch?v=4ayHSRrvWjs
