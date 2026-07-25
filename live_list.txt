@@ -1,24 +1,30 @@
 台灣,#genre#
 【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
-【台灣地震監視】紅霞颱風監視,https://www.youtube.com/watch?v=e5NIWVmWIjA
 【台灣地震監視】台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
 【台灣颱風論壇】花蓮萬里溪堰塞湖,https://www.youtube.com/watch?v=dK_KZ6L6fzo
 【台灣颱風論壇】台灣天氣即時監測,https://www.youtube.com/watch?v=ADZTiqEGT8g
 【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近,https://www.youtube.com/watch?v=FOc1DGS9H0M
+【台視新聞】卓榮泰出席大安大甲溪聯通管通水典禮,https://www.youtube.com/watch?v=JanitTzqyC4
+【中視新聞】國民黨全代會登場現場畫面最新,https://www.youtube.com/watch?v=ICdgsXoJBMY
 【中視新聞】反毒油護食安藍營小雞絕食超過小時,https://www.youtube.com/watch?v=cKq3xhwbf88
 【中視新聞】頻道小時線上台湾,https://www.youtube.com/watch?v=baDV1O5EBP0
 【中視新聞 HD】中視新聞頻道小時線上台湾,https://www.youtube.com/watch?v=TCnaIE_SAtM
 【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=KMMHw8rllic
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+【民視新聞網】蘇巧慧攜手親子同樂水獺媽媽樂園汐止場登場民視快新聞,https://www.youtube.com/watch?v=fE_vbLm7vvA
+【民視新聞網】卓榮泰出席大安大甲溪聯通管通水典禮民視快新聞,https://www.youtube.com/watch?v=fClagbfctEo
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映靜思書軒心靈講座,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映好戲成雙搜尋者,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大馬慈濟情,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映大馬慈濟情,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
-【中天新聞CtiNews】食安怒吼今上凱道藍籲人民站出來致癌油案泰山前後任總聲押禁見美祭新關稅台不疊加未來歲領萬劉又嘉譚若誼報新聞中天新聞,https://www.youtube.com/watch?v=Kz5WdFw8Fps
+【中天新聞CtiNews】藍小雞絕食爆側翼亂編劇本油品重上架郭正亮揭綠盤算台中商界大老轟盧綠背景曝台關稅譚若誼劉又嘉報新聞中天新聞,https://www.youtube.com/watch?v=NUrK1R4bKwU
+【中天電視CtiTv】凱道遊行萬人喊下台卓榮泰赴台中出席通水典禮中天新聞,https://www.youtube.com/watch?v=1vcvMqRcAXo
+【中天電視CtiTv】國民黨全代會登場顧民生愛人民拚和平台灣贏中天新聞,https://www.youtube.com/watch?v=dDJxj-qiofY
+【中天電視CtiTv】紅霞颱風海上警報解除氣象署提醒多地仍有強風豪雨中天新聞,https://www.youtube.com/watch?v=0hEtNT_oWLA
 【中天電視CtiTv】藍營青年凱道絕食第七天人堅持撐到上凱道反毒台落幕中天新聞,https://www.youtube.com/watch?v=E4d_glN57BE
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 【TVBS NEWS】新聞台小時台湾世界中時間配信中,https://www.youtube.com/watch?v=2mCSYvcfhtc
@@ -27,6 +33,7 @@
 【寰宇新聞】台灣台小時台湾時間配信中,https://www.youtube.com/watch?v=w87VGpgd90U
 【寰宇新聞】小時線上台湾時間配信中,https://www.youtube.com/watch?v=6IquAgfvYmc
 【寰宇全視界】寰宇新聞台小時線上台湾時間配信中,https://www.youtube.com/watch?v=LqIMxdJiztU
+【udn video】國民黨全代會登場主打顧民生愛人民,https://www.youtube.com/watch?v=lerXuWc2gN8
 【新唐人亞太電視台】新唐人小時,https://www.youtube.com/watch?v=Bhp_V7H5QoY
 【三大一台】三大有線電視公司,https://www.youtube.com/watch?v=XH3hbHc85ZQ
 【東森財經股市】東森財經新聞小時線上台湾金融,https://www.youtube.com/watch?v=1I2iq41Akmo
@@ -103,7 +110,6 @@
 【CCTV电视剧】马拉松三国英雄集结权谋与忠义的较量三国演义带你领略英雄传奇,https://www.youtube.com/watch?v=sKZ4gOPV4mM
 【CCTV电视剧】康熙王朝千古一帝康熙帝的传奇一生,https://www.youtube.com/watch?v=QF6VpFjkFjw
 【CCTV电视剧】马拉松雍正王朝九子夺嫡皇家的权谋之术,https://www.youtube.com/watch?v=RGCaUT6-hqU
-【老广一起睇】小时大院房客家第季经典第集连播粤语经典电视剧,https://www.youtube.com/watch?v=TNfHWypkyJ0
 【GC影視】新結婚時代小時情感馬拉松劉若英陷入最窒息的婚姻選擇郭曉東該何去何從,https://www.youtube.com/watch?v=jXSEIMvwoAg
 【GC影視】楊廣奪位天下大亂瓦崗寨群雄集結誰能終結暴政陳銳鄭爽邵峰隋唐演義小時馬拉松,https://www.youtube.com/watch?v=fk51ojcq2oY
 【GC影視】神探狄人傑懸疑馬拉松陪你一起破案燒腦輪播狄大人帶你極限反殺,https://www.youtube.com/watch?v=rTA4rE77Lsc
@@ -144,15 +150,14 @@
 【會說話的湯姆貓家族】第季超大合集快乐不停歇,https://www.youtube.com/watch?v=SAVuhdZBHms
 【碰碰狐 鯊魚寶寶】鯊魚寶寶體操更多碰碰狐體操兒歌人氣歌曲卡通動畫,https://www.youtube.com/watch?v=oX-DgSb7Xbs
 【寶寶巴士】小小醫生更多照顧生病的警長熱門動畫合集安全警長啦咘啦哆,https://www.youtube.com/watch?v=ZFAAOy9hrTw
-【小猪佩奇】最新视频粉红猪小妹动画,https://www.youtube.com/watch?v=x6gW0HeGlUM
+【小猪佩奇】最新视频粉红猪小妹动画,https://www.youtube.com/watch?v=MBpoR2nXFFk
+【Kids Songs Giligilis】✨ What Happens ,https://www.youtube.com/watch?v=ocfICLRTxNk
 【Kids Songs Giligilis】🍓 ABC Fruit Adv,https://www.youtube.com/watch?v=n8lxpeSHdLA
 【Kids Songs Giligilis】Letter Y for Yo,https://www.youtube.com/watch?v=6qbLkKTofJs
 【Kids Songs Giligilis】Yummy Yummy Str,https://www.youtube.com/watch?v=XW_YhZg70hY
 【Kids Songs Giligilis】🍌 ABC Alphabet ,https://www.youtube.com/watch?v=BdiWcV1hbXw
 【Kids Songs Giligilis】🍌 Giligilis Ban,https://www.youtube.com/watch?v=40UmMw0jKhM
 【Kids Songs Giligilis】🥥 Giligilis Coc,https://www.youtube.com/watch?v=bVGTmSXyXAU
-【Kids Songs Giligilis】🎵 Learn ABC & N,https://www.youtube.com/watch?v=97iNKn4OAy8
-【Kids Songs Giligilis】🥭 Giligilis Num,https://www.youtube.com/watch?v=Bu21bagDSmA
 【Kids Songs Giligilis】🥭 Giligilis Num,https://www.youtube.com/watch?v=9XVLyxHypbs
 【ACTION漫客】播不停斗破苍穹全集播放中药族灭族篇开启虚无吞炎降临药界萧炎如何逃出生天,https://www.youtube.com/watch?v=ruMn4gZQZMk
 【超級汽車 卡通動畫】警車守護朋友更多汽車兒歌合輯交通工具卡通超級汽車,https://www.youtube.com/watch?v=Me0qdV9XQgQ
@@ -165,6 +170,12 @@
 【嗶哩嗶哩動畫Anime Made By Bilibili】慕兰之战开播倒计时新篇章将至让我们重温韩立的漫漫仙途为大战做好准备凡人修仙传,https://www.youtube.com/watch?v=Vouyc10V2-E
 
 體育,#genre#
+【緯來體育台】年第八屆大專盃電競錦標賽傳說對決,https://www.youtube.com/watch?v=WbkkaTu0rc0
+【GoHoops】國小籃球交流賽明義國小女忠孝國小,https://www.youtube.com/watch?v=vpVOj8874yE
+【GoHoops】台灣海外學生籃球聯賽格鯊勿論,https://www.youtube.com/watch?v=fF2YwWXvPuc
+【CBC籃球聯盟】籃球聯盟加鋅功程濕益福不銹鋼材,https://www.youtube.com/watch?v=Db-D8rA42pk
+【CBC籃球聯盟】籃球聯盟老男孩,https://www.youtube.com/watch?v=G8iZW103EbU
+【MAX籃球聯盟】悅聚,https://www.youtube.com/watch?v=qCqYplCmxdA
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=QkA0xpsBZ8Q
 【WWE】Best of SummerS,https://www.youtube.com/watch?v=FQX9KN4PcCk
 【WWE Vault】SummerSlam Watc,https://www.youtube.com/watch?v=dpS3PxR6fhw
@@ -174,7 +185,7 @@
 【派偉俊】音樂全天候派送,https://www.youtube.com/watch?v=fnowh-gCdd4
 【告五人】唱出你的人生BGM,https://www.youtube.com/watch?v=B7EliniYUrQ
 【五月天】不間斷霸佔你耳朵,https://www.youtube.com/live/R62E7cFWX6o
-【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋,https://www.youtube.com/watch?v=RMbSZoBnwlU
+【4kTQ-music】抖音最最最火抖音歌曲抖音最火七月熱門歌曲最火流行歌曲大陸流行歌曲,https://www.youtube.com/watch?v=QEc8-BSQOo0
 【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音七月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質,https://www.youtube.com/watch?v=1jdMzecM9ok
 【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋,https://www.youtube.com/watch?v=hYdb13Pg0o8
 【4kTQ-music】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=tQaPXsSRsH0
@@ -230,10 +241,13 @@
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=xvbDsoLcMIc
 【94要客訴】紅霞颱風結構增強縣市強風特報北部風很強海警解除時間點曝三立新聞網,https://www.youtube.com/watch?v=kof-ggVEG3U
 【94要客訴】時間地震速報監視網三立新聞網,https://www.youtube.com/watch?v=KlmDMBwa-W8
+【大新聞大爆卦】國民黨全代會登場顧民生愛人民拚和平台灣贏,https://www.youtube.com/watch?v=lLO0-z0Rf94
 【大新聞大爆卦】藍營青年凱道絕食第七天人堅持撐到上凱道反毒台落幕,https://www.youtube.com/watch?v=4gA0D5W_n9A
+【中時新聞網】國民黨全代會登場現場畫面最新,https://www.youtube.com/watch?v=YJ3WqqUxUhI
 【中時新聞網】反毒油護食安藍營小雞絕食超過小時鄭麗文館長現身相挺,https://www.youtube.com/watch?v=UDbvzcNB-5c
+【中天深喉嚨】國民黨全代會登場顧民生愛人民拚和平台灣贏,https://www.youtube.com/watch?v=K_klCSspArg
 【哏傳媒】小時不斷電為您呈現完整版網友問答陳其邁抱怨毒油搞死地方盧秀燕表示修法不應這麼粗糙郭正亮頻道,https://www.youtube.com/watch?v=RynwbEE8m1M
-【新聞龍捲風】紅霞颱風持續增強花東恆春半島防豪雨縣市強風特報即時更新,https://www.youtube.com/watch?v=pQzFJb8sG0U
+【新聞龍捲風】紅霞颱風海上警報解除氣象署提醒多地仍有強風豪雨,https://www.youtube.com/watch?v=1XajKpYuBdk
 【頭條開講】川普考慮擴大對伊朗軍事行動稱規模將超越史詩怒火行動荷姆茲海峽航運幾陷停滯國際原油價格飆升影響全球經濟,https://www.youtube.com/watch?v=HrlVc3AxSl0
 【少康戰情室】政經說政論小時互動逼我吃毒油上凱道吳子嘉曝警訊民進黨要倒大楣了拒川普停火方案伊朗揚言擴大戰火新聞大白話國民大會國民開小會,https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 
