@@ -13,7 +13,7 @@
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
 【大愛電視】大愛一臺全球現正播映大愛迷你劇場日照大地,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映青春愛讀書,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -224,6 +224,7 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=eEvMO8zGIeI
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
+【街頭麥克風】凱道回來了然後,https://www.youtube.com/watch?v=vnCFrMVboRs
 【全球大視野】油輪硬闖封鎖線開往伊朗引擎被轟失去動力沙國攔截葉門襲擊飛彈川普嗆已準備就緒警告伊朗,https://www.youtube.com/watch?v=cpgU5sg54Nc
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=xvbDsoLcMIc
 【94要客訴】時間地震速報監視網三立新聞網,https://www.youtube.com/watch?v=KlmDMBwa-W8
@@ -232,7 +233,6 @@
 
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=qBNZQMccyME
-【玉麟網路電視台】線上作伙來聽歌玉麟,https://www.youtube.com/watch?v=VuiFEJMiJts
 【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=NjArhBKJnfw
 【桐瑛台中電視臺】「桐瑛台中電視臺」直播,https://www.youtube.com/watch?v=gd-Z4tuPcPA
 【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播,https://www.youtube.com/watch?v=_g9LqEbCcvg
