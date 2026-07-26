@@ -12,14 +12,15 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映風月同天,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映好戲成雙搜尋者,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映青春愛讀書,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映真善美故事館,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
-【中天電視CtiTv】國家警報響縣市有感雙溪發生規模地震中天新聞,https://www.youtube.com/watch?v=SrsmVhSQeAA
+【中天新聞CtiNews】中國不是沒問題而是會解題十四五到十五五邊走邊改諸暨珍珠做到全球第一日本高端優勢受挑戰,https://www.youtube.com/watch?v=qcgxX1Ps86o
 【中天電視CtiTv】開火度硬闖伊朗港口封鎖線美軍擊癱第二艘商船槍擊後重返記協晚宴川普帶紅帽喊競選第四任專家解析不斷更新中天電視,https://www.youtube.com/watch?v=f68iM2SeMt8
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
+【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 【TVBS NEWS】新聞台小時台湾世界中時間配信中,https://www.youtube.com/watch?v=2mCSYvcfhtc
 【TVBS財經】財經網路新聞小時台湾世界中時間配信中財經財經鈔能力金臨天下,https://www.youtube.com/watch?v=0an9taQ7OYM
@@ -163,7 +164,6 @@
 
 體育,#genre#
 【HOP Sports】小時台湾時間,https://www.youtube.com/watch?v=r0TLT5pweJM
-【CBC籃球聯盟】籃球聯盟吉吉王國政永祥企業社,https://www.youtube.com/watch?v=aLvQifPOZRI
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=QkA0xpsBZ8Q
 【WWE】Best of SummerS,https://www.youtube.com/watch?v=FQX9KN4PcCk
 【WWE Vault】SummerSlam Watc,https://www.youtube.com/watch?v=dpS3PxR6fhw
@@ -224,13 +224,10 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=eEvMO8zGIeI
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】南部戰區狠擊美日菲川普停打伊朗低頭了美伊大變局中國艘萬噸大驅亮艦完整版,https://www.youtube.com/watch?v=7MwkCg3e-_k
 【全球大視野】開火度硬闖伊朗港口封鎖線美軍擊癱第二艘商船槍擊後重返記協晚宴川普帶紅帽喊競選第四任專家解析不斷更新,https://www.youtube.com/watch?v=1sWCYuDrBW0
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=xvbDsoLcMIc
 【94要客訴】時間地震速報監視網三立新聞網,https://www.youtube.com/watch?v=KlmDMBwa-W8
 【哏傳媒】小時不斷電為您呈現上凱道人民抗官最有力郭正亮頻道,https://www.youtube.com/watch?v=5FciBPiEves
-【朱學恒的萬事通事務所】揭密真實歷史中的奧德賽開戰目的到底是海倫還是海峽,https://www.youtube.com/watch?v=IGOK7xTyPoY
-【新聞龍捲風】國家警報響縣市有感雙溪發生規模地震,https://www.youtube.com/watch?v=5L6X-IU83aY
 【頭條開講】開火度硬闖伊朗港口封鎖線美軍擊癱第二艘商船槍擊後重返記協晚宴川普帶紅帽喊競選第四任專家解析不斷更新,https://www.youtube.com/watch?v=eXVDAJADRnc
 【少康戰情室】政經說政論小時互動逼我吃毒油上凱道吳子嘉曝警訊民進黨要倒大楣了拒川普停火方案伊朗揚言擴大戰火新聞大白話國民大會國民開小會,https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 【文茜的世界周報】| TVBS文茜的世界周報 T,https://www.youtube.com/watch?v=NzXWiBzHq9Q
