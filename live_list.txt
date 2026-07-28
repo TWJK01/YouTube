@@ -12,12 +12,13 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映大愛醫生館,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映真善美故事館,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】熊本強震傳首例死亡爆炸倒塌約名傷者送醫女患者無生命跡象送醫不治熊本強震地塹裂開郭鎧紋示警恐有更大規模強震當心阿蘇火山爆發,https://www.youtube.com/watch?v=9Top3nWSVDw
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
+【中天電視CtiTv】伊朗海巴爾破城者飛彈讓美軍頭痛烏軍襲裏海貨船俄伊戰線交錯中天新聞,https://www.youtube.com/watch?v=StUFdl8h6tU
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 【TVBS NEWS】新聞台小時台湾世界中時間配信中,https://www.youtube.com/watch?v=2mCSYvcfhtc
 【TVBS財經】財經網路新聞小時台湾世界中時間配信中財經財經鈔能力金臨天下,https://www.youtube.com/watch?v=0an9taQ7OYM
@@ -53,7 +54,6 @@
 【豬哥會社】馬拉松不間斷,https://www.youtube.com/watch?v=v8MUGB4vst8
 【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=5sFglcMEm7I
-【關鍵時刻】熊本巨震商場爆炸戰場化多人亡台灣中國連環強震地震連鎖啟動,https://www.youtube.com/watch?v=8GXjPZS8US4
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=SdvgdCOwKCg
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=6iu77C-6Y7k
 【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
@@ -228,13 +228,11 @@
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=eEvMO8zGIeI
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
 【全球大視野】伊朗海巴爾破城者飛彈讓美軍頭痛烏軍襲裏海貨船俄伊戰線交錯,https://www.youtube.com/watch?v=6xOuq2fdzjA
-【全球大視野】川普稱伊要求暫停空襲傳伊朗阿曼密談恢復航運青年運動想學伊封鎖荷姆茲波斯灣與紅海門戶恐將關閉,https://www.youtube.com/watch?v=79V_eq8I9fo
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=xvbDsoLcMIc
 【94要客訴】時間地震速報監視網三立新聞網,https://www.youtube.com/watch?v=KlmDMBwa-W8
 【哏傳媒】小時不斷電為您呈現完整版網友問答反毒台凱道怒吼護食安郭正亮頻道,https://www.youtube.com/watch?v=n_N0d7UkYM4
 【57爆新聞】熊本強震傳首例死亡爆炸倒塌約名傷者送醫女患者無生命跡象送醫不治熊本強震地塹裂開郭鎧紋示警恐有更大規模強震當心阿蘇火山爆發,https://www.youtube.com/watch?v=VjvBeKpJj3s
 【頭條開講】伊朗海巴爾破城者飛彈讓美軍頭痛烏軍襲裏海貨船俄伊戰線交錯,https://www.youtube.com/watch?v=UpBQfPYYcuA
-【頭條開講】川普稱伊要求暫停空襲傳伊朗阿曼密談恢復航運青年運動想學伊封鎖荷姆茲波斯灣與紅海門戶恐將關閉,https://www.youtube.com/watch?v=hOkt9tg-oTM
 【少康戰情室】政經說政論小時互動血洗點創史上第大聯電聯發科台達電慘跌停僅美國人挺伊朗戰爭開戰來最低新聞大白話國民大會國民開小會,https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 
 購物,#genre#
@@ -309,7 +307,6 @@
 【紅樹林有線電視】市淡水區即時路況車流淡水竹圍雙向紅樹林往水源街二段與淡金路口,https://www.youtube.com/watch?v=yn_8QwCWsyI
 【necoast nsa】玩樂東北角馬崗哨所,https://www.youtube.com/watch?v=y6sBKPlIiAk
 【necoast nsa】玩樂東北角舊草嶺自行車隧道,https://www.youtube.com/watch?v=Br1w0sIvO3U
-【necoast nsa】玩樂東北角龍洞灣觀景台,https://www.youtube.com/watch?v=R1dzTS0xH3g
 【necoast nsa】玩樂東北角永鎮濱海驛站,https://www.youtube.com/watch?v=HVcowpes0qA
 【necoast nsa】玩樂東北角鼻頭服務區,https://www.youtube.com/watch?v=4VBfBgnhJUE
 【necoast nsa】玩樂東北角福隆海水浴場,https://www.youtube.com/watch?v=Rhkr8qJOFO4
