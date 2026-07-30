@@ -12,12 +12,12 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【TaiwanPlus】台湾番組時間配信,https://www.youtube.com/watch?v=Vrs-AeKZIEg
-【大愛電視】大愛一臺全球現正播映大愛劇藍色艷陽天,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映好戲成雙搜尋者,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
-【中天電視CtiTv】中斷空襲天後美重啟對伊打擊行動伊朗強力反擊中東多國捲入戰火中天新聞,https://www.youtube.com/watch?v=w3e3vXb2ItE
+【中天電視CtiTv】報復美國空襲伊朗摧毀架美軍造成多人死傷另有架遭到重創中天電視,https://www.youtube.com/watch?v=QSH6_SF677A
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -53,8 +53,6 @@
 【豬哥會社】馬拉松不間斷,https://www.youtube.com/watch?v=v8MUGB4vst8
 【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=5sFglcMEm7I
-【204檔案】整天低騷,https://www.youtube.com/watch?v=HQOIJCLOBQQ
-【關鍵時刻】馬斯克對中翻臉造零中國供應鏈美築新技術壁壘第一刀砍中長鑫存儲,https://www.youtube.com/watch?v=L_JFbdCQBno
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=SdvgdCOwKCg
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=6iu77C-6Y7k
 【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
@@ -169,6 +167,7 @@
 【嗶哩嗶哩動畫Anime Made By Bilibili】这个夏天一起漫游暑期特别轮播,https://www.youtube.com/watch?v=Jscl0WA9hGI
 
 體育,#genre#
+【緯來體育台】世界拉力錦標賽第十站芬蘭站,https://www.youtube.com/watch?v=1Yt09YGzIhY
 【緯來體育台】2026.07.30｜LIVE,https://www.youtube.com/watch?v=pjLWFv5tpQ0
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=VHeyKCkErGw
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=QkA0xpsBZ8Q
@@ -231,11 +230,10 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=eEvMO8zGIeI
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】套飛彈力挺中伊戰略大棋福建艦彈射空警一秒生死瞬間印尼總統重創鎳不再值錢三張大單贈北京完整版,https://www.youtube.com/watch?v=JC8bHqrXJY8
-【全球大視野】中斷空襲天後美重啟對伊打擊行動伊朗強力反擊中東多國捲入戰火,https://www.youtube.com/watch?v=_ZDqdHtxDck
+【全球大視野】報復美國空襲伊朗摧毀架美軍造成多人死傷另有架遭到重創,https://www.youtube.com/watch?v=YPw__VnWyx4
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=xvbDsoLcMIc
 【94要客訴】時間地震速報監視網三立新聞網,https://www.youtube.com/watch?v=KlmDMBwa-W8
-【頭條開講】中斷空襲天後美重啟對伊打擊行動伊朗強力反擊中東多國捲入戰火,https://www.youtube.com/watch?v=M6aAKd93Zlk
+【頭條開講】報復美國空襲伊朗摧毀架美軍造成多人死傷另有架遭到重創,https://www.youtube.com/watch?v=ImfRZu7xkE4
 【少康戰情室】政經說政論小時互動蔣萬安穩了黃暐瀚超越這些人成藍營共主川普暫緩攻擊才天美軍突恢復空襲伊朗新聞大白話國民大會國民開小會,https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 
 購物,#genre#
