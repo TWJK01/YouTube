@@ -11,7 +11,7 @@
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映銀髮白之歌相信,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛一臺全球現正播映銀髮白之歌後導讀,https://www.youtube.com/watch?v=pM-1ytfQhos
 【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
@@ -102,7 +102,6 @@
 【CCTV电视剧】马拉松三国英雄集结权谋与忠义的较量三国演义带你领略英雄传奇,https://www.youtube.com/watch?v=sKZ4gOPV4mM
 【CCTV电视剧】康熙王朝千古一帝康熙帝的传奇一生,https://www.youtube.com/watch?v=QF6VpFjkFjw
 【CCTV电视剧】马拉松雍正王朝九子夺嫡皇家的权谋之术,https://www.youtube.com/watch?v=RGCaUT6-hqU
-【老广一起睇】小时大院房客家第季经典大结局集连播粤语经典电视剧,https://www.youtube.com/watch?v=Mgx7XQY9Fcw
 【GC影視】楊廣弒兄殺父竄奪皇位天下大亂誰能終結暴政隋唐演義小時線上,https://www.youtube.com/watch?v=oEGQhJllLUM
 【GC影視】娶了一個控制狂老婆有多窒息從醫生到崩潰中年男人的真實地獄超好看經典陸劇小時線上,https://www.youtube.com/watch?v=sOcR517kZTA
 【GC影視】神探狄人傑懸疑馬拉松陪你一起破案燒腦輪播狄大人帶你極限反殺,https://www.youtube.com/watch?v=rTA4rE77Lsc
@@ -163,6 +162,7 @@
 體育,#genre#
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=VHeyKCkErGw
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=QkA0xpsBZ8Q
+【WWE】Countdown to Su,https://www.youtube.com/watch?v=arWNeWkC3qM
 【WWE】Best of SummerS,https://www.youtube.com/watch?v=FQX9KN4PcCk
 【WWE Vault】SummerSlam Watc,https://www.youtube.com/watch?v=dpS3PxR6fhw
 
