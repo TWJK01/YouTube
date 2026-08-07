@@ -14,7 +14,7 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
 【大愛電視】大愛一臺全球現正播映銀髮白之歌相信,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映銀髮白之歌相信,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -74,7 +74,6 @@
 【中視經典戲劇】十里桃林三生約三世情緣永相隨小時不間斷經典戲劇看中視,https://www.youtube.com/watch?v=qZ1sr-gvc54
 【中視經典戲劇】再世情緣傲嬌格格與俊美高僧跨時空的宿命因緣楊慶煌況明潔沈海蓉翁家明星雲大師原著,https://www.youtube.com/watch?v=0SkMLgihOVM
 【中視經典戲劇】光陰的故事全集馬拉松回到自強一村找回眷村歲月最純真的感動,https://www.youtube.com/watch?v=Zn_nwouK0pQ
-【華視戲劇頻道】全劇小時不斷電一起跟包公辦案,https://www.youtube.com/watch?v=beRlE8F7Ch8
 【華視戲劇頻道】小時不斷電一起追劇來辦案,https://www.youtube.com/watch?v=6ZowCmLBcMY
 【民視戲劇館】藍色水玲瓏民視戲劇馬拉松,https://www.youtube.com/watch?v=K2qsju6byIg
 【民視戲劇館】特戰英雄高清修復版全集馬拉松不間斷,https://www.youtube.com/watch?v=BuKS_f0hvPU
@@ -235,7 +234,6 @@
 
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=qBNZQMccyME
-【玉麟網路電視台】線上作伙來聽歌玉麟,https://www.youtube.com/watch?v=cmAw_ek1uaU
 【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=CXXqtnTw71U
 【桐瑛台中電視臺】「桐瑛台中電視臺」直播,https://www.youtube.com/watch?v=gd-Z4tuPcPA
 【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播,https://www.youtube.com/watch?v=Ml0Sk2Z6pos
