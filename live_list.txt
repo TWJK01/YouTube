@@ -2,7 +2,7 @@
 【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 【台灣地震監視】白海豚颱風監視,https://www.youtube.com/watch?v=N2l449sHmLE
 【台灣地震監視】台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
-【台灣颱風論壇】白海豚颱風風雨實況,https://www.youtube.com/watch?v=5lQjYBEyMgY
+【台灣颱風論壇】白海豚颱風風雨實況,https://www.youtube.com/watch?v=26rCw4N3egc
 【台灣颱風論壇】花蓮萬里溪堰塞湖,https://www.youtube.com/watch?v=dK_KZ6L6fzo
 【台灣颱風論壇】台灣天氣即時監測,https://www.youtube.com/watch?v=ADZTiqEGT8g
 【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近,https://www.youtube.com/watch?v=FOc1DGS9H0M
@@ -13,15 +13,13 @@
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映大愛全紀實,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映好戲成雙一路芬芳,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映人文講堂,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映青春愛讀書,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
-【中天新聞CtiNews】伊朗藉海峽協議圖謀將美軍逐出波斯灣川普糗誰會請習近平出面調停年台海衝突唯這群人能嚇阻,https://www.youtube.com/watch?v=mof_9OQxZEc
+【中天電視CtiTv】伊朗提重開荷姆茲海峽藉機測試川普底線跟美國毫無關係伊朗阿曼最新協議曝光專家解析中天新聞,https://www.youtube.com/watch?v=tlIyP-e7nCo
 【中天電視CtiTv】白海豚豪雨狂炸周末濕答答海警估周一解除連江縣停班停課新竹縣部分地區正常上班停止上課中天新聞,https://www.youtube.com/watch?v=WGJ8e074bGI
-【中天電視CtiTv】歷史哥擂台中天電視,https://www.youtube.com/watch?v=x7z9DeB4kUk
-【中天電視CtiTv】川普認了部分彈藥吃緊伊朗揭海峽協議草案飛彈短缺空襲效果有限美最高將領私下尋求退場機制全球大視野,https://www.youtube.com/watch?v=PWEYxd1Tn2k
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -165,8 +163,6 @@
 
 體育,#genre#
 【HOP Sports】小時台湾時間,https://www.youtube.com/watch?v=r0TLT5pweJM
-【GoHoops】籃球聯賽中央大學成嘉中,https://www.youtube.com/watch?v=jO-7JKA9s9A
-【籃海運動】週末籃球聯賽鑄慕室內設計打鐵弟兄,https://www.youtube.com/watch?v=r4hUKSiLuiY
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=VHeyKCkErGw
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=QkA0xpsBZ8Q
 【WWE】Celebrating Bro,https://www.youtube.com/watch?v=X4mDYI1lAgk
@@ -226,17 +222,17 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=eEvMO8zGIeI
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】川普認了部分彈藥吃緊伊朗揭海峽協議草案飛彈短缺空襲效果有限美最高將領私下尋求退場機制,https://www.youtube.com/watch?v=2CRMvL6EdNw
+【全球大視野】伊朗提重開荷姆茲海峽藉機測試川普底線跟美國毫無關係伊朗阿曼最新協議曝光專家解析,https://www.youtube.com/watch?v=2WSYSCgCM-k
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=xvbDsoLcMIc
 【94要客訴】時間地震速報監視網三立新聞網,https://www.youtube.com/watch?v=KlmDMBwa-W8
 【哏傳媒】小時不斷電為您呈現完整版網友問答台糖沒有義務通報致癌油還是因為台糖董事長後臺夠硬郭正亮頻道,https://www.youtube.com/watch?v=MzwyRXrEnck
 【新聞龍捲風】白海豚豪雨狂炸周末濕答答海警估周一解除連江縣停班停課新竹縣部分地區正常上班停止上課,https://www.youtube.com/watch?v=NkXfMLmmJ5M
-【頭條開講】川普認了部分彈藥吃緊伊朗揭海峽協議草案飛彈短缺空襲效果有限美最高將領私下尋求退場機制全球大視野,https://www.youtube.com/watch?v=T90DSn0k9xY
+【頭條開講】伊朗提重開荷姆茲海峽藉機測試川普底線跟美國毫無關係伊朗阿曼最新協議曝光專家解析,https://www.youtube.com/watch?v=RnCqjT00qnc
 【少康戰情室】政經說政論小時互動美對台軍售惹怒北京美防衛高官想訪中頻吃閉門羹美打伊朗彈藥打光傳川普飆罵防長新聞大白話國民大會國民開小會,https://www.youtube.com/watch?v=Cb5MRzy0aiQ
-【文茜的世界周報】| TVBS文茜的世界周報 T,https://www.youtube.com/watch?v=qW2N6HQ5qhY
 
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=qBNZQMccyME
+【玉麟網路電視台】線上作伙來聽歌玉麟,https://www.youtube.com/watch?v=ZlYC-m_pNik
 【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=B9LPzl2vIJQ
 【桐瑛台中電視臺】蓁鑽台中電視臺,https://www.youtube.com/watch?v=gd-Z4tuPcPA
 【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播,https://www.youtube.com/watch?v=xBDdCzGHZwA
