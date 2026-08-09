@@ -1,8 +1,6 @@
 台灣,#genre#
 【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
-【台灣地震監視】白海豚颱風監視,https://www.youtube.com/watch?v=N2l449sHmLE
 【台灣地震監視】台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
-【台灣颱風論壇】白海豚颱風風雨實況,https://www.youtube.com/watch?v=UJ3Nq0a9ii8
 【台灣颱風論壇】花蓮萬里溪堰塞湖,https://www.youtube.com/watch?v=dK_KZ6L6fzo
 【台灣颱風論壇】台灣天氣即時監測,https://www.youtube.com/watch?v=ADZTiqEGT8g
 【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近,https://www.youtube.com/watch?v=FOc1DGS9H0M
@@ -13,14 +11,12 @@
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映青春愛讀書,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映好戲成雙一路芬芳,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映經典劇坊人生二十甲,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映經典劇坊人生二十甲,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
-【中天新聞CtiNews】中國為何越封越強美國晶片封鎖反逼中國突圍低價開源改寫全球科技規則,https://www.youtube.com/watch?v=9ht_2Zs5CHs
-【中天電視CtiTv】白海豚轉輕颱氣象署晚間時分解除海警受西南風影響中南部需防大雨中天新聞,https://www.youtube.com/watch?v=msNlVURn5Fw
-【中天電視CtiTv】伊朗提重開荷姆茲海峽藉機測試川普底線跟美國毫無關係伊朗阿曼最新協議曝光專家解析中天電視,https://www.youtube.com/watch?v=651wDNh-Y-8
+【中天電視CtiTv】伊朗革命衛隊要求美國滿足條件否則不開放荷莫茲海峽美軍最高將領私下尋找退場途徑中天新聞,https://www.youtube.com/watch?v=idkTBD1YN1w
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -223,14 +219,12 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=eEvMO8zGIeI
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】伊朗提重開荷姆茲海峽藉機測試川普底線跟美國毫無關係伊朗阿曼最新協議曝光專家解析,https://www.youtube.com/watch?v=xCpLt_JVqvM
+【全球大視野】伊朗革命衛隊要求美國滿足條件否則不開放荷莫茲海峽美軍最高將領私下尋找退場途徑,https://www.youtube.com/watch?v=bSzVr-d-KBE
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=xvbDsoLcMIc
 【94要客訴】時間地震速報監視網三立新聞網,https://www.youtube.com/watch?v=KlmDMBwa-W8
 【哏傳媒】小時不斷電為您呈現毒油欲蓋彌彰賴皇諸事不順毒油轉守為攻反中變本加厲郭正亮頻道,https://www.youtube.com/watch?v=Hbaj9UzARFs
-【新聞龍捲風】氣象署晚間時分解除白海豚海上颱風警報受西南風影響中南部需防大雨,https://www.youtube.com/watch?v=WPrcNlGjzbY
-【頭條開講】伊朗提重開荷姆茲海峽藉機測試川普底線跟美國毫無關係伊朗阿曼最新協議曝光專家解析,https://www.youtube.com/watch?v=JR7LaKEGuEI
+【頭條開講】伊朗革命衛隊要求美國滿足條件否則不開放荷莫茲海峽美軍最高將領私下尋找退場途徑,https://www.youtube.com/watch?v=fN9RxW19r9A
 【少康戰情室】政經說政論小時互動美對台軍售惹怒北京美防衛高官想訪中頻吃閉門羹美打伊朗彈藥打光傳川普飆罵防長新聞大白話國民大會國民開小會,https://www.youtube.com/watch?v=Cb5MRzy0aiQ
-【文茜的世界周報】| TVBS文茜的世界周報 T,https://www.youtube.com/watch?v=J3n3Jbcf818
 
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=qBNZQMccyME
