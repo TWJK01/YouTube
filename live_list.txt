@@ -11,8 +11,8 @@
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映經典劇坊人生二十甲,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映經典劇坊人生二十甲,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -52,7 +52,6 @@
 【豬哥會社】馬拉松不間斷,https://www.youtube.com/watch?v=v8MUGB4vst8
 【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=5sFglcMEm7I
-【204檔案】提供鬼月禁忌,https://www.youtube.com/watch?v=YHA8VOmgzfQ
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=SdvgdCOwKCg
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=6iu77C-6Y7k
 【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
@@ -111,7 +110,6 @@
 【乐视视频官方频道】芈月传小时全集循环,https://www.youtube.com/watch?v=8zPus5zLNsQ
 【乐视视频官方频道】甄嬛传小时可持续马拉松循环,https://www.youtube.com/watch?v=eyZ55jMTyMQ
 【正午阳光官方频道】巷亲相爱感受邻里温情家好月圆承载两代人的成长小巷人家,https://www.youtube.com/watch?v=xOtIU6jrrHU
-【正午阳光官方频道】赵丽颖冯绍峰上演古代宅门爱恋大戏知否知否应是绿肥红瘦,https://www.youtube.com/watch?v=Z9QcEM21GZY
 
 少兒,#genre#
 【Muse木棉花】(國語)鬼滅之刃 TV版,https://www.youtube.com/watch?v=I0faRe-Tjks
