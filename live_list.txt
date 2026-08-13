@@ -12,12 +12,12 @@
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視】英仙座流星雨公共電視網路,https://www.youtube.com/watch?v=efl8er4nkOU
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映大愛劇我們六個,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映真善美故事館,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映經典劇坊幸福在我家,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映經典劇坊幸福在我家,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
-【中天電視CtiTv】川普防伊朗傳秘密換機隨行記者不滿淪為誘餌林肯號返航遙遙無期官兵承受壓力試圖落海中天電視,https://www.youtube.com/watch?v=kKCaLyYTQX4
+【中天電視CtiTv】美伊談判毫無進展伊朗放話拖到下任美國總統川普稱將續控荷莫茲嗆伊朗根本無力改變中天電視,https://www.youtube.com/watch?v=lWnvQr7wx-c
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -54,7 +54,6 @@
 【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=5sFglcMEm7I
 【204檔案】鬼月的鬼呢,https://www.youtube.com/watch?v=kQc1lkVJhBk
-【關鍵時刻】天下無敵美軍慘遭烏軍無人機秒殺傳奇第一騎兵師最強裝甲旅團滅,https://www.youtube.com/watch?v=ASrnHx9f4UY
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=SdvgdCOwKCg
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=6iu77C-6Y7k
 【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
@@ -219,11 +218,10 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=eEvMO8zGIeI
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】伊朗戰神掌局狠擊美軍死穴藏南邊境交火解放軍隔山觀虎鬥印尼礦工暴動燒大樓普拉伯沃翻車完整版,https://www.youtube.com/watch?v=CHZi3mzwGV0
-【全球大視野】川普防伊朗傳秘密換機隨行記者不滿淪為誘餌林肯號返航遙遙無期官兵承受壓力試圖落海,https://www.youtube.com/watch?v=eT6Io0w5YMY
+【全球大視野】美伊談判毫無進展伊朗放話拖到下任美國總統川普稱將續控荷莫茲嗆伊朗根本無力改變,https://www.youtube.com/watch?v=74opoHf5_Ng
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=xvbDsoLcMIc
 【94要客訴】時間地震速報監視網三立新聞網,https://www.youtube.com/watch?v=KlmDMBwa-W8
-【頭條開講】川普防伊朗傳秘密換機隨行記者不滿淪為誘餌林肯號返航遙遙無期官兵承受壓力試圖落海,https://www.youtube.com/watch?v=ivqYCs3Xm_w
+【頭條開講】美伊談判毫無進展伊朗放話拖到下任美國總統川普稱將續控荷莫茲嗆伊朗根本無力改變,https://www.youtube.com/watch?v=fe1feRvGLtw
 【少康戰情室】政經說政論小時互動陳幸妤婚變開撕趙建銘診所無預警休診引網友熱議朱鎔基病逝享壽歲一代經濟沙皇鐵血反貪新聞大白話國民大會國民開小會,https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 
 購物,#genre#
