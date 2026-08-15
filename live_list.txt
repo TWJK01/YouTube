@@ -11,8 +11,8 @@
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映證嚴上人說故事,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映在台灣站起分版,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映法華經序中文版,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映國民漢字須知,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -154,7 +154,7 @@
 體育,#genre#
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=VHeyKCkErGw
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=QkA0xpsBZ8Q
-【WWE】Best of Kevin O,https://www.youtube.com/watch?v=VFdzOQNkKpM
+【WWE】Best of Kevin O,https://www.youtube.com/watch?v=WNBsAi10DeQ
 【WWE Vault】24/7 Hulk Hogan,https://www.youtube.com/watch?v=qx2fkRA_t9k
 
 音樂,#genre#
@@ -196,8 +196,8 @@
 【Radio Hits Music】Hits Radio 1 Li,https://www.youtube.com/watch?v=3MOrgUjiigE
 【Radio Hits Music】Pop Hits Radio ,https://www.youtube.com/watch?v=UWc_vMRGxDs
 【Dark City Sounds】Hottest Hip Hop,https://www.youtube.com/watch?v=r7eFY9YYTdE
+【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師,https://www.youtube.com/watch?v=q95zw9zAGEI
 【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新,https://www.youtube.com/watch?v=41L_589GFGY
-【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師,https://www.youtube.com/watch?v=McTcervJOMM
 【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新,https://www.youtube.com/watch?v=Jg58I7d6Azg
 【Pop Japan Music】邦楽癒感動名曲集年最新曲優里米津玄師,https://www.youtube.com/watch?v=ljEcXRLRCaU
 【Pop Japan Music】邦楽癒感動名曲集年最新曲優里米津玄師,https://www.youtube.com/watch?v=1bdQSQ9CmGQ
