@@ -11,15 +11,15 @@
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映風月同天,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛一臺全球現正播映大愛全紀實,https://www.youtube.com/watch?v=pM-1ytfQhos
 【大愛電視】大愛二臺全球現正播映好戲成雙一路芬芳,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
+【中天新聞CtiNews】普丁首訪擇捉島賀電金正恩陸把第三國帶進台灣東部中俄朝聯動麥加協議讓美以印發愁將會邀請中國加入,https://www.youtube.com/watch?v=7gxcPUHu9fk
 【中天電視CtiTv】川普擊敗伊朗後荷莫茲海峽是美國領土伊朗戰爭轉向經濟戰貝森特稱將以前所未見經濟孤立打擊伊朗中天電視,https://www.youtube.com/watch?v=iFuy-idRceo
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
-【TVBS NEWS】印尼震後最大餘震達油又漲美國警告極限施壓,https://www.youtube.com/watch?v=FHcv-klrKug
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 【TVBS NEWS】新聞台小時台湾世界中時間配信中,https://www.youtube.com/watch?v=2mCSYvcfhtc
 【TVBS財經】財經網路新聞小時台湾世界中時間配信中財經財經鈔能力金臨天下,https://www.youtube.com/watch?v=0an9taQ7OYM
@@ -52,6 +52,7 @@
 【豬哥會社】馬拉松不間斷,https://www.youtube.com/watch?v=v8MUGB4vst8
 【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=5sFglcMEm7I
+【204檔案】昨晚真的撞鬼,https://www.youtube.com/watch?v=865dzrv71nA
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=SdvgdCOwKCg
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=6iu77C-6Y7k
 【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
@@ -93,7 +94,6 @@
 【GTV DRAMA English】惡作劇之吻馬拉松,https://www.youtube.com/watch?v=6lKL5znyZkc
 【緯來戲劇台】王牌經紀人蘿琳亞塑身衣馬拉松,https://www.youtube.com/watch?v=xTgz8X9_16w
 【影视剧汇踪】都挺好全集不间断姚晨走出重男轻女的家庭独自打拼倪大红作天作地花式折腾儿女众星云集演绎中国式家庭姚晨倪大红郭京飞领衔主演,https://www.youtube.com/watch?v=PtFBCnhTQCg
-【精选大剧】庆历三年身居九重步步如弈坐看大宋风云起落宋仁宗于朝堂暗流之中守万里河山王凯朱亚文唐国强,https://www.youtube.com/watch?v=KQaCPuMDBAE
 【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场,https://www.youtube.com/watch?v=et4SqnkNSFo
 【百纳经典独播剧场】独播高清无静音版经典古装悬疑高分神剧原汁原味的大唐神探传奇梁冠华张子健钱雁秋黄金三角重聚熟悉的配方不可复制的经典狄仁杰智破奇案新增恋爱线,https://www.youtube.com/watch?v=wkdREigxTy4
 【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场,https://www.youtube.com/watch?v=I6rkTBDzOEk
@@ -154,6 +154,7 @@
 【Lv 99 Animation Club】只想安安静静睡个觉偏偏天才给我当书童,https://www.youtube.com/watch?v=RNDwNP80TVc
 
 體育,#genre#
+【籃海運動】週末籃球聯賽球夢者川業肉圓,https://www.youtube.com/watch?v=hvvHQ7Vk_RA
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=VHeyKCkErGw
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=QkA0xpsBZ8Q
 【WWE】Best of Kevin O,https://www.youtube.com/watch?v=VFdzOQNkKpM
@@ -201,19 +202,15 @@
 【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新,https://www.youtube.com/watch?v=Jg58I7d6Azg
 【Pop Japan Music】邦楽癒感動名曲集年最新曲優里米津玄師,https://www.youtube.com/watch?v=ljEcXRLRCaU
 【Pop Japan Music】邦楽癒感動名曲集年最新曲優里米津玄師,https://www.youtube.com/watch?v=1bdQSQ9CmGQ
-【MEET48 Global】杨冰怡季度公演,https://www.youtube.com/watch?v=NLTs4PFMP2w
 【KING AMUSEMENT CREATIVE】時間日,https://www.youtube.com/watch?v=-RogqxfnBdg
 
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=eEvMO8zGIeI
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】伊朗砍腳令美軍基地慘毀被迫對華妥協林肯號漂天水兵跳海川普鑽餐車避暗殺普丁登北方四島琉球王喊要復國完整版,https://www.youtube.com/watch?v=PgQyBT7MkXo
 【全球大視野】川普擊敗伊朗後荷莫茲海峽是美國領土伊朗戰爭轉向經濟戰貝森特稱將以前所未見經濟孤立打擊伊朗,https://www.youtube.com/watch?v=Mvj3OCkXLQA
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=xvbDsoLcMIc
-【94要客訴】黃世杰挑戰張善政合體超級好朋友陳培瑜與蔣萬安合照曝光黃世杰是永遠的第一名揭青春糗事客家人如何吃麻糬黃世杰為貴在真實獨家秀一手,https://www.youtube.com/watch?v=1-rNJoaX2jQ
 【94要客訴】時間地震速報監視網三立新聞網,https://www.youtube.com/watch?v=KlmDMBwa-W8
 【哏傳媒】小時不斷電為您呈現轉咬疫苗慘痛藍陷國會內訌綠陷金權黑霧郭正亮頻道,https://www.youtube.com/watch?v=T1jZ0Qx9lQ0
-【朱學恒的萬事通事務所】解放軍害怕吧之漢光號演習大結局登場,https://www.youtube.com/watch?v=wW0kHTIRIJQ
 【頭條開講】川普擊敗伊朗後荷莫茲海峽是美國領土伊朗戰爭轉向經濟戰貝森特稱將以前所未見經濟孤立打擊伊朗全球大視野,https://www.youtube.com/watch?v=bRd-q4SC5pA
 【少康戰情室】政經說政論小時互動全給過無人機億不凍了傅崐萁希望賴清德珍惜韓國瑜善意挑釁日本普欽首訪北方爭議島嶼新聞大白話國民大會國民開小會,https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 【文茜的世界周報】| TVBS文茜的世界周報 T,https://www.youtube.com/watch?v=ERr1vYlec0I
@@ -221,7 +218,6 @@
 
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=oR8_RSRsyts
-【玉麟網路電視台】線上月之點個歌尊月樂尊月傳媒工作室,https://www.youtube.com/watch?v=QI2KB_Ox8iQ
 【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=S3crdMwbGQ0
 【三聖電視台】三聖電視台-直播,https://www.youtube.com/watch?v=hrGIZE_2ogE
 【桐瑛台中電視臺】蓁鑽台中電視臺,https://www.youtube.com/watch?v=gd-Z4tuPcPA
