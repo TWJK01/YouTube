@@ -11,11 +11,12 @@
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映好戲成雙一路芬芳,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛一臺全球現正播映青春愛讀書,https://www.youtube.com/watch?v=pM-1ytfQhos
 【大愛電視】大愛二臺全球現正播映好戲成雙一路芬芳,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
+【中天新聞CtiNews】晶片雙刃劍護國神山吸乾基建人才李鴻源示警台灣家庭兩年內出現系統風暴結構性失衡如何預防完整版中天電視,https://www.youtube.com/watch?v=tcqQeKupD14
 【中天電視CtiTv】川普嗆荷姆茲變美國領土伊朗別再幻想了美司令視察林肯號伊控卡達俘飛行員中天新聞,https://www.youtube.com/watch?v=gGT0G9h9Y0A
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
@@ -51,6 +52,7 @@
 【豬哥會社】馬拉松不間斷,https://www.youtube.com/watch?v=v8MUGB4vst8
 【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=5sFglcMEm7I
+【204檔案】鬼月探靈今晚恐怖靈骨塔上二樓,https://www.youtube.com/watch?v=YcvUzKuFRHI
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=SdvgdCOwKCg
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=6iu77C-6Y7k
 【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
@@ -152,8 +154,6 @@
 
 體育,#genre#
 【GoHoops】士林週日宇揚,https://www.youtube.com/watch?v=ZgkjXBIZpKc
-【籃海運動】週末籃球聯賽,https://www.youtube.com/watch?v=loXy1FQOf3c
-【籃海運動】週末籃球聯賽卓藝畫室葛軍團,https://www.youtube.com/watch?v=a4VU4t1gTvw
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=VHeyKCkErGw
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=QkA0xpsBZ8Q
 【WWE】Best of Kevin O,https://www.youtube.com/watch?v=WNBsAi10DeQ
@@ -206,7 +206,6 @@
 政論,#genre#
 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞,https://www.youtube.com/watch?v=eEvMO8zGIeI
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
-【全球大視野】日本一邊拜鬼一邊擴武中國重拳教訓林肯號真怕了伊朗普丁登島威懾高市菲防長挑釁北京反制完整版,https://www.youtube.com/watch?v=WYS0rOgKHuA
 【全球大視野】川普嗆荷姆茲變美國領土伊朗別再幻想了美司令視察林肯號伊控卡達俘飛行員,https://www.youtube.com/watch?v=kGQXjixRY7M
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=xvbDsoLcMIc
 【94要客訴】斑鳩寶寶誕生了路口監視器直擊斑鳩全家人三立新聞網,https://www.youtube.com/watch?v=PzlIA7CdCBE
