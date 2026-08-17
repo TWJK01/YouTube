@@ -11,8 +11,8 @@
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映志為人醫守護愛,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映志為人醫守護愛,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映法華經序中文版,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映樂事美聲錄,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -198,6 +198,7 @@
 【Radio Hits Music】Hits Radio 1 Li,https://www.youtube.com/watch?v=3MOrgUjiigE
 【Radio Hits Music】Pop Hits Radio ,https://www.youtube.com/watch?v=UWc_vMRGxDs
 【Dark City Sounds】Hottest Hip Hop,https://www.youtube.com/watch?v=r7eFY9YYTdE
+【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師,https://www.youtube.com/watch?v=ydRAfyJC3Xg
 【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新,https://www.youtube.com/watch?v=I0-YJPaZX8Q
 【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師,https://www.youtube.com/watch?v=Zpj3iAHfayE
 【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新,https://www.youtube.com/watch?v=Jg58I7d6Azg
@@ -220,7 +221,6 @@
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=oR8_RSRsyts
 【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=aYCWQ4Sn9DY
-【三聖電視台】三聖電視台-直播,https://www.youtube.com/watch?v=iD0sEOlBECY
 【桐瑛台中電視臺】蓁鑽台中電視臺,https://www.youtube.com/watch?v=gd-Z4tuPcPA
 【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播,https://www.youtube.com/watch?v=xBDdCzGHZwA
 【桐瑛台南電視臺】「桐瑛台南電視臺」直播,https://www.youtube.com/watch?v=md3W2tepITI
@@ -267,11 +267,9 @@
 【學習烏爾都語】Speak Urdu 24/7,https://www.youtube.com/watch?v=ozogaCsLgCs
 【學習德語】Speak German 24,https://www.youtube.com/watch?v=KVgzLV88Uw8
 【學習土耳其語】Speak Turkish 2,https://www.youtube.com/watch?v=7vP4PAqDIHI
-【學習阿拉伯語】Speak Arabic 24,https://www.youtube.com/watch?v=IO2RHFYspFk
 【學習瑞典語】Speak Swedish 2,https://www.youtube.com/watch?v=qeybtDtMzXs
 【學習波蘭語】Speak Polish 24,https://www.youtube.com/watch?v=0khD-HGgYr8
 【學習日文】🔴 24/7 Japanese,https://www.youtube.com/watch?v=o2kdcPhofNs
-【學習荷蘭語】Speak Dutch 24/,https://www.youtube.com/watch?v=Xt5Ij_t-_4o
 【學習韓語】Speak Korean 24,https://www.youtube.com/watch?v=CL4PwM8IUEk
 
 風景,#genre#
