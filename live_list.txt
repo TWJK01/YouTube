@@ -11,8 +11,8 @@
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映大愛迷你劇場海海人生路,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映名人書房,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映人文講堂,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -90,7 +90,6 @@
 【GTV DRAMA English】惡作劇之吻馬拉松,https://www.youtube.com/watch?v=6lKL5znyZkc
 【緯來戲劇台】王牌經紀人蘿琳亞塑身衣馬拉松,https://www.youtube.com/watch?v=xTgz8X9_16w
 【影视剧汇踪】都挺好全集不间断姚晨走出重男轻女的家庭独自打拼倪大红作天作地花式折腾儿女众星云集演绎中国式家庭姚晨倪大红郭京飞领衔主演,https://www.youtube.com/watch?v=PtFBCnhTQCg
-【精选大剧】庆历三年身居九重步步如弈坐看大宋风云起落宋仁宗于朝堂暗流之中守万里河山王凯朱亚文唐国强,https://www.youtube.com/watch?v=-658GgHa_14
 【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场,https://www.youtube.com/watch?v=O4OUlDbPCi0
 【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场,https://www.youtube.com/watch?v=et4SqnkNSFo
 【百纳经典独播剧场】独播高清无静音版经典古装悬疑高分神剧原汁原味的大唐神探传奇梁冠华张子健钱雁秋黄金三角重聚熟悉的配方不可复制的经典狄仁杰智破奇案新增恋爱线,https://www.youtube.com/watch?v=wkdREigxTy4
@@ -153,7 +152,7 @@
 體育,#genre#
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=Q2w1ZPHIpA0
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=QkA0xpsBZ8Q
-【WWE】Best of Solo Si,https://www.youtube.com/watch?v=Pmr0zR1D6t4
+【WWE】Best of Solo Si,https://www.youtube.com/watch?v=byV7gkCe3s0
 【WWE Vault】Best of The Att,https://www.youtube.com/watch?v=zm_LhcdSmeQ
 
 音樂,#genre#
@@ -301,7 +300,6 @@
 【陽明山國家公園】大屯自然公園,https://www.youtube.com/watch?v=6ghffcNt3Nw
 【陽明山國家公園】陽明書屋遠眺盆地,https://www.youtube.com/watch?v=RttyIGHbN_w
 【陽明山國家公園】遠眺七星山,https://www.youtube.com/watch?v=PvJr2efA6n0
-【大新店有線電視】市碧潭,https://www.youtube.com/watch?v=HooLrMkQmcE
 【新北】八里左岸觀光,https://www.youtube.com/watch?v=di-4DCblWq4
 【新北】十分瀑布公園觀光,https://www.youtube.com/watch?v=HirBQsQEUeA
 【新北】九份觀光,https://www.youtube.com/watch?v=XSD5ptYisw8
