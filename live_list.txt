@@ -11,8 +11,8 @@
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛劇我們六個,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映高僧傳,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -277,14 +277,12 @@
 【學習挪威語】Speak Norwegian,https://www.youtube.com/watch?v=JIdkaWsjamA
 【學習希伯來語】Speak Hebrew 24,https://www.youtube.com/watch?v=ejq_OaT8a0Q
 【學習希臘語】Speak Greek 24/,https://www.youtube.com/watch?v=OlfO8jYFAOQ
-【學習波蘭語】Speak Polish 24,https://www.youtube.com/watch?v=0khD-HGgYr8
 【學習日文】Japanese Immers,https://www.youtube.com/watch?v=Vs6rhtqh4zU
 【學習日文】🔴 24/7 Japanese,https://www.youtube.com/watch?v=o2kdcPhofNs
 【學習中文】Speak Chinese 2,https://www.youtube.com/watch?v=6K8l9aLGHNM
 【學習匈牙利語】Speak Hungarian,https://www.youtube.com/watch?v=0FEJTkq9mDA
 【學習芬蘭語】Speak Finnish 2,https://www.youtube.com/watch?v=nPozkKBikUw
 【學習荷蘭語】Speak Dutch 24/,https://www.youtube.com/watch?v=UCa_Kv_LAYo
-【學習韓語】Speak Korean 24,https://www.youtube.com/watch?v=CL4PwM8IUEk
 【學習法語】Speak French 24,https://www.youtube.com/watch?v=ZjVqUN80dyU
 【學習波斯語】Speak Persian 2,https://www.youtube.com/watch?v=5kfF3UbWhaU
 
