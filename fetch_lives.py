@@ -295,7 +295,23 @@ CATEGORIES = {
 	    "Tokyo Sound Rank": "https://www.youtube.com/@TokyoSoundRank98/streams",
 	    "MEET48 Global": "https://www.youtube.com/@MEET48Global/streams",		
 	    "KING AMUSEMENT CREATIVE": "https://www.youtube.com/@KAC_official/streams"		
-    },	
+    },
+
+
+    "國際,#genre#": {
+        "ANNnewsCH": "https://www.youtube.com/@ANNnewsCH/streams",
+        "NHK WORLD-JAPAN": "https://www.youtube.com/@NHKWORLDJAPAN/streams",
+        "TBS NEWS DIG Powered by JNN": "https://www.youtube.com/@tbsnewsdig/streams",		
+        "KBS WORLD TV": "https://www.youtube.com/@kbsworldtv/streams",
+        "YTN": "https://www.youtube.com/@ytnnews24/streams",
+        "연합뉴스TV": "https://www.youtube.com/@yonhapnewstv23/streams",
+        "JTBC News": "https://www.youtube.com/@jtbc_news/streams",		
+        "Arirang TV": "https://www.youtube.com/@KOREAarirangTV/streams",
+        "CNA": "https://www.youtube.com/@channelnewsasia/streams",
+        "TVB Sitcom 處境喜劇": "https://www.youtube.com/@TVBSitcom/streams",		
+        "歡樂APM": "https://www.youtube.com/@Happy_APM/streams"		
+    },
+	
     "政論,#genre#": {
         "壹電視NEXT TV": "https://www.youtube.com/@壹電視NEXTTV/streams",
         "庶民大頭家": "https://www.youtube.com/@庶民大頭家/streams",
@@ -318,6 +334,7 @@ CATEGORIES = {
         "政經關不了": "https://www.youtube.com/@truevoiceoftaiwan/streams",			
         "57爆新聞": "https://www.youtube.com/@57BreakingNews/streams",
         "關鍵時刻": "https://www.youtube.com/@ebcCTime/streams",
+        "東森世界日報": "https://www.youtube.com/@InternationalNewsEBC/streams",		
 		"郭正亮頻道": "https://www.youtube.com/@Guovision-TV/streams",
 		"朱學恒的萬事通事務所": "https://www.youtube.com/@sciencewillwin/streams",		
         "新聞龍捲風": "https://www.youtube.com/@新聞龍捲風NewsTornado/streams",		
