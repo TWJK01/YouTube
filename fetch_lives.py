@@ -300,6 +300,9 @@ CATEGORIES = {
 
     "國際,#genre#": {
         "ANNnewsCH": "https://www.youtube.com/@ANNnewsCH/streams",
+        "日テレNEWS": "https://www.youtube.com/@ntv_news/streams",
+        "メ〜テレニュース": "https://www.youtube.com/@NagoyaTVnewsCH/streams",
+        "HOME広島ニュース": "https://www.youtube.com/@home-news/streams",		
         "NHK WORLD-JAPAN": "https://www.youtube.com/@NHKWORLDJAPAN/streams",
         "TBS NEWS DIG Powered by JNN": "https://www.youtube.com/@tbsnewsdig/streams",		
         "KBS WORLD TV": "https://www.youtube.com/@kbsworldtv/streams",
@@ -311,6 +314,7 @@ CATEGORIES = {
         "TVB Sitcom 處境喜劇": "https://www.youtube.com/@TVBSitcom/streams",		
         "歡樂APM": "https://www.youtube.com/@Happy_APM/streams"		
     },
+	
 	
     "政論,#genre#": {
         "壹電視NEXT TV": "https://www.youtube.com/@壹電視NEXTTV/streams",
