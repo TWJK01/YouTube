@@ -11,8 +11,8 @@
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映法華經序中文版,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映法華經序中文版,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -149,7 +149,6 @@
 【嗶哩嗶哩動畫Anime Made By Bilibili】夏日漫游记暑期特别轮播,https://www.youtube.com/watch?v=X7jEUuSk4eA
 
 體育,#genre#
-【CBC籃球聯盟】籃球聯盟準時打卡下班,https://www.youtube.com/watch?v=1KyZMN5d6KA
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=Q2w1ZPHIpA0
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=QkA0xpsBZ8Q
 【WWE】Best of the Int,https://www.youtube.com/watch?v=Jy_Nv1GTTbQ
@@ -166,6 +165,7 @@
 【心动 Radio】最孤單的夜裡有你留下的聲音超好聽中文原創情歌夜晚放鬆閱讀學習助眠,https://www.youtube.com/watch?v=itvBk3ZDV2s
 【JL Music Channel】Rainy Seoul Caf,https://www.youtube.com/watch?v=VnqzUVYfJCQ
 【Hot TV】🔥🎵 #KJJadiDJ 🎧 ,https://www.youtube.com/watch?v=jfPMPTrfi1c
+【时间节拍 Melody】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲,https://www.youtube.com/watch?v=HX763xx9rHE
 【时间节拍 Melody】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=yB23SOE_55k
 【时间节拍 Melody】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲,https://www.youtube.com/watch?v=XHayC6UdiZE
 【KKBOX 华语新歌周榜】年經典流行歌曲分鐘串燒系列八年級生首經典流行歌曲我好嗎雪落下的聲音不曾回來過信爱成瘾月牙湾,https://www.youtube.com/watch?v=blxa3ox3c5Y
@@ -208,11 +208,11 @@
 【KING AMUSEMENT CREATIVE】時間日,https://www.youtube.com/watch?v=-RogqxfnBdg
 
 國際,#genre#
+【ANNnewsCH】朝最新情報厳選届朝,https://www.youtube.com/watch?v=2PyOse1KLuo
 【日テレNEWS】関東甲信東海地方線状降水帯半日前予測東京八丈町記録的短時間大雨速報社会日,https://www.youtube.com/watch?v=5kR9RJ5qmhs
 【日テレNEWS】内閣改造自民党役員人事茂木敏充外相続投方向調整外交継続性重視国民民主玉木雄一郎代表再選政治日,https://www.youtube.com/watch?v=ZM5tci5Phn4
 【日テレNEWS】被災地域男女人救出病院日本緊急援助隊到着国際日,https://www.youtube.com/watch?v=9ExpJJMhUQY
 【日テレNEWS】米軍石油隻攻撃米艦艇対報復国際日,https://www.youtube.com/watch?v=T47F1vIEuqY
-【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=WzGrBEZr2vE
 【日テレNEWS】台風号進路厳重警戒那覇空港現在様子日,https://www.youtube.com/watch?v=b8uc6cKdnRg
 【日テレNEWS】羽田空港日,https://www.youtube.com/watch?v=2PIdi3Xa7TY
 【日テレNEWS】最新配信中日,https://www.youtube.com/watch?v=t9kwjZBLI-A
@@ -223,21 +223,17 @@
 【HOME広島ニュース】宮島,https://www.youtube.com/watch?v=s2CxZ7N25i0
 【HOME広島ニュース】広島広島最新時間配信中,https://www.youtube.com/watch?v=e2pgLUmaxGs
 【NHK WORLD-JAPAN】LIVE: NHK WORLD,https://www.youtube.com/watch?v=IimtbuqYIE8
-【TBS NEWS DIG Powered by JNN】最新月日,https://www.youtube.com/watch?v=PboVHCpCqos
+【TBS NEWS DIG Powered by JNN】朝最新情報月日,https://www.youtube.com/watch?v=bzJfo-jjgbE
 【TBS NEWS DIG Powered by JNN】新宿駅前現在様子,https://www.youtube.com/watch?v=u7kCTaCX_J4
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=dYpspgeXSaQ
 【TBS NEWS DIG Powered by JNN】最新配信中,https://www.youtube.com/watch?v=Anr15FA9OCI
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=2f9NOSw-FqM
 【YTN】미국 덮친 이란 전쟁 후폭풍,https://www.youtube.com/watch?v=3UXTLTWrgl8
 【YTN】"곧 뜻밖의 사건 목격하게 ,https://www.youtube.com/watch?v=2OBOIjSQkik
-【YTN】"이란 모든 인프라 파괴".,https://www.youtube.com/watch?v=KYBedR0xxUo
 【YTN】대한민국 24시간 뉴스채널 ,https://www.youtube.com/watch?v=aZyD6EPl6KU
-【연합뉴스TV】美 특사단, 푸틴과 3시간 ,https://www.youtube.com/watch?v=rZO8-hNdPPY
-【연합뉴스TV】호르무즈 파병·우크라 미사일,https://www.youtube.com/watch?v=CVygx5ZECUo
+【연합뉴스TV】절기 '백로' 초가을 날씨에,https://www.youtube.com/watch?v=hQEkXopTO8k
 【연합뉴스TV】태풍 '크로반' 경로 왜 이,https://www.youtube.com/watch?v=7IQjQI54-vo
-【연합뉴스TV】韓與,https://www.youtube.com/watch?v=DoOxfb27hTE
 【연합뉴스TV】이란군 "美 항모·구축함에 ,https://www.youtube.com/watch?v=VjUQ5z4rvyo
-【연합뉴스TV】"과장선에서 막혀 있다? 알,https://www.youtube.com/watch?v=goJffuMyG74
 【연합뉴스TV】24시간 현장을 전합니다 /,https://www.youtube.com/watch?v=6QZ_qc75ihU
 【JTBC News】한동훈, 김승원 녹취 추가 ,https://www.youtube.com/watch?v=fzkyexuMhMg
 【JTBC News】'보복에 맞보복' 악순환에 ,https://www.youtube.com/watch?v=jY85KPYV7Sg
