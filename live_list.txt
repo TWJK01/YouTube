@@ -10,8 +10,8 @@
 【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=KMMHw8rllic
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映日日素,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映日日素,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映志為人醫守護愛,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映志為人醫守護愛,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -163,6 +163,7 @@
 【心动 Radio】最孤單的夜裡有你留下的聲音超好聽中文原創情歌夜晚放鬆閱讀學習助眠,https://www.youtube.com/watch?v=itvBk3ZDV2s
 【JL Music Channel】Rainy Seoul Caf,https://www.youtube.com/watch?v=VnqzUVYfJCQ
 【Hot TV】🔥🎵 #KJJadiDJ 🎧 ,https://www.youtube.com/watch?v=jfPMPTrfi1c
+【时间节拍 Melody】九月熱門華語歌曲九月單曲排行週榜我會等總會有人跳楼机斷送青春愛錯人聽說你周杰倫王嘉爾周興哲林俊傑鄧紫棋抖音熱歌合集,https://www.youtube.com/watch?v=APOxxFSYFkA
 【时间节拍 Melody】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=yB23SOE_55k
 【时间节拍 Melody】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲,https://www.youtube.com/watch?v=XHayC6UdiZE
 【KKBOX 华语新歌周榜】年經典流行歌曲分鐘串燒系列八年級生首經典流行歌曲我好嗎雪落下的聲音不曾回來過信爱成瘾月牙湾,https://www.youtube.com/watch?v=blxa3ox3c5Y
@@ -205,11 +206,12 @@
 【KING AMUSEMENT CREATIVE】時間日,https://www.youtube.com/watch?v=-RogqxfnBdg
 
 國際,#genre#
+【ANNnewsCH】朝最新情報厳選届朝,https://www.youtube.com/watch?v=dNa8x2-D6Fc
+【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=MEjfyrxGQWg
 【日テレNEWS】貨物機車両衝突人死亡国際日,https://www.youtube.com/watch?v=IyzSIThd3Fc
 【日テレNEWS】千葉豪雨同場所冠水関東混乱計画運休休校生活影響社会日,https://www.youtube.com/watch?v=5khRo902fjA
 【日テレNEWS】高市首相鈴木幹事長党幹部相次会談小林政調会長重要閣僚案検討政治日,https://www.youtube.com/watch?v=hij2KJv63U4
 【日テレNEWS】人以上死亡確認家族引渡遺体割未満身元特定難航国際日,https://www.youtube.com/watch?v=dxUo0RCT9dI
-【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=RT9obYBZPGg
 【日テレNEWS】那覇空港日,https://www.youtube.com/watch?v=b8uc6cKdnRg
 【日テレNEWS】羽田空港日,https://www.youtube.com/watch?v=2PIdi3Xa7TY
 【日テレNEWS】最新配信中日,https://www.youtube.com/watch?v=t9kwjZBLI-A
@@ -220,7 +222,7 @@
 【HOME広島ニュース】宮島,https://www.youtube.com/watch?v=s2CxZ7N25i0
 【HOME広島ニュース】広島広島最新時間配信中,https://www.youtube.com/watch?v=e2pgLUmaxGs
 【NHK WORLD-JAPAN】LIVE: NHK WORLD,https://www.youtube.com/watch?v=IimtbuqYIE8
-【TBS NEWS DIG Powered by JNN】最新月日,https://www.youtube.com/watch?v=OhaeNvEDCNI
+【TBS NEWS DIG Powered by JNN】朝最新情報月日,https://www.youtube.com/watch?v=PU31hxm3QVc
 【TBS NEWS DIG Powered by JNN】新宿駅前現在様子,https://www.youtube.com/watch?v=u7kCTaCX_J4
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=dYpspgeXSaQ
 【TBS NEWS DIG Powered by JNN】最新配信中,https://www.youtube.com/watch?v=Anr15FA9OCI
