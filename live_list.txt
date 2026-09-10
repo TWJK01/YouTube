@@ -11,8 +11,8 @@
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映經典劇坊幸福在我家,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映經典劇坊幸福在我家,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛劇轉角那間心藥局,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映高僧傳,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -304,8 +304,10 @@
 【ABC Learning English】Easy English Li,https://www.youtube.com/watch?v=Lvs4gOledbc
 【ABC Learning English】English Convers,https://www.youtube.com/watch?v=rw8KvSZ1CSs
 【學習粵語】Speak Cantonese,https://www.youtube.com/watch?v=Pw_x8gmMPFg
+【南非荷蘭語】Speak Afrikaans,https://www.youtube.com/watch?v=URQnC6TuBUM
 【學習印地語】Speak Hindi 24/,https://www.youtube.com/watch?v=E6W52KKD5PY
 【學習菲律賓語】Speak Filipino ,https://www.youtube.com/watch?v=ECohIwY6bCE
+【學習烏爾都語】Speak Urdu 24/7,https://www.youtube.com/watch?v=ozogaCsLgCs
 【學習德語】Speak German 24,https://www.youtube.com/watch?v=xn0SlytWBM0
 【學習土耳其語】Speak Turkish 2,https://www.youtube.com/watch?v=M6mnnR_-sV4
 【學習阿拉伯語】Speak Arabic 24,https://www.youtube.com/watch?v=LdPZG1sl1Qg
@@ -351,7 +353,6 @@
 【necoast nsa】玩樂東北角外澳沙灘,https://www.youtube.com/watch?v=F_fv8VTt6L8
 【necoast nsa】玩樂東北角福隆海水浴場,https://www.youtube.com/watch?v=CWkEgrjBas0
 【necoast nsa】玩樂東北角龍洞灣觀景台,https://www.youtube.com/watch?v=q7wy94TiBBw
-【necoast nsa】玩樂東北角馬崗哨所,https://www.youtube.com/watch?v=hfm0DhDJFmI
 【necoast nsa】玩樂東北角舊草嶺自行車隧道,https://www.youtube.com/watch?v=Br1w0sIvO3U
 【necoast nsa】玩樂東北角永鎮濱海驛站,https://www.youtube.com/watch?v=HVcowpes0qA
 【桃園】後慈湖,https://www.youtube.com/watch?v=AF550Wx7Ba0
