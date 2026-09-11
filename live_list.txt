@@ -11,8 +11,8 @@
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映銀髮白之歌回音,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映法華經序中文版,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映在台灣站起分版,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -139,7 +139,6 @@
 【小猪佩奇】夏日一起去海边佩佩豬中文粉红猪小妹最新视频儿童动画,https://www.youtube.com/watch?v=z7E3JYEhXno
 【Kids Songs Giligilis】Counting Advent,https://www.youtube.com/watch?v=-DMSHUcernY
 【Kids Songs Giligilis】Yummy Yummy Str,https://www.youtube.com/watch?v=XW_YhZg70hY
-【ACTION漫客】斗破苍穹年番回归浩劫倾覆而至药族上下以不屈之志同心御敌绝境之下萧炎开启毁灭火体凝聚出八色火莲,https://www.youtube.com/watch?v=CLMdDwjLOwY
 【神奇鸡仔】兒歌童謠卡通動畫,https://www.youtube.com/watch?v=NdWho9tCWAQ
 【朱妮托尼 动画儿歌】動物們的便便动物儿歌好习惯养成朱妮托尼人气兒歌兒歌童謠卡通動畫朱妮托尼童話故事,https://www.youtube.com/watch?v=tSY-0OpDLS4
 【朱妮托尼 动画儿歌】放屁家族朱妮托尼人气儿歌兒歌童謠卡通動畫朱妮托尼儿歌,https://www.youtube.com/watch?v=hsYIKhXfI6M
@@ -163,6 +162,7 @@
 【心动 Radio】最孤單的夜裡有你留下的聲音超好聽中文原創情歌夜晚放鬆閱讀學習助眠,https://www.youtube.com/watch?v=itvBk3ZDV2s
 【JL Music Channel】Rainy Seoul Caf,https://www.youtube.com/watch?v=VnqzUVYfJCQ
 【Hot TV】🔥🎵 #KJJadiDJ 🎧 ,https://www.youtube.com/watch?v=jfPMPTrfi1c
+【时间节拍 Melody】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲,https://www.youtube.com/watch?v=AfvSLRG34gQ
 【时间节拍 Melody】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=yB23SOE_55k
 【时间节拍 Melody】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲,https://www.youtube.com/watch?v=XHayC6UdiZE
 【KKBOX 华语新歌周榜】年經典流行歌曲分鐘串燒系列八年級生首經典流行歌曲我好嗎雪落下的聲音不曾回來過信爱成瘾月牙湾,https://www.youtube.com/watch?v=blxa3ox3c5Y
@@ -205,10 +205,10 @@
 【KING AMUSEMENT CREATIVE】時間日,https://www.youtube.com/watch?v=-RogqxfnBdg
 
 國際,#genre#
+【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=s5IdpktfN3w
 【日テレNEWS】米同時多発年国際日,https://www.youtube.com/watch?v=O7SJgWthBW0
 【日テレNEWS】庁運用不正政府職員個人情報約万件漏政治日,https://www.youtube.com/watch?v=cQxO0rNGd7k
 【日テレNEWS】投票地獄氏中間選挙前過激発言配当金身内批判声国際日,https://www.youtube.com/watch?v=MXkZHHmr1RY
-【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=gasbfTWGZCk
 【日テレNEWS】羽田空港日,https://www.youtube.com/watch?v=2PIdi3Xa7TY
 【日テレNEWS】最新配信中日,https://www.youtube.com/watch?v=t9kwjZBLI-A
 【メ〜テレニュース】東海県情報映像愛知岐阜三重,https://www.youtube.com/watch?v=ElmLqemMkng
@@ -218,7 +218,7 @@
 【HOME広島ニュース】宮島,https://www.youtube.com/watch?v=s2CxZ7N25i0
 【HOME広島ニュース】広島広島最新時間配信中,https://www.youtube.com/watch?v=e2pgLUmaxGs
 【NHK WORLD-JAPAN】LIVE: NHK WORLD,https://www.youtube.com/watch?v=IimtbuqYIE8
-【TBS NEWS DIG Powered by JNN】最新月日,https://www.youtube.com/watch?v=AsyJLJx2X2M
+【TBS NEWS DIG Powered by JNN】朝最新情報月日,https://www.youtube.com/watch?v=0p7X-mP8x0A
 【TBS NEWS DIG Powered by JNN】新宿駅前現在様子,https://www.youtube.com/watch?v=u7kCTaCX_J4
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=dYpspgeXSaQ
 【TBS NEWS DIG Powered by JNN】最新配信中,https://www.youtube.com/watch?v=Anr15FA9OCI
@@ -245,7 +245,6 @@
 【TVBS 優選頻道】政論節目時間連続配信中新聞大白話,https://www.youtube.com/watch?v=HiI-7_jeKxo
 【全球大視野】集束彈雨夜襲約旦美軍基地王牌戰機慘遭炸毀以軍千噸炸藥炸地道引發地震葉門叛軍再轟油管國際油價逼近,https://www.youtube.com/watch?v=s5gIu-8LWpI
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=xvbDsoLcMIc
-【94要客訴】出訪義大利蕭美琴歐洲自由與民主論壇演說三立新聞網,https://www.youtube.com/watch?v=dfbVbbrORrA
 【94要客訴】時間地震速報監視網三立新聞網,https://www.youtube.com/watch?v=w_dqgeGTlpw
 【94要客訴】颱風暴風圈最新動態全台風雨雷達即時連線全天候防災監測台湾台風接近中気象三立新聞網,https://www.youtube.com/watch?v=KUv6poLq4aM
 【哏傳媒】談天說地論台灣,https://www.youtube.com/watch?v=_XnTDele0F4
@@ -349,7 +348,6 @@
 【紅樹林有線電視】市淡水區即時路況車流淡水竹圍雙向紅樹林往水源街二段與淡金路口,https://www.youtube.com/watch?v=yn_8QwCWsyI
 【necoast nsa】玩樂東北角永鎮濱海驛站,https://www.youtube.com/watch?v=x6-BG6MTFUQ
 【necoast nsa】玩樂東北角舊草嶺自行車隧道,https://www.youtube.com/watch?v=Sg5zM7RSpJM
-【necoast nsa】玩樂東北角馬崗哨所,https://www.youtube.com/watch?v=CqAttNr0wdQ
 【necoast nsa】玩樂東北角鼻頭服務區,https://www.youtube.com/watch?v=HpJS5o4FZuA
 【necoast nsa】玩樂東北角外澳沙灘,https://www.youtube.com/watch?v=F_fv8VTt6L8
 【necoast nsa】玩樂東北角福隆海水浴場,https://www.youtube.com/watch?v=CWkEgrjBas0
