@@ -9,8 +9,8 @@
 【中視新聞 HD】中視新聞頻道小時線上台湾,https://www.youtube.com/watch?v=TCnaIE_SAtM
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映法華經序中文版,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映法華經序中文版,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
 【中天電視CtiTv】川普盼美伊衝突落幕先找波灣國家領袖談王毅見伊朗外長中國開始出手防止戰火外溢中天新聞,https://www.youtube.com/watch?v=TsZUA80_2rA
@@ -108,7 +108,6 @@
 【China Zone 流金岁月】西遊記齊天大聖孫悟空降妖除魔師徒四人歷經九九八十一難修得正果流金岁月,https://www.youtube.com/watch?v=AfaGwTbKH0A
 【乐视视频官方频道】甄嬛传小时可持续马拉松循环,https://www.youtube.com/watch?v=Q9d4UnitW20
 【乐视视频官方频道】芈月传小时全集循环,https://www.youtube.com/watch?v=lh52wlpP2vQ
-【正午阳光官方频道】赵丽颖冯绍峰上演古代宅门爱恋大戏知否知否应是绿肥红瘦,https://www.youtube.com/watch?v=o-iWwCGr1jc
 
 少兒,#genre#
 【Muse木棉花】進擊的巨人,https://www.youtube.com/watch?v=FDyRpdUIbo0
@@ -165,6 +164,7 @@
 【心动 Radio】最孤單的夜裡有你留下的聲音超好聽中文原創情歌夜晚放鬆閱讀學習助眠,https://www.youtube.com/watch?v=itvBk3ZDV2s
 【JL Music Channel】Rainy Seoul Caf,https://www.youtube.com/watch?v=VnqzUVYfJCQ
 【Hot TV】🔥🎵 #KJJadiDJ 🎧 ,https://www.youtube.com/watch?v=jfPMPTrfi1c
+【时间节拍 Melody】年月最新熱門單曲華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋必聽新歌,https://www.youtube.com/watch?v=NlczkY8YntE
 【时间节拍 Melody】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲,https://www.youtube.com/watch?v=XHayC6UdiZE
 【KKBOX 华语新歌周榜】年經典流行歌曲分鐘串燒系列八年級生首經典流行歌曲我好嗎雪落下的聲音不曾回來過信爱成瘾月牙湾,https://www.youtube.com/watch?v=blxa3ox3c5Y
 【Cherry 葵】Nightcore Radio,https://www.youtube.com/watch?v=tjne3WWB3kA
@@ -205,10 +205,10 @@
 【KING AMUSEMENT CREATIVE】時間日,https://www.youtube.com/watch?v=-RogqxfnBdg
 
 國際,#genre#
+【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=pC09i17VeZM
 【日テレNEWS】関東接近前大雨恐警報可能性天気日,https://www.youtube.com/watch?v=sGqeUafe3Mc
 【日テレNEWS】決断挑戦実行第次高市改造内閣発足特徴林氏閣外理由政治日,https://www.youtube.com/watch?v=3_rbJ_nF0IE
 【日テレNEWS】大統領戦闘終米州演説国際日,https://www.youtube.com/watch?v=WvMmo7d1_Zw
-【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=oB5Ozaeq2Os
 【日テレNEWS】羽田空港日,https://www.youtube.com/watch?v=2PIdi3Xa7TY
 【日テレNEWS】最新配信中日,https://www.youtube.com/watch?v=t9kwjZBLI-A
 【メ〜テレニュース】東海県情報映像愛知岐阜三重,https://www.youtube.com/watch?v=ElmLqemMkng
@@ -218,7 +218,7 @@
 【HOME広島ニュース】宮島,https://www.youtube.com/watch?v=s2CxZ7N25i0
 【HOME広島ニュース】広島広島最新時間配信中,https://www.youtube.com/watch?v=e2pgLUmaxGs
 【NHK WORLD-JAPAN】LIVE: NHK WORLD,https://www.youtube.com/watch?v=IimtbuqYIE8
-【TBS NEWS DIG Powered by JNN】最新月日,https://www.youtube.com/watch?v=LVl7GSsOAEE
+【TBS NEWS DIG Powered by JNN】朝最新情報月日,https://www.youtube.com/watch?v=oNeGlkxrAiw
 【TBS NEWS DIG Powered by JNN】新宿駅前現在様子,https://www.youtube.com/watch?v=u7kCTaCX_J4
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=dYpspgeXSaQ
 【TBS NEWS DIG Powered by JNN】最新配信中,https://www.youtube.com/watch?v=Anr15FA9OCI
@@ -226,13 +226,9 @@
 【YTN】미·사우디 요격체 '전멸'…,https://www.youtube.com/watch?v=gUx4Gqtbr24
 【YTN】예멘 사막서 '둥펑 미사일',https://www.youtube.com/watch?v=t_xsEi71Z5g
 【YTN】"근본적인 원인은 트럼프의 ,https://www.youtube.com/watch?v=qZujxmV92hk
-【YTN】이란 눈 뒤집힐 상황 '초긴,https://www.youtube.com/watch?v=fGZvQxh--sM
 【YTN】대한민국 24시간 뉴스채널 ,https://www.youtube.com/watch?v=aZyD6EPl6KU
 【연합뉴스TV】후티 "사우디 F-15 격추,https://www.youtube.com/watch?v=ZxFWRSsE9x4
-【연합뉴스TV】더본코리아 '종토방 글' 무,https://www.youtube.com/watch?v=Y7jMv9_VIrA
-【연합뉴스TV】브로커 양씨 "김승원에 연락,https://www.youtube.com/watch?v=b-e3he-8KrQ
 【연합뉴스TV】"재앙적 수준 공급 손실" ,https://www.youtube.com/watch?v=1ZgkyZMSJds
-【연합뉴스TV】AI로 미사일 개발까지…이란,https://www.youtube.com/watch?v=HFMl-yYhMAw
 【연합뉴스TV】태풍 '두쥐안' 도쿄 향하는,https://www.youtube.com/watch?v=OMLKlX88rcQ
 【연합뉴스TV】'최대 100㎜' 물벼락 예,https://www.youtube.com/watch?v=W6R-qLlRrS0
 【연합뉴스TV】24시간 현장을 전합니다 /,https://www.youtube.com/watch?v=6QZ_qc75ihU
