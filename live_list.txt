@@ -8,10 +8,11 @@
 【中視新聞】頻道小時線上台湾,https://www.youtube.com/watch?v=baDV1O5EBP0
 【中視新聞 HD】中視新聞頻道小時線上台湾,https://www.youtube.com/watch?v=TCnaIE_SAtM
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映青春愛讀書,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛一臺全球現正播映證嚴上人說故事,https://www.youtube.com/watch?v=pM-1ytfQhos
 【大愛電視】大愛二臺全球現正播映人間菩提,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
+【中天新聞CtiNews】新戰機抵台背後是美印太謀算普發萬啟動審查真有譜前主計長免舉債蘇貞蓉孫怡琳報新聞中天新聞,https://www.youtube.com/watch?v=KwmTJ6QlGkY
 【中天電視CtiTv】習近平剛送完金鑾殿美驚爆增兵九千川普怒嗆證實客機案就炸爛伊朗中天電視,https://www.youtube.com/watch?v=6d98JeMpXG4
 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 【TVBS NEWS】新聞台小時台湾世界中時間配信中,https://www.youtube.com/watch?v=2mCSYvcfhtc
@@ -149,7 +150,6 @@
 體育,#genre#
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=Q2w1ZPHIpA0
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=S2i8yNTNgEw
-【BattleBots】🔴 LIVE Greatest,https://www.youtube.com/watch?v=qXFiWYs16_M
 【WWE】Best of Money i,https://www.youtube.com/watch?v=hNcn_i8tEOo
 【WWE Vault】WWE Vault Watch,https://www.youtube.com/watch?v=94E0PdFsdqg
 
@@ -187,16 +187,15 @@
 【Radio Hits Music】Hits Radio 1 Sl,https://www.youtube.com/watch?v=WNziNKf7j6s
 【Radio Hits Music】Hits Radio 1 Li,https://www.youtube.com/watch?v=3MOrgUjiigE
 【Radio Hits Music】Pop Hits Radio ,https://www.youtube.com/watch?v=UWc_vMRGxDs
-【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新,https://www.youtube.com/watch?v=E5Bk0ZnOADk
 【Pop Japan Music】邦楽癒感動名曲集年最新曲優里米津玄師,https://www.youtube.com/watch?v=1bdQSQ9CmGQ
 【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新,https://www.youtube.com/watch?v=wGNhAVIzODg
 【KING AMUSEMENT CREATIVE】時間日,https://www.youtube.com/watch?v=-RogqxfnBdg
 
 國際,#genre#
+【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=RdHVnwtf7MM
 【日テレNEWS】東京都心日連続雨観測土日約月晴予報週明台風号進路注意気象日,https://www.youtube.com/watch?v=zohgVuhv2AU
 【日テレNEWS】簗農水相誤解招予算発言報道改会見政治日,https://www.youtube.com/watch?v=xiKL6Rx8W-w
 【日テレNEWS】大統領開発自主規制安全管理企業任超知能言換大統領令署名国際日,https://www.youtube.com/watch?v=j69OwVr4Plc
-【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=IDzVG_6IYjk
 【日テレNEWS】那覇空港日,https://www.youtube.com/watch?v=hjfqc60PbCk
 【日テレNEWS】羽田空港日,https://www.youtube.com/watch?v=2PIdi3Xa7TY
 【日テレNEWS】最新配信中日,https://www.youtube.com/watch?v=t9kwjZBLI-A
@@ -207,7 +206,7 @@
 【HOME広島ニュース】宮島,https://www.youtube.com/watch?v=s2CxZ7N25i0
 【HOME広島ニュース】広島広島最新時間配信中,https://www.youtube.com/watch?v=e2pgLUmaxGs
 【NHK WORLD-JAPAN】LIVE: NHK WORLD,https://www.youtube.com/watch?v=IimtbuqYIE8
-【TBS NEWS DIG Powered by JNN】最新月日,https://www.youtube.com/watch?v=oyBN9mtb9nk
+【TBS NEWS DIG Powered by JNN】朝最新情報月日,https://www.youtube.com/watch?v=79zmPjHnVH8
 【TBS NEWS DIG Powered by JNN】新宿駅前現在様子,https://www.youtube.com/watch?v=u7kCTaCX_J4
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=dYpspgeXSaQ
 【TBS NEWS DIG Powered by JNN】最新配信中,https://www.youtube.com/watch?v=Anr15FA9OCI
@@ -215,23 +214,21 @@
 【YTN】기어코 꺼내든 '핵무기'…우,https://www.youtube.com/watch?v=aVmRT_blNLM
 【YTN】기습 탄핵안 발의 '발칵'…,https://www.youtube.com/watch?v=kjwvUKNTaog
 【YTN】미 해상봉쇄가 불러온 결말…,https://www.youtube.com/watch?v=aY1qSVlYYcY
-【YTN】이 대통령, 우크라 사과 거,https://www.youtube.com/watch?v=yTWrV0aR5LI
 【YTN】대한민국 24시간 뉴스채널 ,https://www.youtube.com/watch?v=C-Xj6AjTYVs
-【연합뉴스TV】알래스카 LNG 이어 또? ,https://www.youtube.com/watch?v=fpOoqgBdxIA
-【연합뉴스TV】첫 슈팅이 전반 45분…모레,https://www.youtube.com/watch?v=Aa1UFiKtveo
-【연합뉴스TV】에콰도르전 3-0 완승은 어,https://www.youtube.com/watch?v=LLrtFAQvY3o
+【연합뉴스TV】합참 "북한, 동해상으로 미,https://www.youtube.com/watch?v=hytHRm3eR6g
+【연합뉴스TV】"알래스카 등 트럼프의 프로,https://www.youtube.com/watch?v=S5bsnFouWyY
+【연합뉴스TV】트럼프 "韓 알래스카 투자 ,https://www.youtube.com/watch?v=M3fgEHoipxo
+【연합뉴스TV】"도와줄 사람이 없어요"…축,https://www.youtube.com/watch?v=LLrtFAQvY3o
 【연합뉴스TV】北, 지뢰 폭발 이후 '국경,https://www.youtube.com/watch?v=CfM1wIGJQBs
 【연합뉴스TV】'이란 전멸' 압박한 트럼프,https://www.youtube.com/watch?v=kW_EsJHCLRk
 【연합뉴스TV】'뚝뚝' 떨어지는 기온…비까,https://www.youtube.com/watch?v=_csn1z52CSw
 【연합뉴스TV】상어 '부캉이' 구조 중단…,https://www.youtube.com/watch?v=2d4ME6daVMo
-【연합뉴스TV】특검, '여론조사비 대납 의,https://www.youtube.com/watch?v=1_RHILARbno
 【연합뉴스TV】24시간 현장을 전합니다 /,https://www.youtube.com/watch?v=6QZ_qc75ihU
 【JTBC News】모레노호, 베네수엘라와 0-,https://www.youtube.com/watch?v=GCKjteuN7ZU
 【JTBC News】모레노호, 베네수엘라와 0-,https://www.youtube.com/watch?v=8ObHRoqalKY
 【JTBC News】'날벼락' 맞은 배우들…"집,https://www.youtube.com/watch?v=b0CJApdgMSE
 【JTBC News】"검사들 소속부터 바꾸세요",https://www.youtube.com/watch?v=bXODOoLWtBM
 【JTBC News】'젤렌스키 연설 직전' 이런,https://www.youtube.com/watch?v=GXFfPPaovnI
-【JTBC News】특검, '여론조사비 대납 의,https://www.youtube.com/watch?v=AXuehw4KmFk
 【Arirang TV】Live from KOREA,https://www.youtube.com/watch?v=hvVlyZ5GiE8
 【CNA】Breaking news o,https://www.youtube.com/watch?v=XWq5kBlakcQ
 【歡樂APM】每周更新唔好俾佢停愛回家小時馬拉松愛回家之開心速遞劉丹呂慧儀單立文滕麗名周嘉洛,https://www.youtube.com/watch?v=hWI2HN3YCPE
@@ -247,7 +244,7 @@
 
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=POW3GGrAR9w
-【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=AuJ9J4Xyqcw
+【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=VZ5o6lIgZ3Q
 【桐瑛台中電視臺】蓁鑽台中電視臺,https://www.youtube.com/watch?v=wajs0WUBQHQ
 【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播,https://www.youtube.com/watch?v=R1lIIl1CqF8
 【桐瑛台南電視臺】「桐瑛台南電視臺」直播,https://www.youtube.com/watch?v=0_3eLQSCF-c
