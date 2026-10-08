@@ -448,22 +448,23 @@ MANUAL_LINKS = {
 		"【五月天】不間斷霸佔你耳朵,https://www.youtube.com/live/R62E7cFWX6o"
     ],
     "少兒,#genre#": [
-        "【Muse木棉花】進擊的巨人,https://www.youtube.com/watch?v=FDyRpdUIbo0",
-        "【Muse木棉花】家庭教師,https://www.youtube.com/watch?v=E3u4lBhBJGc",
-        "【Muse木棉花】JOJO的奇妙冒險,https://www.youtube.com/watch?v=UVswnrnA69Q",		
-        "【Muse木棉花】無職轉生,https://www.youtube.com/watch?v=GTadYkDC4bs",
-        "【Muse木棉花】獵人HUNTER×HUNTER,https://www.youtube.com/watch?v=YrUJXdCamNs",
-        "【Muse木棉花】關於我轉生變成史萊姆這檔事,https://www.youtube.com/watch?v=YJGRHgEhNQI",		
-        "【Muse木棉花】蠟筆小新TV版,https://www.youtube.com/watch?v=aoE015fWDac",
-        "【Muse木棉花】新哆啦A夢,https://www.youtube.com/watch?v=IgRPlOv-EIs",
-        "【Muse木棉花】中華一番,https://www.youtube.com/watch?v=mRCXonM5ru8",
-        "【Muse木棉花】我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE",		
-        "【Ani-One】機動戰士鋼彈SEED,https://www.youtube.com/watch?v=ucOVVVWIr0c",
-        "【Ani-One】果然我的青春戀愛喜劇搞錯了,https://www.youtube.com/watch?v=DBK_aBJ742g",
+        "【Muse木棉花】鑽石王牌系列,https://www.youtube.com/watch?v=1L4jS9zLdoc",
+        "【Muse木棉花】BanG Dream! It's MyGO,https://www.youtube.com/watch?v=PBXTfYip2Mw",
+        "【Muse木棉花】間諜家家酒,https://www.youtube.com/watch?v=TZyiJBQrJbo",		
+        "【Muse木棉花】鋼之鍊金術師,https://www.youtube.com/watch?v=4ec1C8v5Kas",
+        "【Muse木棉花】獵人HUNTER×HUNTER,https://www.youtube.com/watch?v=zZqkRnjGqgw",
+        "【Muse木棉花】進擊的巨人,https://www.youtube.com/watch?v=5pQjvcG0Dvk",
+        "【Muse木棉花】JOJO的奇妙冒險,https://www.youtube.com/watch?v=PrbiDM6Un7o",		
+        "【Muse木棉花】新哆啦A夢,https://www.youtube.com/watch?v=lWvcuHZfLdI",
+        "【Muse木棉花】蠟筆小新劇場版,https://www.youtube.com/watch?v=jAX6TIKSPio",
+        "【Muse木棉花】中華一番,https://www.youtube.com/watch?v=znNKtaRiRVk",
+        "【Muse木棉花】我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE",
+        "【Muse木棉花】蠟筆小新TV版,https://www.youtube.com/watch?v=TE5Msg_hAgY",
+        "【Ani-One】月亮變得很紅,https://www.youtube.com/watch?v=F1ssapOnk5k",
         "【Ani-One】OVERLORD,https://www.youtube.com/watch?v=XDM7J5yzFPM",		
-		"【回歸線娛樂】死亡筆記本,https://www.youtube.com/watch?v=VrktkZAh2Xc",
-		"【回歸線娛樂】碧藍之海,https://www.youtube.com/watch?v=tBNfvyJxrds",		
-		"【回歸線娛樂】真珠美人魚,https://www.youtube.com/watch?v=BLag8MOBUg8"
+		"【回歸線娛樂】死亡筆記本,https://www.youtube.com/watch?v=6kG-nt497SM",
+		"【回歸線娛樂】碧藍之海,https://www.youtube.com/watch?v=AWGg9tk3d8s",		
+		"【回歸線娛樂】真珠美人魚,https://www.youtube.com/watch?v=zSaJdKNjMdw"
     ]
 }
 
