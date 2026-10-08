@@ -129,9 +129,9 @@ CATEGORIES = {
         "中天快點看劇": "https://www.youtube.com/@CtiDrama/streams",		
         "華視戲劇頻道": "https://www.youtube.com/@cts_drama/streams",
         "民視戲劇館": "https://www.youtube.com/@FTVDRAMA/streams",
-        "四季線上4gTV": "https://www.youtube.com/@4gTV_online/streams",	
+        "四季線上4gTV": "https://www.youtube.com/@4gTV_online/streams",		
         "三立電視 SET TV": "https://www.youtube.com/@SETTV/streams",
-        "三立華劇 SET Drama": "https://www.youtube.com/@SETdrama/streams",
+        "三立華劇 SET Drama": "https://www.youtube.com/@SETdrama/streams",	
         "三立台劇 SET Drama": "https://www.youtube.com/@setdramatw/streams",	
         "終極系列": "https://www.youtube.com/@KOONERETURN/streams",
         "TVBS劇在一起": "https://www.youtube.com/@tvbsdrama/streams",
@@ -226,7 +226,8 @@ CATEGORIES = {
         "回歸線娛樂": "https://www.youtube.com/@tropicsanime/streams",
         "嗶哩嗶哩動畫Anime Made By Bilibili": "https://www.youtube.com/@MadeByBilibili/streams",		
         "愛奇藝國漫": "https://www.youtube.com/@iQIYIAnimation/streams",
-        "艾瑪愛學習": "https://www.youtube.com/@EmmaLearning/streams",		
+        "艾瑪愛學習": "https://www.youtube.com/@EmmaLearning/streams",
+        "Disney Channel": "https://www.youtube.com/@disneychannel/streams",		
         "超人官方 YouTube 粵語頻道": "https://www.youtube.com/@ultraman_cantonese_official/streams"				
     },
     "體育,#genre#": {
@@ -262,7 +263,8 @@ CATEGORIES = {
     },
 	"音樂,#genre#": {
 	    "4kTQ-music": "https://www.youtube.com/@4kTQ-music/streams",
-	    "心动 Radio": "https://www.youtube.com/@%E5%BF%83%E5%8A%A8Radio/streams",		
+	    "心动 Radio": "https://www.youtube.com/@%E5%BF%83%E5%8A%A8Radio/streams",
+	    "福建音樂Melody TG": "https://www.youtube.com/@%E7%A6%8F%E5%BB%BA%E9%9F%B3%E6%A8%82MelodyTG/streams",		
 	    "Eight无限": "https://www.youtube.com/@eight-audio/streams",
 	    "相信音樂BinMusic": "https://www.youtube.com/@binmusictaipei/streams",
 	    "周杰倫 Jay Chou": "https://www.youtube.com/@jaychou/streams",
@@ -315,9 +317,9 @@ CATEGORIES = {
         "歡樂APM": "https://www.youtube.com/@Happy_APM/streams"		
     },
 	
-	
     "政論,#genre#": {
         "壹電視NEXT TV": "https://www.youtube.com/@壹電視NEXTTV/streams",
+        "台灣ON AIR": "https://www.youtube.com/@%E5%8F%B0%E7%81%A3ONAIR/streams",		
         "庶民大頭家": "https://www.youtube.com/@庶民大頭家/streams",
         "TVBS 優選頻道": "https://www.youtube.com/@tvbschannel/streams",
         "街頭麥克風": "https://www.youtube.com/@street-mic/streams",
@@ -360,6 +362,7 @@ CATEGORIES = {
         "桐瑛台南電視臺": "https://www.youtube.com/@%E6%A1%90%E7%91%9B%E5%8F%B0%E5%8D%97%E9%9B%BB%E8%A6%96%E8%87%BA/streams",		
         "momo購物一台": "https://www.youtube.com/@momoch4812/streams",
 	    "momo購物二台": "https://www.youtube.com/@momoch3571/streams",
+	    "信吉衛視": "https://www.youtube.com/@SJTV82/streams",		
 	    "ViVa TV美好家庭購物": "https://www.youtube.com/@ViVaTVtw/streams",
 	    "Live東森購物台": "https://www.youtube.com/@HotsaleTV/streams"		
     },
@@ -377,6 +380,7 @@ CATEGORIES = {
     },
     "教育,#genre#": {	
         "龍騰高中聲": "https://www.youtube.com/@LTeduForStudent/streams",
+        "BBB Learning English": "https://www.youtube.com/@bbblearningenglish/streams",		
         "Oziter茅": "https://www.youtube.com/@oziter/streams",		
         "ABC Learning English": "https://www.youtube.com/@ABCLearningEnglish/streams",		
         "學習粵語": "https://www.youtube.com/@CantoneseClass101/streams",
