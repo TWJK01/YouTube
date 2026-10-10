@@ -9,10 +9,9 @@
 【中視新聞 HD】中視新聞頻道小時線上台湾,https://www.youtube.com/watch?v=TCnaIE_SAtM
 【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=KMMHw8rllic
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映人文講堂,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映青春愛讀書,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映風月同天,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映在台灣站起分版,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
 【中天電視CtiTv】川普狠嗆伊朗交出一切否則消失沙國聯軍大空襲奪回曼德海峽中天電視,https://www.youtube.com/watch?v=MO2sXCK_6Hc
@@ -52,7 +51,6 @@
 【豬哥會社】馬拉松不間斷,https://www.youtube.com/watch?v=v8MUGB4vst8
 【東森綜合台】頻道小時台湾番組時間放送,https://www.youtube.com/watch?v=cimbpAZUjzw
 【57怪奇物語】怪奇物語頻道小時線上精選合集,https://www.youtube.com/watch?v=5sFglcMEm7I
-【204檔案】真的很扯,https://www.youtube.com/watch?v=Z5AZ5dmJgu8
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=SdvgdCOwKCg
 【非凡大探索】美食篇不間斷,https://www.youtube.com/watch?v=6iu77C-6Y7k
 【非凡大探索】台中美食篇不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
@@ -159,7 +157,7 @@
 體育,#genre#
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=Q2w1ZPHIpA0
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=S2i8yNTNgEw
-【WWE】Best of Money i,https://www.youtube.com/watch?v=hNcn_i8tEOo
+【WWE】Countdown to Mo,https://www.youtube.com/watch?v=Ws0wGYdCgQM
 【WWE Vault】24/7 Ladder Mat,https://www.youtube.com/watch?v=JiBpze42lNA
 
 音樂,#genre#
@@ -203,10 +201,11 @@
 【KING AMUSEMENT CREATIVE】時間日,https://www.youtube.com/watch?v=-RogqxfnBdg
 
 國際,#genre#
+【ANNnewsCH】朝最新情報厳選届朝,https://www.youtube.com/watch?v=MxN0FT2z3NE
+【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=gGE45MQXhf0
 【日テレNEWS】米政府制裁対象指定高市首相日本立場相容深懸念自身表明政治日,https://www.youtube.com/watch?v=z0yeSS1eXqw
 【日テレNEWS】大統領恥決定下平和賞受賞不満国際日,https://www.youtube.com/watch?v=oxkuxrFVmL4
 【日テレNEWS】東日本不正大人休日倶楽部個人情報漏可能性国際日,https://www.youtube.com/watch?v=qSIAOXygAL0
-【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=gX33j3Wk34U
 【日テレNEWS】那覇空港日,https://www.youtube.com/watch?v=Kv7g8crIddY
 【日テレNEWS】羽田空港日,https://www.youtube.com/watch?v=2PIdi3Xa7TY
 【日テレNEWS】最新配信中日,https://www.youtube.com/watch?v=t9kwjZBLI-A
@@ -217,15 +216,13 @@
 【HOME広島ニュース】宮島,https://www.youtube.com/watch?v=s2CxZ7N25i0
 【HOME広島ニュース】広島広島最新時間配信中,https://www.youtube.com/watch?v=e2pgLUmaxGs
 【NHK WORLD-JAPAN】LIVE: NHK WORLD,https://www.youtube.com/watch?v=IimtbuqYIE8
-【TBS NEWS DIG Powered by JNN】最新月日,https://www.youtube.com/watch?v=7woxvbhLyCg
+【TBS NEWS DIG Powered by JNN】朝最新情報月日,https://www.youtube.com/watch?v=_ZGFxF3YZ9U
 【TBS NEWS DIG Powered by JNN】新宿駅前現在様子,https://www.youtube.com/watch?v=u7kCTaCX_J4
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=dYpspgeXSaQ
 【TBS NEWS DIG Powered by JNN】最新配信中,https://www.youtube.com/watch?v=Anr15FA9OCI
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=2f9NOSw-FqM
 【YTN】프랑스, 건물 깨지고 불길 ,https://www.youtube.com/watch?v=Aa2F8UHKzjY
 【YTN】트럼프 "이란이 LA 공격하,https://www.youtube.com/watch?v=YIv_8LNHjx0
-【YTN】항공편 줄취소 '공항 마비',https://www.youtube.com/watch?v=zPsO5xxsB_Q
-【YTN】트럼프, 한 달 전엔 제재했,https://www.youtube.com/watch?v=jGw3ycGIy2U
 【YTN】대한민국 24시간 뉴스채널 ,https://www.youtube.com/watch?v=aZyD6EPl6KU
 【연합뉴스TV】"이란 공격 안 한다"던 트,https://www.youtube.com/watch?v=DBhlQUQ0e4s
 【연합뉴스TV】北韓,https://www.youtube.com/watch?v=8ZcHIKQyQ50
@@ -255,7 +252,6 @@
 
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=-4_2AxMpUhc
-【玉麟網路電視台】線上作伙來聽歌玉麟,https://www.youtube.com/watch?v=UWjBGqh8A3U
 【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=TWNkF6Bc_WY
 【桐瑛台中電視臺】蓁鑽台中電視臺,https://www.youtube.com/watch?v=wajs0WUBQHQ
 【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播,https://www.youtube.com/watch?v=zWiXP_7rlI4
