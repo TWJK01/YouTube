@@ -11,8 +11,8 @@
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映法華經序中文版,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映法華經序中文版,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -203,10 +203,11 @@
 【KING AMUSEMENT CREATIVE】時間日,https://www.youtube.com/watch?v=-RogqxfnBdg
 
 國際,#genre#
+【ANNnewsCH】朝最新情報厳選届朝,https://www.youtube.com/watch?v=IPyEuc0lVig
+【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=OkRekfrZT1k
 【日テレNEWS】働無理日節約厳暑物価高夕食円以下年金生活実情密着日,https://www.youtube.com/watch?v=0SR0e3jp2Zk
 【日テレNEWS】州半導体工場建設日本兆円超投資大統領発表国際日,https://www.youtube.com/watch?v=NmqLcq3Guyw
 【日テレNEWS】武部新農水相初会見簗氏言及発言大臣交代高市政権影響政治日,https://www.youtube.com/watch?v=4IKL1JeUIgM
-【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=VsnteEqf5N4
 【日テレNEWS】日本三名瀑袋田滝茨城県久慈郡大子町日,https://www.youtube.com/watch?v=RNNeHnfDc5A
 【日テレNEWS】羽田空港日,https://www.youtube.com/watch?v=2PIdi3Xa7TY
 【日テレNEWS】最新配信中日,https://www.youtube.com/watch?v=t9kwjZBLI-A
@@ -217,7 +218,7 @@
 【HOME広島ニュース】宮島,https://www.youtube.com/watch?v=s2CxZ7N25i0
 【HOME広島ニュース】広島広島最新時間配信中,https://www.youtube.com/watch?v=e2pgLUmaxGs
 【NHK WORLD-JAPAN】LIVE: NHK WORLD,https://www.youtube.com/watch?v=IimtbuqYIE8
-【TBS NEWS DIG Powered by JNN】最新月日,https://www.youtube.com/watch?v=LFl274219Cg
+【TBS NEWS DIG Powered by JNN】朝最新情報月日,https://www.youtube.com/watch?v=nTxnWVN05cQ
 【TBS NEWS DIG Powered by JNN】新宿駅前現在様子,https://www.youtube.com/watch?v=u7kCTaCX_J4
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=dYpspgeXSaQ
 【TBS NEWS DIG Powered by JNN】最新配信中,https://www.youtube.com/watch?v=Anr15FA9OCI
@@ -225,11 +226,10 @@
 【YTN】걷잡을 수 없이 번지는 분노,https://www.youtube.com/watch?v=9qyh9m5VhAA
 【YTN】미국발 돌발 변수에 우크라군,https://www.youtube.com/watch?v=AKP4-pWr4aE
 【YTN】트럼프가 시작한 전쟁의 대가,https://www.youtube.com/watch?v=urxAqPJVDS8
-【YTN】9.8톤 '모든 폭탄의 어머,https://www.youtube.com/watch?v=bCFOqFGC-Yo
 【YTN】대한민국 24시간 뉴스채널 ,https://www.youtube.com/watch?v=aZyD6EPl6KU
+【연합뉴스TV】가을 태풍 올라온다…30호 ,https://www.youtube.com/watch?v=O3sFnGhdpcQ
 【연합뉴스TV】트럼프, 이란에 '최종병기',https://www.youtube.com/watch?v=mryhTAWcgYM
 【연합뉴스TV】새벽까지 중북부 산발적 비…,https://www.youtube.com/watch?v=DTtoJRj0mI4
-【연합뉴스TV】호르무즈 해협서 화물선 잇따,https://www.youtube.com/watch?v=m8HKu3aj92k
 【연합뉴스TV】미국발 '충격' 국내 상장사,https://www.youtube.com/watch?v=Z_vNuGs49OE
 【연합뉴스TV】예멘 내전 격화에 사상자 폭,https://www.youtube.com/watch?v=cMOXTWzAtfo
 【연합뉴스TV】24시간 현장을 전합니다 /,https://www.youtube.com/watch?v=6QZ_qc75ihU
