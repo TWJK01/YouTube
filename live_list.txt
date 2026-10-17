@@ -11,8 +11,8 @@
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映名人書房,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映真善美故事館,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映衲履足跡,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映國民漢字須知,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -158,7 +158,6 @@
 
 體育,#genre#
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=Q2w1ZPHIpA0
-【BattleBots】🔴 LIVE Greatest,https://www.youtube.com/watch?v=MoLdLTyyYM8
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=S2i8yNTNgEw
 【WWE】Best of Tiffany,https://www.youtube.com/watch?v=pxOZsW-dtkM
 【WWE Vault】WWE Vault Mixta,https://www.youtube.com/watch?v=y19MKDFQvto
@@ -202,10 +201,10 @@
 【KING AMUSEMENT CREATIVE】時間日,https://www.youtube.com/watch?v=-RogqxfnBdg
 
 國際,#genre#
+【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=1tUyFK1L-Nc
 【日テレNEWS】鳥取倉吉市出席女性視点防災聴講皇室日,https://www.youtube.com/watch?v=YUHxnUBvUlU
 【日テレNEWS】高市首相自衛隊追悼式参列戦車砲弾破裂事故人政治日,https://www.youtube.com/watch?v=MgBlEaSsBlY
 【日テレNEWS】報道官日解任米国際日,https://www.youtube.com/watch?v=OY1np9OkpHM
-【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=22QX-0BUPBg
 【日テレNEWS】高値中旬戻豊漁去年比倍脂抜群日,https://www.youtube.com/watch?v=OkjlkJD4x7Y
 【日テレNEWS】日本三名瀑袋田滝茨城県久慈郡大子町日,https://www.youtube.com/watch?v=RNNeHnfDc5A
 【日テレNEWS】羽田空港日,https://www.youtube.com/watch?v=2PIdi3Xa7TY
@@ -217,14 +216,13 @@
 【HOME広島ニュース】宮島,https://www.youtube.com/watch?v=s2CxZ7N25i0
 【HOME広島ニュース】広島広島最新時間配信中,https://www.youtube.com/watch?v=e2pgLUmaxGs
 【NHK WORLD-JAPAN】LIVE: NHK WORLD,https://www.youtube.com/watch?v=IimtbuqYIE8
-【TBS NEWS DIG Powered by JNN】最新月日,https://www.youtube.com/watch?v=ln9tkVIz2FQ
+【TBS NEWS DIG Powered by JNN】朝最新情報月日,https://www.youtube.com/watch?v=IgXvys8yB-g
 【TBS NEWS DIG Powered by JNN】新宿駅前現在様子,https://www.youtube.com/watch?v=u7kCTaCX_J4
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=dYpspgeXSaQ
 【TBS NEWS DIG Powered by JNN】最新配信中,https://www.youtube.com/watch?v=Anr15FA9OCI
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=2f9NOSw-FqM
 【YTN】한국 투자 성과 자랑에도 ',https://www.youtube.com/watch?v=j6OfEJicPa0
 【YTN】우크라 압박하려다 '역풍'?,https://www.youtube.com/watch?v=FtFPXJUAUfM
-【YTN】러시아 숨구멍 끊어버린 프랑,https://www.youtube.com/watch?v=0rBhiQrugFk
 【YTN】대한민국 24시간 뉴스채널 ,https://www.youtube.com/watch?v=aZyD6EPl6KU
 【연합뉴스TV】"이란, 후티에 사우디 어디,https://www.youtube.com/watch?v=HTgmMnFbQCM
 【연합뉴스TV】2주 뒤 새 보금자리로 이사,https://www.youtube.com/watch?v=bmyO-gngTYY
