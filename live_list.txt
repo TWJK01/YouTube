@@ -11,8 +11,8 @@
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
-【大愛電視】大愛一臺全球現正播映大愛迷你劇場愛重生,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映名人書房,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映真善美故事館,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -97,7 +97,6 @@
 【GTV DRAMA English】惡作劇之吻馬拉松,https://www.youtube.com/watch?v=1ErR9tMU9b8
 【龍華電視】全是套路看三國梟雄如何演出天下爾虞我詐巔峰對決,https://www.youtube.com/watch?v=h3A3Yo2GGiU
 【Studio886】海派甜心楊丞琳羅志祥經典台劇,https://www.youtube.com/watch?v=m-VZoEJI5VI
-【百纳经典独播剧场】独播高清无静音版经典古装悬疑高分神剧原汁原味的大唐神探传奇梁冠华张子健钱雁秋黄金三角重聚熟悉的配方不可复制的经典狄仁杰智破奇案新增恋爱线,https://www.youtube.com/watch?v=tJoyggfdmkQ
 【百纳经典独播剧场】马拉松高清修复未删减无静音版戏骨云集神仙打架陈宝国焦晃归亚蕾同台演绎教科级演技每个角色都有独特的魅力堪称必看经典,https://www.youtube.com/watch?v=9vQygOrtYWs
 【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场,https://www.youtube.com/watch?v=AuCa3y9RHP0
 【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场,https://www.youtube.com/watch?v=et4SqnkNSFo
@@ -159,6 +158,7 @@
 
 體育,#genre#
 【WCW】LIVE: WCW Watch,https://www.youtube.com/watch?v=Q2w1ZPHIpA0
+【BattleBots】🔴 LIVE Greatest,https://www.youtube.com/watch?v=MoLdLTyyYM8
 【BattleBots】🔴 LIVE Battlebo,https://www.youtube.com/watch?v=S2i8yNTNgEw
 【WWE】Best of Tiffany,https://www.youtube.com/watch?v=pxOZsW-dtkM
 【WWE Vault】WWE Vault Mixta,https://www.youtube.com/watch?v=y19MKDFQvto
