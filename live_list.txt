@@ -1,7 +1,6 @@
 台灣,#genre#
 【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 【台灣地震監視】台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
-【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近,https://www.youtube.com/watch?v=4Q_v_1r_njw
 【台灣颱風論壇】台灣天氣即時監測,https://www.youtube.com/watch?v=SgRKSTXk5cc
 【台灣颱風論壇】花蓮萬里溪堰塞湖,https://www.youtube.com/watch?v=_-25RVVJANI
 【台視新聞】台小時線上台湾,https://www.youtube.com/watch?v=9iRAqBMakXY
@@ -9,9 +8,12 @@
 【中視新聞 HD】中視新聞頻道小時線上台湾,https://www.youtube.com/watch?v=TCnaIE_SAtM
 【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=KMMHw8rllic
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=quwqlazU-c8
+【大愛電視】大愛一臺全球現正播映靜思妙蓮華,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映高僧傳,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
+【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
+【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
 【中天電視CtiTv】伊朗荷姆茲海峽改變了戰爭格局美國別無選擇只能讓步促美接受提議中天電視,https://www.youtube.com/watch?v=dZssjyrm64Q
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
@@ -22,10 +24,12 @@
 【寰宇新聞】台灣台小時台湾時間配信中,https://www.youtube.com/watch?v=w87VGpgd90U
 【寰宇新聞】小時線上台湾時間配信中,https://www.youtube.com/watch?v=6IquAgfvYmc
 【寰宇全視界】寰宇新聞台小時線上台湾時間配信中,https://www.youtube.com/watch?v=LqIMxdJiztU
+【新唐人亞太電視台】新唐人小時,https://www.youtube.com/watch?v=Bhp_V7H5QoY
 【三大一台】三大有線電視公司,https://www.youtube.com/watch?v=XH3hbHc85ZQ
 【東森財經股市】東森財經新聞小時線上台湾金融,https://www.youtube.com/watch?v=1I2iq41Akmo
 【東森財經股市】小時台湾金融時間放送,https://www.youtube.com/watch?v=AEBeWMM1atA
 【寰宇財經新聞】寰宇新聞財經台小時線上台湾時間配信中,https://www.youtube.com/watch?v=yAUQQ0DhPxI
+【非凡電視】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導,https://www.youtube.com/watch?v=eA6Aczd3FZM
 【非凡商業台】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導,https://www.youtube.com/watch?v=xLqt2p6Dowo
 【運通財經台】「運通財經台」直播,https://www.youtube.com/watch?v=xYMPHCjyD-c
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=vNVp6bxkL1c
@@ -197,9 +201,9 @@
 【KING AMUSEMENT CREATIVE】時間日,https://www.youtube.com/watch?v=-RogqxfnBdg
 
 國際,#genre#
+【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=dSGkPZUPc1c
 【日テレNEWS】鳥取県初訪問愛子防災参加伝統人形顔描皇室日,https://www.youtube.com/watch?v=HRKL1TnJuE4
 【日テレNEWS】内閣支持率横受止消費減税法案審議入政治日,https://www.youtube.com/watch?v=PV5o-3YqUtM
-【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=3aj12yIdnjA
 【日テレNEWS】大統領米中露首脳会談提案戦闘終結向米有力紙報道国際日,https://www.youtube.com/watch?v=2eTGgxVnow4
 【日テレNEWS】羽田空港日,https://www.youtube.com/watch?v=2PIdi3Xa7TY
 【日テレNEWS】最新配信中日,https://www.youtube.com/watch?v=t9kwjZBLI-A
@@ -210,7 +214,7 @@
 【HOME広島ニュース】宮島,https://www.youtube.com/watch?v=s2CxZ7N25i0
 【HOME広島ニュース】広島広島最新時間配信中,https://www.youtube.com/watch?v=e2pgLUmaxGs
 【NHK WORLD-JAPAN】LIVE: NHK WORLD,https://www.youtube.com/watch?v=IimtbuqYIE8
-【TBS NEWS DIG Powered by JNN】最新月日,https://www.youtube.com/watch?v=QluGEkojwdk
+【TBS NEWS DIG Powered by JNN】朝最新情報月日,https://www.youtube.com/watch?v=aOVW4wQvGAA
 【TBS NEWS DIG Powered by JNN】新宿駅前現在様子,https://www.youtube.com/watch?v=u7kCTaCX_J4
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=dYpspgeXSaQ
 【TBS NEWS DIG Powered by JNN】最新配信中,https://www.youtube.com/watch?v=Anr15FA9OCI
@@ -218,15 +222,15 @@
 【YTN】프랑스, 몰락의 신호탄 '섬,https://www.youtube.com/watch?v=vlQfvw2H6FM
 【YTN】사우디 리야드 방공망 뚫렸다,https://www.youtube.com/watch?v=FKA_Q2a06Ys
 【YTN】대한민국 24시간 뉴스채널 ,https://www.youtube.com/watch?v=aZyD6EPl6KU
+【연합뉴스TV】'장모살해·아내 납치' 김성,https://www.youtube.com/watch?v=APWx9WWMRWA
+【연합뉴스TV】파리 일부 지역 등에 야간 ,https://www.youtube.com/watch?v=5O2fGzejxTQ
+【연합뉴스TV】네타냐후, '총선 지지' 트,https://www.youtube.com/watch?v=vRw8ceX5u2k
+【연합뉴스TV】트럼프, 中서 김정은과 회담,https://www.youtube.com/watch?v=n2FlejkCGfg
+【연합뉴스TV】"겉옷·우산 챙기세요"…일교,https://www.youtube.com/watch?v=wiCGkOSa9mw
 【연합뉴스TV】북한, 대남확성기 다시 트나,https://www.youtube.com/watch?v=km-J5aAwInA
 【연합뉴스TV】'최대 40㎜' 우산 말릴 ,https://www.youtube.com/watch?v=ZDtdWmRApkI
-【연합뉴스TV】美 중간선거 앞두고 트럼프 ,https://www.youtube.com/watch?v=uzjkWZBQRe0
-【연합뉴스TV】내일 또 가을비…30호 태풍,https://www.youtube.com/watch?v=pznkSj7X2ak
 【연합뉴스TV】24시간 현장을 전합니다 /,https://www.youtube.com/watch?v=6QZ_qc75ihU
-【JTBC News】'판사 실수'로 성범죄자 무,https://www.youtube.com/watch?v=Jmke-Cpfygc
-【JTBC News】알래스카 주정부도 "LNG ,https://www.youtube.com/watch?v=idqNZtggBhE
-【JTBC News】이 대통령 "전작권 전환 아,https://www.youtube.com/watch?v=RAkNAMG3Mn4
-【JTBC News】순직 소방관 딸 끌어안은 추,https://www.youtube.com/watch?v=FI8bGy6zwKM
+【JTBC News】더불어민주당 '민티07' 생,https://www.youtube.com/watch?v=rYbnYoKe4rA
 【JTBC News】'송파 장모 살인·아내 납치,https://www.youtube.com/watch?v=Ew6Zk5PAum0
 【Arirang TV】Live from KOREA,https://www.youtube.com/watch?v=hvVlyZ5GiE8
 【CNA】CNA 24/7 LIVE: ,https://www.youtube.com/watch?v=-PWMxjBgr0k
@@ -322,7 +326,6 @@
 【necoast nsa】玩樂東北角舊草嶺自行車隧道,https://www.youtube.com/watch?v=Sg5zM7RSpJM
 【necoast nsa】玩樂東北角鼻頭服務區,https://www.youtube.com/watch?v=HpJS5o4FZuA
 【necoast nsa】玩樂東北角外澳沙灘,https://www.youtube.com/watch?v=F_fv8VTt6L8
-【necoast nsa】玩樂東北角福隆海水浴場,https://www.youtube.com/watch?v=CWkEgrjBas0
 【necoast nsa】玩樂東北角龍洞灣觀景台,https://www.youtube.com/watch?v=q7wy94TiBBw
 【桃園】後慈湖,https://www.youtube.com/watch?v=AF550Wx7Ba0
 【桃園】巴陵馬崙砲台觀景平台,https://www.youtube.com/watch?v=3JzbzXqusDg
