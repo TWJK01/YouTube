@@ -452,7 +452,7 @@ MANUAL_LINKS = {
 	    "【派偉俊】音樂全天候派送,https://www.youtube.com/watch?v=fnowh-gCdd4",
         "【告五人】唱出你的人生BGM,https://www.youtube.com/watch?v=B7EliniYUrQ",		
 		"【五月天】不間斷霸佔你耳朵,https://www.youtube.com/live/R62E7cFWX6o",
-		"【FM S.H.E】S.H.E 25週年,https://www.youtube.com/live/R62E7cFWX6o",
+		"【FM S.H.E】S.H.E 25週年,https://www.youtube.com/watch?v=7v2P7HqsSI8",
 		"【張國榮】聽哥哥經典金曲,https://www.youtube.com/watch?v=gxlQnxI_6Vs",
 		"【頑童MJ116】音樂電台,https://www.youtube.com/watch?v=Frv79U8_pn0",		
 		"【寰亞音樂】精選歌單,https://www.youtube.com/watch?v=xjZqJrMwIvE",
