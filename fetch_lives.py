@@ -171,7 +171,8 @@ CATEGORIES = {
         "芒果TV推理宇宙": "https://youtube.com/@mangotv-mystery?si=CRrdrZLRFBy4GXtQ",
         "芒果TV大電影劇場": "https://www.youtube.com/@MangoC-TheatreChannel/streams",
         "芒果TV心动": "https://www.youtube.com/@MangoTVSparkle/streams",	
-        "CCTV电视剧": "https://www.youtube.com/@CCTVDrama/streams",	
+        "CCTV电视剧": "https://www.youtube.com/@CCTVDrama/streams",
+        "中国达人秀": "https://www.youtube.com/@ChinasGotTalent/streams",		
         "SMG上海电视台官方频道": "https://www.youtube.com/@SMG-Official/streams",
         "SMG上海东方卫视欢乐频道": "https://www.youtube.com/@SMG-Comedy/streams",
         "SMG电视剧": "https://www.youtube.com/@SMGDrama/streams",
@@ -262,7 +263,7 @@ CATEGORIES = {
 	    "WWE Vault": "https://www.youtube.com/@WWEVault/streams"   
     },
 	"音樂,#genre#": {
-	    "4kTQ-music": "https://www.youtube.com/@4kTQ-music/streams",
+	    "4kTQ-music": "https://www.youtube.com/@4kTQ-music/streams",	
 	    "心动 Radio": "https://www.youtube.com/@%E5%BF%83%E5%8A%A8Radio/streams",
 	    "福建音樂Melody TG": "https://www.youtube.com/@%E7%A6%8F%E5%BB%BA%E9%9F%B3%E6%A8%82MelodyTG/streams",		
 	    "Eight无限": "https://www.youtube.com/@eight-audio/streams",
@@ -281,6 +282,7 @@ CATEGORIES = {
 	    "青春音乐铺": "https://www.youtube.com/@青春音乐铺/streams",
 	    "水月琴音": "https://www.youtube.com/@Shuiyueqinyin/streams",	    
 	    "Cherry 葵": "https://www.youtube.com/@Cherriexin/streams",
+	    "CYNHN Official": "https://www.youtube.com/@cynhn/streams",		
 	    "Coachella": "https://www.youtube.com/@Coachella/streams",		
 	    "Kanata Ch  天音かなた": "https://www.youtube.com/@AmaneKanata/streams",		
 	    "CMIX - Chill Mix": "https://www.youtube.com/@ChillMix-CMIX/streams",		
@@ -450,7 +452,14 @@ MANUAL_LINKS = {
 	    "【派偉俊】音樂全天候派送,https://www.youtube.com/watch?v=fnowh-gCdd4",
         "【告五人】唱出你的人生BGM,https://www.youtube.com/watch?v=B7EliniYUrQ",		
 		"【五月天】不間斷霸佔你耳朵,https://www.youtube.com/live/R62E7cFWX6o",
-		"【2000s華語金曲電台!】,https://www.youtube.com/watch?v=WPTL0FfSvgM"		
+		"【FM S.H.E】S.H.E 25週年,https://www.youtube.com/live/R62E7cFWX6o",
+		"【張國榮】聽哥哥經典金曲,https://www.youtube.com/watch?v=gxlQnxI_6Vs",
+		"【頑童MJ116】音樂電台,https://www.youtube.com/watch?v=Frv79U8_pn0",		
+		"【寰亞音樂】精選歌單,https://www.youtube.com/watch?v=xjZqJrMwIvE",
+		"【滾石唱片】ROCK Radio,https://www.youtube.com/watch?v=inNs_XHIOo8",
+		"【Timeless Music Hong Kong天碟】廣東歌超經典,https://www.youtube.com/watch?v=burJYQlLb5A",		
+		"【2000s華語金曲電台!】,https://www.youtube.com/watch?v=WPTL0FfSvgM",		
+		"【SEKAI NO OWARI】SPECIAL LIVE ARCHIVE,https://www.youtube.com/watch?v=DQYMmd10FHg"		
     ],
     "少兒,#genre#": [
         "【Muse木棉花】加速世界,https://www.youtube.com/watch?v=qk1Bcl0XzbM",
