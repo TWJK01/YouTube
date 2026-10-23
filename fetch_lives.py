@@ -456,6 +456,7 @@ MANUAL_LINKS = {
 		"【張國榮】聽哥哥經典金曲,https://www.youtube.com/watch?v=gxlQnxI_6Vs",
 		"【頑童MJ116】音樂電台,https://www.youtube.com/watch?v=Frv79U8_pn0",		
 		"【寰亞音樂】精選歌單,https://www.youtube.com/watch?v=xjZqJrMwIvE",
+		"【Michael Jackson】The Station,https://www.youtube.com/watch?v=-OfA04BD4GA",		
 		"【滾石唱片】ROCK Radio,https://www.youtube.com/watch?v=inNs_XHIOo8",
 		"【Timeless Music Hong Kong天碟】廣東歌超經典,https://www.youtube.com/watch?v=burJYQlLb5A",		
 		"【2000s華語金曲電台!】,https://www.youtube.com/watch?v=WPTL0FfSvgM",		
