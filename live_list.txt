@@ -10,8 +10,8 @@
 【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=KMMHw8rllic
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=hg4nYb3jE9A
-【大愛電視】大愛一臺全球現正播映名人書房,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映真善美故事館,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映映照人生,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映大愛全紀實,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -26,6 +26,7 @@
 【寰宇新聞】台灣台小時台湾時間配信中,https://www.youtube.com/watch?v=w87VGpgd90U
 【寰宇新聞】小時線上台湾時間配信中,https://www.youtube.com/watch?v=6IquAgfvYmc
 【寰宇全視界】寰宇新聞台小時線上台湾時間配信中,https://www.youtube.com/watch?v=LqIMxdJiztU
+【udn video】長榮航空馬拉松賽事現場,https://www.youtube.com/watch?v=dtltKQcJ0Os
 【新唐人亞太電視台】新唐人小時,https://www.youtube.com/watch?v=Bhp_V7H5QoY
 【三大一台】三大有線電視公司,https://www.youtube.com/watch?v=XH3hbHc85ZQ
 【東森財經股市】東森財經新聞小時線上台湾金融,https://www.youtube.com/watch?v=1I2iq41Akmo
@@ -155,6 +156,7 @@
 【Disney Channel】🔴LIVE 24/7! Wiz,https://www.youtube.com/watch?v=s1Ylmj87gXY
 
 體育,#genre#
+【緯來體育台】長榮航空馬拉松賽事現場,https://www.youtube.com/watch?v=JxtSgKlJ-Qw
 【WCW】WCW Halloween H,https://www.youtube.com/watch?v=CeFqPyTkErM
 【WWE】Best of WWE Str,https://www.youtube.com/watch?v=neYQq6oqlrk
 【WWE Vault】Haunting Supers,https://www.youtube.com/watch?v=pzEy6Bn-boI
@@ -208,7 +210,6 @@
 【KING AMUSEMENT CREATIVE】時間日,https://www.youtube.com/watch?v=-RogqxfnBdg
 
 國際,#genre#
-【ANNnewsCH】朝最新情報厳選届朝,https://www.youtube.com/watch?v=cd3O0Xq9s-I
 【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=NYBltPtOVJ8
 【日テレNEWS】日本三名瀑袋田滝茨城県久慈郡大子町日,https://www.youtube.com/watch?v=Ep1uf-9DNfw
 【日テレNEWS】能動的防御政府要請不正取引損失補償方針社会日,https://www.youtube.com/watch?v=1qL8pDnn-mQ
