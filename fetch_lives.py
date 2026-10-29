@@ -116,7 +116,8 @@ CATEGORIES = {
 		"緯來新聞網": "https://www.youtube.com/@videolandnews/streams",
         "灿星官方频道": "https://www.youtube.com/@CanxingMediaOfficialChannel/streams",
         "陕西广播电视台官方频道": "https://www.youtube.com/@chinashaanxitvofficialchan2836/videos",
-        "KBS WORLD TV": "https://www.youtube.com/@kbsworldtv/streams",		
+        "KBS WORLD TV": "https://www.youtube.com/@kbsworldtv/streams",
+        "真相觀察": "https://www.youtube.com/@%E7%9C%9F%E7%9B%B8%E8%A7%82%E5%AF%9F/streams",		
         "北京廣播電視台生活頻道": "https://www.youtube.com/@Brtvofficialchannel/streams"		
         
     },
