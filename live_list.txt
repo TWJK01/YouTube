@@ -11,8 +11,8 @@
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=hg4nYb3jE9A
-【大愛電視】大愛一臺全球現正播映大愛迷你劇場愛重生,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛迷你劇場愛重生,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映法華經序中文版,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映在台灣站起分版,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -214,11 +214,11 @@
 【KING AMUSEMENT CREATIVE】時間日,https://www.youtube.com/watch?v=-RogqxfnBdg
 
 國際,#genre#
+【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=R8bPJ-H23gw
 【日テレNEWS】低所得者給付額年円程度就業者負担軽減支援金政府参考値与野党提示政治日,https://www.youtube.com/watch?v=bGKPaykI05s
-【日テレNEWS】暗号資産大手影響額約兆円北朝鮮集団関与指摘社会日,https://www.youtube.com/watch?v=C0v8ZrEUfyE
+【日テレNEWS】暗号資産大手被害影響額約兆円北朝鮮集団関与指摘社会日,https://www.youtube.com/watch?v=C0v8ZrEUfyE
 【日テレNEWS】乗客名簿日本人人名前安否使捜索赤外線生存者確認国際日,https://www.youtube.com/watch?v=TqKFIQwIVPk
 【日テレNEWS】政権推進建設反発広騒音被害訴住民中間選挙争点国際日,https://www.youtube.com/watch?v=dJns2UBWFEE
-【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=FIg0xESGihc
 【日テレNEWS】日本三名瀑袋田滝茨城県久慈郡大子町日,https://www.youtube.com/watch?v=lnyLzMf3f-s
 【日テレNEWS】那覇空港日,https://www.youtube.com/watch?v=puHlGADLDnU
 【日テレNEWS】羽田空港日,https://www.youtube.com/watch?v=2PIdi3Xa7TY
@@ -229,7 +229,7 @@
 【HOME広島ニュース】広島本通交差点,https://www.youtube.com/watch?v=oW2Gb8YoGAg
 【HOME広島ニュース】宮島,https://www.youtube.com/watch?v=s2CxZ7N25i0
 【NHK WORLD-JAPAN】LIVE: NHK WORLD,https://www.youtube.com/watch?v=IimtbuqYIE8
-【TBS NEWS DIG Powered by JNN】最新月日,https://www.youtube.com/watch?v=iresLUhgjJY
+【TBS NEWS DIG Powered by JNN】朝最新情報月日,https://www.youtube.com/watch?v=EE6v3qxOtLw
 【TBS NEWS DIG Powered by JNN】新宿駅前現在様子,https://www.youtube.com/watch?v=u7kCTaCX_J4
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=dYpspgeXSaQ
 【TBS NEWS DIG Powered by JNN】最新配信中,https://www.youtube.com/watch?v=Anr15FA9OCI
@@ -237,7 +237,6 @@
 【YTN】유럽 5천만 명 '중대 기로,https://www.youtube.com/watch?v=HyNmgiFDEDY
 【YTN】중국 수뇌부 33명 무더기 ,https://www.youtube.com/watch?v=Z_4LE741ckI
 【YTN】트럼프 믿었다가 '날벼락'…,https://www.youtube.com/watch?v=C-IewoA8vDU
-【YTN】한미 조선 협력 '급제동'?,https://www.youtube.com/watch?v=cNqenNcwzBg
 【YTN】대한민국 24시간 뉴스채널 ,https://www.youtube.com/watch?v=aZyD6EPl6KU
 【연합뉴스TV】"우리의 자랑이었는데" "영,https://www.youtube.com/watch?v=77rKo8nzB6o
 【연합뉴스TV】'최대 30㎜' 심상찮은 1,https://www.youtube.com/watch?v=MzXVKRCm9gU
@@ -260,6 +259,7 @@
 【全球大視野】戰火一觸即發美軍司令罕見密會川普簡報對伊朗作戰方案伊戰重啟近了美軍多架運輸機抵達以色列,https://www.youtube.com/watch?v=MvgcaXHmJbU
 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯,https://www.youtube.com/watch?v=xvbDsoLcMIc
 【94要客訴】三立新聞海外版放送三立新聞網,https://www.youtube.com/watch?v=XYSkOnlFads
+【哏傳媒】小時不斷電為您呈現完整版網友問答雙北最新民調震盪沈伯洋攻防激化對立蔣萬安穩紮穩打破僵局郭正亮頻道,https://www.youtube.com/watch?v=f01JIwNZG-U
 【頭條開講】戰火一觸即發美軍司令罕見密會川普簡報對伊朗作戰方案伊戰重啟近了美軍多架運輸機抵達以色列,https://www.youtube.com/watch?v=Bu87AKFpjcE
 【少康戰情室】政經說政論小時互動煙花颱風又更壯了重返強颱下週大迴轉小時內三度報警蔣萬安競總再遭冒名設募款網站新聞大白話國民大會國民開小會,https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 
@@ -433,7 +433,6 @@
 【ervnsa】赤科山花東縱谷,https://www.youtube.com/watch?v=5GTFLN9gZrc
 【ervnsa】鹿野高台花東縱谷,https://www.youtube.com/watch?v=rvc1klNIgQc
 【ervnsa】六十石山花東縱谷,https://www.youtube.com/watch?v=DliL9uMtPrI
-【交通部觀光署澎湖國家風景區管理處】南海遊客中心碼頭,https://www.youtube.com/watch?v=0Xvmj4XIg6U
 【交通部觀光署澎湖國家風景區管理處】內垵遊憩區,https://www.youtube.com/watch?v=T9QS6Y4i-9k
 【交通部觀光署澎湖國家風景區管理處】隘門沙灘,https://www.youtube.com/watch?v=3njbu54Aqb4
 【交通部觀光署澎湖國家風景區管理處】七美南滬港碼頭,https://www.youtube.com/watch?v=dboo8od9dXM
