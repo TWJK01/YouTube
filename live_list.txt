@@ -11,8 +11,8 @@
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【民視新聞網】民視新聞小時新聞台湾,https://www.youtube.com/watch?v=ylYJSBUgaMA
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=hg4nYb3jE9A
-【大愛電視】大愛一臺全球現正播映大愛全紀實,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映映照人生,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映大愛全紀實,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -59,7 +59,6 @@
 【真相觀察】周深罗大佑林子祥任贤齐汪明荃钟镇涛姜育恒等重温华语乐坛黄金年代不间断,https://www.youtube.com/watch?v=42ZZhNbgeK4
 
 影劇,#genre#
-【戲說台灣】老戲迷集合那些年追過的民俗奇談靈異故事全放送小時不間斷,https://www.youtube.com/watch?v=dmH9tSLLn_I
 【台視時光機】陳亞蘭經典神話鉅作降妖伏魔慈悲救世精彩全集馬拉松,https://www.youtube.com/watch?v=IANprWnVoaM
 【台視時光機】高清重現神機妙算劉伯溫全集馬拉松震撼登場,https://www.youtube.com/watch?v=sGdUaM5pJ9Y
 【台視時光機】歌仔戲國寶世紀初戀楊麗花歌仔戲合輯風流才子唐伯虎薛平貴情海斷腸花狸貓換太子,https://www.youtube.com/watch?v=IHTSRfn_-vw
@@ -157,7 +156,7 @@
 
 體育,#genre#
 【WCW】WCW Halloween H,https://www.youtube.com/watch?v=CeFqPyTkErM
-【WWE】Best of WWE Str,https://www.youtube.com/watch?v=VAJdCtTE-qw
+【WWE】Countdown to NX,https://www.youtube.com/watch?v=TgwgkfwFIec
 【WWE Vault】Monsters Week W,https://www.youtube.com/watch?v=Q4McLFyVl0o
 
 音樂,#genre#
@@ -212,8 +211,8 @@
 【KING AMUSEMENT CREATIVE】時間日,https://www.youtube.com/watch?v=-RogqxfnBdg
 
 國際,#genre#
+【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=Jpvk2w9g0n8
 【日テレNEWS】格差是正訴激戦州急進左派候補支持拡大中間選挙焦点氏氏姿国際日,https://www.youtube.com/watch?v=AjxUF_D7blQ
-【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=5IxIb5dYbBo
 【日テレNEWS】大規模災害時首都機能継続副首都整備推進本部事務局発足政治日,https://www.youtube.com/watch?v=LlrLvl5qD_g
 【日テレNEWS】不明届人生存確認日本人人連絡取使捜索赤外線生存者確認列車追突事故国際日,https://www.youtube.com/watch?v=pKMo2aE8tFo
 【日テレNEWS】暗号資産大手損失全額補償約束被害兆円影響社会日,https://www.youtube.com/watch?v=vcptxXcEsZU
@@ -227,14 +226,13 @@
 【HOME広島ニュース】広島本通交差点,https://www.youtube.com/watch?v=oW2Gb8YoGAg
 【HOME広島ニュース】宮島,https://www.youtube.com/watch?v=s2CxZ7N25i0
 【NHK WORLD-JAPAN】LIVE: NHK WORLD,https://www.youtube.com/watch?v=IimtbuqYIE8
-【TBS NEWS DIG Powered by JNN】最新月日,https://www.youtube.com/watch?v=KVvvNoIjHhA
+【TBS NEWS DIG Powered by JNN】朝最新情報月日,https://www.youtube.com/watch?v=KLxdW3zDaGs
 【TBS NEWS DIG Powered by JNN】新宿駅前現在様子,https://www.youtube.com/watch?v=u7kCTaCX_J4
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=dYpspgeXSaQ
 【TBS NEWS DIG Powered by JNN】最新配信中,https://www.youtube.com/watch?v=Anr15FA9OCI
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=2f9NOSw-FqM
 【YTN】러 제재 이어 중동발 충격까,https://www.youtube.com/watch?v=P8wZ_9kIaTM
 【YTN】"2차 세계대전 이후 처음",https://www.youtube.com/watch?v=KnC9XetRaqk
-【YTN】'속수무책'으로 뚫린 세계 ,https://www.youtube.com/watch?v=6e-dOOTWSbA
 【YTN】대한민국 24시간 뉴스채널 ,https://www.youtube.com/watch?v=aZyD6EPl6KU
 【연합뉴스TV】28번 현장 유세…80세 대,https://www.youtube.com/watch?v=qGxd_KEDQeQ
 【연합뉴스TV】11월 첫날부터 장대비…찬 ,https://www.youtube.com/watch?v=9rBnoRLhBZ4
@@ -352,7 +350,6 @@
 【新北】九份觀光,https://www.youtube.com/watch?v=XSD5ptYisw8
 【新北】烘爐地觀光,https://www.youtube.com/watch?v=xxMRjVwCQ3o
 【新北】淡水漁人碼頭觀光,https://www.youtube.com/watch?v=xwAWSh35uuw
-【紅樹林有線電視】市淡水區景點淡水渡船頭淡水河夕陽觀音山港淡水老街河岸淡水渡船乗場,https://www.youtube.com/watch?v=_C_WhefP9Y8
 【紅樹林有線電視】市淡水區即時路況車流淡水竹圍雙向紅樹林往水源街二段與淡金路口,https://www.youtube.com/watch?v=yn_8QwCWsyI
 【necoast nsa】玩樂東北角外澳沙灘,https://www.youtube.com/watch?v=8XZAoMWB8t4
 【necoast nsa】玩樂東北角鼻頭服務區,https://www.youtube.com/watch?v=lTTdUoTNFjc
