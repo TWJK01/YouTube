@@ -466,23 +466,25 @@ MANUAL_LINKS = {
 		"【SEKAI NO OWARI】SPECIAL LIVE ARCHIVE,https://www.youtube.com/watch?v=DQYMmd10FHg"		
     ],
     "少兒,#genre#": [
-        "【Muse木棉花】加速世界,https://www.youtube.com/watch?v=qk1Bcl0XzbM",
-        "【Muse木棉花】膽大黨,https://www.youtube.com/watch?v=lovekmrnu9k",
-        "【Muse木棉花】間諜家家酒,https://www.youtube.com/watch?v=2tGa_SBnzSE",		
-        "【Muse木棉花】從零開始的異世界生活,https://www.youtube.com/watch?v=cAKMus43O20",
-        "【Muse木棉花】進擊的巨人,https://www.youtube.com/watch?v=DGwe3cz85GA",
-        "【Muse木棉花】獵人HUNTER×HUNTER,https://www.youtube.com/watch?v=LIKbWC9MVak",		
+        "【Muse木棉花】轉生為第七王子,https://www.youtube.com/watch?v=oQ98WkYDKfQ",
+        "【Muse木棉花】實力至上主義的教室,https://www.youtube.com/watch?v=4tARH7KD-T8",
+        "【Muse木棉花】青春豬頭少年,https://www.youtube.com/watch?v=YpAX6H7R5Wc",		
+        "【Muse木棉花】鑽石王牌,https://www.youtube.com/watch?v=goZHUIHGGmc",
+        "【Muse木棉花】暗殺教室,https://www.youtube.com/watch?v=JJCJcOTZeeo",
+        "【Muse木棉花】葬送的芙莉蓮,https://www.youtube.com/watch?v=8bEMj5DOujQ",
+        "【Muse木棉花】異世界流浪美食家,https://www.youtube.com/watch?v=pcJjWWcdflM",
         "【Muse木棉花】新哆啦A夢,https://www.youtube.com/watch?v=xTYgMy0ZMuo",
         "【Muse木棉花】蠟筆小新劇場版,https://www.youtube.com/watch?v=jAX6TIKSPio",
         "【Muse木棉花】中華一番,https://www.youtube.com/watch?v=M9NCwwyUPpQ",
         "【Muse木棉花】我們這一家,https://www.youtube.com/watch?v=g4pN3pK1XvY",
-        "【Muse木棉花】蠟筆小新TV版,https://www.youtube.com/watch?v=TE5Msg_hAgY",		
+        "【Muse木棉花】蠟筆小新TV版,https://www.youtube.com/watch?v=TE5Msg_hAgY",
+        "【Ani-One】咒術迴戰,https://www.youtube.com/watch?v=leycAmd7WEc",
         "【Ani-One】我的英雄學院,https://www.youtube.com/watch?v=EpGqyl3fM2U",
         "【Ani-One】影子籃球員,https://www.youtube.com/watch?v=As-BUwjkLH8",
-        "【Ani-One】月亮變得很紅,https://www.youtube.com/watch?v=F1ssapOnk5k",		
-		"【回歸線娛樂】死亡筆記本,https://www.youtube.com/watch?v=0vG51-o6Cgw",
+        "【Ani-One】月亮變得很紅,https://www.youtube.com/watch?v=F1ssapOnk5k",
+		"【回歸線娛樂】死亡筆記本,https://www.youtube.com/watch?v=nDJEMUUFZTo",
 		"【回歸線娛樂】碧藍之海,https://www.youtube.com/watch?v=Q3VHYt6JjEI",		
-		"【回歸線娛樂】真珠美人魚,https://www.youtube.com/watch?v=zSaJdKNjMdw"
+		"【回歸線娛樂】真珠美人魚,https://www.youtube.com/watch?v=UxazZiVH1gk"
     ]
 }
 
