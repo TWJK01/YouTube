@@ -10,11 +10,11 @@
 【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=KMMHw8rllic
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=hg4nYb3jE9A
-【大愛電視】大愛一臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=pM-1ytfQhos
-【大愛電視】大愛二臺全球現正播映大愛地球村,https://www.youtube.com/watch?v=QDxRJP-wfeI
+【大愛電視】大愛一臺全球現正播映大愛早安新聞,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛二臺全球現正播映大愛早安新聞,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】重大快訊黃仁勳辭去輝達總裁即刻生效三兆帝國正式變天財務長克雷斯暫代執行長全面救火,https://www.youtube.com/watch?v=xxxFZu_X_Nw
-【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
+【中天新聞CtiNews】黃仁勳辭職下台路透再爆有小五藍營甲動集結蔣萬安今合體韓國瑜孫怡琳譚若誼報新聞中天新聞,https://www.youtube.com/watch?v=h8A5eBDpqqQ
 【中天電視CtiTv】快訊黃仁勳辭去輝達執行長即刻生效財務長暫代職務結束其掌舵年時代輝達股價開盤暴跌市值蒸發億美元中天電視,https://www.youtube.com/watch?v=ZtN1cQyCs-E
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
@@ -35,6 +35,7 @@
 【非凡電視】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導,https://www.youtube.com/watch?v=eA6Aczd3FZM
 【非凡商業台】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導,https://www.youtube.com/watch?v=xLqt2p6Dowo
 【運通財經台】「運通財經台」直播,https://www.youtube.com/watch?v=GVQRQA1gnic
+【POP Radio聯播網】撞新聞苑曉琬專訪通靈藥師的處方箋作者藥師,https://www.youtube.com/watch?v=WJadbR_x_ms
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=X-HTZdV960U
 【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等,https://www.youtube.com/watch?v=PiSwAy-blvA
 【鳳凰衛視PhoenixTV】習近平共同反對台獨分裂實現祖國完全統一普京與美總統特使舉行會談伊朗美須落實七項條件方可恢復談判小时间鳳凰衛視,https://www.youtube.com/watch?v=Ry--eMIjYLQ
@@ -221,10 +222,10 @@
 【KING AMUSEMENT CREATIVE】時間日,https://www.youtube.com/watch?v=-RogqxfnBdg
 
 國際,#genre#
+【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=RjPIyjCbWdo
 【日テレNEWS】辞任取締役会後任選任手続開始中国女性不倫関係謝罪国際日,https://www.youtube.com/watch?v=R-KF9WrEeOE
 【日テレNEWS】無印良品展開良品計画社長謝罪破棄情報保管続流出社会日,https://www.youtube.com/watch?v=uITAzsKNQpg
 【日テレNEWS】比例定数議席削減法案自民維新国民党国会共同提出政治日,https://www.youtube.com/watch?v=FIK5q34qEMk
-【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=F9Rpsbf7VRo
 【日テレNEWS】日本三名瀑袋田滝茨城県久慈郡大子町日,https://www.youtube.com/watch?v=KJK6CbUYKEo
 【日テレNEWS】那覇空港日,https://www.youtube.com/watch?v=dNlpbgnLTbU
 【日テレNEWS】羽田空港日,https://www.youtube.com/watch?v=2PIdi3Xa7TY
@@ -236,26 +237,26 @@
 【HOME広島ニュース】宮島,https://www.youtube.com/watch?v=s2CxZ7N25i0
 【HOME広島ニュース】広島広島最新時間配信中,https://www.youtube.com/watch?v=e2pgLUmaxGs
 【NHK WORLD-JAPAN】LIVE: NHK WORLD,https://www.youtube.com/watch?v=IimtbuqYIE8
-【TBS NEWS DIG Powered by JNN】最新月日,https://www.youtube.com/watch?v=za2dNsVcXpc
+【TBS NEWS DIG Powered by JNN】朝最新情報月日,https://www.youtube.com/watch?v=ZaecP_FEOMU
 【TBS NEWS DIG Powered by JNN】新宿駅前現在様子,https://www.youtube.com/watch?v=u7kCTaCX_J4
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=dYpspgeXSaQ
 【TBS NEWS DIG Powered by JNN】最新配信中,https://www.youtube.com/watch?v=Anr15FA9OCI
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=2f9NOSw-FqM
+【YTN】젠슨황, 결국 불명예 퇴진…,https://www.youtube.com/watch?v=bWVV6oUm4Ac
 【YTN】지하 벙커 가득 채운 '첨단,https://www.youtube.com/watch?v=EGt269G0UOs
 【YTN】트럼프 정책에 칼 빼 든 미,https://www.youtube.com/watch?v=6zUWsy7xzUc
 【YTN】대한민국 24시간 뉴스채널 ,https://www.youtube.com/watch?v=aZyD6EPl6KU
-【연합뉴스TV】엔비디아 주가, 젠슨황 CE,https://www.youtube.com/watch?v=T-3T-LLLVYs
-【연합뉴스TV】젠슨 황·트럼프 유착 '정조,https://www.youtube.com/watch?v=0ZPWcthXbJ4
-【연합뉴스TV】美美,https://www.youtube.com/watch?v=ycZFwyCF-d4
+【연합뉴스TV】트럼프, '공습 없다'더니 ,https://www.youtube.com/watch?v=oUm1nSyazyE
+【연합뉴스TV】낮 최고 기온 20도 '포근,https://www.youtube.com/watch?v=R5CSIxs8Ttk
+【연합뉴스TV】"이 대통령, 尹 탄핵 반대,https://www.youtube.com/watch?v=KWv-eKWW50I
+【연합뉴스TV】'中스파이'·부사장이 끝이 ,https://www.youtube.com/watch?v=QcJHXXuljWI
+【연합뉴스TV】'젠슨황 사퇴' 충격…뉴욕증,https://www.youtube.com/watch?v=TagM5kdr3IE
 【연합뉴스TV】젠슨황, 엔비디아 CEO 사,https://www.youtube.com/watch?v=Q3C2Q-qBPUg
-【연합뉴스TV】中美,https://www.youtube.com/watch?v=t_6qoMfufEI
-【연합뉴스TV】젠슨 황 스캔들 뒤 더 큰 ,https://www.youtube.com/watch?v=aaJe5OqFUqY
 【연합뉴스TV】최대 60㎜ 주말 덮칠 겨울,https://www.youtube.com/watch?v=onDnx0-YYoE
-【연합뉴스TV】"이란 탄도미사일 유럽도 사,https://www.youtube.com/watch?v=raVic-bP85Y
-【연합뉴스TV】'AI 황제' 젠슨 황 해임,https://www.youtube.com/watch?v=xd0uWhZPlPk
 【연합뉴스TV】24시간 현장을 전합니다 /,https://www.youtube.com/watch?v=6QZ_qc75ihU
+【JTBC News】젠슨 황 '세 번째 여성' ,https://www.youtube.com/watch?v=3cc2u364G4w
+【JTBC News】더불어민주당 '민티07' 생,https://www.youtube.com/watch?v=H05ov6odUwg
 【JTBC News】젠슨 황, 엔비디아 CEO ,https://www.youtube.com/watch?v=aoXp4TSwSD0
-【JTBC News】머스크도 "대체 불가"…'젠,https://www.youtube.com/watch?v=yFrB7pxaaas
 【JTBC News】"아내 소개한 건 남편"…행,https://www.youtube.com/watch?v=gl-KJaWHxFM
 【Arirang TV】Live from KOREA,https://www.youtube.com/watch?v=hvVlyZ5GiE8
 【CNA】CNA 24/7 LIVE: ,https://www.youtube.com/watch?v=-PWMxjBgr0k
@@ -268,6 +269,7 @@
 【94要客訴】三立新聞海外版放送三立新聞網,https://www.youtube.com/watch?v=XYSkOnlFads
 【94要客訴】時間地震速報監視網三立新聞網,https://www.youtube.com/watch?v=w_dqgeGTlpw
 【哏傳媒】小時不斷電為您呈現賴清德翻舊帳算總帳追溯八八風災善款竟成通匪證據高金素梅遭重判起訴綠營序幕開打郭正亮頻道,https://www.youtube.com/watch?v=XYQab2L7CQQ
+【57爆新聞】東森早安新聞黃仁勳爆第三起婚外情對象疑為另一名輝達員工教父閃辭黃仁勳將赴國會作證員工難過哭泣今西晴東偶雨明華南雨區襲各地午後轉雨,https://www.youtube.com/watch?v=fs2A8xeygk4
 【57爆新聞】重大快訊黃仁勳辭去輝達總裁即刻生效三兆帝國正式變天財務長克雷斯暫代執行長全面救火,https://www.youtube.com/watch?v=t6lN8mhEH0g
 【頭條開講】快訊黃仁勳辭去輝達執行長即刻生效財務長暫代職務結束其掌舵年時代輝達股價開盤暴跌市值蒸發億美元,https://www.youtube.com/watch?v=uIXyZsKYIBw
 【少康戰情室】政經說政論小時互動黃仁勳卸任輝達執行長財務長克雷斯暫代盤前大跌新聞大白話國民大會國民開小會,https://www.youtube.com/watch?v=Cb5MRzy0aiQ
@@ -275,12 +277,12 @@
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=3RRR02WOoSY
 【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=nYRC00rWnDg
-【三聖電視台】三聖台灣民俗布袋戲網路節目,https://www.youtube.com/watch?v=1ssjJqJgkXU
 【桐瑛台中電視臺】蓁鑽台中電視臺,https://www.youtube.com/watch?v=KCMV3j9k5jY
 【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播,https://www.youtube.com/watch?v=iPMD2q8V2kk
 【桐瑛台南電視臺】「桐瑛台南電視臺」直播,https://www.youtube.com/watch?v=sMZ_rxtFzRA
 【momo購物一台】購物一台頻道小時線上,https://www.youtube.com/watch?v=didkukfD9QA
 【momo購物二台】購物二台頻道小時線上,https://www.youtube.com/watch?v=xbNWkUyxQGM
+【信吉衛視】連線,https://www.youtube.com/watch?v=5Qz4JxWjHs8
 【信吉衛視】頻道小時,https://www.youtube.com/watch?v=HBTaw9FD3nM
 【ViVa TV美好家庭購物】美好購物台線上看,https://www.youtube.com/watch?v=rc8px6ti8fc
 【ViVa TV美好家庭購物】美好購物台線上看,https://www.youtube.com/watch?v=MHoyggBaFW4
