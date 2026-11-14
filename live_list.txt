@@ -1,6 +1,7 @@
 台灣,#genre#
 【TTV LIVE 台視直播】台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 【台灣地震監視】台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
+【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近,https://www.youtube.com/watch?v=OaOT7LBr0zQ
 【台灣颱風論壇】台灣天氣即時監測,https://www.youtube.com/watch?v=SgRKSTXk5cc
 【台灣颱風論壇】花蓮萬里溪堰塞湖,https://www.youtube.com/watch?v=_-25RVVJANI
 【台視新聞】台小時線上台湾,https://www.youtube.com/watch?v=9iRAqBMakXY
@@ -9,11 +10,12 @@
 【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=KMMHw8rllic
 【華視新聞】#LIVE: CTS News,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 【公視新聞網】公視新聞小時線上台湾最新時間配信中,https://www.youtube.com/watch?v=hg4nYb3jE9A
-【大愛電視】大愛一臺全球現正播映名人書房,https://www.youtube.com/watch?v=pM-1ytfQhos
+【大愛電視】大愛一臺全球現正播映證嚴上人說故事,https://www.youtube.com/watch?v=pM-1ytfQhos
 【大愛電視】大愛二臺全球現正播映人間菩提,https://www.youtube.com/watch?v=QDxRJP-wfeI
 【鏡新聞】線上看小時新聞台湾時間放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
 【東森新聞】頻道小時台湾時間放送,https://www.youtube.com/watch?v=V1p33hqPrUk
 【東森新聞】頻道小時線上台湾時間放送,https://www.youtube.com/watch?v=E0zhe2gkXBs
+【中天新聞CtiNews】蔣萬安安心大遊行激出八萬人大洋流今最終場許淑華為東發號挨告蘇巧慧神像斷牙專家示警蘇貞蓉黃韵筑報新聞中天新聞,https://www.youtube.com/watch?v=wHLNIH_d-vo
 【中天電視CtiTv】黃仁勳下台內幕曝光桃色風暴背後竟藏華府權鬥盧比歐聯手對中鷹派斬斷川普連結中天電視,https://www.youtube.com/watch?v=HnhRUYF4Og4
 【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視,https://www.youtube.com/watch?v=MZhMxKNtOnA
 【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
@@ -221,10 +223,10 @@
 【KING AMUSEMENT CREATIVE】時間日,https://www.youtube.com/watch?v=-RogqxfnBdg
 
 國際,#genre#
+【日テレNEWS】完全復旧国際日,https://www.youtube.com/watch?v=foimSX-XjZ8
+【日テレNEWS】石破元首相国結集重要大国間外交潮流中自民党合同会議推進法案了承政治日,https://www.youtube.com/watch?v=nLl1PP2t_2Q
+【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=gjvQeQgcy_0
 【日テレNEWS】全米航空機一時地上待機命令欠航遅延約万人足止国際日,https://www.youtube.com/watch?v=33tHrsziExs
-【日テレNEWS】石破元首相国結集重要大国間外交潮流中自民党合同会議推進法案了承政治日,https://www.youtube.com/watch?v=qO6wFO_ildY
-【日テレNEWS】最新生活情報月日日,https://www.youtube.com/watch?v=o_Pxapyk93I
-【日テレNEWS】完全復旧国際日,https://www.youtube.com/watch?v=rElE457Dq0o
 【日テレNEWS】日本三名瀑袋田滝茨城県久慈郡大子町日,https://www.youtube.com/watch?v=KJK6CbUYKEo
 【日テレNEWS】那覇空港日,https://www.youtube.com/watch?v=dNlpbgnLTbU
 【日テレNEWS】羽田空港日,https://www.youtube.com/watch?v=2PIdi3Xa7TY
@@ -241,9 +243,8 @@
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=dYpspgeXSaQ
 【TBS NEWS DIG Powered by JNN】最新配信中,https://www.youtube.com/watch?v=Anr15FA9OCI
 【TBS NEWS DIG Powered by JNN】羽田空港第現在様子,https://www.youtube.com/watch?v=2f9NOSw-FqM
+【YTN】우크라 내부서 '대국민 투표,https://www.youtube.com/watch?v=Z9ILU9zJhzU
 【YTN】젠슨 황 사임 뒤 이번엔 앨,https://www.youtube.com/watch?v=otwZTNz50wY
-【YTN】9·11 테러 이후 또 벌어,https://www.youtube.com/watch?v=qfDrdV0SoqM
-【YTN】트럼프 "주저하지 않겠다".,https://www.youtube.com/watch?v=7QtAbPbLA3c
 【YTN】대한민국 24시간 뉴스채널 ,https://www.youtube.com/watch?v=aZyD6EPl6KU
 【연합뉴스TV】젠슨 황 "앨리스와 '적절한,https://www.youtube.com/watch?v=z3TjlPJ36Dg
 【연합뉴스TV】"젠슨황 불륜녀, 中 최고 ,https://www.youtube.com/watch?v=pyJSZGGKygw
@@ -271,7 +272,7 @@
 
 購物,#genre#
 【海豚多媒體】海豚綜合台線上,https://www.youtube.com/watch?v=3RRR02WOoSY
-【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=BSRGMeRrTiY
+【寶島文化台】寶島文化電視台現場,https://www.youtube.com/watch?v=WluCwBtEQEY
 【三聖電視台】三聖台灣民俗布袋戲網路節目,https://www.youtube.com/watch?v=6E37kskILBE
 【桐瑛台中電視臺】蓁鑽台中電視臺,https://www.youtube.com/watch?v=KCMV3j9k5jY
 【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播,https://www.youtube.com/watch?v=iPMD2q8V2kk
@@ -447,6 +448,7 @@
 【東部海岸】Torik Visitor C,https://www.youtube.com/watch?v=JhQuR77AR7U
 【東部海岸】Jinzun | Explor,https://www.youtube.com/watch?v=ZdqHgQwvZOw
 【東部海岸】Taitung Green I,https://www.youtube.com/watch?v=wTHhv7M0vCI
+【Amazing Taitung 台東就醬玩】2026-11-15 Taiw,https://www.youtube.com/watch?v=TKSmhthJbDo
 【Amazing Taitung 台東就醬玩】台東鯉魚山,https://www.youtube.com/watch?v=BUJJaW0vkJs
 【Amazing Taitung 台東就醬玩】台東南橫埡口,https://www.youtube.com/watch?v=LSkq-wHMxQY
 【ervnsa】Hualien Liyu La,https://www.youtube.com/watch?v=aaKOV4qkDHw
